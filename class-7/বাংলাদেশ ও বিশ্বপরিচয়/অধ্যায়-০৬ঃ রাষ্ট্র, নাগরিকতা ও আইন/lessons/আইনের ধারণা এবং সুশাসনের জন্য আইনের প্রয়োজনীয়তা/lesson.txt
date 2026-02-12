@@ -1,0 +1,1439 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775908,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "রাষ্ট্রবিজ্ঞানী হল্যান্ডের মতে আইনের উৎস হলো-\u003Cbr\u003E\ni. ন্যায়বোধ\u003Cbr\u003E\nii. বিচারসংক্রান্ত রায়\u003Cbr\u003E\niii. সামাজিক দৃষ্টিভঙ্গি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 775908,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775923,
+      "value": {
+        "options": [],
+        "question": "বিচারপতি আমিরুল ইসলাম চৌধুরী মামলা নিষ্পত্তিকালে আইনের নতুন ব্যাখ্যা দিয়ে বিচারের রায় প্রদান করলেন। এখানে আইনের কোন উৎসের প্রয়োগ লক্ষণীয়? ব্যাখ্যা করো।",
+        "solution": "এখানে আইনের বিচারসংক্রান্ত বা বিচারের রায় তথা বিচার বিভাগীয় রায় আইনের উৎসের প্রয়োগ লক্ষণীয়। বিচারকালে বিচারক যদি প্রচলিত আইনের মাধ্যমে মামলার নিষ্পত্তি করতে ব্যর্থ হন তখন তিনি স্বীয় বুদ্ধি, মেধা ও প্রজ্ঞার সাহায্যে প্রচলিত আইনের সাথে সঙ্গতি রেখে আইনের নতুন ব্যাখ্যা দিয়ে বিচারের রায় প্রদান করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775922,
+      "value": {
+        "options": [],
+        "question": "ইসলাম ও হিন্দুধর্ম আইন কীসের ওপর নির্ভরশীল?",
+        "solution": "ইসলামিক রাষ্ট্রে আইন প্রধানত কুরআন ও শরিয়ার ওপর নির্ভরশীল। হিন্দু আইন হিন্দুদের ধর্মগ্রন্থ, যেমন- বেদ, গীতা, রামায়ণ প্রভৃতির ওপর নির্ভরশীল।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775921,
+      "value": {
+        "options": [],
+        "question": "আইনের সবচেয়ে প্রাচীনতম উৎস কোনটি? ব্রিটেনের অধিকাংশ আইনের উৎস কী?",
+        "solution": "প্রথা হলো আইনের সবচেয়ে প্রাচীনতম উৎস। সমাজে প্রচলিত রীতিনীতি, আচার-আচরণ ও অভ্যাসই হচ্ছে সামাজিক প্রথা। কালক্রমে প্রচলিত প্রথাগুলোই রাষ্ট্র কর্তৃক স্বীকৃতি পেয়ে আইনে পরিণত হয়। ব্রিটেনের অধিকাংশ আইনের উৎস প্রথা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775920,
+      "value": {
+        "options": [],
+        "question": "'আইনের দৃষ্টিতে সাম্য'- ধারণাটি ব্যাখ্যা করো।",
+        "solution": "আইনের দৃষ্টিতে সাম্য বলতে বোঝায় সমাজে ধনী-দরিদ্র, সবল-দুর্বল, জাতি-ধর্ম-বর্ণ ও সম্প্রদায় নির্বিশেষে সকলেই সমান। আইনের চোখে কেউ বাড়তি সুবিধা পাবে না। সকলের জন্য একই আইন প্রযোজ্য হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775919,
+      "value": {
+        "options": [],
+        "question": "আইন কয় প্রকার এবং কী কী?",
+        "solution": "আইন দুই প্রকার। এগুলো হলো- সামাজিক আইন ও রাষ্ট্রীয়\u003Cbr /\u003E\nআইন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775918,
+      "value": {
+        "options": [],
+        "question": "রাষ্ট্রবিজ্ঞানী হল্যান্ডের মতে আইনের উৎস কয়টি? তিনটি উৎসের নাম লেখো।",
+        "solution": "রাষ্ট্রবিজ্ঞানী হল্যান্ডের মতে আইনের উৎস ৬টি। প্রথা, ধর্ম ও আইনসভা হলো আইনের গুরুত্বপূর্ণ তিনটি উৎস।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775917,
+      "value": {
+        "options": [],
+        "question": "সমাজ ও রাষ্ট্র কর্তৃক স্বীকৃত সুনির্দিষ্ট নিয়মকে আইন বলা হয়। এর দুটি বৈশিষ্ট্য লেখো।",
+        "solution": "আইনের দুটি বৈশিষ্ট্য হলো-\u003Cbr /\u003E\n১. আইন মানুষের বাহ্যিক আচরণ ও ক্রিয়াকলাপকে নিয়ন্ত্রণ করে।\u003Cbr /\u003E\n২. আইন হচ্ছে সর্বজনীন, তা রাষ্ট্রের সকলের উপর সমভাবে প্রযোজ্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775916,
+      "value": {
+        "options": [],
+        "question": "আইন কী? রাষ্ট্রীয় আইনের সংজ্ঞা দাও।",
+        "solution": "আইন হচ্ছে বিভিন্ন ধরনের নিয়ম-কানুন, রীতিনীতি বা বিধি-বিধান। রাষ্ট্রীয় কাঠামোর বিভিন্ন জাতীয় নীতিমালার পরিপ্রেক্ষিতে এবং মানুষের আচরণ নিয়ন্ত্রণ করতে সর্বজনীনভাবে সরকার কর্তৃক গৃহীত বিভিন্ন আদেশ- নির্দেশকেই রাষ্ট্রীয় আইন বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775915,
+      "value": {
+        "options": [],
+        "question": "আধুনিক রাষ্ট্রে আইনের প্রধান উৎস কোনটি? এর কাজ উল্লেখ করো।",
+        "solution": "আধুনিক রাষ্ট্রে আইনের প্রধান উৎস হলো আইনসভা। আইনসভা দেশের জনগণের স্বার্থকে লক্ষ্য রেখে প্রয়োজনীয় আইন প্রণয়ন ও সংশোধন করে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775914,
+      "value": {
+        "options": [],
+        "question": "আইনের অনুশাসন কয়টি ধারণা প্রকাশ করে? এগুলো কী কী?",
+        "solution": "আইনের অনুশাসন দুটি ধারণা প্রকাশ করে। যথা- আইনের প্রাধান্য ও আইনের দৃষ্টিতে সকলের সাম্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775913,
+      "value": {
+        "options": {
+          "ক": "আইন সকলের জন্য সমান",
+          "খ": "আইনের অপপ্রয়োগ করা",
+          "গ": "যখন যাকে খুশি গ্রেফতার করা",
+          "ঘ": "সবকিছু আইন অনুসারে চলা"
+        },
+        "question": "আইনের প্রাধান্য বলতে বোঝায়-",
+        "solution": "ক. আইন সকলের জন্য সমান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 775913,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775912,
+      "value": {
+        "options": {
+          "ক": "আইনসভা কর্তৃক প্রণীত আইন",
+          "খ": "নৈতিক আইন",
+          "গ": "সামাজিক আইন",
+          "ঘ": "সংবিধান"
+        },
+        "question": "কোনটি বাংলাদেশের সর্বোচ্চ আইন?",
+        "solution": "ঘ. সংবিধান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 775912,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775911,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আইনের শাসন কায়েম হয় না, যখন-\u003Cbr\u003E\ni. বিচার বিভাগের স্বাধীনতা থাকে না\u003Cbr\u003E\nii. গণতান্ত্রিক পরিবেশ সৃষ্টি হয় না\u003Cbr\u003E\niii. সকলের অধিকার সমভাবে সংরক্ষিত হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775910,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আইনের বৈশিষ্ট্য হচ্ছে-&nbsp;\u003Cbr\u003E\ni. মানুষের কাজকে নিয়ন্ত্রণ করা&nbsp;\u003Cbr\u003E\nii. নাগরিকদের সমতা নিশ্চিত করা\u003Cbr\u003E\niii. মানুষের চিন্তার পরিবর্তন করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775909,
+      "value": {
+        "options": {
+          "ক": "প্রথা",
+          "খ": "ধর্ম",
+          "গ": "ন্যায়বোধ",
+          "ঘ": "আইনসভা"
+        },
+        "question": "ইসলামিক রাষ্ট্রের আইন প্রধানত কুরআন ও শরিয়ার ওপর নির্ভরশীল।&nbsp;এক্ষেত্রে আইনের কোন উৎসকে প্রাধান্য দেওয়া হয়?",
+        "solution": "খ. ধর্ম",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 775909,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775892,
+      "value": {
+        "options": {
+          "ক": "ন্যায়বোধ",
+          "খ": "বিচারসংক্রান্ত",
+          "গ": "বিজ্ঞানসম্মত আলোচনা",
+          "ঘ": "আইনসভা&nbsp;"
+        },
+        "question": "হাইকোর্টের বিচারপতি জনাব 'P' একটি মামলা নিষ্পত্তি করতে গিয়ে প্রচলিত আইনে এর ব্যাখ্যা না পেয়ে নিজের বুদ্ধিমত্তা কাজে লাগান। এটি আইনের কোন ধরনের উৎস?",
+        "solution": "খ. বিচারসংক্রান্ত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4814,
+          "full_name": "কু. বো.'২০২৩;য. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩;য. বো.'২০২৩",
+          "slug": "ku-bo2023z-bo2023",
+          "pivot": {
+            "question_bank_id": 775892,
+            "tag_id": 4814,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775907,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সামাজিক প্রথা হচ্ছে-&nbsp;\u003Cbr\u003E\ni. সমাজে প্রচলিত রীতিনীতি\u003Cbr\u003E\nii. আচার-আচরণ ও অভ্যাস\u003Cbr\u003E\niii. বিজ্ঞানসম্মত আলোচনা&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 775907,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775906,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "প্রথা আইনে পরিণত হয়-\u003Cbr\u003E\ni. রাষ্ট্র কর্তৃক স্বীকৃতির মাধ্যমে&nbsp;\u003Cbr\u003E\nii. আইনসভার অনুমোদনের মাধ্যমে\u003Cbr\u003E\niii. রাষ্ট্রপতির স্বাক্ষরের মাধ্যমে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775905,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "আইনের প্রাধান্য বজায় থাকলে-&nbsp;\u003Cbr\u003E\ni. সরকার স্বেচ্ছাচারী হতে পারে না\u003Cbr\u003E\nii. সকলের জন্য একই আইন প্রযোজ্য হয়&nbsp;\u003Cbr\u003E\niii. নাগরিকের স্বাধীনতার রক্ষা করা যায়&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775904,
+      "value": {
+        "options": {
+          "ক": "কংগ্রেস",
+          "খ": "পার্লামেন্ট",
+          "গ": "মজলিশ",
+          "ঘ": "কেবিনেট"
+        },
+        "question": "ব্রিটেনের আইনসভার নাম হলো-",
+        "solution": "খ. পার্লামেন্ট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 775904,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775903,
+      "value": {
+        "options": {
+          "ক": "ধর্ম",
+          "খ": "আইনসভা",
+          "গ": "ন্যায়বোধ",
+          "ঘ": "প্রথা"
+        },
+        "question": "আইনের সবচেয়ে প্রাচীনতম উৎস হলো-",
+        "solution": "ঘ. প্রথা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4332,
+          "full_name": "রা. বো.'২০১৫;দি. বো.'২০২৪",
+          "short_name": "রা. বো.'২০১৫;দি. বো.'২০২৪",
+          "slug": "ra-bo2015di-bo2024",
+          "pivot": {
+            "question_bank_id": 775903,
+            "tag_id": 4332,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775902,
+      "value": {
+        "options": {
+          "ক": "৫টি",
+          "খ": "৬টি",
+          "গ": "৭টি",
+          "ঘ": "৮টি"
+        },
+        "question": "আইনের উৎস কয়টি?",
+        "solution": "খ. ৬টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 775902,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775901,
+      "value": {
+        "options": {
+          "ক": "হল্যান্ড",
+          "খ": "গার্নার",
+          "গ": "এরিস্টটল",
+          "ঘ": "প্লেটো"
+        },
+        "question": "আইনের ৬টি উৎসের কথা উল্লেখ করেন কে?",
+        "solution": "ক. হল্যান্ড",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 775901,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775900,
+      "value": {
+        "options": {
+          "ক": "প্রথা",
+          "খ": "ধর্ম",
+          "গ": "ন্যায়বোধ",
+          "ঘ": "আইনসভা"
+        },
+        "question": "আধুনিক রাষ্ট্রে আইনের প্রধান উৎস কোনটি?",
+        "solution": "ঘ. আইনসভা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775900,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775899,
+      "value": {
+        "options": {
+          "ক": "অধ্যাপক হল্যান্ড",
+          "খ": "টি, এইচ, গ্রিন",
+          "গ": "হ্যারল্ড জে লাস্কি",
+          "ঘ": "উড্রো উইলসন"
+        },
+        "question": "আইনের উৎকৃষ্ট সংজ্ঞা প্রদান করেন কে?",
+        "solution": "ঘ. উড্রো উইলসন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 775899,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775898,
+      "value": {
+        "options": {
+          "ক": "প্রথা",
+          "খ": "ন্যায়বোধ",
+          "গ": "বিজ্ঞানসম্মত আলোচনা",
+          "ঘ": "ধর্ম"
+        },
+        "question": "মনির উদ্দিন সাহেব এক ছেলে ও দুই মেয়ে রেখে মৃত্যুবরণ করেন। তার সমুদয় সম্পত্তির মূল্য ২০ লক্ষ টাকা। তার ছেলে ১০ লক্ষ টাকা রেখে প্রত্যেক মেয়েকে ৫ লক্ষ টাকা বণ্টন করে দেন। মনির উদ্দিন সাহেবের সম্পত্তির বণ্টনের ক্ষেত্রে আইনের কোন উৎসটি প্রতিফলিত হয়েছে?",
+        "solution": "ঘ. ধর্ম",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775898,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775897,
+      "value": {
+        "options": {
+          "ক": "৬টি",
+          "খ": "৭টি",
+          "গ": "৮টি",
+          "ঘ": "৯টি"
+        },
+        "question": "রাষ্ট্রবিজ্ঞানী হল্যান্ড আইনের কয়টি উৎসের কথা বলেছেন?",
+        "solution": "ক. ৬টি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4815,
+          "full_name": "চ. বো.'২০২৩;কু. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩;কু. বো.'২০২৩",
+          "slug": "c-bo2023ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775897,
+            "tag_id": 4815,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775896,
+      "value": {
+        "options": {
+          "ক": "আইনসভার আইন",
+          "খ": "ঐশ্বরিক আইন",
+          "গ": "আইনবিদদের আইন",
+          "ঘ": "বিচারকের আইন"
+        },
+        "question": "প্রাচীনকাল থেকে মানুষ নিচের কোনটি অনুসরণ করে আসছে?",
+        "solution": "খ. ঐশ্বরিক আইন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 775896,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775895,
+      "value": {
+        "options": {
+          "ক": "টি.এচ. গ্রীন",
+          "খ": "হ্যারল্ড জে লাস্কি",
+          "গ": "উড্রো উইলসন",
+          "ঘ": "প্রফেসর গেটেল"
+        },
+        "question": "\"রাষ্ট্র কর্তৃক আরোপিত অধিকার এবং বাধ্যবাধকতাসমূহ আইন\"- উক্তিটি কার?",
+        "solution": "ক. টি.এচ. গ্রীন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 775895,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775894,
+      "value": {
+        "options": {
+          "ক": "কানাডা",
+          "খ": "ব্রিটেন",
+          "গ": "যুক্তরাষ্ট্র",
+          "ঘ": "ফ্রান্স"
+        },
+        "question": "কোন দেশের অধিকাংশ আইন প্রথা থেকে এসেছে?",
+        "solution": "খ. ব্রিটেন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 775894,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:33:50.000000Z",
+            "updated_at": "2025-12-01T15:33:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775893,
+      "value": {
+        "options": {
+          "ক": "বিচারসংক্রান্ত",
+          "খ": "আইনসভা",
+          "গ": "বিজ্ঞানসম্মত আলোচনা",
+          "ঘ": "ন্যায়বোধ"
+        },
+        "question": "বিশ্বের বিখ্যাত আইনবিদগণের অভিমতকে আইনের কোন হিসেবে বিবেচনা করা হয়? উৎস",
+        "solution": "গ. বিজ্ঞানসম্মত আলোচনা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:33:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8066&grade=5&lesson=14656&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8066&grade=5&lesson=14656&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8066&grade=5&lesson=14656&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 32,
+  "total": 32
+}

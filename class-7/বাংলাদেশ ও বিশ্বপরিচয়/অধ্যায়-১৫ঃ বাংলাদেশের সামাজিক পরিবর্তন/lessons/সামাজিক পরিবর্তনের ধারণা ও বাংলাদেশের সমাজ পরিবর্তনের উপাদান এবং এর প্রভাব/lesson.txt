@@ -1,0 +1,2810 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776875,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশে যৌথ পরিবার ব্যবস্থা ভেঙে যাওয়ার কারণ-\u003Cbr\u003E\ni. দারিদ্র্য ও জনসংখ্যা বৃদ্ধি\u003Cbr\u003E\nii. শিল্পায়ন ও নগরায়ণ\u003Cbr\u003E\niii. নিরক্ষরতা ও অজ্ঞতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4316,
+          "full_name": "কু. বো.'২০১৭;ব. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭;ব. বো.'২০১৭",
+          "slug": "ku-bo2017b-bo2017",
+          "pivot": {
+            "question_bank_id": 776875,
+            "tag_id": 4316,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776861,
+      "value": {
+        "options": {
+          "ক": "প্রযুক্তি",
+          "খ": "শিক্ষা&nbsp;",
+          "গ": "ধর্ম",
+          "ঘ": "নগরায়ণ"
+        },
+        "question": "নিচের কোনটি সংস্কার সাধন ও বিরামহীন প্রক্রিয়া?",
+        "solution": "খ. শিক্ষা&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776862,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শিল্পায়নের ফলে-\u003Cbr\u003E\ni. কাজের সুযোগ বৃদ্ধি পায়\u003Cbr\u003E\nii. যৌথ পরিবার ভেঙে যায়\u003Cbr\u003E\niii. বস্তির সংখ্যা বেড়ে যায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 776862,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776863,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক",
+          "খ": "জৈবিক",
+          "গ": "প্রযুক্তি",
+          "ঘ": "শিক্ষা"
+        },
+        "question": "তমা এসএসসি পাস করে কিছু বিষয়ে জ্ঞান অর্জন করে নিজে সচেতন হয়েছে এবং অপরদেরকে সচেতন করতে সচেষ্ট হয়েছে, বিশেষ করে নারী শিক্ষা, যৌতুক আইনসহ প্রভৃতি বিষয়ে। অপরপক্ষে পপি একজন শিক্ষিকা। পপির মতো আরও মেয়েরা সরকারের বিভিন্ন পদে চাকরি করছে। কোনো কোনো ক্ষেত্রে স্বল্প প্রশিক্ষণ নিয়ে বিভিন্ন বিষয়ে আত্মকর্মসংস্থানের মাধ্যমে স্বাবলম্বী হচ্ছে।\u003Cbr\u003E\nতমার সচেতনতার পিছনে সমাজ পরিবর্তনের কোন উপাদান কাজ করছে?",
+        "solution": "ঘ. শিক্ষা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 776863,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776864,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ফিরোজা বেগম গাজীপুরের নিকট একটি শহরের বস্তিতে বাস করে। সে খুব দরিদ্র। গৃহস্থালী কাজকর্ম ছাড়াও সে গার্মেন্টস কারখানায় কাজ করে। যদিও সে গরিব ও অশিক্ষিত সে তার সন্তানদের লেখাপড়ায় অত্যন্ত যত্নশীল।\u003Cbr\u003E\nফিরোজা বেগম কীভাবে সামাজিক-পরিবর্তনে অংশগ্রহণ করে?\u003Cbr\u003E\ni. গৃহস্থালি কাজকর্ম করে\u003Cbr\u003E\nii. শিল্প কারখানায় কাজ করে\u003Cbr\u003E\niii. সন্তানদের লেখাপড়ায় যত্নশীলতার মাধ্যমে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 776864,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776865,
+      "value": {
+        "options": {
+          "ক": "সামাজিক বৈচিত্র্য",
+          "খ": "সামাজিক অবক্ষয়",
+          "গ": "সামাজিক সমস্যা",
+          "ঘ": "সামাজিক পরিবর্তন"
+        },
+        "question": "সমাজ কাঠটমো ও এর কার্যাবলির পরিবর্তন বলতে কী বোঝায়?",
+        "solution": "ঘ. সামাজিক পরিবর্তন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 776865,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776866,
+      "value": {
+        "options": {
+          "ক": "যোগাযোগ",
+          "খ": "সংস্কৃতি",
+          "গ": "শিক্ষা",
+          "ঘ": "প্রযুক্তি"
+        },
+        "question": "বাংলাদেশের সমাজ পরিবর্তনে কোন উপাদানটি আত্মবিশ্বাস ও বিচার বিবেচনার ক্ষমতা জাগ্রত করে?",
+        "solution": "ঘ. প্রযুক্তি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776866,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776867,
+      "value": {
+        "options": {
+          "ক": "প্রযুক্তি",
+          "খ": "শিক্ষা",
+          "গ": "যোগাযোগ",
+          "ঘ": "নগরায়ণ"
+        },
+        "question": "সামাজিক পরিবর্তনের বিশেষ উপাদান কোনটি?",
+        "solution": "খ. শিক্ষা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4874,
+          "full_name": "কু. বো.'২০১৬;চ. বো.'২০২০",
+          "short_name": "কু. বো.'২০১৬;চ. বো.'২০২০",
+          "slug": "ku-bo2016c-bo2020",
+          "pivot": {
+            "question_bank_id": 776867,
+            "tag_id": 4874,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776868,
+      "value": {
+        "options": {
+          "ক": "জনসংখ্যার স্থানান্তর",
+          "খ": "দৃষ্টিভঙ্গির পরিবর্তন",
+          "গ": "নদীভাঙন",
+          "ঘ": "বিশেষ কাজে বিশেষ দক্ষতা অর্জন"
+        },
+        "question": "নিচের কোনটি সমাজ পরিবর্তনের প্রাকৃতিক উপাদান?",
+        "solution": "গ. নদীভাঙন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4875,
+          "full_name": "চ. বো.'২০১৬;ম. বো.'২০২০",
+          "short_name": "চ. বো.'২০১৬;ম. বো.'২০২০",
+          "slug": "c-bo2016m-bo2020",
+          "pivot": {
+            "question_bank_id": 776868,
+            "tag_id": 4875,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776869,
+      "value": {
+        "options": {
+          "ক": "যদি দক্ষ জনশক্তি না থাকে",
+          "খ": "যদি জনসংখ্যা ভারসাম্য না থাকে",
+          "গ": "যদি জনসংখ্যা বেশি থাকে",
+          "ঘ": "যদি জনসংখ্যা কম থাকে"
+        },
+        "question": "প্রাকৃতিক সম্পদ যথেষ্ট থাকলেও কখন তা কাজে লাগানো যায় না?",
+        "solution": "ক. যদি দক্ষ জনশক্তি না থাকে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 776869,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776870,
+      "value": {
+        "options": {
+          "ক": "সংস্কৃতি",
+          "খ": "সমাজ",
+          "গ": "শিশুশ্রম",
+          "ঘ": "সামাজিক নৈরাজ্য"
+        },
+        "question": "সামাজিক পরিবর্তনের সূচনা করে কোনটি?",
+        "solution": "ক. সংস্কৃতি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 776870,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776871,
+      "value": {
+        "options": {
+          "ক": "ম্যাকাইভার",
+          "খ": "কিংসলে ডেভিস",
+          "গ": "গার্নার",
+          "ঘ": "গেটেল"
+        },
+        "question": "\"সামাজিক পরিবর্তন হচ্ছে সামাজিক সংগঠনের মধ্যকার পরিবর্তন\"-&nbsp;কে বলেছেন?",
+        "solution": "খ. কিংসলে ডেভিস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4876,
+          "full_name": "য. বো.'২০১৬;কু. বো.'২০১৭;চ. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৬;কু. বো.'২০১৭;চ. বো.'২০১৯",
+          "slug": "z-bo2016ku-bo2017c-bo2019",
+          "pivot": {
+            "question_bank_id": 776871,
+            "tag_id": 4876,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776872,
+      "value": {
+        "options": {
+          "ক": "অগাস্ট কোৎ",
+          "খ": "ম্যাকাইভার",
+          "গ": "এরিস্টটল",
+          "ঘ": "কিংসলে ডেভিস"
+        },
+        "question": "\"মানবীয় সম্পর্কের পরিবর্তন হচ্ছে সামাজিক পরিবর্তন।\" - উক্তিটি কার?র কোন উপাদানটি বেশি কার্যকর?",
+        "solution": "খ. ম্যাকাইভার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4877,
+          "full_name": "চ. বো.'২০১৭;দি. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৭;দি. বো.'২০১৫",
+          "slug": "c-bo2017di-bo2015",
+          "pivot": {
+            "question_bank_id": 776872,
+            "tag_id": 4877,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776873,
+      "value": {
+        "options": {
+          "ক": "শিক্ষার",
+          "খ": "জনসংখ্যা বৃদ্ধির",
+          "গ": "প্রযুক্তির",
+          "ঘ": "শিল্পায়নের"
+        },
+        "question": "কিসের ফলে নগরায়ণ বেশি ত্বরান্বিত হয়?",
+        "solution": "ঘ. শিল্পায়নের",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 776873,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776874,
+      "value": {
+        "options": {
+          "ক": "বিজ্ঞান শিক্ষা",
+          "খ": "জনসংখ্যা বৃদ্ধি",
+          "গ": "বহুবিবাহ",
+          "ঘ": "রাজনৈতিক অস্থিরতা"
+        },
+        "question": "সামাজিক পরিবর্তনের ইতিবাচক ভূমিকা রাখছে কোনটি?",
+        "solution": "ক. বিজ্ঞান শিক্ষা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4813,
+          "full_name": "সি. বো.'২০১৬;কু. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৬;কু. বো.'২০১৫",
+          "slug": "si-bo2016ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776874,
+            "tag_id": 4813,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776860,
+      "value": {
+        "options": {
+          "ক": "মোটর গাড়ি",
+          "খ": "শিক্ষা",
+          "গ": "টেলিভিশন",
+          "ঘ": "বেতার"
+        },
+        "question": "সামাজিক সম্পর্কের পরিধিকে বিস্তৃত করেছে কোনটি?",
+        "solution": "খ. শিক্ষা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3789,
+          "full_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "short_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "slug": "bgura-kzantnment-pablik-skul-end-klej",
+          "pivot": {
+            "question_bank_id": 776860,
+            "tag_id": 3789,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776876,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "সামাজিক পরিবর্তনের জৈবিক উপাদান হলো-\u003Cbr\u003E\ni. মৃত্যুর হার\u003Cbr\u003E\nii. জনসংখ্যার ঘনত্ব\u003Cbr\u003E\niii. গড় আয়ু\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776876,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776877,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শিক্ষা দূর করে-\u003Cbr\u003E\ni. যাবতীয় অন্ধত্ব\u003Cbr\u003E\nii. কুসংস্কার\u003Cbr\u003E\niii. অপসংস্কৃতি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776878,
+      "value": {
+        "options": {
+          "ক": "শিক্ষা",
+          "খ": "শিল্পায়ন",
+          "গ": "প্রযুক্তি",
+          "ঘ": "যোগাযোগ"
+        },
+        "question": "ফিরোজা বেগম গাজীপুরের নিকট একটি শহরের বস্তিতে বাস করে। সে খুব দরিদ্র। গৃহস্থালী কাজকর্ম ছাড়াও সে গার্মেন্টস কারখানায় কাজ করে। যদিও সে গরিব ও অশিক্ষিত সে তার সন্তানদের লেখাপড়ায় অত্যন্ত যত্নশীল।\u003Cbr\u003E\nফিরোজা বেগমকে সামাজিক পরিবর্তনের কোন উপাদানটি সাহায্য করেছে?",
+        "solution": "খ. শিল্পায়ন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 776878,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776879,
+      "value": {
+        "options": [],
+        "question": "সামাজিক পরিবর্তনের ধারণাকে তুমি কীভাবে ব্যাখ্যা করবে?",
+        "solution": "সামাজিক পরিবর্তন বলতে সমাজ কাঠামো ও এর কার্যাবলির পরিবর্তনকে বোঝায়। সামাজিক পরিবর্তন হলো সমাজে বসবাসকারী ব্যক্তি, গোষ্ঠী ও প্রতিষ্ঠানের আচার-আচরণের পরিবর্তন। সমাজের কৃষ্টি ও সংস্কৃতির পরিবর্তন। মোটকথা, সামাজিক পরিবর্তন হচ্ছে কোনো জাতির জীবন ব্যবস্থার সামগ্রিক পরিবর্তন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776880,
+      "value": {
+        "options": [],
+        "question": "সামাজিক পরিবর্তনের প্রভাব সম্পর্কে তুমি কী জানো?",
+        "solution": "সামাজিক পরিবর্তনের প্রভাব অর্থনীতি, রাজনীতি, সমাজনীতি, ধর্মীয় মূল্যবোধ এমনকি সনাতন জীবনব্যবস্থাকেও গভীরভাবে স্পর্শ করে। এর ফলে সমাজের সৃজনশীল কর্মকাণ্ড নতুন গতি লাভ করে। উন্মুক্ত হয় জ্ঞান-বিজ্ঞানের নতুন নতুন শাখা এবং শুরু হয় নতুন সমাজ গঠনের প্রক্রিয়া।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776881,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের সমাজ পরিবর্তনে প্রাকৃতিক উপাদানের প্রভাবকে তুমি কীভাবে তুলে ধরবে?",
+        "solution": "বাংলাদেশের সমাজ পরিবর্তনে প্রাকৃতিক উপাদানের ব্যাপক প্রভাব রয়েছে। যেমন- নদীভাঙন এদেশের শহরাঞ্চলে বস্তি সৃষ্টির একটি কারণ। বস্তিতে অল্প জায়গায় অনেক মানুষের বসবাস, নাগরিক সুবিধার অভাব নানান সমস্যার জন্ম দিয়েছে। এসব সমস্যা সমাধানে সরকারি ও বেসরকারি বহু কার্যক্রম গ্রহণ করায় শহুরে সমাজে নানা পরিবর্তন সাধিত হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776882,
+      "value": {
+        "options": [],
+        "question": "সামাজিক পরিবর্তনে জৈবিক উপাদানের প্রভাব সম্পর্কে তুমি কী জানো?",
+        "solution": "মানুষের জৈবিক অবস্থার পরিবর্তন যেমন- জনসংখ্যা বৃদ্ধি বা হ্রাস, স্থানান্তর অথবা ঘনত্বের পরিবর্তন সামাজিক পরিবর্তনে গুরুত্বপূর্ণ ভূমিকা পালন করে। যেমন- জনসংখ্যা বৃদ্ধির সাথে অন্যান্য সুযোগ-সুবিধা না বাড়ায় এবং অন্যান্য ক্ষেত্রে পরিবর্তনের জন্য বেকারত্ব, শিশুশ্রম বা কর্মসংস্থানের ক্ষেত্রে তীব্র প্রতিযোগিতার মতো নানামুখী সমস্যার সৃষ্টি হয়, যা সামাজিক পরিবর্তন ঘটায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776883,
+      "value": {
+        "options": [],
+        "question": "সামাজিক পরিবর্তনে সাংস্কৃতিক উপাদানের প্রভাবকে তুমি কীভাবে ব্যাখ্যা করবে?",
+        "solution": "সংস্কৃতি সামাজিক পরিবর্তনের সূচনা করে। যেমন- ব্রিটিশ রাজত্বের সময় বাংলার সমাজব্যবস্থায় বিদেশি সংস্কৃতির প্রভাব বিশেষভাবে পরিদৃষ্ট হয়। এছাড়া ভ্রমণকাহিনি পাঠ, বিদেশ ভ্রমণ, অন্যান্য দেশের জনগণের সঙ্গে সাক্ষাৎকার, মহামানবদের প্রভাব সমাজে নানামুখী পরিবর্তন ঘটায়। আবার, প্রযুক্তি, মিডিয়া, নিউ মিডিয়া প্রভৃতির প্রভাবেও সাংস্কৃতিক পরিবর্তন ও মিশ্রণ ঘটে যা সমাজ ব্যবস্থাতেও পরিবর্তন আনে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776884,
+      "value": {
+        "options": [],
+        "question": "তামিম ঘরে বসেই ইন্টারনেটের মাধ্যমে চাকরির আবেদন করছে। তার কাজ সামাজিক পরিবর্তনের কোন উপাদানকে নির্দেশ করছে? ব্যাখ্যা করো।",
+        "solution": "তামিমের কাজ সামাজিক পরিবর্তনের প্রযুক্তি উপাদানকে নির্দেশ করছে। প্রযুক্তি হলো বিজ্ঞানের প্রায়োগিক দিক। প্রযুক্তির প্রচলন ও প্রসারের মাধ্যমে সমাজ ব্যবস্থার অন্তর্ভুক্ত ব্যক্তিবর্গের মানসিক গঠন এবং সামাজিক কাঠামোর পরিবর্তন সাধিত হয়। কারণ প্রযুক্তি ব্যবহারের মাধ্যমে মানুষ নতুনভাবে কর্মসম্পাদন করে, যা সমাজ ব্যবস্থায় পরিবর্তন আনে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776885,
+      "value": {
+        "options": [],
+        "question": "প্রযুক্তির প্রত্যক্ষ প্রভাব সম্পর্কে তোমার ধারণা ব্যাখ্যা করো।",
+        "solution": "প্রযুক্তির ক্রমোন্নতিতে আমাদের সমাজ ব্যবস্থায় দুধরনের ফলাফল লক্ষ করা যায়। একটি প্রত্যক্ষ এবং অপরটি পরোক্ষ। কতগুলো সামাজিক পরিবর্তন প্রযুক্তিগত পরিবর্তনের অবশ্যম্ভাবী পরিণাম। যেমন- শ্রমিকের নতুন নতুন সংগঠন, সামাজিক যোগাযোগ পরিধির বিস্তৃতি, বিশেষ কাজে বিশেষ দক্ষতা অর্জন, গ্রামীণ জীবনের ওপর নাগরিক জীবনের প্রভাব প্রভৃতি। এগুলো প্রযুক্তির প্রত্যক্ষ প্রভাব।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776886,
+      "value": {
+        "options": [],
+        "question": "প্রযুক্তির পরোক্ষ প্রভাব সম্পর্কে তুমি কী জানো?",
+        "solution": "প্রযুক্তির ক্রমোন্নতি সমাজব্যবস্থায় প্রত্যক্ষের পাশাপাশি পরোক্ষভাবেও প্রভাব বিস্তার করে। যেমন- বেকারত্ব বৃদ্ধি, শ্রমিক-মালিকের মধ্যে ব্যবধান, প্রতিযোগিতার তীব্রতা বৃদ্ধি প্রভৃতি পরিবর্তনের পরোক্ষ প্রভাব।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776887,
+      "value": {
+        "options": [],
+        "question": "কৃষিক্ষেত্রে প্রযুক্তির প্রভাবকে তুমি কীভাবে ব্যাখ্যা করবে?",
+        "solution": "প্রযুক্তির কল্যাণে কৃষিক্ষেত্রে উন্নত জাতের বীজ, সেচ, সার প্রয়োগের ফলে কৃষি উৎপাদন বহুগুণে বেড়ে গেছে। চিংড়ি চাষে অভাবনীয় পরিবর্তন, সমন্বিত মাছ চাষ, গবাদিপশুর প্রজনন, গরু মোটাতাজাকরণ প্রভৃতি প্রযুক্তির কারণে সম্ভব হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776888,
+      "value": {
+        "options": [],
+        "question": "সৌদি প্রবাসী তৌহিদ মোবাইল ও ইন্টারনেটের মাধ্যমে বাংলাদেশে আত্মীয়স্বজনের সাথে যোগাযোগ করে। তার কর্মকান্ডে সামাজিক পরিবর্তনের কোন উপাদানের প্রভাব লক্ষ করা যায়? ব্যাখ্যা করো।",
+        "solution": "তৌহিদের কর্মকাণ্ডে সামাজিক পরিবর্তনের অন্যতম উপাদান যোগাযোগের প্রভাব লক্ষ করা যায়। জল, স্থল ও আকাশপথে যোগাযোগ, টেলিফোন, ফ্যাক্স, ইন্টারনেট, ই-মেইল, ডিশ অ্যান্টেনা, মোবাইল ফোন, রেডিয়ো, টেলিভিশন, বিভিন্ন ধরনের পত্রপত্রিকা প্রভৃতি সামাজিক পরিবর্তনে ভূমিকা রাখে। সম্প্রতি মোবাইল প্রযুক্তি ও ইন্টারনেটের ব্যবহার সমাজ ও দেশকে উন্নয়নের পথে অনেক দূর এগিয়ে নিয়ে গেছে। দূর প্রবাসে থাকা সন্তান, পিতামাতা, আত্মীয়স্বজন এক মুহূর্তেই একে অপরের সাথে যোগাযোগ করতে পারছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776889,
+      "value": {
+        "options": [],
+        "question": "শিল্পায়ন ও নগরায়ণকে তুমি কীভাবে সংজ্ঞায়িত করবে?",
+        "solution": "শিল্পায়ন হলো এমন একটি প্রক্রিয়া যার মাধ্যমে কৃষিভিত্তিক অর্থনীতি ও সমাজব্যবস্থা শিল্পভিত্তিক ও উৎপাদনমুখী অর্থনীতি ও সমাজে রূপান্তরিত হয়। শিল্পায়নের ফলে নগরায়ণ ঘটে। ব্যাপক শিল্পায়নের ফলে গ্রামীণ জীবন ছেড়ে নগরজীবন পদ্ধতি গ্রহণের প্রক্রিয়াই নগরায়ণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776846,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক",
+          "খ": "জৈবিক",
+          "গ": "সাংস্কৃতিক",
+          "ঘ": "শিক্ষা"
+        },
+        "question": "জনসংখ্যা বৃদ্ধি বা হ্রাস স্থানান্তর অথবা ঘনত্বের পরিবর্তন সামাজিক পরিবর্তনে কোন উপাদান ভূমিকা রাখে?",
+        "solution": "খ. জৈবিক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 776846,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776832,
+      "value": {
+        "options": {
+          "ক": "জৈবিক",
+          "খ": "প্রাকৃতিক",
+          "গ": "সাংস্কৃতিক",
+          "ঘ": "শিল্পায়ন"
+        },
+        "question": "'ব'-এর জমিতে ফসল উৎপাদন কমে যায়। কারণ গত বছর বন্যায় লবণ পানি তার জমির উর্বর শক্তি নষ্ট করে। যার ফলে 'ব' জীবন বাঁচাতে পরিবার নিয়ে শহরে চলে আসে। 'ব'-এর এলাকায় সামাজিক পরিবর্তনের কোন উপাদানটি কার্যকর?",
+        "solution": "খ. প্রাকৃতিক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 776832,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776833,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক",
+          "খ": "জৈবিক",
+          "গ": "সাংস্কৃতিক",
+          "ঘ": "প্রযুক্তিগত"
+        },
+        "question": "'জনসংখ্যার ঘনত্ব' সামাজিক পরিবর্তনের কোন ধরনের উপাদান?",
+        "solution": "খ. জৈবিক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776833,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776834,
+      "value": {
+        "options": {
+          "ক": "বৈশ্বিক উষ্ণায়ন",
+          "খ": "জন্ম ও মৃত্যুহার",
+          "গ": "জনসংখ্যার প্রকৃতি",
+          "ঘ": "জীবনযাত্রার মান"
+        },
+        "question": "সামাজিক পরিবর্তনের প্রাকৃতিক উপাদান কোনটি?",
+        "solution": "ক. বৈশ্বিক উষ্ণায়ন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 776834,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776835,
+      "value": {
+        "options": {
+          "ক": "যোগাযোগ",
+          "খ": "শিক্ষা",
+          "গ": "শিল্পায়ন",
+          "ঘ": "প্রযুক্তি"
+        },
+        "question": "সামাজিক পরিবর্তনের কোন উপাদান জনগণের মধ্যে সচেতনতা সৃষ্টি করে?",
+        "solution": "খ. শিক্ষা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776836,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সামাজিক পরিবর্তনের জৈবিক উপাদান হলো-\u003Cbr\u003E\ni. জনসংখ্যার ঘনত্ব\u003Cbr\u003E\nii. জীবনযাত্রার মান&nbsp;\u003Cbr\u003E\niii. জনসংখ্যার প্রকৃতি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 776836,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776837,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশে শিল্পের ক্রমোন্নতির ফলে-\u003Cbr\u003E\ni. নারী শিক্ষার হার বৃদ্ধি পেয়েছে\u003Cbr\u003E\nii. নারীদের কর্মসংস্থান বৃদ্ধি পেয়েছে\u003Cbr\u003E\niii. সামজিকভাবে নারীর অবমূল্যায়ন হয়েছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 776837,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776838,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ময়মনসিংহের ভালবাসীর অনেকেই কৃষিকাজ বাদ দিয়ে স্থানীয় পোশাক তৈরির কারখানায় চাকরি করছেন। চাকরিরত ব্যক্তিগণ তাদের পরিবারে সচ্ছলতা এনেছেন। অন্য অঞ্চল থেকে এসে অনেক লোক এ অঞ্চলে চাকরি করেন।\u003Cbr\u003E\nভালুকাবাসীর জীবনে সামাজিক পরিবর্তন এনেছে-\u003Cbr\u003E\ni. বাসস্থানের স্বল্পতা\u003Cbr\u003E\nii. একক পরিবার গঠন\u003Cbr\u003E\niii. নারী, শিশু ও প্রবীণদের নিরাপত্তাহীনতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 776838,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776839,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তমা এসএসসি পাস করে কিছু বিষয়ে জ্ঞান অর্জন করে নিজে সচেতন হয়েছে এবং অপরদেরকে সচেতন করতে সচেষ্ট হয়েছে, বিশেষ করে নারী শিক্ষা, যৌতুক আইনসহ প্রভৃতি বিষয়ে। অপরপক্ষে পপি একজন শিক্ষিকা। পপির মতো আরও মেয়েরা সরকারের বিভিন্ন পদে চাকরি করছে। কোনো কোনো ক্ষেত্রে স্বল্প প্রশিক্ষণ নিয়ে বিভিন্ন বিষয়ে আত্মকর্মসংস্থানের মাধ্যমে স্বাবলম্বী হচ্ছে।\u003Cbr\u003E\nউদ্দীপকে বিভিন্ন ক্ষেত্রে নারীর অংশগ্রহণে-\u003Cbr\u003E\ni. দেশ উন্নত হচ্ছে\u003Cbr\u003E\nii. অর্থনীতি এগিয়ে যাচ্ছে\u003Cbr\u003E\niii. মানুষের ভাগ্যের পরিবর্তন হচ্ছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 776839,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776840,
+      "value": {
+        "options": {
+          "ক": "পারিবারিক বিশৃঙ্খলা",
+          "খ": "কলহ বৃদ্ধি",
+          "গ": "নারী শিক্ষা",
+          "ঘ": "শিল্পায়ন"
+        },
+        "question": "যৌথ পরিবার ভাঙনের কারণ কী?",
+        "solution": "ঘ. শিল্পায়ন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 776840,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776841,
+      "value": {
+        "options": {
+          "ক": "যোগাযোগ",
+          "খ": "স্বাস্থ্য",
+          "গ": "শহরায়ন",
+          "ঘ": "প্রযুক্তি"
+        },
+        "question": "বিজ্ঞানের প্রায়োগিক দিক কোনটি?",
+        "solution": "ঘ. প্রযুক্তি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 776841,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776842,
+      "value": {
+        "options": {
+          "ক": "নগরায়ণ",
+          "খ": "প্রযুক্তি",
+          "গ": "শিক্ষা",
+          "ঘ": "সংস্কৃতি"
+        },
+        "question": "শিল্পায়নের ফল কোনটি?",
+        "solution": "ক. নগরায়ণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 776842,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776843,
+      "value": {
+        "options": {
+          "ক": "প্রযুক্তি",
+          "খ": "জৈবিক",
+          "গ": "শিল্পায়ন",
+          "ঘ": "যোগাযোগ"
+        },
+        "question": "কুবের বরিশাল থেকে ইলিশ ধরে রাজধানীর ফার্মগেট বাজারে বিক্রি করার জন্য আনে। এখানে সামাজিক পরিবর্তনের কোন উপাদানটি বেশি কার্যকর?",
+        "solution": "ঘ. যোগাযোগ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776843,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776844,
+      "value": {
+        "options": {
+          "ক": "ক্রমশ গ্রামগুলো শহরে রূপান্তরিত হওয়া",
+          "খ": "নাগরিক সুবিধা বৃদ্ধি পাওয়া",
+          "গ": "যানবাহনের পরিমাণ বেড়ে যাওয়া",
+          "ঘ": "টিভি ও সিনেমা হল বেড়ে যাওয়া"
+        },
+        "question": "ব্যাপক নগরায়ণ বলতে কী বোঝায়?",
+        "solution": "ক. ক্রমশ গ্রামগুলো শহরে রূপান্তরিত হওয়া",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 776844,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776845,
+      "value": {
+        "options": {
+          "ক": "শিক্ষা",
+          "খ": "নদী ভাঙ্গা",
+          "গ": "যোগাযোগ",
+          "ঘ": "শিল্পায়ন"
+        },
+        "question": "সামাজিক পরিবর্তনের অন্যতম উপাদান কোনটি?",
+        "solution": "গ. যোগাযোগ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776831,
+      "value": {
+        "options": {
+          "ক": "গ্রামীণ জীবন ছেড়ে নগর জীবন গ্রহণ প্রক্রিয়া",
+          "খ": "শিল্প সম্প্রসারণের ধারাবাহিক উপায়",
+          "গ": "নগর সভ্যতা গড়ে তোলার পদ্ধতি",
+          "ঘ": "অর্থনৈতিক ও সামাজিক উন্নয়ন প্রক্রিয়া"
+        },
+        "question": "নগরায়ণ কী?",
+        "solution": "ক. গ্রামীণ জীবন ছেড়ে নগর জীবন গ্রহণ প্রক্রিয়া",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 776831,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776847,
+      "value": {
+        "options": {
+          "ক": "সামাজিক যোগাযোগের পরিধি বিস্তৃতি",
+          "খ": "শ্রমিকের নতুন নতুন সংগঠন",
+          "গ": "বিশেষ কাজে বিশেষ দক্ষতা অর্জন",
+          "ঘ": "বেকার লোকের সংখ্যা বৃদ্ধি"
+        },
+        "question": "প্রযুক্তি পরিবর্তনের পরোক্ষ প্রভাব কোনটি?",
+        "solution": "ঘ. বেকার লোকের সংখ্যা বৃদ্ধি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776847,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776848,
+      "value": {
+        "options": {
+          "ক": "খালিশপুর",
+          "খ": "বেনাপোল",
+          "গ": "সাতক্ষীরা",
+          "ঘ": "ডেমরা"
+        },
+        "question": "নিচের কোনটি শিল্প নগরী হিসেবে পরিচিত?",
+        "solution": "ক. খালিশপুর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776849,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "প্রযুক্তির ক্রমোন্নতিতে সমাজব্যবস্থায় কয় ধরনের ফলাফল পরিলক্ষিত হয়?",
+        "solution": "ক. ২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776850,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "ii",
+          "গ": "&nbsp;iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "সামাজিক পরিবর্তন হচ্ছে-\u003Cbr\u003E\ni. সমাজ\u003Cbr\u003E\nii. সামাজিক কাঠামো\u003Cbr\u003E\niii. পুরুষ ও নারী\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. ii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 776850,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776851,
+      "value": {
+        "options": {
+          "ক": "যোগাযোগ",
+          "খ": "শিক্ষা",
+          "গ": "প্রযুক্তি",
+          "ঘ": "শিল্পায়ন"
+        },
+        "question": "ময়মনসিংহের ভালবাসীর অনেকেই কৃষিকাজ বাদ দিয়ে স্থানীয় পোশাক তৈরির কারখানায় চাকরি করছেন। চাকরিরত ব্যক্তিগণ তাদের পরিবারে সচ্ছলতা এনেছেন। অন্য অঞ্চল থেকে এসে অনেক লোক এ অঞ্চলে চাকরি করেন।\u003Cbr\u003E\n'ভালুকা' অঞ্চলের সামাজিক পরিবর্তনের কোন উপাদানটি অধিক কার্যকর হয়েছে?",
+        "solution": "ঘ. শিল্পায়ন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 776851,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776852,
+      "value": {
+        "options": {
+          "ক": "শিল্পায়ন ও নগরায়ণ",
+          "খ": "শিল্পায়ন ও যাতায়াত",
+          "গ": "যাতায়াত ও নগরায়ণ",
+          "ঘ": "শিল্পায়ন ও মানসিকতা"
+        },
+        "question": "কোনটি সামাজিক দূরত্বকে বাড়িয়ে দিয়েছে?",
+        "solution": "ক. শিল্পায়ন ও নগরায়ণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 776852,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776853,
+      "value": {
+        "options": {
+          "ক": "জৈবিক",
+          "খ": "সাংস্কৃতিক",
+          "গ": "যোগাযোগ",
+          "ঘ": "প্রাকৃতিক"
+        },
+        "question": "সূস্মিতা তার বান্ধবীকে নিয়ে দুর্গাপূজা দেখতে যায়। সুম্মিতার এ কাজ সমাজ পরিবর্তনের কোন উপাদানকে নির্দেশ করে?",
+        "solution": "খ. সাংস্কৃতিক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 776853,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776854,
+      "value": {
+        "options": {
+          "ক": "শিক্ষার প্রসার",
+          "খ": "প্রযুক্তির উদ্ভাবন",
+          "গ": "শিল্পায়ন ও নগরায়ণ",
+          "ঘ": "যোগাযোগ ব্যবস্থার উন্নয়ন"
+        },
+        "question": "সফিক সাহেব যৌথ পরিবারে বাস করেন। কিন্তু দিন দিন তার পরিবারের লোকেরা শহরমুখী হচ্ছে। কোনটির ফলে সফিক সাহেবের পরিবারে এ পরিবর্তন সাধিত হচ্ছে?",
+        "solution": "গ. শিল্পায়ন ও নগরায়ণ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 776854,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776855,
+      "value": {
+        "options": {
+          "ক": "শিক্ষা",
+          "খ": "যোগাযোগ",
+          "গ": "প্রযুক্তি",
+          "ঘ": "নগরায়ণ"
+        },
+        "question": "কোনটি একজন ব্যক্তির মনে আত্মবিশ্বাস জাগ্রত করে?",
+        "solution": "ক. শিক্ষা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 776855,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776856,
+      "value": {
+        "options": {
+          "ক": "জীবনযাত্রার মান",
+          "খ": "নারীর ক্ষমতায়ন",
+          "গ": "বৈচিত্র্যপূর্ণ সংস্কৃতি&nbsp;",
+          "ঘ": "রেডিও টেলিভিশন"
+        },
+        "question": "সামাজিক পরিবর্তনের জৈবিক উপাদান কোনটি?",
+        "solution": "ক. জীবনযাত্রার মান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 776856,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776857,
+      "value": {
+        "options": {
+          "ক": "ধীর",
+          "খ": "দ্রুত",
+          "গ": "ধীর ও দ্রুত",
+          "ঘ": "মধ্যম"
+        },
+        "question": "সামাজিক পরিবর্তনের গতি কীরূপ?",
+        "solution": "গ. ধীর ও দ্রুত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 776857,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776858,
+      "value": {
+        "options": {
+          "ক": "শিক্ষা",
+          "খ": "খেলাধুলা&nbsp;",
+          "গ": "ভ্রমণ",
+          "ঘ": "শরীরচর্চা"
+        },
+        "question": "কুসংস্কারমুক্ত থাকতে সাহায্য করে কোনটি?",
+        "solution": "ক. শিক্ষা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 776858,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776859,
+      "value": {
+        "options": {
+          "ক": "শিক্ষা&nbsp;",
+          "খ": "যৌথ পরিবার ভাঙন",
+          "গ": "শিল্পায়ন",
+          "ঘ": "প্রযুক্তি"
+        },
+        "question": "আমাদের দেশে বস্তি সমস্যা সৃষ্টিতে প্রধান ভূমিকা পালন করে?",
+        "solution": "গ. শিল্পায়ন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:53:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 776859,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:53:01.000000Z",
+            "updated_at": "2025-12-01T15:53:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8075&grade=5&lesson=14716&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8075&grade=5&lesson=14716&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8075&grade=5&lesson=14716&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 59,
+  "total": 59
+}

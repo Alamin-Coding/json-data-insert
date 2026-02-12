@@ -1,0 +1,319 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776146,
+      "value": {
+        "options": {
+          "ক": "১২ জুন",
+          "খ": "১৩ জুন",
+          "গ": "১২ জুলাই",
+          "ঘ": "১২ আগস্ট"
+        },
+        "question": "১৯৯৬ সালের কোন তারিখে বাংলাদেশে সপ্তম জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়?",
+        "solution": "ক. ১২ জুন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:41:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 776146,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:41:08.000000Z",
+            "updated_at": "2025-12-01T15:41:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776147,
+      "value": {
+        "options": {
+          "ক": "২০০৬",
+          "খ": "২০০১",
+          "গ": "১৯৯১",
+          "ঘ": "১৯৯৬"
+        },
+        "question": "পার্লামেন্টারি শাসনব্যবস্থার পুনঃপ্রবর্তনে কোন সালের নির্বাচন বেশি তাৎপর্যপূর্ণ ছিল?",
+        "solution": "গ. ১৯৯১",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:41:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 776147,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:41:08.000000Z",
+            "updated_at": "2025-12-01T15:41:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776148,
+      "value": {
+        "options": {
+          "ক": "১৯৭০ সালে",
+          "খ": "১৯৭১ সালে",
+          "গ": "১৯৭২ সালে",
+          "ঘ": "১৯৭৩ সালে"
+        },
+        "question": "কত সালে বাংলাদেশে প্রথম জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয়?",
+        "solution": "ঘ. ১৯৭৩ সালে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:41:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776149,
+      "value": {
+        "options": {
+          "ক": "২৯ ডিসেম্বর, ২০০৭",
+          "খ": "২৯ ডিসেম্বর, ২০০৮",
+          "গ": "৩১ ডিসেম্বর, ২০০৭",
+          "ঘ": "৩১ ডিসেম্বর, ২০০৮"
+        },
+        "question": "৯ম জাতীয় সংসদ নির্বাচন অনুষ্ঠিত হয় কত তারিখে?",
+        "solution": "গ. ৩১ ডিসেম্বর, ২০০৭",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:41:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776150,
+      "value": {
+        "options": {
+          "ক": "ছোট",
+          "খ": "বৃহৎ",
+          "গ": "নতুন",
+          "ঘ": "নির্দলীয়"
+        },
+        "question": "তত্ত্বাবধায়ক সরকার বলতে বোঝায় __ সরকার।",
+        "solution": "ঘ. নির্দলীয়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:41:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 776150,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:41:08.000000Z",
+            "updated_at": "2025-12-01T15:41:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776151,
+      "value": {
+        "options": {
+          "ক": "২০০১ সালের ১ সেপ্টেম্বর",
+          "খ": "২০০১ সালের ১ অক্টোবর",
+          "গ": "২০০১ সালের ২৫ নভেম্বর",
+          "ঘ": "২০০১ সালের ২৫ ডিসেম্বর"
+        },
+        "question": "অষ্টম জাতীয় সংসদ নির্বাচন কত তারিখে অনুষ্ঠিত হয়?",
+        "solution": "খ. ২০০১ সালের ১ অক্টোবর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:41:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776151,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:41:08.000000Z",
+            "updated_at": "2025-12-01T15:41:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8068&grade=5&lesson=14665&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8068&grade=5&lesson=14665&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8068&grade=5&lesson=14665&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

@@ -1,0 +1,215 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775501,
+      "value": {
+        "options": {
+          "ক": "জেনারেল খালেদ মোশাররফ",
+          "খ": "জেনারেল জিয়াউর রহমান",
+          "গ": "জেনারেল শফিউল্লাহ",
+          "ঘ": "জেনারেল এরশাদ"
+        },
+        "question": "কোন শাসক গণঅভ্যুত্থানের কারণে পদত্যাগ করতে বাধ্য হন?",
+        "solution": "ঘ. জেনারেল এরশাদ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775501,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:29:47.000000Z",
+            "updated_at": "2025-12-01T15:29:47.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775502,
+      "value": {
+        "options": {
+          "ক": "নূর হোসেন",
+          "খ": "১৫ দলীয় ঐক্যজোট",
+          "গ": "৭ দলীয় জোট",
+          "ঘ": "ছাত্র সমাজ"
+        },
+        "question": "এরশাদ বিরোধী আন্দোলন শুরু করে প্রথম-",
+        "solution": "ঘ. ছাত্র সমাজ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775502,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:29:47.000000Z",
+            "updated_at": "2025-12-01T15:29:47.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775503,
+      "value": {
+        "options": {
+          "ক": "৩ নভেম্বর ১৯৭১",
+          "খ": "৩ নভেম্বর ১৯৭৫",
+          "গ": "৫ নভেম্বর ১৯৭৫",
+          "ঘ": "৩ নভেম্বর ১৯৭৬"
+        },
+        "question": "নৃশংস জেল হত্যাকান্ড কখন সংঘটিত হয়?",
+        "solution": "খ. ৩ নভেম্বর ১৯৭৫",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775504,
+      "value": {
+        "options": {
+          "ক": "১৯৭৫ সালে",
+          "খ": "১৯৭৭ সালে",
+          "গ": "১৯৭৮ সালে",
+          "ঘ": "১৯৮২ সালে"
+        },
+        "question": "বাংলাদেশে প্রথম কত সালে সামরিক শাসন জারি হয়?",
+        "solution": "ক. ১৯৭৫ সালে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8062&grade=5&lesson=14646&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8062&grade=5&lesson=14646&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8062&grade=5&lesson=14646&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 4,
+  "total": 4
+}

@@ -1,0 +1,2894 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776760,
+      "value": {
+        "options": [],
+        "question": "'A' সমাজকাঠামোর মৌল সংগঠন। 'A' দিয়ে কী বোঝানো হয়েছে? ব্যাখ্যা করো।",
+        "solution": "&#39;A&#39; হলো পরিবার। সমাজকাঠামোর মৌল সংগঠন পরিবার। এটি গোষ্ঠী জীবনের প্রথম ধাপ হচ্ছে। পরিবার মোটামুটিভাবে স্বামী-স্ত্রীর একটি&nbsp;স্থায়ী সংঘ বা প্রতিষ্ঠান, সেখানে সন্তানসন্ততি থাকতে পারে আবার নাও থাকতে পারে। এদের বাইরে অন্য সদস্যও থাকতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776745,
+      "value": {
+        "options": {
+          "ক": "তিব্বতে",
+          "খ": "উত্তর ভারতে",
+          "গ": "আফ্রিকায়",
+          "ঘ": "দক্ষিণ ভারতে"
+        },
+        "question": "টোডা জাতির বসবাস কোথায়?",
+        "solution": "ঘ. দক্ষিণ ভারতে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 776745,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776746,
+      "value": {
+        "options": {
+          "ক": "একপত্নীক",
+          "খ": "বহুপত্নীক",
+          "গ": "একক",
+          "ঘ": "যৌথ"
+        },
+        "question": "গ্রামে সাধারণত কোন ধরনের পরিবার দেখা যায়?",
+        "solution": "ঘ. যৌথ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776746,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776747,
+      "value": {
+        "options": {
+          "ক": "দেশ",
+          "খ": "রাষ্ট্র",
+          "গ": "পরিবার",
+          "ঘ": "জাতি"
+        },
+        "question": "সমাজের সৃষ্টি কোনটি থেকে?",
+        "solution": "গ. পরিবার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 776747,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776748,
+      "value": {
+        "options": {
+          "ক": "দুই ধরনের",
+          "খ": "তিন ধরনের",
+          "গ": "চার ধরনের",
+          "ঘ": "পাঁচ ধরনের"
+        },
+        "question": "কর্তৃত্বের ভিত্তিতে পরিবার কয় ধরনের?",
+        "solution": "ক. দুই ধরনের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 776748,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776749,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "বংশমর্যাদা এবং সম্পত্তির উত্তরাধিকারের ভিত্তিতে পরিবার কয় ধরনের?",
+        "solution": "ক. দুই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 776749,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776750,
+      "value": {
+        "options": {
+          "ক": "মাতৃতান্ত্রিক পরিবার",
+          "খ": "পিতৃতান্ত্রিক পরিবার",
+          "গ": "মাতৃবাস পরিবার",
+          "ঘ": "পিতৃবাস পরিবার"
+        },
+        "question": "বিয়ের পর থেকে মনসুর আলী তার স্ত্রীর পিত্রালয়ে বসবাস করছে।&nbsp;এ পরিবারটি হচ্ছে-",
+        "solution": "গ. মাতৃবাস পরিবার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3830,
+          "full_name": "ঢা. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৫",
+          "slug": "dha-bo2015",
+          "pivot": {
+            "question_bank_id": 776750,
+            "tag_id": 3830,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776751,
+      "value": {
+        "options": {
+          "ক": "আধুনিক সমাজে",
+          "খ": "মধ্যযুগীয় সমাজে",
+          "গ": "লৌহযুগীয় সমাজে",
+          "ঘ": "আদিম সমাজে"
+        },
+        "question": "কোন সমাজে বিবাহ বহির্ভূত পরিবার গঠিত হয়?",
+        "solution": "ঘ. আদিম সমাজে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776751,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776752,
+      "value": {
+        "options": {
+          "ক": "একপত্নী পরিবার",
+          "খ": "বহুপতি পরিবার",
+          "গ": "যৌথ পরিবার",
+          "ঘ": "বহুপত্নী পরিবার"
+        },
+        "question": "তমার তিন মা, তমাদের পরিবারটি হলো-",
+        "solution": "ঘ. বহুপত্নী পরিবার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776752,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776753,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশে যৌথ পরিবার ব্যবস্থা ভেঙে যাওয়ার কারণ হলো-\u003Cbr\u003E\ni. অর্থনৈতিক অসচ্ছলতা\u003Cbr\u003E\nii. অন্যত্র কর্মসংস্থানের সুযোগ\u003Cbr\u003E\niii. অজ্ঞতা ও নিরক্ষরতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 776753,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776754,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সাদমান সাহেব তার একমাত্র স্ত্রী রাহেলা ও তিন ছেলে-মেয়েকে নিয়ে অবসর সময়ে বিভিন্ন পর্যটন এলাকা পরিদর্শন করেন। সাদমান সাহেবের পরিবারটি হলো-\u003Cbr\u003E\ni. একপত্নী পরিবার\u003Cbr\u003E\nii. বহুপত্নী পরিবার\u003Cbr\u003E\niii. একটি আদর্শ পরিবার\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776755,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বর্তমানে যৌথ পরিবার কমে যাওয়ার কারণ-\u003Cbr\u003E\ni. শিল্পায়ন ও নগরায়ণ\u003Cbr\u003E\nii. ভোগবাদী মানসিকতা\u003Cbr\u003E\niii. ক্ষুদ্র ঋণদান কর্মসূচির অসুবিধা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 776755,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776756,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অন্তর্গোত্র বিবাহভিত্তিক পরিবার গঠনের ক্ষেত্রে যে যুক্তিটি কার্যকর ভূমিকা রাখে, তা হলো-\u003Cbr\u003E\ni. রক্তের বন্ধন রক্ষা করা\u003Cbr\u003E\nii. অজাচার রোধ করা\u003Cbr\u003E\niii. রক্তের বিশুদ্ধতা রক্ষা করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 776756,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776757,
+      "value": {
+        "options": {
+          "ক": "একক",
+          "খ": "যৌথ",
+          "গ": "বর্ধিত",
+          "ঘ": "নয়াবাস"
+        },
+        "question": "হাছান তার বাবা-মা, দাদা-দাদির সাথে কলিমপুর গ্রামে বসবাস করে। হাছান প্রতিদিন তার দাদার সাথে বাইরে ঘুরতে যায় এবং অনেক কিছু শেখে।\u003Cbr\u003E\nহাছান কোন ধরনের পরিবারে বসবাস করে?",
+        "solution": "গ. বর্ধিত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 776757,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776758,
+      "value": {
+        "options": [],
+        "question": "সমাজজীবনে পরিবারের ভূমিকা ব্যাখ্যা করো।",
+        "solution": "পরিবার সমাজের প্রাথমিক প্রতিষ্ঠান। পরিবার থেকে সমাজের উৎপত্তি ঘটেছে। সমাজে যেসব সামাজিক প্রতিষ্ঠান গড়ে উঠেছে তার মধ্যে পরিবার অন্যতম। মানুষের অকৃত্রিম ও নিবিড় সম্পর্ক পরিবারের মাধ্যমেই গড়ে ওঠে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776759,
+      "value": {
+        "options": [],
+        "question": "সাদিক এমন একটি সামাজিক প্রক্রিয়া সম্পর্কে জানলো, যা সমগ্র জীবনব্যাপী চলতে থাকে। প্রক্রিয়াটি সম্পর্কে যা জানো লেখো।",
+        "solution": "সাদিক যে প্রক্রিয়াটি সম্পর্কে জানলো সেটি হলো সামাজিকীকরণ। জন্মের পর থেকে মৃত্যু পর্যন্ত বিভিন্ন মাধ্যমে অভিজ্ঞতা অর্জন ও খাপ খাওয়ানোর প্রক্রিয়াকেই সামাজিকীকরণ বলে। নতুন নিয়মকানুন, রীতিনীতি এবং নতুন পরিবেশ পরিস্থিতির নিজেকে খাপ খাইয়ে চলার প্রক্রিয়াই সামাজিকীকরণ। এটি মানুষের জীবনব্যাপী চলতে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776744,
+      "value": {
+        "options": {
+          "ক": "অনুলোম বিবাহভিত্তিক পরিবার",
+          "খ": "অন্তর্গোত্র বিবাহভিত্তিক পরিবার",
+          "গ": "যৌথ পরিবার",
+          "ঘ": "নয়াবাস পরিবার"
+        },
+        "question": "জনাব স্বপন ও সোমা একই প্রতিষ্ঠানে কর্মরত। সদ্য তারা বিবাহ বন্ধনে আবদ্ধ হয়ে চট্টগ্রাম শহরে বসবাস শুরু করে। এ দুজনের গঠিত পরিবারকে কোন পরিবার বলা হয়?",
+        "solution": "ঘ. নয়াবাস পরিবার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776744,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776761,
+      "value": {
+        "options": [],
+        "question": "আদিম সমাজের সাথে বর্তমান সমাজে পরিবার গঠনের ক্ষেত্রে কীরূপ ভিন্নতা পরিলক্ষিত হয়?",
+        "solution": "বর্তমান সমাজে বিবাহের মাধ্যমে পরিবার গঠিত হয়। বাংলাদেশে একজন পুরুষ সমাজে স্বীকৃত উপায়ে একজন নারীকে বিয়ে করে পরিবার গঠন করে। আদিম সমাজে বিবাহ ব্যতিরেকেই পরিবার গঠিত হতো।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776762,
+      "value": {
+        "options": [],
+        "question": "মানবজীবনে পরিবারের ভূমিকা উল্লেখ করো।",
+        "solution": "সমাজ বিকাশের প্রত্যেক স্তরেই পরিবার অস্তিত্ব রয়েছে। আমাদের দলবদ্ধ জীবনের ভিত্তি হিসেবে সন্তান জন্মদান, প্রতিপালন এবং সচেতনতা&nbsp;সৃষ্টি প্রভৃতি পরিবারে ঘটে। পরিবার থেকেই মানুষ নিয়ম-নীতি, আদর্শ, মূল্যবোধ শিখে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776763,
+      "value": {
+        "options": [],
+        "question": "স্বামী-স্ত্রীর সংখ্যার ভিত্তিতে পরিবার কয় ধরনের? ধরনগুলো লেখো।",
+        "solution": "স্বামী-স্ত্রীর ভিত্তিতে পরিবার তিন ধরনের হয়ে থাকে। যথা- একপত্নী, বহুপত্নী ও বহুপতি পরিবার।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776764,
+      "value": {
+        "options": [],
+        "question": "দ্বীপ রায়ের বাবা তার বিয়ের জন্য গোত্র দেখে পাত্রী নির্বাচন করলেন। এটি কোন ধরনের পরিবারকে নির্দেশ করে? এটি কয় প্রকার ও কী কী?",
+        "solution": "দ্বীপ রায়ের বিয়ে হিন্দু সমাজের গোত্রভিত্তিক পরিবারকে নির্দেশ করে। এটি দুই প্রকার, যথা- বহির্গোত্র বিবাহভিত্তিক পরিবার এবং অন্তর্গোত্র বিবাহভিত্তিক পরিবার।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776765,
+      "value": {
+        "options": [],
+        "question": "অর্ণব তার গোত্রের বাইরের একটি মেয়েকে বিয়ে করায় অর্ণবের মা মনক্ষুন্ন হয়েছেন। এটি কোন ধরনের পরিবারকে নির্দেশ করে? এটি কয় প্রকার ও কী কী?",
+        "solution": "এটি বহির্গোত্র বিবাহভিত্তিক পরিবারকে নির্দেশ করে। এটি দুই প্রকার। যথা- ১. অনুলোম বিবাহভিত্তিক, পরিবার ও ২. প্রতিলোম বিবাহভিত্তিক পরিবার।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776766,
+      "value": {
+        "options": [],
+        "question": "কোন ধরনের বিবাহভিত্তিক পরিবার হিন্দু সমাজে ব্যাপক প্রচলিত? এর কারণ কী?",
+        "solution": "অন্তর্গোত্র বিবাহভিত্তিক পরিবার হিন্দু সমাজে ব্যাপক প্রচলিত। এর পেছনে কারণ হলো- নিজ গোত্রের মধ্যে তথাকথিত রক্তের বন্ধন ও বিশুদ্ধতা রক্ষা করা। তবে বর্তমানে অধিকাংশ হিন্দু পরিবার এ প্রথাকে কুসংস্কার মনে করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776767,
+      "value": {
+        "options": [],
+        "question": "পরিবারকে আয়ের একক বলা হয় কেন? ব্যাখ্যা করো।",
+        "solution": "এক সময় গ্রামীণ যৌথ পরিবারের মধ্যেই অর্থনৈতিক কর্মকাণ্ড&nbsp;সম্পাদিত হতো। কিন্তু সময়ের পরিবর্তনের সাথে সাথে অর্থনৈতিক&nbsp;কাজগুলো মিল, কারখানা, বাজার, ব্যাংক এসব প্রতিষ্ঠানের মাধ্যমে&nbsp;সম্পাদিত হচ্ছে। এখন পরিবারের সদস্যদের অধিকাংশই অর্থ উপার্জনের জন্য ঘরের বাইরে কাজ করে। তাই পরিবারকে আয়ের একক বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776768,
+      "value": {
+        "options": [],
+        "question": "সম্পত্তির সংরক্ষণ ও উত্তরাধিকার নির্ধারণের ক্ষেত্রে পরিবারের ভূমিকা উল্লেখ করো।",
+        "solution": "পারিবারিক সম্পত্তির উত্তরাধিকার প্রথা প্রায় সকল সমাজ ব্যবস্থায় বিদ্যমান রয়েছে। বিষয় সম্পত্তি, জমিজমা থেকে শুরু করে সকল স্থাবর-অস্থাবর সম্পত্তি উত্তরাধিকার সূত্রে এক প্রজন্ম থেকে অন্য প্রজন্মে হস্তান্তরিত হয়। পরিবারই যেহেতু প্রজন্ম সৃষ্টি করে তাই সম্পত্তির সংরক্ষণ ও উত্তরাধিকার নির্ধারণের ক্ষেত্রে পরিবারের ভূমিকা গুরুত্বপূর্ণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776769,
+      "value": {
+        "options": [],
+        "question": "গোষ্ঠীবদ্ধ মানুষের সামাজিক মূল্যবোধের পরিচয় পাওয়া যায় কীভাবে?",
+        "solution": "গোষ্ঠীবদ্ধ মানুষের সামাজিক মূল্যবোধের পরিচয় পাওয়া যায় তাদের জীবনধারার মাধ্যমে। উদাহরণস্বরূপ বলা যায়, একজন বাংলাদেশি কিংবা ভারতীয় নাগরিকের মূল্যবোধ চীনাদের মূল্যবোধ থেকে আলাদা। বাংলাদেশি ও ভারতীয়রা তাদের জীবনধারায় আত্মিক উন্নতি, আধ্যাত্মিকতা, অপরের জন্য স্বার্থত্যাগ প্রভৃতি বিষয়ে গুরুত্বারোপ করে। অন্যদিকে বৈষয়িক উন্নতি ও সমৃদ্ধিলাভই চীনাদের জীবনধারার মৌলিক বৈশিষ্ট্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776770,
+      "value": {
+        "options": [],
+        "question": "গ্রামীণ পরিবার ও শহরের পরিবারের ২টি পার্থক্য লেখো।",
+        "solution": "বাংলাদেশের গ্রাম ও শহরের পরিবারে ধরন ও ভূমিকার ২টি পার্থক্য হলো- ১. গ্রামে বর্ধিত পরিবার দেখা গেলেও শহরে এ ধরনের পরিবার নেই বললেই চলে; ২. পিতৃপ্রধান ও পিতৃবাসে পরিবার ব্যবস্থা গ্রাম-শহর উভয় স্থানে থাকলেও শহরে নয়াবাস পরিবারের সংখ্যাই বেশি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776771,
+      "value": {
+        "options": [],
+        "question": "শিশুর শিক্ষাকেন্দ্র হিসেবে পরিবারের ভূমিকা ব্যাখ্যা করো।",
+        "solution": "পরিবার শিশুর আনুষ্ঠানিক এবং নৈতিক শিক্ষাকেন্দ্র। নৈতিকতার বীজ পরিবারিক মূল্যবোধ থেকেই শিশুর আচরণে বিকশিত হয়। আচার-ব্যবহার, নিয়মানুবর্তিতা, নৈতিকতা, ধর্মীয় বিধি-বিধান সম্পকীয় বিষয়গুলোর শিক্ষা শিশু পরিবার থেকেই গ্রহণ করে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776772,
+      "value": {
+        "options": [],
+        "question": "পরিবার কাঠামোতে কীভাবে নারী অধিকারের ব্যাপারে সচেতনতা বৃদ্ধি পেয়েছে?",
+        "solution": "গ্রাম ও শহরের সচেতন পরিবারগুলো এখন বাল্যবিবাহ ও যৌতুক প্রথাকে মনে-প্রাণে ঘৃণা করতে শিখেছে। সন্তান লালন-পালনে পিতার অংশগ্রহণ বৃদ্ধি পাওয়ায় নারীরা পরিবারের বাইরে কাজে অংশ নিতে পারছে। সরকারি ও বেসরকারি বিভিন্ন সংস্থার কার্যক্রম পরিচালনার মাধ্যমে গ্রামীণ ও শহরের উভয় পরিবার কাঠামোতে নারীর অধিকারের প্রতি পুরুষের সচেতনতা বৃদ্ধি পেয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776773,
+      "value": {
+        "options": [],
+        "question": "বিশেষ চাহিদাসম্পন্ন শিশুদের প্রতি আমাদের করণীয় ব্যাখ্যা করো।",
+        "solution": "আমরা শিশুদের চাহিদার ধরন ও মাত্রার উপর নির্ভর করে বিদ্যালয়, পারিবারিক ও সামাজিক পরিবেশ পরিবর্তন ও উপযোগী করে তুলব। এ শিশুরা যাতে যথাসম্ভব স্বাধীন ও নিরাপদভাবে নিজের কাজ নিজে করার সুযোগ পায় এমন পরিবেশের ব্যবস্থা করব।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776774,
+      "value": {
+        "options": [],
+        "question": "পরিবারের কয়টি কার্যাবলি ব্যাখ্যা করো।",
+        "solution": "সন্তান প্রজনন থেকে শুরু করে লালন-পালন এবং তার সুষ্ঠু বিকাশে পরিবারের গুরুত্বপূর্ণ ভূমিকা রয়েছে। পরিবার সন্তানের জৈবিক চাহিদা পূরণ করে, সন্তানকে ভরণ-পোষণ করে বড়ো করে তোলে। এছাড়া পরিবার অর্থনৈতিক কর্মকাণ্ড পরিচালনা, শিক্ষাদান, স্বাস্থ্যসেবা ও বিনোদনের ব্যবস্থাও করে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776729,
+      "value": {
+        "options": {
+          "ক": "১",
+          "খ": "২",
+          "গ": "৩",
+          "ঘ": "৪&nbsp;"
+        },
+        "question": "অণু পরিবার কয় পুরুষে আবদ্ধ?",
+        "solution": "খ. ২",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 776729,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776714,
+      "value": {
+        "options": {
+          "ক": "ড. মুনীর চৌধুরী",
+          "খ": "আলাউদ্দিন আল আজাদ",
+          "গ": "জহির রায়হান",
+          "ঘ": "আবদুল লতিফ"
+        },
+        "question": "'আরেক ফাল্গুন' উপন্যাসটির রচয়িতা কে?",
+        "solution": "গ. জহির রায়হান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 776714,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776715,
+      "value": {
+        "options": {
+          "ক": "মৌলিক একক",
+          "খ": "মৌল ভিত্তি",
+          "গ": "মৌল সংগঠন",
+          "ঘ": "মৌলিক প্রতিষ্ঠান"
+        },
+        "question": "পরিবার সমাজ কাঠামোর কী?",
+        "solution": "গ. মৌল সংগঠন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4866,
+          "full_name": "রা. বো.'২০১৯;রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৯;রা. বো.'২০১৬",
+          "slug": "ra-bo2019ra-bo2016",
+          "pivot": {
+            "question_bank_id": 776715,
+            "tag_id": 4866,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776716,
+      "value": {
+        "options": {
+          "ক": "সামাজিক",
+          "খ": "ব্যক্তিগত",
+          "গ": "রাজনৈতিক",
+          "ঘ": "সাংস্কৃতিক"
+        },
+        "question": "পরিবার কোন ধরনের প্রতিষ্ঠান?",
+        "solution": "ক. সামাজিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3811,
+          "full_name": "য. বো.'২০১৭",
+          "short_name": "য. বো.'২০১৭",
+          "slug": "z-bo2017",
+          "pivot": {
+            "question_bank_id": 776716,
+            "tag_id": 3811,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776717,
+      "value": {
+        "options": {
+          "ক": "আফ্রিকায়",
+          "খ": "তিব্বতে",
+          "গ": "ভারতে",
+          "ঘ": "চীনে"
+        },
+        "question": "বহুস্বামী গ্রহণ পদ্ধতির প্রচলন কোথায় ছিল?",
+        "solution": "খ. তিব্বতে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 776717,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776718,
+      "value": {
+        "options": {
+          "ক": "চাকমা ও মারমা",
+          "খ": "হাজং ও মুরং",
+          "গ": "সাঁওতাল ও রাখাইন",
+          "ঘ": "খাসিয়া ও গারো"
+        },
+        "question": "মাতৃসূত্রীয় পরিবার ব্যবস্থা প্রচলিত আছে কোন ক্ষুদ্র নৃ-গোষ্ঠীর মধ্যে?",
+        "solution": "ঘ. খাসিয়া ও গারো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4867,
+          "full_name": "রা. বো.'২০২৪;দি. বো.'২০১৫",
+          "short_name": "রা. বো.'২০২৪;দি. বো.'২০১৫",
+          "slug": "ra-bo2024di-bo2015",
+          "pivot": {
+            "question_bank_id": 776718,
+            "tag_id": 4867,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776719,
+      "value": {
+        "options": {
+          "ক": "ব্যক্তি",
+          "খ": "পরিবার",
+          "গ": "গোষ্ঠী",
+          "ঘ": "দল"
+        },
+        "question": "ক্ষুদ্রতম সামাজিক সংগঠন কোনটি?",
+        "solution": "খ. পরিবার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776720,
+      "value": {
+        "options": {
+          "ক": "পিতৃবাস",
+          "খ": "মাতৃবাস",
+          "গ": "নয়াবাস",
+          "ঘ": "এক পত্নীক"
+        },
+        "question": "সাতক্ষীরার ছেলে মামুন নারায়ণগঞ্জের মেয়ে লিমাকে বিয়ে করে জামালপুরে স্থায়ীভাবে বসবাস করেন। একমাত্র মেয়ে তনিমাকে নিয়ে তাদের সুখের সংসার।\u003Cbr\u003E\nবসবাসের স্থানের ভিত্তিতে মামুন-লিমার পরিবারটি কোন শ্রেণির?",
+        "solution": "গ. নয়াবাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 776720,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776721,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "হাছান তার বাবা-মা, দাদা-দাদির সাথে কলিমপুর গ্রামে বসবাস করে। হাছান প্রতিদিন তার দাদার সাথে বাইরে ঘুরতে যায় এবং অনেক কিছু শেখে।\u003Cbr\u003E\nসামাজিকীকরণ প্রক্রিয়ায় হাছান শিখবে-\u003Cbr\u003E\ni. সাহায্যের মনোভাব\u003Cbr\u003E\nii. কথা বলার ধরন\u003Cbr\u003E\niii. জটিল সমাজজীবন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776722,
+      "value": {
+        "options": {
+          "ক": "মাতৃবাস",
+          "খ": "পিতৃবাস",
+          "গ": "নয়াবাস",
+          "ঘ": "একপত্নী"
+        },
+        "question": "সদ্য বিয়ে করা চাকরিজীবী সোহেল জামাল সাহেবের বাসায় সাবলেট হিসেবে উঠেন। দুজনে নতুন সংসার গোছাতে এখন ব্যস্ত ।\u003Cbr\u003E\nবসবাসের ভিত্তিতে সোহেলের পরিবারটি কোন ধরনের?",
+        "solution": "গ. নয়াবাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 776722,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776723,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সদ্য বিয়ে করা চাকরিজীবী সোহেল জামাল সাহেবের বাসায় সাবলেট হিসেবে উঠেন। দুজনে নতুন সংসার গোছাতে এখন ব্যস্ত ।\u003Cbr\u003E\nবর্তমানে এ ধরনের পরিবারের বিস্তৃতি ঘটার কারণ হলো-\u003Cbr\u003E\ni. নিজের কর্তৃত্বে থাকার অভিপ্রায়ে\u003Cbr\u003E\nii. পেশা সংশ্লিষ্টতার কারণে\u003Cbr\u003E\niii. আর্থিক অসচ্ছলতার জন্য\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 776723,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776724,
+      "value": {
+        "options": {
+          "ক": "একক",
+          "খ": "যৌথ",
+          "গ": "অণু",
+          "ঘ": "বর্ধিত"
+        },
+        "question": "দাদা-বাবা-নাতি এ তিন প্রজন্ম তাদের স্ত্রী, ভাই, সন্তানাদি নিয়ে একত্রে বসবাস করলে তা কী ধরনের পরিবার?",
+        "solution": "ঘ. বর্ধিত",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4868,
+          "full_name": "ঢা. বো.'২০১৯;সি. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০১৯;সি. বো.'২০২০",
+          "slug": "dha-bo2019si-bo2020",
+          "pivot": {
+            "question_bank_id": 776724,
+            "tag_id": 4868,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776725,
+      "value": {
+        "options": {
+          "ক": "পিতৃসূত্রীয়",
+          "খ": "মাতৃসূত্রীয়",
+          "গ": "মাতৃবাস",
+          "ঘ": "পিতৃবাস"
+        },
+        "question": "বিবাহের পর নবদম্পতি স্ত্রীর পিতৃগৃহে বসবাস করলে তাকে কোন ধরনের পরিবার বলা হয়?",
+        "solution": "গ. মাতৃবাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 776725,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776726,
+      "value": {
+        "options": {
+          "ক": "পরিবার",
+          "খ": "বিবাহ",
+          "গ": "রাষ্ট্র",
+          "ঘ": "সমাজ"
+        },
+        "question": "গোষ্ঠীবদ্ধ জীবনের আদি ধাপ কোনটি?",
+        "solution": "ক. পরিবার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4869,
+          "full_name": "ব. বো.'২০১৯;দি. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৯;দি. বো.'২০১৭",
+          "slug": "b-bo2019di-bo2017",
+          "pivot": {
+            "question_bank_id": 776726,
+            "tag_id": 4869,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776727,
+      "value": {
+        "options": {
+          "ক": "মূল্যবোধ",
+          "খ": "বিবাহ",
+          "গ": "নিয়মনীতি",
+          "ঘ": "আত্মীয়তা"
+        },
+        "question": "পরিবার গঠনের পূর্বশর্ত কোনটি?",
+        "solution": "খ. বিবাহ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4870,
+          "full_name": "দি. বো.'২০১৯;ব. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৯;ব. বো.'২০১৬",
+          "slug": "di-bo2019b-bo2016",
+          "pivot": {
+            "question_bank_id": 776727,
+            "tag_id": 4870,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776728,
+      "value": {
+        "options": {
+          "ক": "অণু পরিবার",
+          "খ": "যৌথ পরিবার",
+          "গ": "বর্ধিত পরিবার",
+          "ঘ": "মাতৃতান্ত্রিক পরিবার"
+        },
+        "question": "জনাব কালাম তার স্ত্রী, সন্তান, বাবা-মা ও দাদা-দাদিসহ এক সাথে বসবাস করেন। তার পরিবারের রূপ হলো-",
+        "solution": "গ. বর্ধিত পরিবার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4871,
+          "full_name": "ঢা. বো.'২০১৭;সি. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০১৭;সি. বো.'২০২৪",
+          "slug": "dha-bo2017si-bo2024",
+          "pivot": {
+            "question_bank_id": 776728,
+            "tag_id": 4871,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776713,
+      "value": {
+        "options": {
+          "ক": "একক",
+          "খ": "মাতৃবাস",
+          "গ": "পিতৃবাস",
+          "ঘ": "নয়াবাস"
+        },
+        "question": "কোন ধরনের পরিবার বৃদ্ধি পাওয়ায় বৃদ্ধ পিতামাতার মধ্যে নিরাপত্তার অভাব দেখা দেয়?",
+        "solution": "ঘ. নয়াবাস",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 776713,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776730,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "স্বামী-স্ত্রীর সংখ্যার ভিত্তিতে পরিবার কত প্রকার?",
+        "solution": "খ. ৩",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776730,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776731,
+      "value": {
+        "options": {
+          "ক": "বহুপতি পরিবার",
+          "খ": "বহুপত্নিক পরিবার",
+          "গ": "মাতৃপ্রধান পরিবার",
+          "ঘ": "পিতৃপ্রধান পরিবার"
+        },
+        "question": "কৃষিভিত্তিক গ্রামীণ মুসলিম সমাজে কোন ধরনের পরিবার দেখা যায়?",
+        "solution": "খ. বহুপত্নিক পরিবার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3847,
+          "full_name": "ব. বো.'২০১৬",
+          "short_name": "ব. বো.'২০১৬",
+          "slug": "b-bo2016",
+          "pivot": {
+            "question_bank_id": 776731,
+            "tag_id": 3847,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776732,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশের পরিবার ভেঙে যাওয়ার কারণ হলো-\u003Cbr\u003E\ni. দারিদ্র্য ও জনসংখ্যা বৃদ্ধি\u003Cbr\u003E\nii. শিল্পায়ন ও নগরায়ণ\u003Cbr\u003E\niii. কর্ম বহুমুখীতা ও শিক্ষার হার বৃদ্ধি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 776732,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776733,
+      "value": {
+        "options": {
+          "ক": "বহির্গোত্র",
+          "খ": "অন্তর্গোত্র",
+          "গ": "প্রতিলোম",
+          "ঘ": "বহুগোত্রীয়"
+        },
+        "question": "'অনুলোম বিবাহভিত্তিক' পরিবার কোন পরিবারের অন্তর্ভুক্ত?",
+        "solution": "ক. বহির্গোত্র",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 776733,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776734,
+      "value": {
+        "options": {
+          "ক": "৩",
+          "খ": "৪",
+          "গ": "৫",
+          "ঘ": "৬"
+        },
+        "question": "আকারের ভিত্তিতে পরিবার কত ধরনের হয়ে থাকে?",
+        "solution": "ক. ৩",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 776734,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776735,
+      "value": {
+        "options": {
+          "ক": "পরিবার",
+          "খ": "সমাজ",
+          "গ": "ধর্ম",
+          "ঘ": "গোষ্ঠী"
+        },
+        "question": "সমাজ কাঠামোর মৌল সংগঠন কোনটি?",
+        "solution": "ক. পরিবার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 776735,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776736,
+      "value": {
+        "options": {
+          "ক": "অর্থনৈতিক প্রয়োজন পূরণের জন্য",
+          "খ": "জৈবিক চাহিদা পূরণের জন্য",
+          "গ": "বিনোদনের জন্য",
+          "ঘ": "সম্পত্তি রক্ষার জন্য"
+        },
+        "question": "মানুষ পরিবার গঠন করে কেন?",
+        "solution": "খ. জৈবিক চাহিদা পূরণের জন্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 776736,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776737,
+      "value": {
+        "options": {
+          "ক": "অর্থনৈতিক",
+          "খ": "বিনোদন",
+          "গ": "ভরণ-পোষণ",
+          "ঘ": "শিক্ষাদান"
+        },
+        "question": "শিশুর আচার-আচরণগত জ্ঞান অর্জন পরিবারে কোন কার্যাবলির অন্তর্ভুক্ত?",
+        "solution": "ঘ. শিক্ষাদান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 776737,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776738,
+      "value": {
+        "options": {
+          "ক": "অনুলোম বিবাহভিত্তিক পরিবার",
+          "খ": "প্রতিলোম বিবাহভিত্তিক পরিবার",
+          "গ": "অন্তর্গোত্র বিবাহভিত্তিক পরিবার",
+          "ঘ": "সমগোত্র বিবাহভিত্তিক পরিবার"
+        },
+        "question": "মিশুক চক্রবর্তী অপেক্ষাকৃত নিচু গোত্রের মিতা দাসকে বিবাহ করে। তাদের পরিবারটি কোন ধরনের?",
+        "solution": "ক. অনুলোম বিবাহভিত্তিক পরিবার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776738,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776739,
+      "value": {
+        "options": {
+          "ক": "আকারের ভিত্তিতে পরিবার",
+          "খ": "কর্তৃত্বের ভিত্তিতে পরিবার",
+          "গ": "পাত্র-পাত্রী নির্বাচনের ভিত্তিতে পরিবার",
+          "ঘ": "বংশ মর্যাদা ও সম্পত্তির উত্তরাধিকারের ভিত্তিতে পরিবার"
+        },
+        "question": "কোন মাপকাঠির ভিত্তিতে পরিবারকে পিতৃতান্ত্রিক অথবা মাতৃতান্ত্রিক ভাগে ভাগ করা যায়?",
+        "solution": "খ. কর্তৃত্বের ভিত্তিতে পরিবার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 776739,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776740,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্র",
+          "খ": "সমাজ",
+          "গ": "সরকার",
+          "ঘ": "পরিবার"
+        },
+        "question": "মানুষের দলবদ্ধ জীবনযাপনের বিশ্বজনীন প্রতিষ্ঠান কী?",
+        "solution": "ঘ. পরিবার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 776740,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776741,
+      "value": {
+        "options": {
+          "ক": "একপত্নী",
+          "খ": "বহুপত্নী",
+          "গ": "বহুপতি",
+          "ঘ": "যৌথ পরিবার"
+        },
+        "question": "কোন ধরনের পরিবার বাংলাদেশে দেখা যায় না?",
+        "solution": "গ. বহুপতি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 776741,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776742,
+      "value": {
+        "options": {
+          "ক": "পিতৃবাস",
+          "খ": "মাতৃবাস",
+          "গ": "যৌথ পরিবার",
+          "ঘ": "নয়াবাস পরিবার"
+        },
+        "question": "শহরে চাকরিজীবীদের মধ্যে কোন ধরনের পরিবার বেশি দেখা যায়?",
+        "solution": "ঘ. নয়াবাস পরিবার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4872,
+          "full_name": "রা. বো.'২০১৫;ব. বো.'২০২৪",
+          "short_name": "রা. বো.'২০১৫;ব. বো.'২০২৪",
+          "slug": "ra-bo2015b-bo2024",
+          "pivot": {
+            "question_bank_id": 776742,
+            "tag_id": 4872,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776743,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সাতক্ষীরার ছেলে মামুন নারায়ণগঞ্জের মেয়ে লিমাকে বিয়ে করে জামালপুরে স্থায়ীভাবে বসবাস করেন। একমাত্র মেয়ে তনিমাকে নিয়ে তাদের সুখের সংসার।\u003Cbr\u003E\nমামুন-লিমার পরিবার মূলত-\u003Cbr\u003E\ni. আদর্শ পরিবার\u003Cbr\u003E\nii. মৌল সংগঠন\u003Cbr\u003E\niii. গোষ্ঠী জীবনের প্রথম ধাপ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 776743,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:52:10.000000Z",
+            "updated_at": "2025-12-01T15:52:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8074&grade=5&lesson=14713&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8074&grade=5&lesson=14713&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8074&grade=5&lesson=14713&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 62,
+  "total": 62
+}

@@ -1,0 +1,541 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775948,
+      "value": {
+        "options": {
+          "ক": "মুখ্য",
+          "খ": "ঐচ্ছিক",
+          "গ": "কল্যাণমূলক",
+          "ঘ": "নিরাপত্তামূলক"
+        },
+        "question": "মলি ও পলি দুই বোন। তারা পিতার জমির ভাগবাটোয়ারা নিয়ে তাদের মধ্যকার বিরোধ আদালতের মাধ্যমে নিষ্পত্তি হয়। এটাতে সবাই খুশি। মলি-পলির খুশি করার ঘটনা পরিচালনা রাষ্ট্রের কোন ধরনের কাজ?",
+        "solution": "ক. মুখ্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775948,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:34:28.000000Z",
+            "updated_at": "2025-12-01T15:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775949,
+      "value": {
+        "options": {
+          "ক": "কল্যাণমূলক",
+          "খ": "ঐচ্ছিক",
+          "গ": "মুখ্য",
+          "ঘ": "গৌণ"
+        },
+        "question": "বাংলাদেশ সরকার ভারতের সাথে ছিটমহল বিষয়ক চুক্তি করে ছিটমহল বিনিময় করে। এটি রাষ্ট্রের কোন ধরনের কাজ?",
+        "solution": "গ. মুখ্য",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 775949,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:34:28.000000Z",
+            "updated_at": "2025-12-01T15:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775950,
+      "value": {
+        "options": {
+          "ক": "প্রধানমন্ত্রী",
+          "খ": "রাষ্ট্রপতি",
+          "গ": "প্রধান বিচারপতি",
+          "ঘ": "সামরিক বাহিনীর প্রধান"
+        },
+        "question": "প্রয়োজনে রাষ্ট্রের জরুরি অবস্থা ঘোষণা করেন কে?",
+        "solution": "খ. রাষ্ট্রপতি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 775950,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-01T15:34:28.000000Z",
+            "updated_at": "2025-12-01T15:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775951,
+      "value": {
+        "options": {
+          "ক": "ঐচ্ছিক",
+          "খ": "কল্যাণমূলক",
+          "গ": "মুখ্য",
+          "ঘ": "সাধারণপ্রধান"
+        },
+        "question": "জাতীয় নিরাপত্তা বিধান করা রাষ্ট্রের কোন ধরনের কাজ?",
+        "solution": "গ. মুখ্য",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775952,
+      "value": {
+        "options": {
+          "ক": "আর. এম. ম্যাকাইভার",
+          "খ": "অ্যারিস্টটল",
+          "গ": "অধ্যাপক গার্নার",
+          "ঘ": "অধ্যাপক হল্যান্ড"
+        },
+        "question": "'The Modern State' গ্রন্থের রচয়িতা কে?",
+        "solution": "ক. আর. এম. ম্যাকাইভার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4816,
+          "full_name": "য. বো.'২০২৪;চ. বো.'২০২৪;ঢা. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৪;চ. বো.'২০২৪;ঢা. বো.'২০২৩",
+          "slug": "z-bo2024c-bo2024dha-bo2023",
+          "pivot": {
+            "question_bank_id": 775952,
+            "tag_id": 4816,
+            "year": null,
+            "created_at": "2025-12-01T15:34:28.000000Z",
+            "updated_at": "2025-12-01T15:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775953,
+      "value": {
+        "options": {
+          "ক": "কাঠামোগত উন্নয়নের জন্য",
+          "খ": "ভালো যোগাযোগ ব্যবস্থার জন্য",
+          "গ": "শক্তিশালী অর্থনীতির জন্য",
+          "ঘ": "গুণগত শিক্ষার জন্য"
+        },
+        "question": "রাষ্ট্রের মুখ্য কাজ গুরুত্বপূর্ণ কেন?",
+        "solution": "গ. শক্তিশালী অর্থনীতির জন্য",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 775953,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:34:28.000000Z",
+            "updated_at": "2025-12-01T15:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775954,
+      "value": {
+        "options": {
+          "ক": "অর্থনৈতিক ব্যবস্থা পরিচালনা",
+          "খ": "মুদ্রাস্ফীতি রোধ",
+          "গ": "বাজেট প্রণয়ন",
+          "ঘ": "কর্মসংস্থান সৃষ্টি"
+        },
+        "question": "রাষ্ট্রের ঐচ্ছিক কাজ কোনটি?",
+        "solution": "ঘ. কর্মসংস্থান সৃষ্টি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775954,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:34:28.000000Z",
+            "updated_at": "2025-12-01T15:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775955,
+      "value": {
+        "options": {
+          "ক": "আইনশৃঙ্খলা রক্ষা",
+          "খ": "সার্বভৌমত্ব রক্ষা",
+          "গ": "কূটনৈতিক সম্পর্ক স্থাপন",
+          "ঘ": "আইন প্রণয়ন"
+        },
+        "question": "রাষ্ট্রের প্রাথমিক কাজ কোনটি?",
+        "solution": "ক. আইনশৃঙ্খলা রক্ষা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 775955,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:34:28.000000Z",
+            "updated_at": "2025-12-01T15:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775956,
+      "value": {
+        "options": {
+          "ক": "বাধ্যতামূলক প্রাথমিক শিক্ষা প্রবর্তন করা",
+          "খ": "দ্রব্যের দাম নিয়ন্ত্রণে রাখা",
+          "গ": "খাদ্য নিরাপত্তা নিশ্চিত করা",
+          "ঘ": "স্বাস্থ্যসেবা নিশ্চিত করা"
+        },
+        "question": "রাষ্ট্রের অপরিহার্য কাজ কোনটি?",
+        "solution": "খ. দ্রব্যের দাম নিয়ন্ত্রণে রাখা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 775956,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:34:28.000000Z",
+            "updated_at": "2025-12-01T15:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775957,
+      "value": {
+        "options": {
+          "ক": "নাগরিকের স্বাস্থ্যসেবার মান বৃদ্ধি করা",
+          "খ": "দ্রব্যের দাম জনগণের সামর্থ্যের মধ্যে রাখা",
+          "গ": "রাষ্ট্রের সামগ্রিক শান্তি-শৃঙ্খলা নিশ্চিত করা",
+          "ঘ": "জনসাধারণের শিক্ষার সুব্যবস্থা করা"
+        },
+        "question": "রাষ্ট্রের সবচেয়ে বেশি গুরুত্বপূর্ণ কাজ কোনটি?",
+        "solution": "গ. রাষ্ট্রের সামগ্রিক শান্তি-শৃঙ্খলা নিশ্চিত করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 775957,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:34:28.000000Z",
+            "updated_at": "2025-12-01T15:34:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8066&grade=5&lesson=14659&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8066&grade=5&lesson=14659&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8066&grade=5&lesson=14659&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 10,
+  "total": 10
+}

@@ -1,0 +1,1405 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776321,
+      "value": {
+        "options": {
+          "ক": "উন্নয়নকার্যে অংশগ্রহণ করলে",
+          "খ": "সঠিকভাবে দায়িত্ব-কর্তব্য পালন করলে",
+          "গ": "উন্নয়নের সুফল ভোগ করলে",
+          "ঘ": "তৃণমূল পর্যায়ের লোকেরা অংশ নিলে"
+        },
+        "question": "উন্নয়নে অংশীদারিত্ব প্রতিষ্ঠিত হয় কীভাবে?",
+        "solution": "খ. সঠিকভাবে দায়িত্ব-কর্তব্য পালন করলে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776336,
+      "value": {
+        "options": {
+          "ক": "অংশীদার",
+          "খ": "অংশীজন",
+          "গ": "সুশীলজন",
+          "ঘ": "সুনাগরিক"
+        },
+        "question": "শাহজাহান সাহেব ২০ বছর ধরে মগবাজার এলাকায় বসবাস করছেন। আগে যাতায়াতের ক্ষেত্রে ঘণ্টার পর ঘণ্টা তাকে ট্রাফিক জ্যামে বসে থাকতে হতো। কিন্তু এখন ফ্লাইওভার নির্মিত হওয়ায় তিনি ফ্লাইওভার ব্যবহার করে খুব অল্প সময়ে গন্তব্যে পৌছাতে পারেন।&nbsp;\u003Cbr\u003E\nশাহজাহান সাহেবকে কী বলা যায়?",
+        "solution": "খ. অংশীজন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776335,
+      "value": {
+        "options": {
+          "ক": "সুবিধাভোগী",
+          "খ": "অংশীজন",
+          "গ": "তৃণমূল জনগোষ্ঠী",
+          "ঘ": "উন্নয়নকামী"
+        },
+        "question": "উন্নয়নের সুফল ভোগকারী জনগোষ্ঠীকে কী বলা হয়?",
+        "solution": "খ. অংশীজন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776334,
+      "value": {
+        "options": {
+          "ক": "সরকারি পদক্ষেপ",
+          "খ": "সার্বিক ক্ষমতা অর্জন",
+          "গ": "বৈশ্বিক অংশীদারিত্ব উৎসাহিতকরণ",
+          "ঘ": "পারস্পরিক সহযোগিতা বৃদ্ধি"
+        },
+        "question": "বাংলাদেশের ক্ষেত্রে টেকসই উন্নয়নের একটি বিশেষ দিক কী?",
+        "solution": "খ. সার্বিক ক্ষমতা অর্জন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776333,
+      "value": {
+        "options": {
+          "ক": "সামষ্টিক কল্যাণের চিন্তা",
+          "খ": "ব্যক্তিক লাভের আশা",
+          "গ": "অংশীজনের সচেতন ভাবনা",
+          "ঘ": "টেকসই উন্নয়ন কার্যক্রম"
+        },
+        "question": "আরমান সাহেব কাঠের আসবাবপত্র বিক্রি করেন এবং কাঠ সংগ্রহের জন্য নির্বিচারে বৃক্ষনিধনেও অংশ নিয়ে থাকেন। এখানে কিসের প্রকাশ ঘটেছে?",
+        "solution": "খ. ব্যক্তিক লাভের আশা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776332,
+      "value": {
+        "options": {
+          "ক": "ক্ষুধামুক্তি",
+          "খ": "সুস্বাস্থ্য",
+          "গ": "গুণগত শিক্ষা",
+          "ঘ": "জেন্ডার সমতা"
+        },
+        "question": "এসডিজি এর ৪র্থ নম্বর অভীক্ষা কোনটি?",
+        "solution": "গ. গুণগত শিক্ষা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4846,
+          "full_name": "কু. বো.'২০২৩;ব. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩;ব. বো.'২০২৩",
+          "slug": "ku-bo2023b-bo2023",
+          "pivot": {
+            "question_bank_id": 776332,
+            "tag_id": 4846,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776331,
+      "value": {
+        "options": {
+          "ক": "গুণগত শিক্ষা",
+          "খ": "জেন্ডার সমতা",
+          "গ": "অসমতা হ্রাস",
+          "ঘ": "পরিবেশ সংরক্ষণ"
+        },
+        "question": "টেকসই উন্নয়নের প্রধান ক্ষেত্র কোনটি?",
+        "solution": "ঘ. পরিবেশ সংরক্ষণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 776331,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776330,
+      "value": {
+        "options": {
+          "ক": "৮টি",
+          "খ": "১৩টি",
+          "গ": "১৭টি",
+          "ঘ": "১৯টি"
+        },
+        "question": "এসিডিজির অভীষ্ট অর্জনের লক্ষ্যমাত্রা কয়টি?",
+        "solution": "গ. ১৭টি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 776330,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776329,
+      "value": {
+        "options": {
+          "ক": "সমাজ, অর্থনীতি ও পরিবেশ",
+          "খ": "পরিবেশ, প্রযুক্তি ও যোগাযোগ",
+          "গ": "শিক্ষা, যোগাযোগ ও প্রযুক্তি",
+          "ঘ": "অর্থনীতি, শিক্ষা ও জলবায়ু"
+        },
+        "question": "টেকসই উন্নয়নের ক্ষেত্র হলো-",
+        "solution": "ক. সমাজ, অর্থনীতি ও পরিবেশ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 776329,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776328,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শাহজাহান সাহেব ২০ বছর ধরে মগবাজার এলাকায় বসবাস করছেন। আগে যাতায়াতের ক্ষেত্রে ঘণ্টার পর ঘণ্টা তাকে ট্রাফিক জ্যামে বসে থাকতে হতো। কিন্তু এখন ফ্লাইওভার নির্মিত হওয়ায় তিনি ফ্লাইওভার ব্যবহার করে খুব অল্প সময়ে গন্তব্যে পৌছাতে পারেন।&nbsp;\u003Cbr\u003E\nউদ্দীপকের উন্নয়নমূলক কর্মকান্ডে শাহজাহান সাহেব অংশগ্রহণ করতে পারেন-\u003Cbr\u003E\ni. দায়িত্ব পালন করার মাধ্যমে\u003Cbr\u003E\nii. কর্তব্য পালন করার মাধ্যমে\u003Cbr\u003E\niii. সুবিধা ভোগ করার মধ্য দিয়ে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776327,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "'M' এলাকার চেয়ারম্যান তার নিজ উদ্যোগে এলাকার জনগণকে কৃষিকাজে প্রশিক্ষণ প্রদান করেন। জনগণ ফসল উৎপাদনে সার, কীটনাশক ইত্যাদি পরিমিত ব্যবহার করে পরিবেশ সহায়ক উৎপাদন পদ্ধতি অব্যাহত রাখছে।\u003Cbr\u003E\nউক্ত অভীষ্ট অর্জনে চ্যালেঞ্জ হলো-\u003Cbr\u003E\ni. সম্পদের অসম বণ্টন\u003Cbr\u003E\nii. দারিদ্র্য\u003Cbr\u003E\niii. প্রাকৃতিক দুর্যোগ&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 776327,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776326,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "কাউকে পিছিয়ে রেখে অন্যরা এগিয়ে গেলে উন্নয়ন-\u003Cbr\u003E\ni. ফলপ্রসূ হবে না\u003Cbr\u003E\nii. জাতীয়ভাবে টেকসই হবে না\u003Cbr\u003E\niii. বৈশ্বিকভাবে টেকসই হবে না\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776325,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পারস্পরিক অংশীদারিত্বের সূচনা করে-\u003Cbr\u003E\ni. আঞ্চলিক সম্পর্ক\u003Cbr\u003E\nii. জাতীয় সহযোগিতা\u003Cbr\u003E\niii. আন্তর্জাতিক সহযোগিতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776324,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "উন্নয়ন লক্ষ্য অর্জনে কাজ করতে হবে-\u003Cbr\u003E\ni. সরকারকে\u003Cbr\u003E\nii. বেসরকারি সংগঠনকে\u003Cbr\u003E\niii. তৃণমূল জনগোষ্ঠীকে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776323,
+      "value": {
+        "options": {
+          "ক": "আন্তর্জাতিক সহযোগিতা গড়ে তোলা",
+          "খ": "পররাষ্ট্রীয় বিষয়কে মজবুত করা",
+          "গ": "জনমত গঠন করা",
+          "ঘ": "সামাজিক সমস্যা চিহ্নিত করা"
+        },
+        "question": "টেকসই উন্নয়নের একটি প্রধান অভীষ্ট হচ্ছে-",
+        "solution": "ক. আন্তর্জাতিক সহযোগিতা গড়ে তোলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776322,
+      "value": {
+        "options": {
+          "ক": "সামাজিক পরিবর্তন",
+          "খ": "প্রযুক্তির উন্নতি",
+          "গ": "অংশীদারিত্ব",
+          "ঘ": "যোগাযোগের উন্নতি"
+        },
+        "question": "এসডিজি বাস্তবায়নে প্রধান বিবেচ্য বিষয় কোনটি?",
+        "solution": "গ. অংশীদারিত্ব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 776322,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776305,
+      "value": {
+        "options": {
+          "ক": "নির্দিষ্ট খাতভিত্তিক উন্নয়ন",
+          "খ": "আমদানি ও রপ্তানিমুখী উন্নয়ন",
+          "গ": "সামগ্রিক উন্নয়নের কাঠামোবদ্ধ পরিকল্পনা",
+          "ঘ": "অর্থনৈতিক উন্নয়নে কাঠামোবদ্ধ পরিকল্পনা"
+        },
+        "question": "টেকসই উন্নয়ন বলতে কী বোঝায়?",
+        "solution": "গ. সামগ্রিক উন্নয়নের কাঠামোবদ্ধ পরিকল্পনা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 776305,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776320,
+      "value": {
+        "options": {
+          "ক": "সরকার ও জনগণ",
+          "খ": "সরকার ও শিক্ষকগণ",
+          "গ": "এনজিও ও সুশীল সমাজ",
+          "ঘ": "সরকার ও সুশীল সমাজ"
+        },
+        "question": "টেকসই উন্নয়ন অভীষ্ট (এসডিজি) অর্জনে কাদেরকে একযোগে কাজ&nbsp;করতে হবে?",
+        "solution": "ক. সরকার ও জনগণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776319,
+      "value": {
+        "options": {
+          "ক": "১৭",
+          "খ": "১৬",
+          "গ": "১৫",
+          "ঘ": "১৪"
+        },
+        "question": "'অংশীদারিত্ব\" SDG এর কত নম্বর অভীষ্ট?",
+        "solution": "ক. ১৭",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 776319,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776318,
+      "value": {
+        "options": {
+          "ক": "দায়িত্ব-কর্তব্য পালন",
+          "খ": "সুফল ভোগ",
+          "গ": "সমাজ ত্যাগ",
+          "ঘ": "সামষ্টিক চিন্তা"
+        },
+        "question": "কী করলে উন্নয়নে অংশীদারিত্ব প্রতিষ্ঠিত হয়?",
+        "solution": "ক. দায়িত্ব-কর্তব্য পালন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776318,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776317,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশ এগিয়ে যাচ্ছে-\u003Cbr\u003E\ni. সাংস্কৃতিক বিবেচনায়\u003Cbr\u003E\nii. অর্থনৈতিক বিবেচনায়\u003Cbr\u003E\niii. সামাজিক সূচকের নিরিখে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776316,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একজন কৃষক তার ফসল উৎপাদনে পরিমিত সার ও কীটনাশক ব্যবহার করেন। আবার তার ক্ষেতের চারপাশে বৃক্ষ রোপণ করেন। এই কৃষক টেকসই উন্নয়নে ভূমিকা রাখছেন-\u003Cbr\u003E\ni. উন্নয়নের অংশীদার হওয়ার মাধ্যমে\u003Cbr\u003E\nii. নিজ দায়িত্ব পালন করার মাধ্যমে\u003Cbr\u003E\niii. সামষ্টিক উন্নয়নে কাজ করে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776315,
+      "value": {
+        "options": {
+          "ক": "দরিদ্র",
+          "খ": "বিত্তবান",
+          "গ": "নিম্নশ্রেণির মানুষ",
+          "ঘ": "সবার জন্য"
+        },
+        "question": "এসডিজি কাদের জন্য প্রযোজ্য?",
+        "solution": "ঘ. সবার জন্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776314,
+      "value": {
+        "options": {
+          "ক": "সার্ক",
+          "খ": "ও আই সি",
+          "গ": "জাতিসংঘ",
+          "ঘ": "কমনওয়েলথ"
+        },
+        "question": "কোন সংস্থা এসডিজি নির্ধারণ করেছে?",
+        "solution": "গ. জাতিসংঘ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776313,
+      "value": {
+        "options": {
+          "ক": "উন্নয়ন বাধাগ্রস্ত হবে",
+          "খ": "উন্নয়ন জাতীয় ও বৈশ্বিকভাবে টেকসই হবে না",
+          "গ": "সামাজিক ব্যবধান সৃষ্টি হবে",
+          "ঘ": "উন্নয়নমূলক প্রতিযোগিতা তৈরি হবে"
+        },
+        "question": "'ক' রাষ্ট্র উত্তরোত্তর উন্নয়নের দিকে ধাবিত হলেও 'খ' রাষ্ট্র সে তুলনায় অনেক পিছিয়ে রয়েছে। এক্ষেত্রে কোনটি ঘটবে?",
+        "solution": "খ. উন্নয়ন জাতীয় ও বৈশ্বিকভাবে টেকসই হবে না",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776312,
+      "value": {
+        "options": {
+          "ক": "মধ্যবিত্তদের",
+          "খ": "নিম্নবিত্তদের",
+          "গ": "সাধারণ মানুষকে",
+          "ঘ": "সুশীল সমাজকে"
+        },
+        "question": "অংশীদারিত্বের প্রক্রিয়ায় সমাজের উঁচুতলার সঙ্গে কাদেরকে অন্তর্ভুক্ত&nbsp;করতে হবে?",
+        "solution": "গ. সাধারণ মানুষকে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776311,
+      "value": {
+        "options": {
+          "ক": "সমাজকর্মী",
+          "খ": "উন্নয়নকর্মী",
+          "গ": "অংশীজন",
+          "ঘ": "অংশীদার"
+        },
+        "question": "উন্নয়নের সুফল ভোগকারী গোষ্ঠীকে কী বলা হয়?",
+        "solution": "গ. অংশীজন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776310,
+      "value": {
+        "options": {
+          "ক": "বিশ্বব্যাংক",
+          "খ": "ইউনিসেফ",
+          "গ": "ইউনেস্কো",
+          "ঘ": "জাতিসংঘ"
+        },
+        "question": "'টেকসই উন্নয়ন অভীষ্ট' (এসডিজি) অর্জনে কোন সংস্থা কাজ করছে?",
+        "solution": "ঘ. জাতিসংঘ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776309,
+      "value": {
+        "options": {
+          "ক": "২০২১",
+          "খ": "২০৩০",
+          "গ": "২০৪১",
+          "ঘ": "২০৪৫"
+        },
+        "question": "কত সালের মধ্যে SDG অর্জন করতে হবে?",
+        "solution": "খ. ২০৩০",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 776309,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776308,
+      "value": {
+        "options": {
+          "ক": "দারিদ্র্য বিলোপ",
+          "খ": "ক্ষুধা মুক্তি",
+          "গ": "অংশীদারিত্ব",
+          "ঘ": "অর্থনৈতিক প্রবৃদ্ধি"
+        },
+        "question": "'M' এলাকার চেয়ারম্যান তার নিজ উদ্যোগে এলাকার জনগণকে কৃষিকাজে প্রশিক্ষণ প্রদান করেন। জনগণ ফসল উৎপাদনে সার, কীটনাশক ইত্যাদি পরিমিত ব্যবহার করে পরিবেশ সহায়ক উৎপাদন পদ্ধতি অব্যাহত রাখছে।\u003Cbr\u003E\n'M' এলাকার চেয়ারম্যানের উদ্যোগটি SDG এর কোন অভীষ্ট অর্জনে ভূমিকা রাখে?",
+        "solution": "গ. অংশীদারিত্ব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 776308,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:43:09.000000Z",
+            "updated_at": "2025-12-01T15:43:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776307,
+      "value": {
+        "options": {
+          "ক": "সক্ষমতা অনুযায়ী",
+          "খ": "আর্থিক অবস্থা অনুযায়ী",
+          "গ": "মাথাপিছু আয় বেশি হলে",
+          "ঘ": "কর্মক্ষমতা অনুযায়ী"
+        },
+        "question": "সামষ্টিক উন্নয়ন লক্ষ্যসমূহ অর্জনে ভূমিকা রাখতে হবে-",
+        "solution": "ক. সক্ষমতা অনুযায়ী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776306,
+      "value": {
+        "options": {
+          "ক": "পরিবেশ দূষণ কমানো",
+          "খ": "ব্যক্তিস্বার্থ সংরক্ষণ করা",
+          "গ": "সামগ্রিক কল্যাণ নিশ্চিত করা",
+          "ঘ": "রাষ্ট্রের জন্য কাজ করা"
+        },
+        "question": "নিচের কোনটি এক ধরনের অংশীদারিত্ব?",
+        "solution": "গ. সামগ্রিক কল্যাণ নিশ্চিত করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8070&grade=5&lesson=14693&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8070&grade=5&lesson=14693&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8070&grade=5&lesson=14693&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 32,
+  "total": 32
+}

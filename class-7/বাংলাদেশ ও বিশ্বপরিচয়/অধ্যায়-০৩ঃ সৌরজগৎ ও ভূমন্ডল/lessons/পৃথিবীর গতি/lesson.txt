@@ -1,0 +1,1112 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775559,
+      "value": {
+        "options": {
+          "ক": "জানুয়ারি-মার্চ",
+          "খ": "ফেব্রুয়ারি-এপ্রিল",
+          "গ": "মার্চ-মে",
+          "ঘ": "এপ্রিল-জুন"
+        },
+        "question": "কোন সময়ে উত্তর গোলার্ধে বসন্তকাল বিরাজ করে?",
+        "solution": "খ. ফেব্রুয়ারি-এপ্রিল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 775559,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-01T15:30:38.000000Z",
+            "updated_at": "2025-12-01T15:30:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775571,
+      "value": {
+        "options": [],
+        "question": "অনুসূর বলতে তুমি কী বোঝ?",
+        "solution": "জানুয়ারির ১ থেকে ৩ তারিখে সূর্য পৃথিবীর নিকটতম অবস্থানে থাকে। একে পৃথিবীর অনুসূর বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775570,
+      "value": {
+        "options": [],
+        "question": "কী কী কারণে ঋতু পরিবর্তিত হয় বলে তুমি মনে কর?",
+        "solution": "পৃথিবীর বার্ষিক গতির ফলে সূর্যরশ্মি কোথাও লম্বভাবে আবার কোথাও তির্যকভাবে পতিত হয়। ফলে তাপমাত্রার পার্থক্য ঘটে এবং ঋতু পরিবর্তিত হয়। আবার কোনো স্থানে দিবাভাগের পরিমাণ রাতের পরিমাণ অপেক্ষা দীর্ঘ হলে সেইস্থানে বায়ুমণ্ডল অধিকতর উষ্ণ থাকে। এভাবে বছরের বিভিন্ন সময়ে ভূ-পৃষ্ঠের সর্বত্র তাপের তারতম্য হয় এবং ঋতু পরিবর্তন ঘটে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775569,
+      "value": {
+        "options": [],
+        "question": "বাসন্ত বিষুব বলতে তুমি কী বোঝ?",
+        "solution": "২১শে মার্চ পৃথিবী আপন কক্ষপথের এমন এক স্থানে পৌঁছে যেখানে উভয় মেরু সূর্য থেকে সমান দূরে থাকে। এদিন ২৩শে সেপ্টেম্বরের মতো পৃথিবীর সর্বত্র দিবারাত্রি সমান হয়। পৃথিবীর এ অবস্থানকে বাসন্ত বিষুব বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775568,
+      "value": {
+        "options": [],
+        "question": "'P' গতির ফলে দিন ও রাত হয়। এই গতির নাম কী? এর প্রভাবে কী হয়?",
+        "solution": "&#39;P&#39; গতির নাম আহ্নিক গতি। আহ্নিক গতির ফলে দিন ও রাত সংঘটিত হয় এবং সময় গণনা করা যায়। এই গতির ফলে চাঁদ ও সূর্যের আকর্ষণে পৃথিবীতে জোয়ার-ভাটা হয়। এছাড়া আহ্নিক গতি সমুদ্রস্রোত ও বায়ুপ্রবাহের উপর যথেষ্ট প্রভাব বিস্তার করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775567,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীর গতি বলতে তুমি কী বোঝ?",
+        "solution": "মহাকর্ষ শক্তির দ্বারা নিয়ন্ত্রিত হয়ে সূর্যকে কেন্দ্র করে পৃথিবী নিজ কক্ষে আবর্তন করছে ও নির্দিষ্ট কক্ষপথে সূর্যের চারদিকে পরিক্রমণ করছে। এটিই পৃথিবীর গতি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775566,
+      "value": {
+        "options": [],
+        "question": "আহ্নিক গতিকে তুমি কীভাবে ব্যাখ্যা করবে?",
+        "solution": "পৃথিবীর নিজ অক্ষে পশ্চিম থেকে পূর্বদিকে আবর্তন করাকে আহ্নিক গতি বা দৈনিক গতি বলে। সূর্যকে কেন্দ্র করে পরিক্রমণ করার সময় পৃথিবী নিজ অক্ষ বা মেরুরেখায় পশ্চিম থেকে পূর্বে আবর্তন করে। এ আবর্তন করতে পৃথিবী প্রায় ২৪ ঘণ্টা বা একদিন সময় নেয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775565,
+      "value": {
+        "options": [],
+        "question": "উত্তর অয়নান্ত সম্পর্কে তুমি কী জানো?",
+        "solution": "২১শে জুনের পর সূর্য উত্তর গোলার্ধের দিকে না সরে দক্ষিণ গোলার্ধের দিকে সরতে থাকে। সূর্যের এই অবস্থানকে উত্তর অয়নান্ত বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775564,
+      "value": {
+        "options": [],
+        "question": "সৌরবছর সম্পর্কে তোমার ধারণা কী? ব্যাখ্যা করো।",
+        "solution": "সূর্যকে একবার পরিক্রমণ করতে পৃথিবীর যে সময় লাগে তাকে সৌরবছর বলে। সূর্যকে একবার পরিক্রমণ করতে পৃথিবীর ৩৬৫ দিন ৫ ঘণ্টা ৪৮ মিনিট ৪৭ সেকেন্ড সময়ের প্রয়োজন হয়। ইংরেজি হিসেবে গণনার সুবিধার্থে ৩৬৫ দিনে এক সৌরবছর ধরা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775563,
+      "value": {
+        "options": [],
+        "question": "বার্ষিক গতির ধারণা ব্যাখ্যা করো।",
+        "solution": "পৃথিবী নিজ অক্ষে অবিরাম ঘুরতে ঘুরতে একটি নির্দিষ্ট উপবৃত্তাকার কক্ষপথে, নির্দিষ্ট দিকে এবং নির্দিষ্ট সময়ে সূর্যের চারদিকে পরিক্রমণ করছে। পশ্চিম থেকে পূর্বদিকে পৃথিবীর এই পরিক্রমণকে বার্ষিক গতি বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775562,
+      "value": {
+        "options": [],
+        "question": "অপসূর বলতে তুমি কী বোঝ?",
+        "solution": "জুলাইয়ের ১ থেকে ৪ তারিখে সূর্য পৃথিবী থেকে সবচেয়ে দূরে থাকে। একে পৃথিবীর অপসূর বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775561,
+      "value": {
+        "options": [],
+        "question": "একটি নির্দিষ্ট তারিখে পৃথিবীর সর্বত্র দিবারাত্রি সমান হয়। এটি কত তারিখ? এদিন কেন পৃথিবীর সর্বত্র দিন ও রাত সমান হয়?",
+        "solution": "২৩শে সেপ্টেম্বর পৃথিবীর সর্বত্র দিবারাত্রি সমান হয়। ২৩শে সেপ্টেম্বর পৃথিবী এমন এক স্থানে অবস্থান করে যখন উভয় মেরু সূর্য থেকে সমান দূরে থাকে। এই দিন সূর্যরশ্মি নিরক্ষরেখায় লম্বভাবে (৯০&deg; কোণে) সুমেরুবৃত্তে এবং কুমেরুবৃত্তে ৬৬.৫&deg; কোণে এবং মেরুদ্বয়ে ০&deg; কোণে পতিত হয়। এ কারণে ২৩শে সেপ্টেম্বর পৃথিবীর সর্বত্র দিবারাত্রি সমান হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775560,
+      "value": {
+        "options": {
+          "ক": "দিনরাত্রির হ্রাসবৃদ্ধি",
+          "খ": "দিন ও রাত",
+          "গ": "ঋতু পরিবর্তন",
+          "ঘ": "জলবায়ুর পরিবর্তন"
+        },
+        "question": "আহ্নিক গতির ফলে কী হয়?",
+        "solution": "খ. দিন ও রাত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 775560,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T15:30:38.000000Z",
+            "updated_at": "2025-12-01T15:30:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775558,
+      "value": {
+        "options": {
+          "ক": "২২ ডিসেম্বর",
+          "খ": "২১ জুন",
+          "গ": "২৩ সেপ্টেম্বর",
+          "ঘ": "২৩ সেপ্টেম্বর"
+        },
+        "question": "সূর্যের দক্ষিণায়নের শেষ দিনটি কত তারিখ?",
+        "solution": "ক. ২২ ডিসেম্বর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 775558,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:30:38.000000Z",
+            "updated_at": "2025-12-01T15:30:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775557,
+      "value": {
+        "options": {
+          "ক": "২১ মার্চ",
+          "খ": "২১ জুন",
+          "গ": "৪ জুলাই",
+          "ঘ": "২২ ডিসেম্বর&nbsp;"
+        },
+        "question": "বাংলাদেশের দীর্ঘতম দিন কোনটি?",
+        "solution": "খ. ২১ জুন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 775557,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:30:38.000000Z",
+            "updated_at": "2025-12-01T15:30:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775556,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সূর্য নিরক্ষরেখায় লম্বভাবে কিরণ দেয়-\u003Cbr\u003E\ni. ২১ মার্চ\u003Cbr\u003E\nii. ২১ জুন\u003Cbr\u003E\niii. ২৩ সেপ্টেম্বর\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3839,
+          "full_name": "ঢা. বো.'২০২১",
+          "short_name": "ঢা. বো.'২০২১",
+          "slug": "dha-bo2021",
+          "pivot": {
+            "question_bank_id": 775556,
+            "tag_id": 3839,
+            "year": null,
+            "created_at": "2025-12-01T15:30:38.000000Z",
+            "updated_at": "2025-12-01T15:30:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775555,
+      "value": {
+        "options": {
+          "ক": "দীর্ঘতম দিন ও ক্ষুদ্রতম রাত",
+          "খ": "ক্ষুদ্রতম দিন ও দীর্ঘতম রাত",
+          "গ": "দীর্ঘতম দিন ও দীর্ঘতম রাত",
+          "ঘ": "ক্ষুদ্রতম দিন ও ক্ষুদ্রতম রাত"
+        },
+        "question": "২১ জুন তারিখে পৃথিবীর উত্তর গোলার্ধে কী ঘটে?",
+        "solution": "ক. দীর্ঘতম দিন ও ক্ষুদ্রতম রাত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 775555,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:30:38.000000Z",
+            "updated_at": "2025-12-01T15:30:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775554,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "আহ্নিক গতির ফলে-\u003Cbr\u003E\ni. দিবারাত্রির হ্রাসবৃদ্ধি হয়\u003Cbr\u003E\nii. দিন ও রাত হয়\u003Cbr\u003E\niii. জোয়ার ও ভাটা হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 775554,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:30:38.000000Z",
+            "updated_at": "2025-12-01T15:30:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775553,
+      "value": {
+        "options": {
+          "ক": "২১ মার্চ&nbsp;",
+          "খ": "২২ ডিসেম্বর",
+          "গ": "২১ জুন&nbsp;",
+          "ঘ": "২৩ সেপ্টেম্বর"
+        },
+        "question": "বাংলাদেশে সবচেয়ে বড় রাত কবে?",
+        "solution": "খ. ২২ ডিসেম্বর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775552,
+      "value": {
+        "options": {
+          "ক": "২১ মার্চ",
+          "খ": "২১ জুন",
+          "গ": "২৩ সেপ্টেম্বর",
+          "ঘ": "২২ ডিসেম্বর"
+        },
+        "question": "বাংলাদেশের ক্ষুদ্রতম দিন কোনটি?",
+        "solution": "ঘ. ২২ ডিসেম্বর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 775552,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:30:38.000000Z",
+            "updated_at": "2025-12-01T15:30:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775547,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পৃথিবী তার কক্ষপথে পরিক্রমণকালে ২২ ডিসেম্বর পৃথিবীর অবস্থা হবে-\u003Cbr\u003E\ni. পৃথিবীর সর্বত্র দিন-রাত সমান হবে\u003Cbr\u003E\nii. দক্ষিণ গোলার্ধে দিন বড় ও রাত ছোট হবে\u003Cbr\u003E\niii. সূর্য মকরক্রান্তির ওপর লম্বভাবে কিরণ দিবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 775547,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:30:37.000000Z",
+            "updated_at": "2025-12-01T15:30:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775551,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "পৃথিবীতে দিন-রাত্রি সমান হবার মাস-\u003Cbr\u003E\ni. মার্চ\u003Cbr\u003E\nii. জুন\u003Cbr\u003E\niii. সেপ্টেম্বর\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 775551,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:30:38.000000Z",
+            "updated_at": "2025-12-01T15:30:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775550,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "আহ্নিক গতির ফলে-\u003Cbr\u003E\ni. সময় গণনা করা যায়\u003Cbr\u003E\nii. জোয়ার-ভাটা হয়\u003Cbr\u003E\niii. দিন-রাত হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 775550,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:30:37.000000Z",
+            "updated_at": "2025-12-01T15:30:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775549,
+      "value": {
+        "options": {
+          "ক": "১-৩ জানুয়ারি",
+          "খ": "৪-৭ ফেব্রুয়ারি",
+          "গ": "১-৪ জুলাই",
+          "ঘ": "১-৪ ডিসেম্বর"
+        },
+        "question": "নিচের কোন সময়কে অপসূর বলা হয়?",
+        "solution": "গ. ১-৪ জুলাই",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 775549,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:30:37.000000Z",
+            "updated_at": "2025-12-01T15:30:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775548,
+      "value": {
+        "options": {
+          "ক": "২১ জুন",
+          "খ": "২১ জুলাই",
+          "গ": "২৩ সেপ্টেম্বর",
+          "ঘ": "২২ ডিসেম্বর"
+        },
+        "question": "কোন তারিখে পৃথিবীর সর্বত্র দিবারাত্রি সমান হয়?",
+        "solution": "গ. ২৩ সেপ্টেম্বর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:30:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 775548,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:30:37.000000Z",
+            "updated_at": "2025-12-01T15:30:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8063&grade=5&lesson=14649&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8063&grade=5&lesson=14649&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8063&grade=5&lesson=14649&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 25,
+  "total": 25
+}

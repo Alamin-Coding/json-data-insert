@@ -1,0 +1,4002 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775820,
+      "value": {
+        "options": {
+          "ক": "বুড়িগঙ্গা",
+          "খ": "চিত্রা",
+          "গ": "মধুমতি",
+          "ঘ": "বাউলাই"
+        },
+        "question": "মেঘনার শাখানদী কোনটি ?",
+        "solution": "ঘ. বাউলাই",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775820,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775830,
+      "value": {
+        "options": {
+          "ক": "হিমালয়ের গাঙ্গোত্রী",
+          "খ": "তিব্বতের মানস সরোবর",
+          "গ": "লুসাই পাহাড়",
+          "ঘ": "সিকিমের পার্বত্য অঞ্চল"
+        },
+        "question": "ব্রহ্মপুত্র নদের উৎপত্তি হয়েছে কোথা থেকে?",
+        "solution": "খ. তিব্বতের মানস সরোবর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 775830,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775829,
+      "value": {
+        "options": {
+          "ক": "সাইবার পর্বত",
+          "খ": "লুসাই পাহাড়",
+          "গ": "মানস সরোবর",
+          "ঘ": "গাঙ্গোত্রী হিমবাহ"
+        },
+        "question": "পদ্মা নদীর উৎপত্তিস্থল কোথায়?",
+        "solution": "ঘ. গাঙ্গোত্রী হিমবাহ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 775829,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775828,
+      "value": {
+        "options": {
+          "ক": "সিলেট",
+          "খ": "সুনামগঞ্জ",
+          "গ": "চাঁদপুর",
+          "ঘ": "কিশোরগঞ্জ"
+        },
+        "question": "সুরমা ও কুশিয়ারা কোন জেলায় এসে মেঘনা নাম ধারণ করেছে?",
+        "solution": "ক. সিলেট",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4811,
+          "full_name": "ব. বো.'২০১৬;দি. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৬;দি. বো.'২০১৫",
+          "slug": "b-bo2016di-bo2015",
+          "pivot": {
+            "question_bank_id": 775828,
+            "tag_id": 4811,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775827,
+      "value": {
+        "options": {
+          "ক": "৪০০টি",
+          "খ": "৫০০টি",
+          "গ": "৬০০টি",
+          "ঘ": "৭০০টি"
+        },
+        "question": "বাংলাদেশে মোট কতগুলো নদী আছে?",
+        "solution": "ঘ. ৭০০টি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4810,
+          "full_name": "রা. বো.'২০১৬;কু. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৬;কু. বো.'২০১৭",
+          "slug": "ra-bo2016ku-bo2017",
+          "pivot": {
+            "question_bank_id": 775827,
+            "tag_id": 4810,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775826,
+      "value": {
+        "options": {
+          "ক": "৫৫,০৪০",
+          "খ": "৪৪,০৩০",
+          "গ": "৪০,০২০",
+          "ঘ": "৫০,০৬০"
+        },
+        "question": "বাংলাদেশ অংশে ব্রহ্মপুত্র নদের অববাহিকার আয়তন কত বর্গ কি.মি.?",
+        "solution": "খ. ৪৪,০৩০",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 775826,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775825,
+      "value": {
+        "options": {
+          "ক": "পাহাড় ধস",
+          "খ": "বাঁধ দেওয়া",
+          "গ": "ভূমিকম্প",
+          "ঘ": "পলি জমা"
+        },
+        "question": "বাংলাদেশে বহু নদী হারিয়ে যাওয়ার কারণ কোনটি?",
+        "solution": "ঘ. পলি জমা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 775825,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775824,
+      "value": {
+        "options": {
+          "ক": "কয়লা",
+          "খ": "জলবিদ্যুৎ",
+          "গ": "তেল",
+          "ঘ": "প্রাকৃতিক গ্যাস"
+        },
+        "question": "কোনটি নবায়নযোগ্য শক্তি সম্পদ?",
+        "solution": "খ. জলবিদ্যুৎ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 775824,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775823,
+      "value": {
+        "options": {
+          "ক": "ব্রহ্মপুত্র",
+          "খ": "মাতামুহুরী",
+          "গ": "তিস্তা",
+          "ঘ": "সাঙ্গু"
+        },
+        "question": "সম্প্রতি সাজ্জাদ তার বন্ধুদের সাথে দেশের দক্ষিণ-পূর্বাঞ্চলে বেড়াতে যায়। তার একজন বন্ধু বলল, আমরা যে নদীটিতে অবস্থান করছি তার উৎপত্তি আমাদের দেশেরই একটি পাহাড় থেকে। উদ্দীপকে কোন নদীকে ইঙ্গিত করছে?",
+        "solution": "খ. মাতামুহুরী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 775823,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775822,
+      "value": {
+        "options": {
+          "ক": "দিনাজপুর",
+          "খ": "কুমিল্লা",
+          "গ": "যশোর",
+          "ঘ": "বগুড়া"
+        },
+        "question": "গঙ্গা-কপোতাক্ষ পরিকল্পনায় কোন অঞ্চলের মানুষ কৃষ্টি উৎপাদনে লাভবান হচ্ছে?",
+        "solution": "গ. যশোর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775822,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775821,
+      "value": {
+        "options": {
+          "ক": "৩২০ কি.মি",
+          "খ": "১৭৭ কি.মি",
+          "গ": "১৪২ কি.মি",
+          "ঘ": "১২০ কি.মি"
+        },
+        "question": "তিস্তা নদীর বর্তমান দৈর্ঘ্য কত?",
+        "solution": "খ. ১৭৭ কি.মি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4809,
+          "full_name": "চ. বো.'২০২৩;ব. বো.'২০১৬",
+          "short_name": "চ. বো.'২০২৩;ব. বো.'২০১৬",
+          "slug": "c-bo2023b-bo2016",
+          "pivot": {
+            "question_bank_id": 775821,
+            "tag_id": 4809,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775831,
+      "value": {
+        "options": {
+          "ক": "১৯৫৮",
+          "খ": "১৯৬৩",
+          "গ": "১৯৬৫",
+          "ঘ": "১৯৬৯"
+        },
+        "question": "বিআইডব্লিউটিএ কখন গঠন করা হয়?",
+        "solution": "ক. ১৯৫৮",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 775831,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775819,
+      "value": {
+        "options": {
+          "ক": "কর্ণফুলী&nbsp;",
+          "খ": "পশুর",
+          "গ": "সাঙ্গু",
+          "ঘ": "রূপসা"
+        },
+        "question": "বাংলাদেশের প্রধান সমুদ্রবন্দর কোন নদীর তীরে অবস্থিত?",
+        "solution": "ক. কর্ণফুলী&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 775819,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775818,
+      "value": {
+        "options": {
+          "ক": "মাতামুহুরী",
+          "খ": "সাঙ্গু",
+          "গ": "ফেনী",
+          "ঘ": "নাফ"
+        },
+        "question": "বাংলাদেশ ও মিয়ানমারের সীমান্তে কোন নদীটি অবস্থিত?",
+        "solution": "ঘ. নাফ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 775818,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775817,
+      "value": {
+        "options": {
+          "ক": "বুড়িগঙ্গা",
+          "খ": "কালনী",
+          "গ": "মেঘনা",
+          "ঘ": "ব্রহ্মপুত্র"
+        },
+        "question": "'সুরমা' ও 'কুশিয়ারা' নদীর মিলিত ধারা আজমিরিগঞ্জের কাছে এসে কী নামে প্রবাহিত হয়েছে?",
+        "solution": "খ. কালনী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 775817,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775816,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নদীর প্রবাহ দুর্বল হয়ে যাওয়ার কারণ-\u003Cbr\u003E\ni. শিল্প বর্জ্য\u003Cbr\u003E\nii. পলি জমা\u003Cbr\u003E\niii. বাঁধ নির্মাণ\u003Cbr\u003E\nনিচের কোনটি সঠিক",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 775816,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775815,
+      "value": {
+        "options": {
+          "ক": "মাথাভাংগা",
+          "খ": "করতোয়া",
+          "গ": "যমুনার",
+          "ঘ": "ধলেশ্বরী"
+        },
+        "question": "বুড়িগঙ্গা কোন নদীর শাখা নদী?",
+        "solution": "ঘ. ধলেশ্বরী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775814,
+      "value": {
+        "options": {
+          "ক": "তিস্তা",
+          "খ": "পশুর",
+          "গ": "সাঙ্গু",
+          "ঘ": "নাফ"
+        },
+        "question": "সিকিমের পার্বত্য অঞ্চলে কোন নদীর উৎপত্তি হয়েছে?",
+        "solution": "ক. তিস্তা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775813,
+      "value": {
+        "options": {
+          "ক": "পদ্মা",
+          "খ": "ব্রহ্মপুত্র",
+          "গ": "আত্রাই",
+          "ঘ": "ভৈরব"
+        },
+        "question": "প্রবল বন্যায় গতিপথ পরিবর্তিত হওয়ার পর তিস্তা কোন নদে মিলিত হয়?",
+        "solution": "খ. ব্রহ্মপুত্র",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775812,
+      "value": {
+        "options": {
+          "ক": "তিস্তা",
+          "খ": "সাঙ্গু",
+          "গ": "কর্ণফুলী",
+          "ঘ": "পশুর"
+        },
+        "question": "বাংলাদেশের দক্ষিণ-পূর্বাঞ্চলের প্রধান নদী কোনটি",
+        "solution": "গ. কর্ণফুলী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 775812,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775811,
+      "value": {
+        "options": {
+          "ক": "মাতামুহুরী",
+          "খ": "সাঙ্গু",
+          "গ": "নাফ",
+          "ঘ": "ফেনী"
+        },
+        "question": "কোন নদীটির উৎপত্তিস্থল বাংলাদেশ?",
+        "solution": "ক. মাতামুহুরী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 775811,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775810,
+      "value": {
+        "options": {
+          "ক": "নবায়নযোগ্য",
+          "খ": "আণবিক",
+          "গ": "রাসায়নিক",
+          "ঘ": "পারমাণবিক"
+        },
+        "question": "জলবিদ্যুৎ কোন ধরনের শক্তি সম্পদ?",
+        "solution": "ক. নবায়নযোগ্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 775810,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775841,
+      "value": {
+        "options": [],
+        "question": "যমুনা নদী সম্পর্কে তুমি কী জানো?",
+        "solution": "১৭৮৭ সালে সংঘটিত ভূমিকম্পে ব্রহ্মপুত্র নদের তলদেশ উত্থিত হওয়ায় পানি ধারণ ক্ষমতার বাইরে চলে যায় এবং নতুন স্রোতধারার একটি শাখা নদীর সৃষ্টি হয়। এই স্রোতধারাটি যমুনা নামে পরিচিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775851,
+      "value": {
+        "options": [],
+        "question": "বাণিজ্যের ক্ষেত্রে বাংলাদেশের নদীপথের ভূমিকা সম্পর্কে তুমি কী জানো?",
+        "solution": "বাংলাদেশে অভ্যন্তরীণ নৌপথে দেশের মোট বাণিজ্যিক মালামালের ৭৫ শতাংশ আনা-নেওয়া করা হয়। দেশে প্রায় সব নদীপথেই সরকারি-বেসরকারি উদ্যোগে লক্ষ লক্ষ টন মালামাল পরিবহন করা হয়ে থাকে। ফলে সকল প্রকার অস্থিতিশীলতার মধ্যেও নির্বিঘ্নে জাহাজ ও নৌযানযোগে পণ্য পরিবহন করা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775850,
+      "value": {
+        "options": [],
+        "question": "জলবিদ্যুৎ বলতে তুমি কী বোঝ?",
+        "solution": "নদী ও জলপ্রপাতের পানির বেগ ব্যবহার করে টার্বাইন যন্ত্রের সাহায্যে যে বিদ্যুৎ উৎপাদন করা হয় তাকে জলবিদ্যুৎ বলে। এটি নবায়নযোগ্য শক্তি সম্পদ। এর উৎপাদন খরচ সবচেয়ে কম।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775849,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে প্রবাহিত একটি নদীর উৎপত্তিস্থল সিকিমের পার্বত্য অঞ্চল। নদীটির নাম ও পরিচয় লেখো।",
+        "solution": "বাংলাদেশে প্রবাহিত তিস্তা নদীর উৎপত্তিস্থল সিকিমের পার্বত্য অঞ্চলে। এটি সিকিমের পার্বত্য অঞ্চল থেকে উৎপত্তি হয়ে ভারতের জলপাইগুড়ি ও দার্জিলিং-এর মধ্য দিয়ে নীলফামারী জেলার ডিমলা উপজেলার পূর্ব ছাতনাই হয়ে বাংলাদেশে প্রবেশ করেছে। তিস্তা নদীর বর্তমান দৈর্ঘ্য ১৭৭ কি.মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775848,
+      "value": {
+        "options": [],
+        "question": "'ক' নদীর অন্যতম উল্লেখযোগ্য শাখা নদী হচ্ছে- ভাগীরথী, মধুমতি ও আড়িয়াল খাঁ। এই নদীর নাম কী? এর উৎপত্তিস্থল কোথায়?",
+        "solution": "&#39;ক&#39; নদীর নাম পদ্মা। কেননা ভাগীরথী, মধুমতি ও আড়িয়াল খাঁ পদ্মা নদীর অন্যতম শাখা নদী। পদ্মা নদী ভারত ও ভারতের উত্তরবঙ্গে গঙ্গা এবং বাংলাদেশে পদ্মা নামে পরিচিত। এর উৎপত্তিস্থল মধ্য হিমালয়ের গাঙ্গোত্রী হিমবাহ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775847,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে জলবিদ্যুৎ উৎপাদনের সুযোগ কম থাকার কারণ কী?",
+        "solution": "যে ধরনের পাহাড়ি নদী থেকে জলবিদ্যুৎ উৎপাদন করা যায়, সেরকম পাহাড় ও নদী বাংলাদেশে বেশি নেই। এ কারণে বাংলাদেশে জলবিদ্যুৎ উৎপাদনের সুযোগ কম।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775846,
+      "value": {
+        "options": [],
+        "question": "'L' নদী বাংলাদেশ মিয়ানমারের সীমান্তে অবস্থিত। নদীটি সম্পর্কে তুমি কী জানো?",
+        "solution": "&#39;L&#39; বা নাফ নদী বাংলাদেশ মিয়ানমারের সীমান্তে অবস্থিত। এই নদীর মোহনা অত্যন্ত প্রশস্ত এবং নদীটি বঙ্গোপসাগরে পতিত হয়েছে। এর দৈর্ঘ্য প্রায় ৫৬ কি.মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775845,
+      "value": {
+        "options": [],
+        "question": "মনু, তিতাস ও গোমতী বাংলাদেশের অন্যতম একটি নদীর শাখা নদী। নদীটি কী নামে পরিচিত? নদীটি সম্পর্কে যা জানো লেখো।",
+        "solution": "নদীটি মেঘনা নামে পরিচিত। কারণ মেঘনা নদীর শাখা নদী হচ্ছে মনু, তিতাস ও গোমতী। আসামের বরাক নদী নাগা-মণিপুর অঞ্চলে উৎপত্তি হয়ে সিলেটের সুরমা ও কুশিয়ারা নদীর সাথে মিলিত হয়েছে। এই মিলিত ধারা সুনামগঞ্জ জেলার আজমিরিগঞ্জের কাছে কালনী নামে দক্ষিণ-পশ্চিম দিকে অগ্রসর হয়ে মেঘনা নাম ধারণ করেছে। এটি ভৈরব বাজার অতিক্রম করে পুরাতন ব্রহ্মপুত্রের সাথে মিলিত হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775844,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের যাতায়াত ব্যবস্থায় নদীর ভূমিকা ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশের যাতায়াত ও পরিবহন ব্যবস্থার উল্লেখযোগ্য অংশই\u003Cbr /\u003E\nনদীপথ। এদেশে নদীপথের দৈর্ঘ্য প্রায় ৯,৮৩৩ কি.মি.। এর মধ্যে ৩,৮৬৫ কি.মি. পথে বছরের সবসময় নৌ চলাচল করে থাকে। বাংলাদেশে নদীপথে নৌকা, লঞ্চ, ট্রলার, স্টিমার, নৌট্রাক ইত্যাদি পরিবহনে লক্ষ লক্ষ মানুষ নিজেদের গন্তব্যে পৌঁছাতে সক্ষম হচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775843,
+      "value": {
+        "options": [],
+        "question": "সাঙ্গু নদী সম্পর্কে ধারণা দাও।",
+        "solution": "সাঙ্গু নদী উত্তর আরাকান পাহাড় থেকে নির্গত হয়ে বান্দরবান জেলার থানছি উপজেলা দিয়ে বাংলাদেশে প্রবেশ করে বঙ্গোপসাগরে পতিত হয়েছে। এর দৈর্ঘ্য ২৯৪ কি.মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775842,
+      "value": {
+        "options": [],
+        "question": "'ক' বাংলাদেশের দক্ষিণ পূর্বাঞ্চলের প্রধান নদী। নদীটির নাম কী? নদীটির অববাহিকা ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশের দক্ষিণ পূর্বাঞ্চলের প্রধান নদীটি কর্ণফুলী নামে পরিচিত। এর উৎপত্তিস্থল লুসাই পাহাড়ে। ৩২০ কি. মি. দৈর্ঘ্যের এ নদীটি&nbsp;চট্টগ্রাম শহরের খুব কাছ দিয়ে বঙ্গোপসাগরে পতিত হয়েছে। কর্ণফুলীর প্রধান উপনদী হচ্ছে কাপ্তাই, হালদা, কাসালাং ও রাঙখিয়াং। বাংলাদেশের প্রধান সমুদ্র বন্দর চট্টগ্রাম কর্ণফুলী নদীর তীরে অবস্থিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775809,
+      "value": {
+        "options": {
+          "ক": "ধলেশ্বরী",
+          "খ": "তিতাস",
+          "গ": "বরাক",
+          "ঘ": "কালনী"
+        },
+        "question": "সুরমা ও কুশিয়ারার মিলিত প্রবাহের নাম কী?",
+        "solution": "ঘ. কালনী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4806,
+          "full_name": "চ. বো.'২০২৪;ব. বো.'২০১৯",
+          "short_name": "চ. বো.'২০২৪;ব. বো.'২০১৯",
+          "slug": "c-bo2024b-bo2019",
+          "pivot": {
+            "question_bank_id": 775809,
+            "tag_id": 4806,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775840,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে উৎপত্তি হয়েছে এমন একটি নদী সম্পর্কে ধারণা দাও।",
+        "solution": "বাংলাদেশের অন্তর্গত লামার মাইভার পর্বতে মাতামুহুরী নদীর উৎপত্তি হয়েছে। এর দৈর্ঘ্য প্রায় ১২০ কি.মি.। নদীটি কক্সবাজার জেলার চকরিয়ার পশ্চিম পাশ ঘেঁষে বঙ্গোপসাগরে পতিত হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775839,
+      "value": {
+        "options": [],
+        "question": "ফেনী নদী সম্পর্কে ধারণা দাও।",
+        "solution": "ফেনী নদী পার্বত্য ত্রিপুরায় উৎপত্তি হয়ে ফেনী জেলায় প্রবেশ করেছে। এটি সন্দ্বীপের উত্তরে বঙ্গোপসাগরে পতিত হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775838,
+      "value": {
+        "options": [],
+        "question": "আবরার খুলনার দক্ষিণে অবস্থিত নদীপথ দিয়ে বরিশালে তার মামা বাড়ি বেড়াতে যায়। নদীটির নাম কী? এর গুরুত্ব ব্যাখ্যা করো।",
+        "solution": "নদীটির নাম পশুর নদী। খুলনা-বরিশাল নৌপথ হিসেবে পশুর নদী গুরুত্বপূর্ণ ভূমিকা পালন করে। এ নদীর গভীরতা এত বেশি যে, সারা বছর সমুদ্রগামী জাহাজ এর মোহনা দিয়ে মংলা সমুদ্রবন্দরে প্রবেশ করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775837,
+      "value": {
+        "options": [],
+        "question": "তিস্তা ব্যারেজ প্রকল্প কত সালে নির্মিত হয়? এর উপযোগিতা সম্পর্কে লেখো।",
+        "solution": "তিস্তা ব্যারেজ প্রকল্পটি ১৯৯৭-১৯৯৮ সালে নির্মিত হয়। ব্যারেজটি উত্তরাঞ্চলের পানি সংরক্ষণ, পানি নিষ্কাশন, পানি সেচ ও বন্যা প্রতিরোধে গুরুত্বপূর্ণ ভূমিকা রাখার কথা থাকলেও নানা কারণে এর পূর্ণ উপযোগিতা বাংলাদেশ এখনও পায়নি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775836,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশে অনেক নদী শুকিয়ে যাওয়ার ফলে দেখা দিচ্ছে-\u003Cbr\u003E\ni. পানির সংকট\u003Cbr\u003E\nii. ফসল উৎপাদনে সংকট\u003Cbr\u003E\niii. ব্যবসায় বাণিজ্যে অসুবিধা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 775836,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775835,
+      "value": {
+        "options": {
+          "ক": "কাপ্তাই",
+          "খ": "হালদা",
+          "গ": "কালালং",
+          "ঘ": "যমুনা"
+        },
+        "question": "কর্ণফুলীর উপনদী কোনটি?",
+        "solution": "ক. কাপ্তাই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775834,
+      "value": {
+        "options": {
+          "ক": "৫৫",
+          "খ": "৬৫",
+          "গ": "৭৫",
+          "ঘ": "৮৫"
+        },
+        "question": "বাংলাদেশে অভ্যন্তরীণ নৌপথে দেশের মোট বাণিজ্যিক মালামালের কত শতাংশ আনা-নেওয়া করা হয়?",
+        "solution": "গ. ৭৫",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775833,
+      "value": {
+        "options": {
+          "ক": "সিলেট",
+          "খ": "বরিশাল",
+          "গ": "ঢাকা",
+          "ঘ": "চট্টগ্রাম"
+        },
+        "question": "কাপ্তাই জলবিদ্যুৎ কেন্দ্র কোথায় অবস্থিত?",
+        "solution": "ঘ. চট্টগ্রাম",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775832,
+      "value": {
+        "options": {
+          "ক": "বৃক্ষ",
+          "খ": "ঝরনা",
+          "গ": "পাহাড়িদের অনুষ্ঠান",
+          "ঘ": "উপনদী"
+        },
+        "question": "'রাঙখিয়াং' কী?",
+        "solution": "ঘ. উপনদী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775777,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশের নদীগুলোর প্রবাহ দুর্বল ও নাব্যতা নষ্ট হয়ে যাওয়ার কারণ-\u003Cbr\u003E\ni. নদীতে শিল্পের বর্জ্য ফেলায়\u003Cbr\u003E\nii. জলযানের পরিমাণ বেড়ে যাওয়ায়\u003Cbr\u003E\niii. নদী দখল করায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 775777,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775787,
+      "value": {
+        "options": {
+          "ক": "তিস্তা",
+          "খ": "গোমতি",
+          "গ": "বুড়িগঙ্গা",
+          "ঘ": "ইছামতী"
+        },
+        "question": "ধলেশ্বরীর শাখা নদী কোনটি?",
+        "solution": "গ. বুড়িগঙ্গা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 775787,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775786,
+      "value": {
+        "options": {
+          "ক": "সারাবছর পানিপ্রাপ্তি নিশ্চিত করার জন্য",
+          "খ": "মানুষের মৌলিক চাহিদা মেটানোর জন্য",
+          "গ": "সবাই যাতে পানি পায় সেজন্য",
+          "ঘ": "&#39;সকলের জন্য পানি&#39; স্লোগান সফল করতে"
+        },
+        "question": "পানিসম্পদ ব্যবস্থাপনা নিশ্চিত করতে হবে কেন?",
+        "solution": "ক. সারাবছর পানিপ্রাপ্তি নিশ্চিত করার জন্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775786,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775785,
+      "value": {
+        "options": {
+          "ক": "নাফ",
+          "খ": "শীতলক্ষা",
+          "গ": "বুড়িগঙ্গা",
+          "ঘ": "গোমতী"
+        },
+        "question": "নারায়ণগঞ্জ শহর কোন নদীর তীরে গড়ে উঠেছে?",
+        "solution": "খ. শীতলক্ষা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775785,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775784,
+      "value": {
+        "options": {
+          "ক": "মাতামুহুরী",
+          "খ": "সাঙ্গু",
+          "গ": "তিস্তা",
+          "ঘ": "কর্ণফুলী"
+        },
+        "question": "কোনটি দীর্ঘতম নদী?",
+        "solution": "ঘ. কর্ণফুলী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775784,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775783,
+      "value": {
+        "options": {
+          "ক": "যমুনা",
+          "খ": "তিস্তা",
+          "গ": "ধরলা",
+          "ঘ": "আত্রাই"
+        },
+        "question": "১৭৮৭ সালের ভূমিকম্পে ব্রহ্মপুত্রের একটি শাখানদী সৃষ্টি হয়। নদীটির নাম কী?&nbsp;",
+        "solution": "ক. যমুনা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 775783,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775782,
+      "value": {
+        "options": {
+          "ক": "ধরলা, মনু, হালদা",
+          "খ": "পশুর, গোমতি, তিতাস",
+          "গ": "বাউলাই, গোমতি, তিতাস",
+          "ঘ": "বাউলাই, গোমতি, ধরলা"
+        },
+        "question": "কোন নদীগুলো মেঘনার শাখানদী?&nbsp;",
+        "solution": "গ. বাউলাই, গোমতি, তিতাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4268,
+          "full_name": "চ. বো.'২০২৩;দি. বো.'২০১৯",
+          "short_name": "চ. বো.'২০২৩;দি. বো.'২০১৯",
+          "slug": "c-bo2023di-bo2019",
+          "pivot": {
+            "question_bank_id": 775782,
+            "tag_id": 4268,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775781,
+      "value": {
+        "options": {
+          "ক": "প্রযুক্তিগত জ্ঞানের অভাব",
+          "খ": "উৎপাদন খরচ বেশি বলে",
+          "গ": "খরস্রোতা নদী নেই",
+          "ঘ": "পাহাড়ি নদীর অভাব"
+        },
+        "question": "বাংলাদেশে কেন জলবিদ্যুৎ উৎপাদনের সুযোগ কম?",
+        "solution": "ঘ. পাহাড়ি নদীর অভাব",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775781,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775780,
+      "value": {
+        "options": {
+          "ক": "করতোয়া ও আত্রাই",
+          "খ": "ধরলা ও তিস্তা",
+          "গ": "বুড়িগঙ্গা ও গোমতি",
+          "ঘ": "ধলেশ্বরী ও হালদা"
+        },
+        "question": "যমুনার উপনদী হলো-&nbsp;",
+        "solution": "ক. করতোয়া ও আত্রাই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775780,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775779,
+      "value": {
+        "options": {
+          "ক": "বগুড়া",
+          "খ": "দিনাজপুর",
+          "গ": "রাজশাহী",
+          "ঘ": "রংপুর"
+        },
+        "question": "গঙ্গা নদী কোন জেলা দিয়ে বাংলাদেশে প্রবেশ করছে?",
+        "solution": "গ. রাজশাহী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 775779,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775778,
+      "value": {
+        "options": {
+          "ক": "হিমবাহ",
+          "খ": "জলোচ্ছ্বাস",
+          "গ": "প্লাবন",
+          "ঘ": "ভূমিকম্প"
+        },
+        "question": "যমুনা নদীর সৃষ্টির কারণ কী?",
+        "solution": "ঘ. ভূমিকম্প",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 775778,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775788,
+      "value": {
+        "options": {
+          "ক": "উত্তর-পূর্বাঞ্চলে",
+          "খ": "উত্তর-পশ্চিমাঞ্চল",
+          "গ": "দক্ষিণ-পশ্চিমাঞ্চল",
+          "ঘ": "দক্ষিণ-পূর্বাঞ্চল"
+        },
+        "question": "'পশুর' বাংলাদেশের কোন অঞ্চলের নদী?",
+        "solution": "গ. দক্ষিণ-পশ্চিমাঞ্চল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 775788,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775776,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "তিস্তা ব্যারেজটি গুরুত্বপূর্ণ ভূমিকা রাখে-&nbsp;\u003Cbr\u003E\ni. কৃষিকাজে\u003Cbr\u003E\nii. পানি নিষ্কাশনে\u003Cbr\u003E\niii. বন্যা প্রতিরোধে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4807,
+          "full_name": "য. বো.'২০১৬;সি. বো.'২০২৪",
+          "short_name": "য. বো.'২০১৬;সি. বো.'২০২৪",
+          "slug": "z-bo2016si-bo2024",
+          "pivot": {
+            "question_bank_id": 775776,
+            "tag_id": 4807,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775775,
+      "value": {
+        "options": {
+          "ক": "নারায়ণগঞ্জ",
+          "খ": "সিলেট",
+          "গ": "গাজীপুর",
+          "ঘ": "নরসিংদী"
+        },
+        "question": "শীতলক্ষ্যা নদীর তীরে কোন শহর অবস্থিত?",
+        "solution": "ক. নারায়ণগঞ্জ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775774,
+      "value": {
+        "options": {
+          "ক": "৯৯৩৩ কি.মি.",
+          "খ": "৯৮৩৩ কি.মি.",
+          "গ": "৮৯৩৪ কি.মি.",
+          "ঘ": "৩৪৮০ কি.মি."
+        },
+        "question": "বাংলাদেশের নদীপথের দৈর্ঘ্য কত?",
+        "solution": "খ. ৯৮৩৩ কি.মি.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3858,
+          "full_name": "মাইলস্টোন কলেজ, ঢাকা",
+          "short_name": "মাইলস্টোন কলেজ, ঢাকা",
+          "slug": "mailston-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775774,
+            "tag_id": 3858,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775773,
+      "value": {
+        "options": {
+          "ক": "পদ্মা",
+          "খ": "যমুনা",
+          "গ": "মেঘনা",
+          "ঘ": "পশুর&nbsp;"
+        },
+        "question": "গোমতী কোন নদীর উপনদী?",
+        "solution": "গ. মেঘনা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 775773,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775772,
+      "value": {
+        "options": {
+          "ক": "বনজ",
+          "খ": "খনিজ",
+          "গ": "পানি",
+          "ঘ": "মৎস্য"
+        },
+        "question": "বাংলাদেশে এমন একটি সম্পদ রয়েছে যার অপব্যবহারে রাসায়নিকীকরণসহ নানা কারণে পরিবেশ ও জীবজগতের অস্তিত্ব বিপন্ন হতে পারে। সম্পদটি হলো-",
+        "solution": "গ. পানি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 775772,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775771,
+      "value": {
+        "options": {
+          "ক": "নাফ নদী",
+          "খ": "তিস্তা নদী",
+          "গ": "পশুর নদী",
+          "ঘ": "ফেনী নদী"
+        },
+        "question": "বাংলাদেশ ও মিয়ানমার সীমান্তে কোন নদী অবস্থিত?",
+        "solution": "ক. নাফ নদী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4806,
+          "full_name": "চ. বো.'২০২৪;ব. বো.'২০১৯",
+          "short_name": "চ. বো.'২০২৪;ব. বো.'২০১৯",
+          "slug": "c-bo2024b-bo2019",
+          "pivot": {
+            "question_bank_id": 775771,
+            "tag_id": 4806,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775770,
+      "value": {
+        "options": {
+          "ক": "সাঙ্গু",
+          "খ": "ফেণী",
+          "গ": "নাফ",
+          "ঘ": "মাতামুহুরী"
+        },
+        "question": "উত্তর আরাকান পাহাড় থেকে নির্গত হয়ে বাংলাদেশে প্রবেশ করেছে কোন নদীটি?",
+        "solution": "ক. সাঙ্গু",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 775770,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775769,
+      "value": {
+        "options": {
+          "ক": "কুমিল্লা",
+          "খ": "ফেনী",
+          "গ": "মৌলভীবাজার",
+          "ঘ": "সিলেট"
+        },
+        "question": "সুরমা নদী কোন শহরের উপর দিয়ে প্রবাহিত হয়?",
+        "solution": "ঘ. সিলেট",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775769,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775768,
+      "value": {
+        "options": {
+          "ক": "বাণিজ্য",
+          "খ": "খনিজ",
+          "গ": "যাতায়াত",
+          "ঘ": "জলবিদ্যুৎ"
+        },
+        "question": "মীম তার পরিবারের সাথে পার্বত্য চট্টগ্রাম বেড়াতে যায়। সেখানে সে দেখে একটি প্রধান নদীর গতিপথে বাঁধ দিয়ে জ্বালানি শক্তি উৎপাদন করা হচ্ছে। মীম ইঙ্গিতকৃত নদীর কোন ক্ষেত্রের ভূমিকা পরিদর্শন করেছে?",
+        "solution": "ঘ. জলবিদ্যুৎ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 775768,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775798,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশে তীব্র পানি সংকটের কারণ-&nbsp;\u003Cbr\u003E\ni. চাষের কাজে প্রচুর সেচ পাম্পের ব্যবহার\u003Cbr\u003E\nii. নদীর পলিমাটি নিষ্কাশন করা\u003Cbr\u003E\niii. ব্রীজ কালভার্ট নির্মাণ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 775798,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775808,
+      "value": {
+        "options": {
+          "ক": "আরাকান পাহাড়",
+          "খ": "পার্বত্য ত্রিপুরা",
+          "গ": "মাইভার পর্বত",
+          "ঘ": "লুসাই পাহাড়"
+        },
+        "question": "ফেনী নদীর উৎপত্তিস্থল কোথায়?",
+        "solution": "খ. পার্বত্য ত্রিপুরা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4793,
+          "full_name": "কু. বো.'২০২৪;ব. বো.'২০২০",
+          "short_name": "কু. বো.'২০২৪;ব. বো.'২০২০",
+          "slug": "ku-bo2024b-bo2020",
+          "pivot": {
+            "question_bank_id": 775808,
+            "tag_id": 4793,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775807,
+      "value": {
+        "options": {
+          "ক": "সেক্সট্যান্ট",
+          "খ": "টার্বাইন",
+          "গ": "ট্রান্সমিটার",
+          "ঘ": "ল্যাকটোমিটার"
+        },
+        "question": "জলবিদ্যুৎ উৎপাদনের কাজে কোন যন্ত্রটি ব্যবহার করা হয়?",
+        "solution": "খ. টার্বাইন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4808,
+          "full_name": "সি. বো.'২০২০;ব. বো.'২০১৬",
+          "short_name": "সি. বো.'২০২০;ব. বো.'২০১৬",
+          "slug": "si-bo2020b-bo2016",
+          "pivot": {
+            "question_bank_id": 775807,
+            "tag_id": 4808,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775806,
+      "value": {
+        "options": {
+          "ক": "জনসচেতনতা",
+          "খ": "বৈদেশিক মুদ্রা অর্জন",
+          "গ": "কৃষি উৎপাদন বৃদ্ধি",
+          "ঘ": "বেকার সমস্যা দূরীকরণ"
+        },
+        "question": "'নদী বাঁচাও' কর্মসূচি পালনের মূল উদ্দেশ্য কোনটি?",
+        "solution": "ক. জনসচেতনতা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 775806,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775805,
+      "value": {
+        "options": {
+          "ক": "৭০%",
+          "খ": "৭৫%",
+          "গ": "৮০%",
+          "ঘ": "৮৭%"
+        },
+        "question": "বাংলাদেশে অভ্যন্তরীণ নৌপথে দেশের মোট বাণিজ্যিক মালামালের কত শতাংশ আনা-নেওয়া করা হয়?",
+        "solution": "খ. ৭৫%",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775805,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775804,
+      "value": {
+        "options": {
+          "ক": "কর্ণফুলী",
+          "খ": "ব্রহ্মপুত্র",
+          "গ": "পদ্মা&nbsp;",
+          "ঘ": "যমুনা&nbsp;"
+        },
+        "question": "কোন নদীর শাখা নদী বেশি?&nbsp;",
+        "solution": "গ. পদ্মা&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775804,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775803,
+      "value": {
+        "options": {
+          "ক": "যমুনা",
+          "খ": "তিস্তা",
+          "গ": "মেঘনা",
+          "ঘ": "পদ্মা"
+        },
+        "question": "একটি নদী ভারত থেকে রাজশাহী জেলার মধ্য দিয়ে বাংলাদেশে প্রবেশ করেছে। উক্ত নদী ভারত ও বাংলাদেশে ভিন্ন ভিন্ন নামে পরিচিত। নদীটির নাম কী?",
+        "solution": "ঘ. পদ্মা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775803,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775802,
+      "value": {
+        "options": {
+          "ক": "BIWRT",
+          "খ": "BIWTA",
+          "গ": "BIWPN",
+          "ঘ": "BIWNA"
+        },
+        "question": "অভ্যন্তরীণ নৌ পরিবহণ কর্তৃপক্ষকে বলা হয়-&nbsp;",
+        "solution": "খ. BIWTA",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775802,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775801,
+      "value": {
+        "options": {
+          "ক": "কর্ণফুলী",
+          "খ": "যমুনা",
+          "গ": "ব্রহ্মপুত্র",
+          "ঘ": "মেঘনা"
+        },
+        "question": "সুজন বন্ধুদের সাথে নৌকা ভ্রমণে গেল। তারা যে নদীতে ভ্রমণ করল সে নদীটি সৃষ্টি হয়েছে সিলেট জেলার সুরমা ও কুশিয়ারার মিলিত স্থলে। নদীটির নাম কী?&nbsp;",
+        "solution": "ঘ. মেঘনা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 775801,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775800,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশ নদীমাতৃক দেশ। এদেশে নদীর বেশি প্রয়োজন-&nbsp;\u003Cbr\u003E\ni. জীবিকার্জনে\u003Cbr\u003E\nii. যোগাযোগে\u003Cbr\u003E\niii. চিত্তবিনোদনে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 775800,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775799,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জলবিদ্যুৎ উৎপাদন বাংলাদেশের অর্থনীতির জন্য লাভজনক কেন?\u003Cbr\u003E\ni. স্বল্প উৎপাদন খরচ বলে\u003Cbr\u003E\nii. অনেক পাহাড়ি নদী থাকায়\u003Cbr\u003E\niii. তৈল ও গ্যাসের বিকল্প বলে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775767,
+      "value": {
+        "options": {
+          "ক": "১২০ কি.মি.",
+          "খ": "৩২০ কি.মি",
+          "গ": "১৭৭ কি.মি.",
+          "ঘ": "২৮৯৭ কি.মি"
+        },
+        "question": "ব্রহ্মপুত্র&nbsp;নদীর&nbsp;দৈর্ঘ্য&nbsp;কত?",
+        "solution": "ঘ. ২৮৯৭ কি.মি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 775767,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775797,
+      "value": {
+        "options": {
+          "ক": "মেঘনা",
+          "খ": "ব্রহ্মপুত্র",
+          "গ": "কালনী",
+          "ঘ": "পদ্মা"
+        },
+        "question": "কুশিয়ারা ও সুরমা আজমিরিগঞ্জের কাছে কী নামে অগ্রসর হয়েছে?",
+        "solution": "গ. কালনী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775796,
+      "value": {
+        "options": {
+          "ক": "৫৬ কি. মি",
+          "খ": "১২০ কি. মি.",
+          "গ": "২০৮ কি. মি.",
+          "ঘ": "৩২০ কি. মি."
+        },
+        "question": "নাফ নদীর দৈর্ঘ্য কত?",
+        "solution": "ক. ৫৬ কি. মি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775795,
+      "value": {
+        "options": {
+          "ক": "তিস্তা",
+          "খ": "মেঘনা",
+          "গ": "কর্ণফুলী",
+          "ঘ": "মাতামুহুরী"
+        },
+        "question": "সাগর দেশের দক্ষিণ পূর্বাঞ্চলে বেড়াতে গিয়ে নদীর উপর একটি সুবিশাল বিদ্যুৎ কারখানা দেখতে পেল এটি কোন নদীর উপর অবস্থিত?",
+        "solution": "গ. কর্ণফুলী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775794,
+      "value": {
+        "options": {
+          "ক": "কাপ্তাই বাঁধ",
+          "খ": "তিস্তা বাঁধ",
+          "গ": "ডিএনডি বাঁধ",
+          "ঘ": "ফারাক্কা"
+        },
+        "question": "কোন বাঁধ নির্মাণের ফলে ভয়াবহ বন্যা থেকে চট্টগ্রাম অঞ্চলকে মুক্ত রাখা সম্ভব হয়েছে?",
+        "solution": "ক. কাপ্তাই বাঁধ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775794,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775793,
+      "value": {
+        "options": {
+          "ক": "তিস্তা",
+          "খ": "মেঘনা",
+          "গ": "পদ্মা",
+          "ঘ": "কর্ণফুলী"
+        },
+        "question": "কোন নদী সিকিমের পাহাড়ি এলাকা থেকে উৎপত্তি?",
+        "solution": "ক. তিস্তা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 775793,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775792,
+      "value": {
+        "options": {
+          "ক": "১০০ কি.মি.",
+          "খ": "১১০ কি.মি.",
+          "গ": "১২০ কি.মি.",
+          "ঘ": "১৩০ কি.মি."
+        },
+        "question": "মাতামুহুরী নদীটির দৈর্ঘ্য কত?",
+        "solution": "গ. ১২০ কি.মি.",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 775792,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775791,
+      "value": {
+        "options": {
+          "ক": "ভূমিকম্প",
+          "খ": "বন্যা",
+          "গ": "নদী ভাঙন",
+          "ঘ": "বৃষ্টি"
+        },
+        "question": "যমুনা নদী সৃষ্টির কারণ-",
+        "solution": "ক. ভূমিকম্প",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 775791,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775790,
+      "value": {
+        "options": {
+          "ক": "ঢাকা",
+          "খ": "চট্টগ্রাম",
+          "গ": "চট্টগ্রাম",
+          "ঘ": "সিলেট"
+        },
+        "question": "কর্ণফুলী নদী কোন শহরের খুব নিকট দিয়ে বঙ্গোপসাগরে পতিত হয়েছে?",
+        "solution": "খ. চট্টগ্রাম",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 775790,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775789,
+      "value": {
+        "options": {
+          "ক": "মেঘালয়",
+          "খ": "সিকিম",
+          "গ": "নাগা মনিপুর",
+          "ঘ": "পশ্চিমবঙ্গ"
+        },
+        "question": "মেঘনা নদীর উৎপত্তিস্থল কোথায়?",
+        "solution": "গ. নাগা মনিপুর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 775789,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-01T15:32:28.000000Z",
+            "updated_at": "2025-12-01T15:32:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8065&grade=5&lesson=14654&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8065&grade=5&lesson=14654&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8065&grade=5&lesson=14654&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 85,
+  "total": 85
+}

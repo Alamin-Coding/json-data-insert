@@ -1,0 +1,2365 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776485,
+      "value": {
+        "options": [],
+        "question": "'ক' দেশের অর্থব্যবস্থায় উৎপাদনের উপাদানসমূহ সম্পূর্ণরূপে ব্যক্তিমালিকানাধীন। এখানে কোন ধরনের অর্থব্যবস্থা বিদ্যমান? ব্যাখ্যা করো।",
+        "solution": "&#39;ক&#39; দেশের অর্থব্যবস্থায় উৎপাদনের উপাদানসমূহ সম্পূর্ণরূপে ব্যক্তিমালিকানাধীন অর্থাৎ &#39;ক&#39; দেশে ধনতান্ত্রিক অর্থব্যবস্থা বিদ্যমান। কেননা ধনতান্ত্রিক অর্থব্যবস্থায় উৎপাদনের উপাদানসমূহ- ভূমি, শ্রম, মূলধন ও সংগঠন ব্যক্তিমালিকানাধীন থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776473,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cp\u003Eধনতান্ত্রিক অর্থনৈতিক ব্যবস্থার বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. অবাধ প্রতিযোগিতা&nbsp;\u003Cbr\u003E\nii. শ্রমিক শোষণ\u003Cbr\u003E\niii. সম্পদের মালিকানা&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 776473,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776474,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003Eতালহা নিজ জমিতে একটি কারখানা স্থাপন করে কিছু সংখ্যক&nbsp;শ্রমিক নিয়োগ দেন।\u003Cbr\u003E\nউক্ত অর্থব্যবস্থার বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. ব্যক্তিমালিকানা\u003Cbr\u003E\nii. মুনাফা অর্জন\u003Cbr\u003E\niii. উৎপাদনের স্বাধীনতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 776474,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776475,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003Eগার্মেন্টস ব্যবসায়ী সৈকত সাহেব কাপড় তৈরির জন্য তুলা সংগ্রহ করেন। তিনি তুলা হতে সুতা ও কাপড় তৈরির যন্ত্রপাতি কেনার জন্য অর্থ সংগ্রহ করে কাপড় তৈরি করেন।\u003Cbr\u003E\nউদ্দীপকের এ প্রক্রিয়াটিতে-\u003Cbr\u003E\ni. চারটি উপাদানের সমন্বয় প্রয়োজন\u003Cbr\u003E\nii. মানুষের সকল অভাব পূরণ হয়\u003Cbr\u003E\niii. একজন ঝুঁকি বহন করে\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 776475,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776476,
+      "value": {
+        "options": {
+          "ক": "ভূমি",
+          "খ": "শ্রম",
+          "গ": "মূলধন",
+          "ঘ": "সংগঠন"
+        },
+        "question": "\u003Cp\u003Eজনাব সাকিব তার ১টি অব্যবহৃত ঘরে আটা ভাঙানো মেশিন বসালেন। তিনি তার পরিবারের সদস্যদের নিয়ে কাজ করার চিন্তাও করলেন । উৎপাদনের একটি বিশেষ উপাদানের অভাবে তিনি সেটা করতে পারলেন না।\u003Cbr\u003E\nজনাব সাকিবের উৎপাদন কাজ পরিচালনা করতে কোন উপাদানটির অভাব রয়েছে?\u003C/p\u003E",
+        "solution": "ঘ. সংগঠন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776477,
+      "value": {
+        "options": {
+          "ক": "খাজনা",
+          "খ": "খাজনা",
+          "গ": "সুদ",
+          "ঘ": "মুনাফা"
+        },
+        "question": "সাইফুল এন্ড সন্স কোম্পানি বছর শেষে ২,০০,০০০ লভ্যাংশ পান। এর মধ্যে জমি ব্যবহার বাবদ মালিককে ৫,০০০ টাকা দিতে হয়। উক্ত ৫,০০০ টাকাকে অর্থনীতির ভাষায় কী বলে?",
+        "solution": "ক. খাজনা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 776477,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776478,
+      "value": {
+        "options": {
+          "ক": "মজুরি",
+          "খ": "মূলধন",
+          "গ": "মুনাফা",
+          "ঘ": "খাজনা"
+        },
+        "question": "উৎপাদনের ক্ষেত্রে ভূমির ব্যবহারের জন্য ভূমির মালিককে কী দেওয়া হয়?",
+        "solution": "ঘ. খাজনা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 776478,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776479,
+      "value": {
+        "options": {
+          "ক": "ধনতান্ত্রিক",
+          "খ": "মিশ্র",
+          "গ": "সমাজতান্ত্রিক",
+          "ঘ": "ইসলামি"
+        },
+        "question": "কোন অর্থনৈতিক ব্যবস্থাটি সারাবিশ্বে সবচেয়ে বেশি গ্রহণযোগ্য?",
+        "solution": "ক. ধনতান্ত্রিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 776479,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776480,
+      "value": {
+        "options": {
+          "ক": "ব্যক্তির",
+          "খ": "রাষ্ট্রের",
+          "গ": "সমাজের",
+          "ঘ": "রাষ্ট্র ও সমাজের"
+        },
+        "question": "ধনতান্ত্রিক অর্থব্যবস্থায় উৎপাদনের উপাদানসমূহ কার মালিকানাধীন?",
+        "solution": "ক. ব্যক্তির",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3847,
+          "full_name": "ব. বো.'২০১৬",
+          "short_name": "ব. বো.'২০১৬",
+          "slug": "b-bo2016",
+          "pivot": {
+            "question_bank_id": 776480,
+            "tag_id": 3847,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776481,
+      "value": {
+        "options": {
+          "ক": "মিশ্র অর্থনীতি",
+          "খ": "ধনতান্ত্রিক",
+          "গ": "সমাজতান্ত্রিক",
+          "ঘ": "ইসলামি অর্থব্যবস্থা"
+        },
+        "question": "কোন অর্থনৈতিক ব্যবস্থায় প্রত্যেক ব্যক্তি উৎপাদনে পূর্ণ স্বাধীনতা ভোগ করে?",
+        "solution": "খ. ধনতান্ত্রিক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 776481,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776482,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003Eধনতান্ত্রিক অর্থনৈতিক ব্যবস্থার বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. সর্বোচ্চ মুনাফা অর্জন করা\u003Cbr\u003E\nii. সর্বোচ্চ জনকল্যাণ নিশ্চিত করা\u003Cbr\u003E\niii. উৎপাদনে অবাধ প্রতিযোগিতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3787,
+          "full_name": "দি. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৯",
+          "slug": "di-bo2019",
+          "pivot": {
+            "question_bank_id": 776482,
+            "tag_id": 3787,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776483,
+      "value": {
+        "options": {
+          "ক": "পুঁজিবাদী",
+          "খ": "সমাজতান্ত্রিক",
+          "গ": "মিশ্র",
+          "ঘ": "ইসলামি"
+        },
+        "question": "\u003Cp\u003Eসুনীল অনেক পরিশ্রম করে স্বাধীনভাবে ড্রাগন ফল উৎপাদনে সফল হয়েছে। উৎপাদিত ফল বিক্রি করে সে প্রচুর মুনাফা অর্জন করেছে।\u003Cbr\u003E\nসুনীলের দেশে কোন ধরনের অর্থনৈতিক ব্যবস্থার প্রচলন রয়েছে?\u003C/p\u003E",
+        "solution": "ক. পুঁজিবাদী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776483,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776484,
+      "value": {
+        "options": {
+          "ক": "খাজনা",
+          "খ": "মজুরি",
+          "গ": "সুদ",
+          "ঘ": "মুনাফা"
+        },
+        "question": "\u003Cp\u003Eজনাব তামিম 'ক' দেশে বসবাস করেন। তিনি চেয়ার তৈরির ব্যবসা করেন ও বাজারে বিক্রি করেন। তিনি নিজ ইচ্ছামত দাম নির্ধারণ করেন।\u003Cbr\u003E\nজনাব তামিম তাঁর ব্যবসা থেকে কী পাবেন?\u003C/p\u003E",
+        "solution": "ঘ. মুনাফা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 776484,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776472,
+      "value": {
+        "options": {
+          "ক": "ধনতান্ত্রিক",
+          "খ": "সমাজতান্ত্রিক",
+          "গ": "জাতীয়",
+          "ঘ": "ব্যক্তিগত"
+        },
+        "question": "কোন অর্থব্যবস্থায় ব্যক্তি তার আয়ের সাহায্যে ভূমির মালিকানা অর্জন করতে পারে?",
+        "solution": "ক. ধনতান্ত্রিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776486,
+      "value": {
+        "options": [],
+        "question": "আতিক সাহেবের ব্যবসায়িক কার্যক্রম সর্বাধিক মুনাফা অর্জনের লক্ষ্যে পরিচালিত হয়। এখানে কোন অর্থনৈতিক ব্যবস্থার বৈশিষ্ট্য লক্ষ করা যায়?",
+        "solution": "আতিক সাহেবের ব্যবসায়িক ক্রার্যক্রমে ধনতান্ত্রিক অর্থনৈতিক ব্যবস্থার বৈশিষ্ট্য লক্ষ করা যায়। কেননা ধনতান্ত্রিক অর্থনৈতিক ব্যবস্থায় সর্বাধিক মুনাফা অর্জনের উদ্দেশ্যেই উৎপাদন প্রক্রিয়া পরিচালিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776487,
+      "value": {
+        "options": [],
+        "question": "শিল্প শ্রমিক তানভীর তার স্বল্প আয় দিয়ে সংসার চালাতে হিমশিম খাচ্ছেন। তার ক্ষেত্রে ধনতান্ত্রিক অর্থনৈতিক ব্যবস্থার কোন বৈশিষ্ট্য ফুটে উঠেছে?",
+        "solution": "তানভীরের ক্ষেত্রে ধনতান্ত্রিক অর্থনৈতিক ব্যবস্থার যে বৈশিষ্ট্য ফুটে উঠেছে তাহলো নিম্ন মজুরি ও শ্রমিক শোষণ। ধনতান্ত্রিক অর্থব্যবস্থায় উৎপাদন ব্যয় কম রাখার জন্য শ্রমিককে তার ন্যায্য মজুরির চেয়ে কম মজুরি দেওয়া হয়। এই উদ্বৃত্ত মজুরি পুঁজিপতি ও উদ্যোক্তার কাছে মুনাফা হিসেবে সঞ্চিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776488,
+      "value": {
+        "options": [],
+        "question": "'ক' দেশে উৎপাদনের উপাদানসমূহ ব্যক্তিমালিকানার পরিবর্তে রাষ্ট্রীয় মালিকানায় পরিচালিত হয়। এখানে কোন ধরনের অর্থনৈতিক ব্যবস্থা বিদ্যমান?",
+        "solution": "&#39;ক&#39; দেশে সমাজতান্ত্রিক অর্থনৈতিক ব্যবস্থা বিদ্যমান। কেননা সমাজতান্ত্রিক অর্থব্যবস্থায় উৎপাদনের উপকরণসহ সকল সম্পদ রাষ্ট্রীয় মালিকানাধীন। এখানে সম্পদের ওপর কোনোরকম ব্যক্তিমালিকানা থাকে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776489,
+      "value": {
+        "options": [],
+        "question": "লুবাবার দেশের ব্যক্তিগত উদ্যোগ গ্রহণ ও বিনিয়োগের কোনো সুযোগ নেই। তার দেশে কোন অর্থনৈতিক ব্যবস্থা প্রচলিত রয়েছে?",
+        "solution": "লুবাবার দেশে সমাজতান্ত্রিক অর্থব্যবস্থা প্রচলিত রয়েছে। কারণ সমাজতান্ত্রিক অর্থব্যবস্থায় দ্রব্য ও সেবা উৎপাদনের ক্ষেত্রে সরকার&nbsp;মৌলিক সিদ্ধান্তসমূহ গ্রহণ ও বাস্তবায়ন করে। এখানে ব্যক্তিগত উদ্যোগ গ্রহণ ও বিনিয়োগের সুযোগ নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776490,
+      "value": {
+        "options": [],
+        "question": "আনাস তার ইচ্ছা অনুযায়ী দ্রব্য ক্রয় ও ভোগ করতে পারে না। তার ক্ষেত্রে সমাজতান্ত্রিক অর্থব্যবস্থার কোন বৈশিষ্ট্য কার্যকর রয়েছে?",
+        "solution": "আনাসের ক্ষেত্রে সমাজতান্ত্রিক অর্থব্যবস্থার যে বৈশিষ্ট্য কার্যকর রয়েছে তাহলো ভোক্তার স্বাধীনতার অভাব। সমাজতান্ত্রিক অর্থব্যবস্থায় উৎপাদকের যেমন উৎপাদন বিষয়ক সিদ্ধান্ত গ্রহণের স্বাধীনতা নেই। তেমনি ভোগকারীর নিজ ইচ্ছামতো দ্রব্যসামগ্রী ভোগের সুযোগ নেই।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776491,
+      "value": {
+        "options": [],
+        "question": "'X' দেশে বেকারত্ব নেই। 'X' দেশে কোন, অর্থনৈতিক ব্যবস্থা বিদ্যমান? এখানে কীভাবে সম্পদের সুষম বণ্টন সম্ভব হয়?",
+        "solution": "&#39;X&#39; দেশে সমাজতান্ত্রিক অর্থনৈতিক ব্যবস্থা বিদ্যমান। কারণ সমাজতান্ত্রিক অর্থনৈতিক ব্যবস্থায় বেকারত্ব থাকে না।\u003Cbr /\u003E\nসমাজতান্ত্রিক অর্থব্যবস্থায় রাষ্ট্র প্রত্যেকের সামর্থ্য ও যোগ্যতা অনুযায়ী কাজের ব্যবস্থা করে। তবে সকলের আয় এক নয়। কিন্তু কেউ উৎপাদনে তার অবদান, অনুসারে প্রাপ্য আয় থেকে বঞ্চিত হয় না। এসব কারণে অর্জিত সম্পদের সুষম বণ্টন সম্ভব হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776492,
+      "value": {
+        "options": [],
+        "question": "'Y' দেশে জনগুরুত্বপূর্ণ প্রতিষ্ঠান সরকারি নিয়ন্ত্রণে পরিচালিত হলেও কৃষিপণ্য প্রধানত ব্যক্তিগত উদ্যোগে উৎপাদিত হয়? এই দেশে কোন অর্থনৈতিক ব্যবস্থা বিদ্যমান?",
+        "solution": "&#39;Y&#39; দেশে মিশ্র অর্থনৈতিক ব্যবস্থা বিদ্যমান। কেননা মিশ্র অর্থনীতিতে ব্যক্তিমালিকানা ও ব্যক্তি উদ্যোগের পাশাপাশি কিছু কিছু খাতে সম্পূর্ণ বা আংশিকভাবে সরকারি মালিকানা, উদ্যোগ ও নিয়ন্ত্রণ কার্যকর থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776493,
+      "value": {
+        "options": [],
+        "question": "নাহিদ তার ইচ্ছেমতো দ্রব্য ক্রয়-বিক্রয় ও ভোগ করতে পারলেও ইদানিং উৎপাদনে বিপর্যয় ঘটার কারণে তা পারছে না। তার দেশে কোন অর্থনৈতিক ব্যবস্থা প্রচলিত রয়েছে?",
+        "solution": "নাহিদের দেশে মিশ্র অর্থনৈতিক ব্যবস্থা প্রচলিত রয়েছে। কারণ এ অর্থব্যবস্থায় ভোগকারী অবাধে সাধারণ দ্রব্য ক্রয়-বিক্রয় ও ভোগ করতে পারে। তবে বিশেষ অবস্থায় বা দুর্যোগকালে উৎপাদনে বিপর্যয় ঘটলে সরকার যেকোনো দ্রব্যের ক্রয়-বিক্রয়ে পরোক্ষ নিয়ন্ত্রণ ব্যবস্থা আরোপ করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776494,
+      "value": {
+        "options": [],
+        "question": "'ক' দেশে ব্যক্তি তার সম্পদ উত্তরাধিকারীদের নিকট হস্তান্তর করতে পারে। 'ক' দেশ কোন অর্থনৈতিক ব্যবস্থার আওতাধীন?",
+        "solution": "&#39;ক&#39; দেশ ইসলামি অর্থনৈতিক ব্যবস্থার আওতাধীন।\u003Cbr /\u003E\nইসলামে সম্পদের ব্যক্তিগত মালিকানা স্বীকৃত। ব্যক্তিগত মালিকানাধীন সম্পদ মানুষ তার ইচ্ছেমতো ব্যবহার ও ভোগ করতে পারে। এ সম্পদ সে তার উত্তরাধিকারীদের নিকট হস্তান্তর করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776495,
+      "value": {
+        "options": [],
+        "question": "জামিল সাহেব প্রতিবছর তার সম্পদের একটি নির্ধারিত অংশ দরিদ্র জনগণের মধ্যে বণ্টন করে দেন। তার কার্যক্রমে কোন বিষয়টি নির্দেশিত হয়েছে?",
+        "solution": "জামিল সাহেবের কার্যক্রমে জাকাত বিষয়টি নির্দেশিত হয়েছে।\u003Cbr /\u003E\nইসলামি অর্থব্যবস্থায় একজন ব্যক্তির নিকট নির্দিষ্ট সময়ব্যাপী নির্ধারিত পরিমাণ অর্থ বা সম্পদ থাকলে তার একটি নির্ধারিত অংশ দরিদ্র জনগণের মধ্যে বন্টনের ব্যবস্থা রয়েছে। এ ব্যবস্থাকে জাকাত বলে। সম্পদশালী ব্যক্তির জন্য জাকাত প্রদান বাধ্যতামূলক।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776496,
+      "value": {
+        "options": [],
+        "question": "ইসলামি অর্থব্যবস্থায় সম্পদের বন্টন সম্পর্কে তুমি কী জানো?",
+        "solution": "ইসলামি অর্থব্যবস্থায় সম্পদের সুষ্ঠু বণ্টন হয়। কেননা এ অর্থব্যবস্থায় শ্রমিকের ন্যায্য পাওনা যথাসময়ে পরিশোধ করার ব্যবস্থা রয়েছে। যার ফলে উৎপাদিত সম্পদের সুষ্ঠু বণ্টন সম্ভব হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776471,
+      "value": {
+        "options": {
+          "ক": "ধনতান্ত্রিক",
+          "খ": "মিশ্র",
+          "গ": "সমাজতান্ত্রিক",
+          "ঘ": "ইসলামি"
+        },
+        "question": "ব্যক্তি পর্যায়ে কোন অর্থনৈতিক ব্যবস্থাটি বেশি গ্রহণযোগ্য?",
+        "solution": "ক. ধনতান্ত্রিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 776471,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776470,
+      "value": {
+        "options": {
+          "ক": "এক",
+          "খ": "দুই",
+          "গ": "তিন",
+          "ঘ": "চার"
+        },
+        "question": "বর্তমান বিশ্বে কয় ধরনের অর্থনৈতিক ব্যবস্থা কার্যকর আছে?",
+        "solution": "ঘ. চার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 776470,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776469,
+      "value": {
+        "options": {
+          "ক": "সংগঠন",
+          "খ": "ভূমি",
+          "গ": "শ্রম",
+          "ঘ": "মূলধন"
+        },
+        "question": "উৎপাদন প্রক্রিয়া সম্পাদনে কোন উপাদান লাভ-ক্ষতির দায়িত্ব বহন করে?",
+        "solution": "ক. সংগঠন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 776469,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:45:10.000000Z",
+            "updated_at": "2025-12-01T15:45:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776448,
+      "value": {
+        "options": {
+          "ক": "খাজনা",
+          "খ": "সুদ",
+          "গ": "মজুরি",
+          "ঘ": "মুনাফা"
+        },
+        "question": "মূলধনের মালিককে কী প্রদান করা হয়?",
+        "solution": "খ. সুদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 776448,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776447,
+      "value": {
+        "options": {
+          "ক": "একটি",
+          "খ": "দুটি",
+          "গ": "তিনটি",
+          "ঘ": "চারটি"
+        },
+        "question": "বর্তমান বিশ্বে কতটি অর্থনৈতিক ব্যবস্থা কার্যকর রয়েছে?",
+        "solution": "ঘ. চারটি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776447,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776449,
+      "value": {
+        "options": {
+          "ক": "ধনতান্ত্রিক",
+          "খ": "সমাজতান্ত্রিক",
+          "গ": "মিশ্র",
+          "ঘ": "ইসলামি"
+        },
+        "question": "জাতীয় আয়ের বৃহত্তম অংশ অল্পসংখ্যক গোষ্ঠী ভোগ করে কোন অর্থব্যবস্থায়?",
+        "solution": "ক. ধনতান্ত্রিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 776449,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776450,
+      "value": {
+        "options": {
+          "ক": "সম্পদের রূপান্তর",
+          "খ": "দ্রব্য সৃষ্টি",
+          "গ": "উপযোগ সৃষ্টি",
+          "ঘ": "অভাব পূরণের দ্রব্য"
+        },
+        "question": "উৎপাদন বলতে কী বোঝায়?",
+        "solution": "ক. সম্পদের রূপান্তর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 776450,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776451,
+      "value": {
+        "options": {
+          "ক": "মজুরি",
+          "খ": "খাজনা",
+          "গ": "মুনাফা",
+          "ঘ": "সুদ"
+        },
+        "question": "'র' পৈতৃক সূত্রে প্রাপ্ত অর্থ দিয়ে একটা ব্যবসায় শুরু করে। ব্যবসায় অনেক লোক কাজ করে। বছর শেষে 'র' আয়ের যে অংশ পাবে তাকে অর্থনীতির ভাষায় কী বলে?",
+        "solution": "গ. মুনাফা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 776451,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776452,
+      "value": {
+        "options": {
+          "ক": "মিশ্র",
+          "খ": "সমাজতান্ত্রিক",
+          "গ": "ইসলামি",
+          "ঘ": "পুঁজিবাদী"
+        },
+        "question": "\u003Cp\u003Eতালহা নিজ জমিতে একটি কারখানা স্থাপন করে কিছু সংখ্যক&nbsp;শ্রমিক নিয়োগ দেন।\u003Cbr\u003E\nউদ্দীপকে কোন অর্থব্যবস্থার ইঙ্গিত রয়েছে?\u003C/p\u003E",
+        "solution": "ঘ. পুঁজিবাদী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 776452,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776453,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003Eজনাব সাকিব তার ১টি অব্যবহৃত ঘরে আটা ভাঙানো মেশিন বসালেন। তিনি তার পরিবারের সদস্যদের নিয়ে কাজ করার চিন্তাও করলেন । উৎপাদনের একটি বিশেষ উপাদানের অভাবে তিনি সেটা করতে পারলেন না।\u003Cbr\u003E\nজনাব সাকিবের অর্থনৈতিক কার্যাবলি সম্পাদনে যে পর্যায়ে আছেন তা হলো-\u003Cbr\u003E\ni. দ্রব্য বা সেবা পাওয়ার আকাঙ্ক্ষা\u003Cbr\u003E\nii. উৎপাদনের উপাদানের মধ্যে আয় ভাগ\u003Cbr\u003E\niii. উৎপাদন কার্যক্রম পরিচালনা\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 776453,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776454,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003Eজনাব তামিম 'ক' দেশে বসবাস করেন। তিনি চেয়ার তৈরির ব্যবসা করেন ও বাজারে বিক্রি করেন। তিনি নিজ ইচ্ছামত দাম নির্ধারণ করেন।\u003Cbr\u003E\n'ক' দেশটিতে-\u003Cbr\u003E\ni. ভোক্তারা স্বাধীনতা ভোগ করে\u003Cbr\u003E\nii. ব্যক্তিগত সম্পদ নিশ্চিত হয়\u003Cbr\u003E\niii. জনগণ কল্যাণের নিশ্চয়তা পায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 776454,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776455,
+      "value": {
+        "options": {
+          "ক": "বিনিয়োগ",
+          "খ": "ভূমি",
+          "গ": "মূলধন",
+          "ঘ": "ভোগব্যয়"
+        },
+        "question": "\u003Cp\u003Eঢাকার জামিল সাহেব তার পোশাক কারখানার জন্য প্রায় আট লক্ষ টাকার নতুন কিছু মেশিন কিনলেন। ফলে তার কারখানায় আরও কিছু শ্রমিক নিয়োগ দিতে হয় এবং তার মুনাফা আগের চেয়েও বেড়ে যায়।\u003Cbr\u003E\nজামিল সাহেবের আট লক্ষ টাকার ব্যয়কে অর্থনীতির ভাষায় কী বলে?\u003C/p\u003E",
+        "solution": "ক. বিনিয়োগ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 776455,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776456,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003Eঢাকার জামিল সাহেব তার পোশাক কারখানার জন্য প্রায় আট লক্ষ টাকার নতুন কিছু মেশিন কিনলেন। ফলে তার কারখানায় আরও কিছু শ্রমিক নিয়োগ দিতে হয় এবং তার মুনাফা আগের চেয়েও বেড়ে যায়।\u003Cbr\u003E\nজামিল সাহেবের এ ধরনের ব্যয়ের ফলে-\u003Cbr\u003E\ni. দেশের মোট জাতীয় ব্যয় বৃদ্ধি পাবে\u003Cbr\u003E\nii. শ্রমিক শোষণ বেড়ে যাবে\u003Cbr\u003E\niii. জনগণের জীবনযাত্রার মান বাড়বে\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 776456,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776457,
+      "value": {
+        "options": {
+          "ক": "৪টি",
+          "খ": "৬টি",
+          "গ": "৮টি",
+          "ঘ": "১০টি"
+        },
+        "question": "উৎপাদনের উপাদান কতটি?",
+        "solution": "ক. ৪টি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 776457,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776458,
+      "value": {
+        "options": {
+          "ক": "ধনতান্ত্রিক",
+          "খ": "সমাজতান্ত্রিক",
+          "গ": "মিশ্র",
+          "ঘ": "ইসলামি"
+        },
+        "question": "জনাব 'A' উৎপাদনকার্য পরিচালনা করেন। তিনি তার নিয়োগকৃত শ্রমিকদের কাজ অনুযায়ী কম বেতন পরিশোধ করেন। তার উৎপাদনকার্য কোন অর্থনৈতিক ব্যবস্থাকে ইঙ্গিত করে?",
+        "solution": "ক. ধনতান্ত্রিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 776458,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776459,
+      "value": {
+        "options": {
+          "ক": "সংগঠন",
+          "খ": "বণ্টন",
+          "গ": "মূলধন",
+          "ঘ": "শ্রম"
+        },
+        "question": "উৎপাদন প্রক্রিয়ায় উৎপাদিত উপাদানকে কী বলে?",
+        "solution": "গ. মূলধন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 776459,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776460,
+      "value": {
+        "options": {
+          "ক": "ব্যক্তিমালিকানাধীন",
+          "খ": "সামষ্টিক",
+          "গ": "রাষ্ট্রীয় মালিকানাধীন",
+          "ঘ": "সকলের দান"
+        },
+        "question": "ধনতান্ত্রিক অর্থব্যবস্থায় উৎপাদনের উপাদানসমূহ কেমন?",
+        "solution": "ক. ব্যক্তিমালিকানাধীন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 776460,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776461,
+      "value": {
+        "options": {
+          "ক": "ধনতান্ত্রিক",
+          "খ": "ইসলামি",
+          "গ": "মিশ্র",
+          "ঘ": "সমাজতান্ত্রিক"
+        },
+        "question": "উৎপাদনের ক্ষেত্রে কোনো বাধ্যবাধকতা নেই কোন অর্থব্যবস্থায়?",
+        "solution": "ক. ধনতান্ত্রিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776462,
+      "value": {
+        "options": {
+          "ক": "মিশ্র",
+          "খ": "ইসলামি&nbsp;",
+          "গ": "সমাজতান্ত্রিক",
+          "ঘ": "ধনতান্ত্রিক"
+        },
+        "question": "কোন অর্থনৈতিক ব্যবস্থায় শ্রমিক শোষণ হয়?",
+        "solution": "ঘ. ধনতান্ত্রিক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 776462,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776463,
+      "value": {
+        "options": {
+          "ক": "ইসলামি",
+          "খ": "সমাজতান্ত্রিক",
+          "গ": "মিশ্র",
+          "ঘ": "ধনতান্ত্রিক"
+        },
+        "question": "কোন অর্থনৈতিক ব্যবস্থাকে মুক্তবাজার অর্থনীতি বলে?",
+        "solution": "ঘ. ধনতান্ত্রিক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4852,
+          "full_name": "চ. বো.'২০১৭;ব. বো.'২০২০",
+          "short_name": "চ. বো.'২০১৭;ব. বো.'২০২০",
+          "slug": "c-bo2017b-bo2020",
+          "pivot": {
+            "question_bank_id": 776463,
+            "tag_id": 4852,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776464,
+      "value": {
+        "options": {
+          "ক": "দুটি",
+          "খ": "তিনটি",
+          "গ": "চারটি",
+          "ঘ": "পাঁচটি"
+        },
+        "question": "উৎপাদনের উপাদান কয়টি?",
+        "solution": "গ. চারটি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 776464,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776465,
+      "value": {
+        "options": {
+          "ক": "উৎপাদন",
+          "খ": "ভোগ",
+          "গ": "বিনিয়োগ",
+          "ঘ": "বণ্টন"
+        },
+        "question": "\u003Cp\u003Eগার্মেন্টস ব্যবসায়ী সৈকত সাহেব কাপড় তৈরির জন্য তুলা সংগ্রহ করেন। তিনি তুলা হতে সুতা ও কাপড় তৈরির যন্ত্রপাতি কেনার জন্য অর্থ সংগ্রহ করে কাপড় তৈরি করেন।\u003Cbr\u003E\nসৈকত সাহেবের কাপড় তৈরি করার প্রক্রিয়াকে কী?\u003C/p\u003E",
+        "solution": "ক. উৎপাদন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 776465,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776466,
+      "value": {
+        "options": {
+          "ক": "ভোগ",
+          "খ": "বণ্টন",
+          "গ": "উৎপাদন",
+          "ঘ": "বিনিয়োগ"
+        },
+        "question": "\u003Cp\u003Eজনাব নিখিল মাটি ক্রয় করে ইট ভাটায় ব্যবহার করে ইট তৈরি করে এবং বাজারে বিক্রি করে।\u003Cbr\u003E\nউদ্দীপকে জনাব নিখিল-এর কার্যক্রমকে কী বলা হয়?\u003C/p\u003E",
+        "solution": "গ. উৎপাদন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 776466,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776467,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003Eজনাব নিখিল মাটি ক্রয় করে ইট ভাটায় ব্যবহার করে ইট তৈরি করে এবং বাজারে বিক্রি করে।\u003Cbr\u003E\nউদ্দীপকের তথ্য অনুযায়ী জনাব নিখিল একজন-\u003Cbr\u003E\ni. দক্ষ শ্রমিক\u003Cbr\u003E\nii. মূলধন বিনিয়োগকারী\u003Cbr\u003E\niii. দক্ষ সংগঠক\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 776467,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776468,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003Eসুনীল অনেক পরিশ্রম করে স্বাধীনভাবে ড্রাগন ফল উৎপাদনে সফল হয়েছে। উৎপাদিত ফল বিক্রি করে সে প্রচুর মুনাফা অর্জন করেছে।\u003Cbr\u003E\nউক্ত অর্থনৈতিক ব্যবস্থার বৈশিষ্ট্য-\u003Cbr\u003E\ni. ভোক্তা প্রয়োজন মতো দ্রব্য ক্রয় করতে পারবে\u003Cbr\u003E\nii. প্রতিযোগিতামূলক বাজার ব্যবস্থা\u003Cbr\u003E\niii. স্বয়ংক্রিয়ভাবে দ্রব্যের দাম নির্ধারিত হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:45:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776468,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:45:09.000000Z",
+            "updated_at": "2025-12-01T15:45:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8071&grade=5&lesson=14700&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8071&grade=5&lesson=14700&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8071&grade=5&lesson=14700&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 50,
+  "total": 50
+}

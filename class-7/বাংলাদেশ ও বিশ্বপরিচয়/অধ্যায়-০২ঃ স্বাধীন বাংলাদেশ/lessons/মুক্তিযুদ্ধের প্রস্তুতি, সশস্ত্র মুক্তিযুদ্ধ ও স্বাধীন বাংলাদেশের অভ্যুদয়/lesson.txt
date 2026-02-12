@@ -1,0 +1,3089 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775500,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "এ দেশের অগণিত নারী মুক্তিসেনা মুক্তিযুদ্ধে কীভাবে অবদান রেখেছিল?\u003Cbr\u003E\ni. অস্ত্র চালনা ও গেরিলা যুদ্ধের প্রশিক্ষণ গ্রহণ করে\u003Cbr\u003E\nii. আহত মুক্তিযোদ্ধাদের সেবাশুশ্রুষা করে\u003Cbr\u003E\niii. মুক্তিযোদ্ধাদের আশ্রয়দান ও তথ্য সরবরাহ করে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3962,
+          "full_name": "ব. বো.",
+          "short_name": "ব. বো.",
+          "slug": "b-bo",
+          "pivot": {
+            "question_bank_id": 775500,
+            "tag_id": 3962,
+            "year": null,
+            "created_at": "2025-12-01T15:29:31.000000Z",
+            "updated_at": "2025-12-01T15:29:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775491,
+      "value": {
+        "options": {
+          "ক": "২৬ মার্চ ১৯৭১",
+          "খ": "১০ এপ্রিল ১৯৭১",
+          "গ": "১১ এপ্রিল ১৯৭১",
+          "ঘ": "১৭ এপ্রিল ১৯৭১"
+        },
+        "question": "কখন মুজিবনগর সরকার গঠিত হয়েছিল?",
+        "solution": "খ. ১০ এপ্রিল ১৯৭১",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4789,
+          "full_name": "রা. বো.'২০১৯;সি. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৯;সি. বো.'২০১৬",
+          "slug": "ra-bo2019si-bo2016",
+          "pivot": {
+            "question_bank_id": 775491,
+            "tag_id": 4789,
+            "year": null,
+            "created_at": "2025-12-01T15:29:31.000000Z",
+            "updated_at": "2025-12-01T15:29:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775492,
+      "value": {
+        "options": {
+          "ক": "২৬ মার্চ",
+          "খ": "১০ এপ্রিল",
+          "গ": "১৭ এপ্রিল",
+          "ঘ": "১৬ এপ্রিল"
+        },
+        "question": "মুজিবনগর সরকার ১৯৭১ সালের কত তারিখে শপথ গ্রহণ করেন?",
+        "solution": "গ. ১৭ এপ্রিল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4790,
+          "full_name": "কু. বো.'২০২৪;দি. বো.'২০১৯;য. বো.'২০১৭",
+          "short_name": "কু. বো.'২০২৪;দি. বো.'২০১৯;য. বো.'২০১৭",
+          "slug": "ku-bo2024di-bo2019z-bo2017",
+          "pivot": {
+            "question_bank_id": 775492,
+            "tag_id": 4790,
+            "year": null,
+            "created_at": "2025-12-01T15:29:31.000000Z",
+            "updated_at": "2025-12-01T15:29:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775493,
+      "value": {
+        "options": {
+          "ক": "৪",
+          "খ": "৬",
+          "গ": "৮",
+          "ঘ": "১২"
+        },
+        "question": "স্বাধীন বাংলাদেশ সরকারের উপদেষ্টা পরিষদের সদস্যসংখ্যা ছিল কত জন?",
+        "solution": "খ. ৬",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4791,
+          "full_name": "ব. বো.'২০১৯;ঢা. বো.'২০১৬",
+          "short_name": "ব. বো.'২০১৯;ঢা. বো.'২০১৬",
+          "slug": "b-bo2019dha-bo2016",
+          "pivot": {
+            "question_bank_id": 775493,
+            "tag_id": 4791,
+            "year": null,
+            "created_at": "2025-12-01T15:29:31.000000Z",
+            "updated_at": "2025-12-01T15:29:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775494,
+      "value": {
+        "options": {
+          "ক": "ভারত-বাংলাদেশ যৌথবাহিনী গঠনের ফলে",
+          "খ": "জাতিসংঘের সদস্যপদ লাভের মধ্য দিয়ে",
+          "গ": "ভারতের স্বীকৃতিদানের মাধ্যমে",
+          "ঘ": "বাংলাদেশে মুক্তিবাহিনী গঠনের মাধ্যমে।"
+        },
+        "question": "মুক্তিযুদ্ধে বাংলাদেশের চূড়ান্ত বিজয় ত্বরান্বিত হয় কীভাবে?",
+        "solution": "ক. ভারত-বাংলাদেশ যৌথবাহিনী গঠনের ফলে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 775494,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:29:31.000000Z",
+            "updated_at": "2025-12-01T15:29:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775495,
+      "value": {
+        "options": {
+          "ক": "গৌরবোজ্জ্বল",
+          "খ": "ভীতিজনক",
+          "গ": "নৈরাশ্যজনক",
+          "ঘ": "বিশ্বাসঘাতক"
+        },
+        "question": "মহান মুক্তিযুদ্ধে নারীদের ভূমিকা কেমন ছিল?",
+        "solution": "ক. গৌরবোজ্জ্বল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775495,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:29:31.000000Z",
+            "updated_at": "2025-12-01T15:29:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775496,
+      "value": {
+        "options": {
+          "ক": "ছাত্র",
+          "খ": "পেশাজীবী",
+          "গ": "রাজনীতিবিদ",
+          "ঘ": "প্রবাসী"
+        },
+        "question": "বিভিন্ন আন্তর্জাতিক ফোরামে বক্তব্য প্রদানে কারা ভূমিকা পালন করে",
+        "solution": "খ. পেশাজীবী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775497,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্বাধীনতা যুদ্ধে নারীদের ভূমিকা ছিল-\u003Cbr\u003E\ni. যুদ্ধে প্রত্যক্ষ অংশগ্রহণ\u003Cbr\u003E\nii. আহত যোদ্ধাদের সেবা প্রদান\u003Cbr\u003E\niii. বিভিন্ন প্রকার তথ্য প্রদান\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 775497,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:29:31.000000Z",
+            "updated_at": "2025-12-01T15:29:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775498,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "ii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "১৯৭১ সালের ১০ এপ্রিল সংঘটিত হয়-\u003Cbr\u003E\ni. আনুষ্ঠানিকভাবে বাংলাদেশের স্বাধীনতার ঘোষণা\u003Cbr\u003E\nii. মুজিবনগর সরকারের শপথ গ্রহণ\u003Cbr\u003E\niii. মুজিবনগর সরকার গঠন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. i ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 775498,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:29:31.000000Z",
+            "updated_at": "2025-12-01T15:29:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775499,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশের সর্বস্তরের জনগণ মুক্তিযুদ্ধে ঝাঁপিয়ে পড়ার মূল কারণ ছিল-\u003Cbr\u003E\ni. অর্থনৈতিক মুক্তি\u003Cbr\u003E\nii. পাক প্রশাসনের প্রতি ঘৃণা\u003Cbr\u003E\niii. বাঙালি জাতীয়তাবোধ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 775499,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-01T15:29:31.000000Z",
+            "updated_at": "2025-12-01T15:29:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775472,
+      "value": {
+        "options": {
+          "ক": "এম. মনসুর আলী",
+          "খ": "তাজউদ্দিন আহমেদ",
+          "গ": "সৈয়দ নজরুল ইসলাম",
+          "ঘ": "এ. এইচ. এম. কামারুজ্জামান&nbsp;"
+        },
+        "question": "মুজিবনগর সরকারের অর্থমন্ত্রী কে ছিলেন?",
+        "solution": "ক. এম. মনসুর আলী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4783,
+          "full_name": "ব. বো.'২০২৩;ম. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৩;ম. বো.'২০২৪",
+          "slug": "b-bo2023m-bo2024",
+          "pivot": {
+            "question_bank_id": 775472,
+            "tag_id": 4783,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775471,
+      "value": {
+        "options": {
+          "ক": "বঙ্গবন্ধুর অসহযোগ আন্দোলনের মাধ্যমে",
+          "খ": "ছয়দফা বাস্তবায়নের মাধ্যমে",
+          "গ": "সশস্ত্র মুক্তিযুদ্ধের মাধ্যমে",
+          "ঘ": "ভারতের সহায়তা লাভের মাধ্যমে&nbsp;"
+        },
+        "question": "স্বাধীন বাংলাদেশের অভ্যুদয় ঘটে কীভাবে?",
+        "solution": "গ. সশস্ত্র মুক্তিযুদ্ধের মাধ্যমে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 775471,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775473,
+      "value": {
+        "options": {
+          "ক": "সৈয়দ নজরুল ইসলাম",
+          "খ": "এম. মনসুর আলী",
+          "গ": "আবু সাঈদ চৌধুরী",
+          "ঘ": "তাজউদ্দীন আহমদ&nbsp;"
+        },
+        "question": "মুজিবনগর সরকারের প্রধানমন্ত্রী কে ছিলেন?",
+        "solution": "ঘ. তাজউদ্দীন আহমদ&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4784,
+          "full_name": "চ. বো.'২০২৪;ঢা. বো.'২০২৪;দি. বো.'২০২০",
+          "short_name": "চ. বো.'২০২৪;ঢা. বো.'২০২৪;দি. বো.'২০২০",
+          "slug": "c-bo2024dha-bo2024di-bo2020",
+          "pivot": {
+            "question_bank_id": 775473,
+            "tag_id": 4784,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775474,
+      "value": {
+        "options": {
+          "ক": "গণমাধ্যম",
+          "খ": "জনগণ",
+          "গ": "বিশ্ব জনমত",
+          "ঘ": "প্রবাসী বাঙালি"
+        },
+        "question": "নিচের কোনটি মহান মুক্তিযুদ্ধের মূল নিয়ামক শক্তি ছিল?",
+        "solution": "খ. জনগণ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4785,
+          "full_name": "ঢা. বো.'২০২৩;য. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৩;য. বো.'২০২৪",
+          "slug": "dha-bo2023z-bo2024",
+          "pivot": {
+            "question_bank_id": 775474,
+            "tag_id": 4785,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775475,
+      "value": {
+        "options": {
+          "ক": "১ মার্চ",
+          "খ": "২ মার্চ",
+          "গ": "৩ মার্চ",
+          "ঘ": "৪ মার্চ"
+        },
+        "question": "ইয়াহিয়া খান জাতীয় পরিষদের অধিবেশন অনির্দিষ্টকালের জন্য স্থগিত করায় ১৯৭১ সালের কোন তারিখে বঙ্গবন্ধু অসহযোগ আন্দোলনের ডাক দেন?",
+        "solution": "খ. ২ মার্চ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 775475,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775476,
+      "value": {
+        "options": {
+          "ক": "অপারেশন জ্যাকপট",
+          "খ": "অপারেশন ফ্রিডম",
+          "গ": "কিলিং",
+          "ঘ": "অপারেশন সার্চলাইট"
+        },
+        "question": "২৫ মার্চের পৈশাচিক গণহত্যার নাম কী ছিল?",
+        "solution": "ঘ. অপারেশন সার্চলাইট",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 775476,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775477,
+      "value": {
+        "options": {
+          "ক": "২৫ মার্চ রাতে",
+          "খ": "২৬ মার্চ রাতে",
+          "গ": "২৭ মার্চ রাতে",
+          "ঘ": "১৭ এপ্রিল রাতে"
+        },
+        "question": "'অপারেশন সার্চলাইট' শুরু হয়-",
+        "solution": "ক. ২৫ মার্চ রাতে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 775477,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775478,
+      "value": {
+        "options": {
+          "ক": "তাজউদ্দীন আহমদ",
+          "খ": "সৈয়দ নজরুল ইসলাম",
+          "গ": "ক্যাপ্টেন এম. মনসুর আলী",
+          "ঘ": "এ. এইচ. এম. কামারুজ্জামান"
+        },
+        "question": "১৯৭১ সালের ১১ এপ্রিল বেতার ভাষণে মুজিবনগর সরকার গঠনের কথা প্রচার করেন কে?",
+        "solution": "ক. তাজউদ্দীন আহমদ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4786,
+          "full_name": "য. বো.'২০১৬;দি. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৬;দি. বো.'২০১৫",
+          "slug": "z-bo2016di-bo2015",
+          "pivot": {
+            "question_bank_id": 775478,
+            "tag_id": 4786,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775479,
+      "value": {
+        "options": {
+          "ক": "কমরেড মনি সিং",
+          "খ": "সৈয়দ নজরুল ইসলাম",
+          "গ": "এম মনসুর আলী",
+          "ঘ": "এ.এইচ.এম কামারুজ্জামান"
+        },
+        "question": "মুক্তিযুদ্ধের উপদেষ্টা কমিটিতে সদস্য ছিলেন",
+        "solution": "ক. কমরেড মনি সিং",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 775479,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775480,
+      "value": {
+        "options": {
+          "ক": "গেরিলা",
+          "খ": "সম্মুখ",
+          "গ": "নিয়মিত",
+          "ঘ": "সহায়ক"
+        },
+        "question": "জনাব রাশেদ এবং তার সহযোদ্ধারা পাকিস্তানি বাহিনীকে হঠাৎ আক্রমণ করে পালিয়ে আত্মরক্ষা করতেন। তিনি কোন ধরনের! মুক্তিযোদ্ধা ছিলেন?",
+        "solution": "ক. গেরিলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 775480,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775481,
+      "value": {
+        "options": {
+          "ক": "ইয়াহিয়া ও টিক্কা খান",
+          "খ": "ইয়াহিয়া ও ভুট্টো",
+          "গ": "ইয়াহিয়া ও রাও ফরমান আলী",
+          "ঘ": "ইয়াহিয়া ও খাজা নাজিমুদ্দীন"
+        },
+        "question": "কোন পাকিস্তানি নেতারা ২৫ মার্চ রাতে গোপনে ঢাকা ত্যাগ করেন?",
+        "solution": "খ. ইয়াহিয়া ও ভুট্টো",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775481,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775482,
+      "value": {
+        "options": {
+          "ক": "ইয়াহিয়া খান",
+          "খ": "রাও ফরমান আলী",
+          "গ": "আইয়ুব খান",
+          "ঘ": "জুলফিকার আলী ভুট্টো&nbsp;"
+        },
+        "question": "'অপারেশন সার্চলাইট'-এর নীল নকশা কে তৈরি করেন?",
+        "solution": "খ. রাও ফরমান আলী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4787,
+          "full_name": "ঢা. বো.'২০২৪;দি. বো.'২০২০;সি. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২৪;দি. বো.'২০২০;সি. বো.'২০২০",
+          "slug": "dha-bo2024di-bo2020si-bo2020",
+          "pivot": {
+            "question_bank_id": 775482,
+            "tag_id": 4787,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775483,
+      "value": {
+        "options": {
+          "ক": "৪",
+          "খ": "৬",
+          "গ": "৯",
+          "ঘ": "১১&nbsp;"
+        },
+        "question": "১৯৭১ সালের ১০ এপ্রিল কতজন সেক্টর কমান্ডার নিযুক্ত করা হয়&nbsp;?",
+        "solution": "ঘ. ১১&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 775483,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775484,
+      "value": {
+        "options": {
+          "ক": "এম মনসুর আলী",
+          "খ": "তাজউদ্দিন আহমেদ",
+          "গ": "এ এইচ এম কামারুজ্জামান",
+          "ঘ": "খন্দকার মোশতাক আহমেদ"
+        },
+        "question": "মুজিবনগর সরকারের \"পররাষ্ট্র ও আইনমন্ত্রী\" কে ছিলেন?",
+        "solution": "ঘ. খন্দকার মোশতাক আহমেদ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775484,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775485,
+      "value": {
+        "options": {
+          "ক": "সরাসরি মুক্তিযুদ্ধে অংশগ্রহণ করে",
+          "খ": "অর্থ সংগ্রহ করে",
+          "গ": "সংবাদ পাঠ করে",
+          "ঘ": "সাংস্কৃতিক কর্মকান্ডে অংশ নিয়ে"
+        },
+        "question": "মুক্তিযুদ্ধে প্রবাসী বাঙালিরা কীভাবে সহযোগিতা করেন?",
+        "solution": "খ. অর্থ সংগ্রহ করে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 775485,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775486,
+      "value": {
+        "options": {
+          "ক": "সামরিক বাহিনী",
+          "খ": "বিমান বাহিনী",
+          "গ": "ছাত্রসমাজ",
+          "ঘ": "জনগণ"
+        },
+        "question": "মুক্তিযুদ্ধের নিয়ামক শক্তি ছিল কারা?",
+        "solution": "ঘ. জনগণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4788,
+          "full_name": "চ. বো.'২০২৩;সি. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩;সি. বো.'২০২৩",
+          "slug": "c-bo2023si-bo2023",
+          "pivot": {
+            "question_bank_id": 775486,
+            "tag_id": 4788,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775487,
+      "value": {
+        "options": {
+          "ক": "ঢাকা",
+          "খ": "খুলনা",
+          "গ": "মেহেরপুর",
+          "ঘ": "কুষ্টিয়া"
+        },
+        "question": "মুজিবনগর কোন জেলায় অবস্থিত?",
+        "solution": "গ. মেহেরপুর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 775487,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775488,
+      "value": {
+        "options": {
+          "ক": "২৬ মার্চ, ১৯৭১",
+          "খ": "১০ এপ্রিল, ১৯৭১",
+          "গ": "১৭ এপ্রিল, ১৯৭১",
+          "ঘ": "১৬ ডিসেম্বর, ১৯৭১"
+        },
+        "question": "কোন তারিখে আনুষ্ঠানিকভাবে বাংলাদেশের স্বাধীনতা ঘোষণা করা হয়?",
+        "solution": "খ. ১০ এপ্রিল, ১৯৭১",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775488,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775489,
+      "value": {
+        "options": {
+          "ক": "২৫ মার্চ",
+          "খ": "২৬ মার্চ",
+          "গ": "২৭ মার্চ",
+          "ঘ": "২৮ মার্চ"
+        },
+        "question": "কোন দিনটি 'জাতীয় গণহত্যা দিবস' হিসেবে স্বীকৃত?&nbsp;",
+        "solution": "ক. ২৫ মার্চ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775489,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775490,
+      "value": {
+        "options": {
+          "ক": "টিক্কা খান",
+          "খ": "জুলফিকার আলী ভুট্টো",
+          "গ": "জেনারেল নিয়াজি",
+          "ঘ": "ইয়াহিয়া খান"
+        },
+        "question": "অপারেশন সার্চলাইটের পরিকল্পনার সাথে সরাসরি জড়িত ছিলেন-",
+        "solution": "ক. টিক্কা খান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 775490,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775457,
+      "value": {
+        "options": {
+          "ক": "যুক্তরাষ্ট্র",
+          "খ": "ব্রিটেন",
+          "গ": "রাশিয়া",
+          "ঘ": "ইরাক"
+        },
+        "question": "বাংলাদেশের স্বাধীনতা যুদ্ধে ভারতের পর সর্বাধিক অবদান রাখে&nbsp; কোন দেশ?",
+        "solution": "গ. রাশিয়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 775457,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775443,
+      "value": {
+        "options": {
+          "ক": "১৯৯৭ সালে&nbsp;",
+          "খ": "২০১০ সালে&nbsp;",
+          "গ": "২০১৪ সালে&nbsp;",
+          "ঘ": "২০১৬ সালে"
+        },
+        "question": "বাংলাদেশ সরকার বীরঙ্গনাদের মুক্তিযোদ্ধা হিসেবে স্বীকৃত দেন কত সালে?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 775443,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775444,
+      "value": {
+        "options": {
+          "ক": "মুজিবনগর সরকার গঠনের জন্য",
+          "খ": "সাধারণ নির্বাচনের জন্য",
+          "গ": "অস্থায়ী সরকার গঠনের জন্যমারুজ্জামান",
+          "ঘ": "মুজিবনগর সরকারের শপথ গ্রহণের জন্য"
+        },
+        "question": "১৯৭১ সালের ১৭ এপ্রিল দিনটি বিখ্যাত কেন?",
+        "solution": "ঘ. মুজিবনগর সরকারের শপথ গ্রহণের জন্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 775444,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775445,
+      "value": {
+        "options": {
+          "ক": "ক্যাপ্টেন এম মনসুর আলী",
+          "খ": "মওলানা ভাসানী",
+          "গ": "সংবাদ পাঠ করেবঙ্গবন্ধু শেখ মুজিবুর রহমান",
+          "ঘ": "তাজউদ্দীন আহমদ"
+        },
+        "question": "মুক্তিযুদ্ধের সময় খাদ্য, বস্ত্র, অস্ত্র ও প্রশিক্ষণের দায়িত্ব কার ছিল?",
+        "solution": "ক. ক্যাপ্টেন এম মনসুর আলী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775445,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775446,
+      "value": {
+        "options": {
+          "ক": "ঐক্য",
+          "খ": "নির্বাচন",
+          "গ": "জাতীয়তা",
+          "ঘ": "স্বাধীনতা"
+        },
+        "question": "৭ মার্চ, ১৯৭১-এর ভাষণে কিসের ইঙ্গিত রয়েছে?",
+        "solution": "ঘ. স্বাধীনতা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 775446,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775447,
+      "value": {
+        "options": {
+          "ক": "১৫ মার্চ",
+          "খ": "১৭ মার্চ",
+          "গ": "২১ মার্চ",
+          "ঘ": "২৮ মার্চ"
+        },
+        "question": "কখন অপারেশন সার্চলাইটের পরিকল্পনা করা হয়?",
+        "solution": "খ. ১৭ মার্চ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 775447,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775448,
+      "value": {
+        "options": {
+          "ক": "সংগ্রামমুখী",
+          "খ": "প্রতিবাদমুখর",
+          "গ": "স্থবিরতা",
+          "ঘ": "আন্দোলনরত"
+        },
+        "question": "&nbsp;১৯৭১ সালের মার্চ মাসের প্রথম হরতালে পূর্ব পাকিস্তানের সরকারি কার্যক্রমে কীরূপ অবস্থা বিরাজ করে?",
+        "solution": "গ. স্থবিরতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 775448,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775449,
+      "value": {
+        "options": {
+          "ক": "৭ মার্চের ভাষণের সময়",
+          "খ": "২৬ মার্চের প্রথম প্রহরে",
+          "গ": "বঙ্গবন্ধুর ৬ দফা ঘোষণার সময়",
+          "ঘ": "১৯৭০-এর নির্বাচনি প্রচারণায় সময়"
+        },
+        "question": "\"চূড়ান্ত বিজয় অর্জন না করা পর্যন্ত লড়াই চালিয়ে যাও।\"- বঙ্গবন্ধু এ উক্তিটি কখন করেন?",
+        "solution": "খ. ২৬ মার্চের প্রথম প্রহরে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 775449,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775450,
+      "value": {
+        "options": {
+          "ক": "দেশ পরিচালনা করা",
+          "খ": "পাকিস্তান সরকারের সাথে আলোচনা করা",
+          "গ": "মুক্তিযুদ্ধের পক্ষে জনমত তৈরি করা",
+          "ঘ": "প্রশাসনিক কাজ পরিচালনা করা"
+        },
+        "question": "অস্থায়ী সরকার গঠনের প্রধান উদ্দেশ্য কী ছিল?",
+        "solution": "গ. মুক্তিযুদ্ধের পক্ষে জনমত তৈরি করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 775450,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775451,
+      "value": {
+        "options": {
+          "ক": "অধ্যাপক ইউসুফ আলী",
+          "খ": "বিচারপতি আবু সাঈদ চৌধুরী",
+          "গ": "অধ্যাপক মোজাফ্ফর আহমেদ",
+          "ঘ": "খন্দকার মোশতাক আহমেদ"
+        },
+        "question": "মুজিবনগর সরকারের 'বিশেষ দূত' হিসেবে কাজ করেন কে?",
+        "solution": "খ. বিচারপতি আবু সাঈদ চৌধুরী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 775451,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775452,
+      "value": {
+        "options": {
+          "ক": "খন্দকার মোশতাক আহমেদ",
+          "খ": "সৈয়দ নজরুল ইসলাম",
+          "গ": "তাজউদ্দীন আহমদ",
+          "ঘ": "এম মনসুর আলী"
+        },
+        "question": "মুক্তিযুদ্ধ পরিচালনার জন্য গঠিত উপদেষ্টা কমিটির আহ্বায়ক কে ছিলেন?",
+        "solution": "গ. তাজউদ্দীন আহমদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4781,
+          "full_name": "কু. বো.'২০১৬;চ. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৬;চ. বো.'২০১৫",
+          "slug": "ku-bo2016c-bo2015",
+          "pivot": {
+            "question_bank_id": 775452,
+            "tag_id": 4781,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775453,
+      "value": {
+        "options": {
+          "ক": "মুসলিম লীগ",
+          "খ": "পিডিপি",
+          "গ": "আওয়ামী লীগ",
+          "ঘ": "ন্যাপ"
+        },
+        "question": "বাংলাদেশ মুক্তিযুদ্ধে নেতৃত্বদানকারী প্রধান রাজনৈতিক দল কোনটি?",
+        "solution": "গ. আওয়ামী লীগ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 775453,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775454,
+      "value": {
+        "options": {
+          "ক": "ন্যাপ (মোজাফফর)",
+          "খ": "মুসলিম লীগ",
+          "গ": "কমিউনিস্ট পার্টি",
+          "ঘ": "জাতীয় কংগ্রেস"
+        },
+        "question": "বাংলাদেশের অভ্যন্তরে পাকবাহিনীর সমর্থনে কোন দলটি মুক্তিযুদ্ধের&nbsp;বিরোধিতা করে?",
+        "solution": "খ. মুসলিম লীগ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 775454,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775455,
+      "value": {
+        "options": {
+          "ক": "বুদ্ধিজীবীরা",
+          "খ": "ছাত্রসমাজ",
+          "গ": "নারীসমাজ",
+          "ঘ": "পেশাজীবীরা"
+        },
+        "question": "পাকিস্তানের ২৪ বছরে বাঙালি জাতির স্বার্থসংশ্লিষ্ট সকল আন্দোলনে গৌরবোজ্জ্বল ভূমিকা পালন করে কারা?",
+        "solution": "খ. ছাত্রসমাজ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 775455,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775456,
+      "value": {
+        "options": {
+          "ক": "শ্রমিক",
+          "খ": "কৃষক",
+          "গ": "চাকরিজীবী",
+          "ঘ": "ছাত্র"
+        },
+        "question": "মুক্তিবাহিনীতে একক গোষ্ঠী হিসেবে কাদের সংখ্যা সবচেয়ে বেশি ছিল?",
+        "solution": "ঘ. ছাত্র",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4782,
+          "full_name": "দি. বো.",
+          "short_name": "দি. বো.",
+          "slug": "di-bo",
+          "pivot": {
+            "question_bank_id": 775456,
+            "tag_id": 4782,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775442,
+      "value": {
+        "options": {
+          "ক": "১৯৯৭ সালে",
+          "খ": "২০১০ সালে",
+          "গ": "২০১৪ সালে",
+          "ঘ": "২০১৬ সালে&nbsp;"
+        },
+        "question": "বাংলাদেশ সরকার বীরঙ্গনাদের মুক্তিযোদ্ধা হিসেবে স্বীকৃত দেন কত সালে?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 775442,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775458,
+      "value": {
+        "options": {
+          "ক": "ঢাকায়",
+          "খ": "কুমিল্লায়",
+          "গ": "রাজশাহীতে",
+          "ঘ": "চট্টগ্রামে&nbsp;"
+        },
+        "question": "স্বাধীন বাংলা বেতারকেন্দ্র কোথায় চালু করা হয়?",
+        "solution": "ঘ. চট্টগ্রামে&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 775458,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775459,
+      "value": {
+        "options": {
+          "ক": "সন্ত্রাস দমন করার জন্য",
+          "খ": "কালো বাজারি ব্যবসা বন্ধের জন্য",
+          "গ": "বাঙালিদের হত্যা করার জন্য",
+          "ঘ": "জঙ্গিবাদীদের দমন করার জন্য"
+        },
+        "question": "'অপারেশন সার্চলাইট' পরিচালনা করা হয় কেন?",
+        "solution": "ঘ. জঙ্গিবাদীদের দমন করার জন্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775459,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775460,
+      "value": {
+        "options": {
+          "ক": "শেখ মুজিবুর রহমান",
+          "খ": "এ কে ফজলুল হক",
+          "গ": "মওলানা ভাসানী",
+          "ঘ": "তাজ উদ্দিন আহমেদ"
+        },
+        "question": "অসহযোগ আন্দোলনের ডাক দেন কে?",
+        "solution": "ক. শেখ মুজিবুর রহমান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775460,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775461,
+      "value": {
+        "options": {
+          "ক": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+          "খ": "শেরে বাংলা.এ. কে. ফজলুল হক",
+          "গ": "সৈয়দ নজরুল ইসলাম",
+          "ঘ": "তাজউদ্দীন আহমদী"
+        },
+        "question": "১৯৭১ সালে কে অসহযোগ আন্দোলনের ডাক দেন?",
+        "solution": "ক. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 775461,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775462,
+      "value": {
+        "options": {
+          "ক": "রমনা পার্ক",
+          "খ": "শিশু পার্ক",
+          "গ": "বোটানিক্যাল গার্ডেন",
+          "ঘ": "সোহরাওয়ার্দী উদ্যান"
+        },
+        "question": "রেসকোর্স ময়দানের বর্তমান নাম কী?",
+        "solution": "ঘ. সোহরাওয়ার্দী উদ্যান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 775462,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775463,
+      "value": {
+        "options": {
+          "ক": "এম. মনসুর আলী",
+          "খ": "তাজউদ্দীন আহমদ",
+          "গ": "খন্দকার মোশতাক আহমেদ",
+          "ঘ": "এ. এইচ. এম. কামারুজ্জামান"
+        },
+        "question": "মুজিবনগর সরকারের ত্রাণ ও পুনর্বাসন মন্ত্রী কে ছিলেন?",
+        "solution": "ঘ. এ. এইচ. এম. কামারুজ্জামান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3962,
+          "full_name": "ব. বো.",
+          "short_name": "ব. বো.",
+          "slug": "b-bo",
+          "pivot": {
+            "question_bank_id": 775463,
+            "tag_id": 3962,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775464,
+      "value": {
+        "options": {
+          "ক": "সৈয়দ নজরুল ইসলাম",
+          "খ": "অধ্যাপক মোজাফফর আহমেদ",
+          "গ": "তাজউদ্দীন আহমদ",
+          "ঘ": "এম মনসুর আলী"
+        },
+        "question": "মুজিবনগর সরকারের উপদেষ্টা পরিষদের সদস্য কে ছিলেন?",
+        "solution": "খ. অধ্যাপক মোজাফফর আহমেদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 775464,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775465,
+      "value": {
+        "options": {
+          "ক": "খন্দকার মোশতাক আহমেদ",
+          "খ": "সৈয়দ নজরুল ইসলাম",
+          "গ": "তাজউদ্দীন আহমদ",
+          "ঘ": "এম মনসুর আলী"
+        },
+        "question": "মুক্তিযুদ্ধ পরিচালনার জন্য গঠিত উপদেষ্টা কমিটির আহ্বায়ক কে ছিলেন?",
+        "solution": "গ. তাজউদ্দীন আহমদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4781,
+          "full_name": "কু. বো.'২০১৬;চ. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৬;চ. বো.'২০১৫",
+          "slug": "ku-bo2016c-bo2015",
+          "pivot": {
+            "question_bank_id": 775465,
+            "tag_id": 4781,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775466,
+      "value": {
+        "options": {
+          "ক": "কবিতা রচনা করে",
+          "খ": "চলচ্চিত্র তৈরি করে",
+          "গ": "গান গেয়ে",
+          "ঘ": "ছবি এঁকে"
+        },
+        "question": "শিল্পী জর্জ হ্যারিসন মুক্তিযুদ্ধে বিশ্ব জনমত সৃষ্টি করে কোনটির দ্বারা?",
+        "solution": "গ. গান গেয়ে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 775466,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775467,
+      "value": {
+        "options": {
+          "ক": "৯২",
+          "খ": "৯৩",
+          "গ": "৯৪",
+          "ঘ": "৯৫"
+        },
+        "question": "কত হাজার পাকসেনা নিঃশর্তে যৌথ কমান্ডের নিকট আত্মসমর্পণ করে?",
+        "solution": "খ. ৯৩",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 775467,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775468,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "মুজিবনগর সরকার গঠনের প্রধান উদ্দেশ্য ছিল-\u003Cbr\u003E\ni. বাংলাদেশের পক্ষে বিশ্বজনমত সৃষ্টি করা&nbsp;\u003Cbr\u003E\nii. মুক্তিযুদ্ধ পরিচালনার জন্য বিভিন্ন বাহিনী গঠন\u003Cbr\u003E\niii. রাজনৈতিক নেতৃত্ব ও দল গঠন করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 775468,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775469,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মুক্তিযুদ্ধের প্রতি বিশ্ব জনমত গঠনের জন্য সরকার ও রাজনৈতিক নেতৃত্ব-\u003Cbr\u003E\ni. স্বাধীন বাংলা বেতার কেন্দ্র পরিচালনা করেন\u003Cbr\u003E\nii. গেরিলা যোদ্ধাদের প্রশিক্ষণের ব্যবস্থা করেন\u003Cbr\u003E\niii. বিভিন্ন আন্তর্জাতিক ফোরামে বক্তব্য রাখেন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 775469,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775470,
+      "value": {
+        "options": {
+          "ক": "শ্রীমতি ইন্দিরা গান্ধী",
+          "খ": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+          "গ": "আতাউল গনি ওসমানী",
+          "ঘ": "তাজউদ্দীন আহমদ"
+        },
+        "question": "মুক্তিযোদ্ধাদের সহযাত্রী নারীদের বীরঙ্গনা উপাধিতে ভূষিত করেন কে?",
+        "solution": "খ. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:29:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 775470,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:29:30.000000Z",
+            "updated_at": "2025-12-01T15:29:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8062&grade=5&lesson=14645&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8062&grade=5&lesson=14645&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8062&grade=5&lesson=14645&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 59,
+  "total": 59
+}

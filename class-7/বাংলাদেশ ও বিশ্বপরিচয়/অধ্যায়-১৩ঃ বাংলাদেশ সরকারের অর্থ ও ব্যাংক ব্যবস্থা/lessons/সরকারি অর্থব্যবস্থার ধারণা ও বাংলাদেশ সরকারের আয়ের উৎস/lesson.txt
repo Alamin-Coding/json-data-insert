@@ -1,0 +1,1873 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776703,
+      "value": {
+        "options": [],
+        "question": "জনাব আমিনুল ইসলাম একজন সরকারি চাকরিজীবী। তিনি সরকারকে যে ধরনের কর প্রদান করেন সেটি ব্যাখ্যা করো।",
+        "solution": "জনাব আমিনুল ইসলাম সরকারকে আয়কর প্রদান করেন। কারণ, জনসাধারণের ব্যক্তিগত আয়ের ওপর যে কর ধার্য করা হয় তাকে আয়কর বলা হয়। যাদের আয় একটি নির্দিষ্ট সীমার উর্ধ্বে তাদের নিকট থেকে প্রগতিশীল হারে আয়কর আদায় করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776693,
+      "value": {
+        "options": {
+          "ক": "মূল্য সংযোজন কর",
+          "খ": "সম্পূরক শুল্ক",
+          "গ": "আবগারি শুল্ক",
+          "ঘ": "আয়কর"
+        },
+        "question": "রিমা একজন আইনজীবী। সে আয়ের উপর প্রতিবছর সরকারকে কর প্রদান করে। রিমার প্রদত্ত কর কী ধরনের কর?",
+        "solution": "ঘ. আয়কর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776693,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776694,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;&nbsp;",
+          "খ": "i ও ii",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশ সরকারের আয়ের উৎস-\u003Cbr\u003E\ni.. আয়কর\u003Cbr\u003E\nii. মূল্য সংযোজন কর\u003Cbr\u003E\niii. ভূমি রাজস্ব\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 776694,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776695,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii&nbsp;&nbsp;",
+          "গ": "ii ও iii&nbsp;&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;&nbsp;"
+        },
+        "question": "বাংলাদেশে আবগারি শুল্ক ধরা হয় যেসব পণ্যের উপর-\u003Cbr\u003E\ni. ওষুধ\u003Cbr\u003E\nii. তামাক\u003Cbr\u003E\niii. চা নিচের\u003Cbr\u003E\nকোনটি সঠিক",
+        "solution": "ঘ. i, ii ও iii&nbsp;&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776696,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশ সরকারের আয়ের উৎস-\u003Cbr\u003E\ni. কর রাজস্ব\u003Cbr\u003E\nii. ব্যাংক সুদ\u003Cbr\u003E\niii. কর বহির্ভূত রাজস্ব\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776697,
+      "value": {
+        "options": [],
+        "question": "'A' হলো রাষ্ট্রের আয় ও ব্যয় সংক্রান্ত নীতি ও পদ্ধতি। 'A' দ্বারা কী নির্দেশ করা হয়েছে? সেটির বিষয়বস্তু উল্লেখ করো।",
+        "solution": "&#39;A&#39; দ্বারা সরকারি অর্থব্যবস্থা নির্দেশ করা হয়েছে। অর্থনীতির এ শাখায় রাষ্ট্রের সব ধরনের আয়-ব্যয়, ঋণ ও বিনিয়োগ সংক্রান্ত সমস্যা ও সেসবের সমাধানের বিষয় অন্তর্ভুক্ত থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776698,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশ সরকারের আয়ের উৎসকে কয়ভাগে ভাগ করা যায়? এগুলো কী কী?",
+        "solution": "বাংলাদেশ সরকারের আয়ের উৎসকে দুভাগে ভাগ করা যায়।\u003Cbr /\u003E\nযথা- ক. কর রাজস্ব ও খ. কর বহির্ভূত রাজস্ব।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776699,
+      "value": {
+        "options": [],
+        "question": "কর রাজস্ব কী? ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশ সরকার দেশের জনগণ, বিভিন্ন ব্যবসায় ও শিল্প কারখানার ওপর যে কর ধার্য করে তা থেকে প্রাপ্ত আয়কে কর রাজস্ব বলে। যেমন- বাণিজ্য শুল্ক, আবগারি শুল্ক, আয়কর, মূল্য সংযোজন কর (ভ্যাট) ইত্যাদি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776700,
+      "value": {
+        "options": [],
+        "question": "আমদানিকারক প্রতিষ্ঠান 'M' প্রতিবছর সরকারকে বিপুল পরিমাণ কর প্রদান করে। এটি কোন ধরনের শুল্ক? ব্যাখ্যা করো।",
+        "solution": "&#39;M&#39; প্রতিষ্ঠানের প্রদত্ত কর দ্বারা বাণিজ্য শুল্ককে নির্দেশ করা হয়েছে। দেশের আমদানি ও রপ্তানিকারক প্রতিষ্ঠানগুলো সরকারকে যে কর প্রদান করে তাকে বাণিজ্য শুল্ক বলা হয়। এটি বাংলাদেশ সরকারের আয়ের প্রধান উৎস।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776701,
+      "value": {
+        "options": [],
+        "question": "জনকল্যাণমূলক কাজে বাংলাদেশ সরকার বিপুল অর্থ ব্যয় করে। এই অর্থ সরকার কীভাবে আয় করে?",
+        "solution": "বাংলাদেশ সরকার জনকল্যাণমূলক কাজের ব্যয় মেটাতে কখনো কখনো করের হার বৃদ্ধি করে, নতুন ক্ষেত্রে কর আরোপ করে এবং কর বহির্ভূত আয় করে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776702,
+      "value": {
+        "options": [],
+        "question": "আবগারি শুল্ক কাকে বলে? ব্যাখ্যা করো।",
+        "solution": "দেশের অভ্যন্তরে উৎপাদিত ও ব্যবহৃত দ্রব্যের ওপর যে কর ধার্য করা হয় তাকে আবগারি শুল্ক বলে। রাজস্ব সংগ্রহ ছাড়াও বিভিন্ন ক্ষতিকর দ্রব্যের ভোগ কমানোর জন্য আবগারি শুল্ক ধার্য করা হয়। বাংলাদেশে প্রধানত চা, সিগারেট, তামাক, চিনি, ওষুধ, নেশা জাতীয় দ্রব্য ইত্যাদির ওপর আবগারি শুল্ক ধার্য করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776692,
+      "value": {
+        "options": {
+          "ক": "আমদানি ও রপ্তানি শুল্ক",
+          "খ": "মূল্য সংযোজন কর",
+          "গ": "আয়কর",
+          "ঘ": "ভূমি রাজস্ব"
+        },
+        "question": "কোন উৎস থেকে বাংলাদেশ সরকারের সর্বোচ্চ রাজস্ব আয় হয়?",
+        "solution": "ক. আমদানি ও রপ্তানি শুল্ক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 776692,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776704,
+      "value": {
+        "options": [],
+        "question": "ভ্যাট বলতে কী বোঝায়? ব্যাখ্যা করো।",
+        "solution": "মূল্য সংযোজন কর বাংলাদেশের কর ব্যবস্থায় ভ্যাট (Value Added Tax) নামে পরিচিত। দেশে আমদানিকৃত দ্রব্য ও স্থানীয়ভাবে উৎপাদিত দ্রব্য এবং নির্ধারিত কতকগুলো সেবাখাতের ওপর ভ্যাট আরোপ করা হয়েছে। ভ্যাটের মাধ্যমে সরকার সরাসরি ভোক্তা পর্যায় হতে কর আদায় করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776705,
+      "value": {
+        "options": [],
+        "question": "কর-বহির্ভূত রাজস্ব বলতে কী বোঝায়? ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশ সরকার কর ও শুল্ক ছাড়াও আরও অনেক উৎস থেকে রাজস্ব সংগ্রহ করে। এ উৎসগুলো থেকে অর্জিত রাজস্বকে কর বহির্ভূত রাজস্ব বলে। যেমন- লভ্যাংশ ও মুনাফা, সুদ, অর্থনৈতিক সেবা, বন বিভাগ, ডাক বিভাগ ইত্যাদি উৎস হতে অর্জিত আয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776706,
+      "value": {
+        "options": [],
+        "question": "বন থেকে সরকার প্রচুর অর্থ আয় করে। এটি সরকারের আয়ের কোন উৎসের অন্তর্ভুক্ত? ব্যাখ্যা করো।",
+        "solution": "এটি সরকারের কর-বহির্ভূত আয়ের অন্তর্ভুক্ত। বাংলাদেশের বনাঞ্চল থেকে কাঠ, বাঁশ, জ্বালানি, মধু, মোম ইত্যাদি বনজ সম্পদ বিক্রয়ের মাধ্যমে সরকার আয় করে। এ খাত থেকে সরকার প্রচুর অর্থ আয় করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776707,
+      "value": {
+        "options": [],
+        "question": "টোল ও লেভি ব্যাখ্যা করো।",
+        "solution": "টোল হলো এক ধরনের রাজস্ব আয় যা সরকার জনগণের সেবা বাবদ বিভিন্নভাবে আদায় করে। যেমন- ব্রিজ, সেতু, রাস্তা ও হাটবাজার থেকে সরকারের আদায়কৃত অর্থ। আর লেভি হলো বিশেষ বিশেষ সময়ে জনগণের ওপর আরোপিত বিশেষ ধরনের রাজস্ব। যেমন- পদ্মা সেতু সংশ্লিষ্ট রাজস্ব।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776708,
+      "value": {
+        "options": [],
+        "question": "ফাহিমের বাবা ফার্মগেট-উত্তরা এলিভেটেড এক্সপ্রেসওয়ে পার হওয়ার সময় নির্ধারিত জায়গায় এক ধরনের কর প্রদান করলেন। এটি কোন ধরনের করকে নির্দেশ করে? ব্যাখ্যা করো।",
+        "solution": "ফাহিমের বাবা টোল প্রদান করেছেন, যা কর-বহির্ভূত আয়কে নির্দেশ করে। টোল হলো এক ধরনের রাজস্ব আয় যা আয়ের ওপর নির্ধারিত আয়করের মতো নয়। সরকার জনগণের সেবা বাবদ বিভিন্নভাবে এ কর গ্রহণ করে। যেমন- ব্রিজ, সেতু, কালভার্ট, হাটবাজার প্রভৃতি থেকে সরকার অর্থ আদায় করে, যা টোল হিসেবে পরিচিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776709,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশ সরকারকে কোন কোন কাজে প্রচুর অর্থ ব্যয় করতে হয়? এ কাজগুলো উল্লেখ করো।",
+        "solution": "বাংলাদেশ সরকারকে দেশের আর্থসামাজিক উন্নয়ন, ভৌত-অবকাঠামো নির্মাণ, মানবসম্পদ উন্নয়ন ও দারিদ্র্য বিমোচনে বিপুল অর্থ ব্যয় করতে হয়। এছাড়া সরকারকে প্রশাসনিক, সামাজিক ও জনকল্যাণমূলক এবং অন্যান্য সেবাধর্মী কাজেও ব্যয় করতে হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776710,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশ সরকারের ব্যয়ের প্রধান খাতটি ব্যাখ্যা করো।",
+        "solution": "প্রতিরক্ষা বাংলাদেশের সরকারি ব্যয়ের প্রধান খাত। প্রতিরক্ষা বাহিনীর কর্মকর্তা-কর্মচারীদের বেতন, ভাতা ও অন্যান্য সুযোগ-সুবিধা প্রদান, যুদ্ধের অস্ত্রশস্ত্র ও সাজসরঞ্জাম ক্রয় ইত্যাদি বাবদ বাংলাদেশ সরকার প্রচুর অর্থ ব্যয় করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776711,
+      "value": {
+        "options": [],
+        "question": "'A' খাতটি বাংলাদেশ সরকারের ব্যয়ের গুরুত্বপূর্ণ খাত হিসেবে বিবেচিত। 'A' নির্দেশিত খাতটি ব্যাখ্যা করো।",
+        "solution": "&#39;A&#39; নির্দেশিত বিষয়টি হলো বাংলাদেশ সরকারের ব্যয়ের গুরুত্বপূর্ণ খাত &#39;শিক্ষা&#39;। শিক্ষা সম্প্রসারণের মাধ্যমে দেশকে অশিক্ষার অভিশাপ থেকে মুক্ত করার লক্ষ্যে সরকারকে সাম্প্রতিককালে শিক্ষাখাতে প্রচুর অর্থ ব্যয় করতে হচ্ছে। শিক্ষাপ্রতিষ্ঠানের জন্য অনুদান, উপবৃত্তি, বিনামূল্যে পাঠ্যপুস্তক প্রদান, শিক্ষক প্রশিক্ষণ ও উপানুষ্ঠানিক শিক্ষার জন্য সরকার এ খাতে উল্লেখযোগ্য পরিমাণ অর্থ ব্যয় করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776712,
+      "value": {
+        "options": [],
+        "question": "সরকারি ব্যয় ব্যবস্থাপনার দুটি গুরুত্বপূর্ণ বিষয় উল্লেখ করো।",
+        "solution": "সরকারি ব্যয়ের গুরুত্বপূর্ণ দুটি বিষয় হলো- ১. উৎপাদনশীল খাতে ব্যয় বৃদ্ধি করা; ২. অনুৎপাদনশীল খাতে ব্যয় নিয়ন্ত্রণে রাখা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776682,
+      "value": {
+        "options": {
+          "ক": "বন&nbsp;",
+          "খ": "রেলওয়ে",
+          "গ": "রেজিস্ট্রেশন",
+          "ঘ": "তার ও টেলিফোন"
+        },
+        "question": "বাংলাদেশ সরকারের কর রাজস্ব আয়ের উৎস কোনটি?",
+        "solution": "গ. রেজিস্ট্রেশন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4862,
+          "full_name": "য. বো.'২০১৯;ব. বো.'২০২০;কু. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৯;ব. বো.'২০২০;কু. বো.'২০১৬",
+          "slug": "z-bo2019b-bo2020ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776682,
+            "tag_id": 4862,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776672,
+      "value": {
+        "options": {
+          "ক": "আয়কর",
+          "খ": "ভ্যাট&nbsp;",
+          "গ": "বাণিজ্য শুল্ক&nbsp;",
+          "ঘ": "আবগারি শুল্ক"
+        },
+        "question": "মিতুর বাবা একজন আমদানিকারক। তিনি সরকারকে প্রধানত কোন ধরনের রাজস্ব কর দেন?",
+        "solution": "গ. বাণিজ্য শুল্ক&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 776672,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776673,
+      "value": {
+        "options": {
+          "ক": "বাণিজ্য",
+          "খ": "সম্পূরক",
+          "গ": "আবগারি",
+          "ঘ": "মাদক শুল্ক"
+        },
+        "question": "স্বাস্থ্য ঝুঁকি আছে এমন দ্রব্যের ভোগ কমানোর জন্য কোন শুল্ক আরোপ করা হয়?",
+        "solution": "গ. আবগারি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776673,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776674,
+      "value": {
+        "options": {
+          "ক": "বিনিময়ের মাধ্যম",
+          "খ": "ভাব প্রকাশের মাধ্যম",
+          "গ": "চাহিদার মাধ্যম",
+          "ঘ": "ভোগের মাধ্যম"
+        },
+        "question": "অর্থ কী?",
+        "solution": "ক. বিনিময়ের মাধ্যম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776674,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776675,
+      "value": {
+        "options": {
+          "ক": "বাণিজ্য শুল্ক",
+          "খ": "আবগারি শুল্ক",
+          "গ": "আয়কর",
+          "ঘ": "সম্পূরক কর"
+        },
+        "question": "একজন সরকারি কর্মচারী কর্তৃক বাৎসরিক প্রদেয় কর সরকারি রাজস্বের কোন উৎসের অন্তর্ভুক্ত?",
+        "solution": "গ. আয়কর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 776675,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776676,
+      "value": {
+        "options": {
+          "ক": "বাণিজ্য শুল্ক",
+          "খ": "আবগারি শুল্ক",
+          "গ": "মূল্য সংযোজন কর",
+          "ঘ": "সম্পূরক কর"
+        },
+        "question": "জনাব কমল একজন রপ্তানিকারক। তিনি চিংড়ি রপ্তানি করেন। বাংলাদেশ সরকার তার কাছ থেকে যে কর আদায় করে-",
+        "solution": "ক. বাণিজ্য শুল্ক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776677,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "i ও ii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "VAT আরোপ করা হয়-\u003Cbr\u003E\ni. আমদানিকৃত দ্রব্যের ওপর\u003Cbr\u003E\nii. নির্ধারিত সেবাখাতের ওপর\u003Cbr\u003E\niii. স্থানীয়ভাবে উৎপাদিত দ্রব্যের ওপর\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3811,
+          "full_name": "য. বো.'২০১৭",
+          "short_name": "য. বো.'২০১৭",
+          "slug": "z-bo2017",
+          "pivot": {
+            "question_bank_id": 776677,
+            "tag_id": 3811,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776678,
+      "value": {
+        "options": {
+          "ক": "ইজারা",
+          "খ": "টোল",
+          "গ": "লেভি",
+          "ঘ": "জরিমানা"
+        },
+        "question": "বিশেষ বিশেষ সময়ে জনগণের নিকট থেকে আরোপিত ও আদায়কৃত রাজস্ব কোনটি?",
+        "solution": "গ. লেভি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 776678,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776679,
+      "value": {
+        "options": {
+          "ক": "ভূমি রাজস্ব",
+          "খ": "নন-জুডিসিয়াল স্ট্যাম্প",
+          "গ": "টোল ও লেভি",
+          "ঘ": "আবগারি শুল্ক"
+        },
+        "question": "কোনটি বাংলাদেশ সরকারের করবহির্ভূত রাজস্ব?",
+        "solution": "গ. টোল ও লেভি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 776679,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776680,
+      "value": {
+        "options": {
+          "ক": "অধ্যাপক ডালটন",
+          "খ": "র&zwj;্যাগনার নার্কস",
+          "গ": "অধ্যাপক মার্শাল",
+          "ঘ": "কার্ল মার্কস"
+        },
+        "question": "\"সরকারি অর্থব্যবস্থা সরকারের আয়-ব্যয় এবং এদের একটির সঙ্গে অপরটির সমন্বয় বিধানের কার্যাবলি আলোচনা করে।\"- কার মত?",
+        "solution": "ক. অধ্যাপক ডালটন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 776680,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776681,
+      "value": {
+        "options": {
+          "ক": "আবগারি শুল্ক",
+          "খ": "বাণিজ্য শুল্ক",
+          "গ": "মূল্য সংযোজন কর",
+          "ঘ": "সম্পূরক শুল্ক"
+        },
+        "question": "বাংলাদেশে উৎপাদিত তামাকের ওপর ধার্যকৃত করকে কী বলে?",
+        "solution": "ক. আবগারি শুল্ক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4861,
+          "full_name": "ঢা. বো.'২০১৭;সি. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০১৭;সি. বো.'২০২০",
+          "slug": "dha-bo2017si-bo2020",
+          "pivot": {
+            "question_bank_id": 776681,
+            "tag_id": 4861,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776671,
+      "value": {
+        "options": {
+          "ক": "ভ্যাট",
+          "খ": "আবগারি শুল্ক",
+          "গ": "বাণিজ্য শুল্ক",
+          "ঘ": "সম্পূরক শুল্ক"
+        },
+        "question": "দেশে উৎপাদিত দিয়াশলাই-এর ওপর কোন ধরনের কর ধার্য করা হয়?",
+        "solution": "খ. আবগারি শুল্ক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 776671,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776683,
+      "value": {
+        "options": {
+          "ক": "আবগারি শুল্ক",
+          "খ": "সম্পূরক শুল্ক",
+          "গ": "নন-জুড়িশিয়াল স্ট্যাম্প",
+          "ঘ": "জরিমানা ও দণ্ড"
+        },
+        "question": "কোনটি কর বহির্ভূত রাজস্ব?",
+        "solution": "ঘ. জরিমানা ও দণ্ড",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 776683,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776684,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "১১",
+          "গ": "১২",
+          "ঘ": "২৫"
+        },
+        "question": "বাংলাদেশ সরকারের আয়ের উৎসগুলোকে কয় ভাগে ভাগ করা যায়?",
+        "solution": "ক. ২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4863,
+          "full_name": "ঢা. বো.'২০১৬;ব. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৬;ব. বো.'২০১৫",
+          "slug": "dha-bo2016b-bo2015",
+          "pivot": {
+            "question_bank_id": 776684,
+            "tag_id": 4863,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776685,
+      "value": {
+        "options": {
+          "ক": "বাণিজ্য",
+          "খ": "আবগারি",
+          "গ": "মূল্য সংযোজন",
+          "ঘ": "সম্পূরক"
+        },
+        "question": "দেশের অভ্যন্তরে উৎপাদিত ও ব্যবহৃত দ্রব্যের ওপর ধার্যকৃত করকে কোন কর বলে?",
+        "solution": "খ. আবগারি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 776685,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776686,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশ সরকারের আয়ের উৎস হলো-\u003Cbr\u003E\ni. আবগারি শুল্ক\u003Cbr\u003E\nii. বাণিজ্য শুল্ক\u003Cbr\u003E\niii. আয়কর\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3787,
+          "full_name": "দি. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৯",
+          "slug": "di-bo2019",
+          "pivot": {
+            "question_bank_id": 776686,
+            "tag_id": 3787,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776687,
+      "value": {
+        "options": {
+          "ক": "সম্পূরক শুল্ক",
+          "খ": "মাদক শুল্ক",
+          "গ": "বাণিজ্য শুল্ক",
+          "ঘ": "আবগারি শুল্ক"
+        },
+        "question": "দেশে উৎপাদিত চা, চিনি ও তামাকের ওপর ধার্যকৃত শুল্ক কী নামে পরিচিত?",
+        "solution": "ঘ. আবগারি শুল্ক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 776687,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776688,
+      "value": {
+        "options": {
+          "ক": "বাণিজ্য শুল্ক&nbsp;",
+          "খ": "মূল্য সংযোজন কর",
+          "গ": "আয়কর&nbsp;",
+          "ঘ": "ভূমি রাজস্ব"
+        },
+        "question": "বাংলাদেশের সর্বোচ্চ রাজস্ব আয়ের উৎস কোনটি?",
+        "solution": "ক. বাণিজ্য শুল্ক&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4864,
+          "full_name": "দি. বো.'২০১৭;কু. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৭;কু. বো.'২০১৯",
+          "slug": "di-bo2017ku-bo2019",
+          "pivot": {
+            "question_bank_id": 776688,
+            "tag_id": 4864,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776689,
+      "value": {
+        "options": {
+          "ক": "আবগারি শুল্ক&nbsp;",
+          "খ": "টোল",
+          "গ": "সম্পত্তি কর",
+          "ঘ": "ভূমি রাজস্ব"
+        },
+        "question": "ভূমি ভোগদখলের জন্য সরকারকে প্রদত্ত খাজনা কী নামে পরিচিত?",
+        "solution": "ঘ. ভূমি রাজস্ব",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776689,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776690,
+      "value": {
+        "options": {
+          "ক": "Valuable Add Tax",
+          "খ": "Valuable Added Tax",
+          "গ": "Value Added Tax",
+          "ঘ": "Value Add Tax"
+        },
+        "question": "ভ্যাট (VAT) কী?",
+        "solution": "গ. Value Added Tax",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4865,
+          "full_name": "রা. বো.'২০১৬;রা. বো.'২০১৮",
+          "short_name": "রা. বো.'২০১৬;রা. বো.'২০১৮",
+          "slug": "ra-bo2016ra-bo2018",
+          "pivot": {
+            "question_bank_id": 776690,
+            "tag_id": 4865,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776691,
+      "value": {
+        "options": {
+          "ক": "আয়কর",
+          "খ": "ব্যক্তিগত কর",
+          "গ": "আবগারি কর",
+          "ঘ": "মূল্য সংযোজন কর"
+        },
+        "question": "ব্যক্তিগত আয়ের ওপর ধার্যকৃত করকে কী বলে?",
+        "solution": "ক. আয়কর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 776691,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:48:32.000000Z",
+            "updated_at": "2025-12-01T15:48:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8073&grade=5&lesson=14712&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8073&grade=5&lesson=14712&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8073&grade=5&lesson=14712&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 42,
+  "total": 42
+}

@@ -1,0 +1,1903 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776661,
+      "value": {
+        "options": [],
+        "question": "ব্যাংকের ধারণাটি ব্যাখ্যা করো।",
+        "solution": "ব্যাংক হলো জনসাধারণের অর্থ গচ্ছিত রাখার এবং ঋণ গ্রহীতাদের বিভিন্ন মেয়াদি ঋণ প্রদান করার প্রতিষ্ঠান। জনসাধারণ তাদের আয় বা উদ্ধৃত অর্থ নিরাপদে সঞ্চয়ের জন্য ব্যাংকে জমা রাখে। জমাকৃত অর্থের উপর জনসাধারণ সুদ হিসেবে আয়ও করে থাকে। আবার ব্যাংক প্রদত্ত ঋণের উপর সুদ আদায় করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776651,
+      "value": {
+        "options": {
+          "ক": "চলতি",
+          "খ": "বিনিয়োগ",
+          "গ": "সঞ্চয়ী",
+          "ঘ": "স্থায়ী"
+        },
+        "question": "রহমান সাহেব চাকরি থেকে অবসর গ্রহণ করার পর যে অবসরকালীন ভাতা পেয়েছেন তা সোনালি ব্যাংকে পাঁচ বছরের জন্য জমা রাখেন।\u003Cbr\u003E\nরহমান সাহেবের জমাকৃত টাকা কোন ধরনের আমানতের অন্তর্ভুক্ত?",
+        "solution": "ঘ. স্থায়ী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776652,
+      "value": {
+        "options": {
+          "ক": "কৃষি ব্যাংক",
+          "খ": "জনতা ব্যাংক",
+          "গ": "সমবায় ব্যাংক",
+          "ঘ": "গ্রামীণ ব্যাংক"
+        },
+        "question": "'P' নামক আর্থিক প্রতিষ্ঠান এলাকার নিঃস্ব মানুষদের আর্থিক সহায়তা প্রদান করে থাকে। উক্ত আর্থিক প্রতিষ্ঠানটির নাম কী?",
+        "solution": "ঘ. গ্রামীণ ব্যাংক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 776652,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776653,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আশরাফ সাহেব একটি সরকারি প্রতিষ্ঠানে চাকরি করেন। প্রতিমাসে তিনি 'X' ব্যাংকের মাধ্যমে তার বেতন উঠান।\u003Cbr\u003E\nউক্ত ব্যাংকের বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. আমানত গ্রহণ\u003Cbr\u003E\nii. ঋণ নিয়ন্ত্রণ\u003Cbr\u003E\niii. ঋণ প্রদান\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776654,
+      "value": {
+        "options": {
+          "ক": "বাংলাদেশ ব্যাংক",
+          "খ": "গ্রামীণ ব্যাংক",
+          "গ": "সোনালী ব্যাংক",
+          "ঘ": "শিল্প ব্যাংক"
+        },
+        "question": "জনাব করিম তার এলাকায় একটি ব্যাংকে হিসাব খোলেন এবং তাতে তিনি মাস শেষে বেতনের সঞ্চিত অর্থ হতে কিছু জমা রাখেন। একটি নির্দিষ্ট সময় অতিক্রান্ত হবার পর তিনি উচ্চ হারের সুদসহ বেশ টাকা উত্তোলন করেন এবং ব্যাংক হতে আরও কিছু ঋণ নিয়ে চাকরি শেষে একটি শিল্প স্থাপন করেন।\u003Cbr\u003E\nজনাব করিম কোন ব্যাংকের মাধ্যমে হিসাব খোলে অর্থ জমা রাখেন?",
+        "solution": "গ. সোনালী ব্যাংক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 776654,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776655,
+      "value": {
+        "options": {
+          "ক": "কেন্দ্রীয় ব্যাংক",
+          "খ": "কৃষি ব্যাংক",
+          "গ": "গ্রামীণ ব্যাংক",
+          "ঘ": "বাণিজ্যিক ব্যাংক"
+        },
+        "question": "মি. রাতুল একটি শিল্পকারখানা স্থাপন করেন। তিনি ব্যাংকের নিকট তার সম্পত্তি বন্ধক রেখে ঋণ গ্রহণ করেন।\u003Cbr\u003E\nমি. রাতুল কোন ব্যাংক থেকে ঋণ নিয়েছেন?",
+        "solution": "ঘ. বাণিজ্যিক ব্যাংক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 776655,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776656,
+      "value": {
+        "options": {
+          "ক": "সোনালী ব্যাংক",
+          "খ": "গ্রামীণ ব্যাংক",
+          "গ": "কৃষি ব্যাংক",
+          "ঘ": "ইসলামী ব্যাংক"
+        },
+        "question": "বিনা জামানতে ঋণ দেয় কোন ব্যাংক?",
+        "solution": "খ. গ্রামীণ ব্যাংক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 776656,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776657,
+      "value": {
+        "options": {
+          "ক": "চলতি",
+          "খ": "সঞ্চয়ী",
+          "গ": "স্থায়ী",
+          "ঘ": "বন্ড"
+        },
+        "question": "জনাব ফরহাদ ব্যবসায় হতে ত্রিশ লক্ষ টাকা লাভ করেন। তিনি 'R' ব্যাংকের একটি শাখায় ৭% সুদে পাঁচ বছরের জন্য টাকাগুলো জমা রাখেন।\u003Cbr\u003E\n'R' ব্যাংক জমাকৃত টাকা কোন আমানতের অন্তর্ভুক্ত?",
+        "solution": "গ. স্থায়ী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 776657,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776658,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনাব করিম তার এলাকায় একটি ব্যাংকে হিসাব খোলেন এবং তাতে তিনি মাস শেষে বেতনের সঞ্চিত অর্থ হতে কিছু জমা রাখেন। একটি নির্দিষ্ট সময় অতিক্রান্ত হবার পর তিনি উচ্চ হারের সুদসহ বেশ টাকা উত্তোলন করেন এবং ব্যাংক হতে আরও কিছু ঋণ নিয়ে চাকরি শেষে একটি শিল্প স্থাপন করেন।\u003Cbr\u003E\nউক্ত ব্যাংক জনাব করিমকে কোন ধরনের আমানত খুলতে সহায়তা করে?\u003Cbr\u003E\ni. চলতি আমানত\u003Cbr\u003E\nii. স্থায়ী আমানত\u003Cbr\u003E\niii. সঞ্চয়ী আমানত\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 776658,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776659,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মি. রাতুল একটি শিল্পকারখানা স্থাপন করেন। তিনি ব্যাংকের নিকট তার সম্পত্তি বন্ধক রেখে ঋণ গ্রহণ করেন।\u003Cbr\u003E\nরাতুলকে ঋণ প্রদানকারী ব্যাংকের কার্যাবলি হলো-\u003Cbr\u003E\ni. জাতীয় বাজেট প্রণয়নে সাহায্য করা\u003Cbr\u003E\nii. জনগণের নিকট থেকে আমানত গ্রহণ করা\u003Cbr\u003E\niii. বিনিময়ের মাধ্যম সৃষ্টি করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776659,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776660,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "রহমান সাহেব চাকরি থেকে অবসর গ্রহণ করার পর যে অবসরকালীন ভাতা পেয়েছেন তা সোনালি ব্যাংকে পাঁচ বছরের জন্য জমা রাখেন।\u003Cbr\u003E\nউক্ত ব্যাংকের কাজ হলো-\u003Cbr\u003E\ni. বিনিময়ের মাধ্যম সৃষ্টি করা\u003Cbr\u003E\nii. কাগজি নোট প্রচলন করা\u003Cbr\u003E\niii. বৈদেশিক বাণিজ্য পরিচালনা করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776650,
+      "value": {
+        "options": {
+          "ক": "কেন্দ্রীয়",
+          "খ": "বাণিজ্যিক",
+          "গ": "শিল্প",
+          "ঘ": "কৃষি"
+        },
+        "question": "আশরাফ সাহেব একটি সরকারি প্রতিষ্ঠানে চাকরি করেন। প্রতিমাসে তিনি 'X' ব্যাংকের মাধ্যমে তার বেতন উঠান।\u003Cbr\u003E\nউদ্দীপকের 'X' ব্যাংকটি কোন ধরনের ব্যাংক?",
+        "solution": "খ. বাণিজ্যিক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 776650,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776662,
+      "value": {
+        "options": [],
+        "question": "ব্যাংককে ঋণের কারবারি বলা হয় কেন?",
+        "solution": "জনসাধারণ তাদের অর্থ সঞ্চয়ের জন্য ব্যাংকে জমা রাখে। সঞ্চিত অর্থের উপর ব্যাংক যে সুদ দেয় তা ঋণ গ্রহীতাদের নিকট হতে ব্যাংকের নেওয়া সুদের চেয়ে কম। সুদের হারের এই পার্থক্যই ব্যাংকের মুনাফা। মূলত এই মুনাফার ওপর ভিত্তি করে ব্যাংক টিকে থাকে। এ কারণে ব্যাংককে ঋণের কারবারি বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776663,
+      "value": {
+        "options": [],
+        "question": "উদ্দেশ্য ও কার্যাবলির ভিত্তিতে ব্যাংকসমূহকে কয়টি শ্রেণিতে ভাগ করা যায়? শ্রেণিগুলো উল্লেখ করো।",
+        "solution": "উদ্দেশ্য ও কার্যাবলির ভিত্তিতে ব্যাংকসমূহকে তিনটি শ্রেণিতে ভাগ করা যায়। এগুলো হলো- কেন্দ্রীয় ব্যাংক, বাণিজ্যিক ব্যাংক এবং বিশেষ আর্থিক প্রতিষ্ঠান।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776664,
+      "value": {
+        "options": [],
+        "question": "'ক' ব্যাংক বাংলাদেশের সর্বোচ্চ আর্থিক প্রতিষ্ঠান। 'ক' কোন ধরনের ব্যাংককে নির্দেশ করে? ব্যাখ্যা করো।",
+        "solution": "&#39;ক&#39; ব্যাংক কেন্দ্রীয় ব্যাংককে নির্দেশ করে। বাংলাদেশের কেন্দ্রীয় ব্যাংকের নাম বাংলাদেশ ব্যাংক। এ ব্যাংক দেশের অর্থবাজার এ মুদ্রাব্যবস্থা এবং অন্যান্য ব্যাংকসমূহকে তত্ত্বাবধান ও নিয়ন্ত্রণ করে। দেশের কাগজি মুদ্রা প্রচলনের একমাত্র অধিকার আছে কেন্দ্রীয় ব্যাংকের।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776665,
+      "value": {
+        "options": [],
+        "question": "জনাব ফেরদৌস সোনালি ব্যাংকের ক্যাশ অফিসার হিসেবে কর্মরত। জনাব ফেরদৌসের ব্যাংকটি কোন ধরনের ব্যাংককে নির্দেশ করে? ব্যাখ্যা করো।",
+        "solution": "জনাব ফেরদৌসের ব্যাংকটি বাণিজ্যিক ব্যাংক। বাণিজ্যিক ব্যাংকসমূহ বাণিজ্যিক লাভের উদ্দেশ্যে স্বল্পমেয়াদি ঋণ প্রদান করে থাকে। বাংলাদেশে উল্লেখযোগ্য বাণিজ্যিক ব্যাংকগুলো হলো- সোনালী ব্যাংক, জনতা ব্যাংক, অগ্রণী ব্যাংক, রূপালী ব্যাংক প্রভৃতি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776666,
+      "value": {
+        "options": [],
+        "question": "গভীর নলকূপ স্থাপনের জন্য কৃষক জমির আলী 'খ' ব্যাংক থেকে ঋণ নিয়েছেন। 'খ' কোন ধরনের প্রতিষ্ঠান? বাংলাদেশে এ প্রতিষ্ঠানগুলোর কার্যক্রম উল্লেখ করো।",
+        "solution": "&#39;খ&#39; বিশেষ আর্থিক প্রতিষ্ঠান। বিশেষ লক্ষ্য অর্জনে প্রতিষ্ঠিত ব্যাংকসমূহকে বলা হয় বিশেষ আর্থিক প্রতিষ্ঠান। যেমন- শিল্প উন্নয়নের জন্য শিল্প ব্যাংক, কৃষি উন্নয়নের জন্য কৃষি ব্যাংক, গৃহনির্মাণ ঋণের জন্য গৃহ নির্মাণ ঋণদান সংস্থা, দরিদ্র জনসাধারণকে ক্ষুদ্র ঋণ প্রদানের জন্য গ্রামীণ ব্যাংক।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776667,
+      "value": {
+        "options": [],
+        "question": "বাণিজ্যিক ব্যাংকের অন্যতম প্রধান কাজ জনসাধারণের কাছ থেকে আমানত গ্রহণ করা। এ আমানতের প্রকারভেদ লেখো।",
+        "solution": "ব্যাংকের আমানত সাধারণত তিন প্রকার। যথা-\u003Cbr /\u003E\n১. চলতি, ২. সঞ্চয়ী এবং ৩. স্থায়ী আমানত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776668,
+      "value": {
+        "options": [],
+        "question": "জনাব আরিফ সাহেব তার ব্যাংক একাউন্ট থেকে যেকোনো সময় অর্থ উত্তোলন করতে পারেন। এটি কোন ধরনের আমানত? উত্ত আমানত ছাড়াও অন্যান্য আমানত উত্তোলনের পদ্ধতিগুলো লেখো।",
+        "solution": "এটি চলতি আমানত। এই আমানতের জন্য ব্যাংক কোনো সুদ প্রদান করে না। অপরদিকে সঞ্চয়ী আমানত থেকে সপ্তাহে দুই-একবার অর্থ উত্তোলন করা যায় এবং অল্প সুদ পাওয়া যায়। আর নির্দিষ্ট সময় অতিবাহিত হবার পর স্থায়ী আমানত থেকে অর্থ উত্তোলন করা যায়। এক্ষেত্রে আমানতকারী উচ্চ হারে সুদ লাভ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776669,
+      "value": {
+        "options": [],
+        "question": "'P' ব্যাংকটি জনসাধারণকে বিভিন্ন মেয়াদি ঋণ প্রদান করে থাকে। 'P' কোন ধরনের ব্যাংক? এ ব্যাংকের ঋণদান কার্যক্রম ব্যাখ্যা করো।",
+        "solution": "&#39;P&#39; ব্যাংকটি বাণিজ্যিক ব্যাংক। বাণিজ্যিক ব্যাংকসমূহ জনসাধারণের কাছ থেকে গৃহীত অর্থের একটি নির্দিষ্ট অংশ গচ্ছিত রেখে অবশিষ্ট অর্থ ব্যবসায়ী ও শিল্পপতিদের ঋণ হিসেবে প্রদান করে। ব্যাংক ঋণ প্রদানের ক্ষেত্রে সাধারণত মূল্যবান সম্পত্তি বন্ধক রেখে এ কার্যক্রম পরিচালনা করে। বাণিজ্যিক ব্যাংকগুলো চাহিদার পরিপ্রেক্ষিতে স্বল্পমেয়াদি, মধ্যমেয়াদি ও দীর্ঘমেয়াদি ঋণ প্রদান করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776670,
+      "value": {
+        "options": [],
+        "question": "বাণিজ্যিক ব্যাংক কীভাবে বিনিময়ের মাধ্যম সৃষ্টি করে?",
+        "solution": "কাগজি নোট প্রচলন করার ক্ষমতা কেবল কেন্দ্রীয় ব্যাংকের থাকলেও বাণিজ্যিক ব্যাংকসমূহ, চেক, ব্যাংক ড্রাফট, হুন্ডি, ভ্রমণকারীর ঋণপত্র ইত্যাদি দ্বারা বিনিময়ের মাধ্যমে সৃষ্টি করে। উন্নত দেশগুলোতে অধিকাংশ লেনদেন এসব বিনিময়ের মাধ্যমের সাহায্যে সম্পন্ন হয়ে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776640,
+      "value": {
+        "options": {
+          "ক": "সরকার",
+          "খ": "গ্রামীণ ব্যাংক",
+          "গ": "কেন্দ্রীয় ব্যাংক",
+          "ঘ": "বাণিজ্যিক ব্যাংক"
+        },
+        "question": "সর্বশেষ পর্যায়ের ঋণদাতা কাকে বলা হয়?",
+        "solution": "গ. কেন্দ্রীয় ব্যাংক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 776640,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776630,
+      "value": {
+        "options": {
+          "ক": "সোনালী ব্যাংক",
+          "খ": "রূপালী ব্যাংক",
+          "গ": "পূবালী ব্যাংক&nbsp;",
+          "ঘ": "বাংলাদেশ ব্যাংক"
+        },
+        "question": "বাংলাদেশের কেন্দ্রীয় ব্যাংক কোনটি?",
+        "solution": "ঘ. বাংলাদেশ ব্যাংক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4856,
+          "full_name": "সি. বো.'২০১৬;দি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৬;দি. বো.'২০১৫",
+          "slug": "si-bo2016di-bo2015",
+          "pivot": {
+            "question_bank_id": 776630,
+            "tag_id": 4856,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776631,
+      "value": {
+        "options": {
+          "ক": "স্বল্প মেয়াদি",
+          "খ": "চলতি",
+          "গ": "স্থায়ী",
+          "ঘ": "সঞ্চয়ী"
+        },
+        "question": "ব্যাংক কোন আমানতের বিপরীতে সুদ প্রদান করে না?",
+        "solution": "খ. চলতি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 776631,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776632,
+      "value": {
+        "options": {
+          "ক": "চলতি",
+          "খ": "সঞ্চয়ী",
+          "গ": "স্থায়ী",
+          "ঘ": "পারিবারিক সঞ্চয়মে"
+        },
+        "question": "জনাব হাশেম চাকরি থেকে অবসর নিয়ে গচ্ছিত অর্থ ১টি ব্যাংকে ৫ বছরের জন্য জমা রাখেন। মেয়াদ শেষে হাশেম সাহেব টাকা উত্তোলন করে নিজ প্রয়োজনে, খরচ করেন। জনাব হাশেম ব্যাংকে কোন ধরনের আমানতে টাকা জমা রাখেন?",
+        "solution": "গ. স্থায়ী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776632,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776633,
+      "value": {
+        "options": {
+          "ক": "কেন্দ্রীয় ব্যাংক",
+          "খ": "বাণিজ্যিক ব্যাংক",
+          "গ": "রাষ্ট্রায়ত্ত ব্যাংক",
+          "ঘ": "বিদেশি ব্যাংক"
+        },
+        "question": "কাগজি মুদ্রার প্রচলন ও মুদ্রা ব্যবস্থা স্থিতিশীল রাখে কোন ব্যাংক?",
+        "solution": "ক. কেন্দ্রীয় ব্যাংক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3811,
+          "full_name": "য. বো.'২০১৭",
+          "short_name": "য. বো.'২০১৭",
+          "slug": "z-bo2017",
+          "pivot": {
+            "question_bank_id": 776633,
+            "tag_id": 3811,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776634,
+      "value": {
+        "options": {
+          "ক": "ঋণ প্রদান",
+          "খ": "আমানত গ্রহণ",
+          "গ": "সুদ প্রদান",
+          "ঘ": "মুনাফা অর্জন"
+        },
+        "question": "বাণিজ্যিক ব্যাংকের অন্যতম প্রধান কাজ কী?",
+        "solution": "খ. আমানত গ্রহণ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776635,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "কেন্দ্রীয় ব্যাংকের কাজ হলো-\u003Cbr\u003E\ni. ঋণ নিয়ন্ত্রণ করা\u003Cbr\u003E\nii. নিকাশঘর হিসেবে কাজ করা\u003Cbr\u003E\niii. বিনিময়ের মাধ্যম সৃষ্টি করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776636,
+      "value": {
+        "options": {
+          "ক": "সোনালী ব্যাংক",
+          "খ": "জনতা ব্যাংক",
+          "গ": "বাণিজ্যিক ব্যাংক",
+          "ঘ": "বাংলাদেশ ব্যাংক"
+        },
+        "question": "কোন ব্যাংক ক্লিয়ারিং হাউস হিসেবে কাজ করে?",
+        "solution": "ঘ. বাংলাদেশ ব্যাংক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4857,
+          "full_name": "চ. বো.'২০২৪;দি. বো.'২০২০",
+          "short_name": "চ. বো.'২০২৪;দি. বো.'২০২০",
+          "slug": "c-bo2024di-bo2020",
+          "pivot": {
+            "question_bank_id": 776636,
+            "tag_id": 4857,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776637,
+      "value": {
+        "options": {
+          "ক": "সোনালী ব্যাংক",
+          "খ": "রূপালী ব্যাংক",
+          "গ": "বাংলাদেশ ব্যাংক",
+          "ঘ": "জনতা ব্যাংক"
+        },
+        "question": "কোনটি মূলত সরকারের ব্যাংক?",
+        "solution": "গ. বাংলাদেশ ব্যাংক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776638,
+      "value": {
+        "options": {
+          "ক": "স্থায়ী",
+          "খ": "সঞ্চয়ী",
+          "গ": "চলতি",
+          "ঘ": "সকল"
+        },
+        "question": "সপ্তাহে ১/২ বার অর্থ উত্তোলন করা যায় কোন হিসাব থেকে?",
+        "solution": "খ. সঞ্চয়ী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3811,
+          "full_name": "য. বো.'২০১৭",
+          "short_name": "য. বো.'২০১৭",
+          "slug": "z-bo2017",
+          "pivot": {
+            "question_bank_id": 776638,
+            "tag_id": 3811,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776639,
+      "value": {
+        "options": {
+          "ক": "বাণিজ্যিক ব্যাংক",
+          "খ": "সমবায় ব্যাংক",
+          "গ": "গ্রামীণ ব্যাংক",
+          "ঘ": "কেন্দ্রীয় ব্যাংক"
+        },
+        "question": "কোন ব্যাংককে নিকাশঘর বলা হয়?",
+        "solution": "ঘ. কেন্দ্রীয় ব্যাংক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 776639,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776629,
+      "value": {
+        "options": {
+          "ক": "সরকার",
+          "খ": "কেন্দ্রীয় ব্যাংক",
+          "গ": "বাণিজ্যিক ব্যাংক",
+          "ঘ": "বিশ্বব্যাংক"
+        },
+        "question": "একটি দেশের ঋণ নিয়ন্ত্রণ করে কে?",
+        "solution": "খ. কেন্দ্রীয় ব্যাংক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776641,
+      "value": {
+        "options": {
+          "ক": "ইন্স্যুরেন্স কোম্পানিতে&nbsp;",
+          "খ": "ব্যবসা প্রতিষ্ঠানে",
+          "গ": "ব্যাংকে",
+          "ঘ": "সরকারের নিকট"
+        },
+        "question": "জনসাধারণ তাদের আয় বা উদ্বৃত্ত অর্থ কোথায় সঞ্চয় করে?",
+        "solution": "গ. ব্যাংকে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776642,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রত্যেক দেশের কেন্দ্রীয় ব্যাংক প্রতিনিধি হিসেবে কাজ করে-\u003Cbr\u003E\ni. আই,এম, এফ\u003Cbr\u003E\nii. বিশ্ব ব্যাংক\u003Cbr\u003E\niii. আই,ডি,বি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 776642,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776643,
+      "value": {
+        "options": {
+          "ক": "ব্যাংক ড্রাফট",
+          "খ": "বাট্টা ধার্য",
+          "গ": "দলিলপত্র গচ্ছিত রাখা",
+          "ঘ": "&#39;বিহিত মুদ্রা&#39; ইস্যু"
+        },
+        "question": "কোনটি কেন্দ্রীয় ব্যাংকের কাজ?",
+        "solution": "ঘ. &#39;বিহিত মুদ্রা&#39; ইস্যু",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 776643,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776644,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "উদ্দেশ্য ও কার্যাবলির ভিত্তিতে ব্যাংকসমূহকে প্রধানত কত শ্রেণিতে ভাগ করা হয়েছে?",
+        "solution": "খ. ৩",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4858,
+          "full_name": "রা. বো.'২০২০;রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০২০;রা. বো.'২০১৯",
+          "slug": "ra-bo2020ra-bo2019",
+          "pivot": {
+            "question_bank_id": 776644,
+            "tag_id": 4858,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776645,
+      "value": {
+        "options": {
+          "ক": "তিন",
+          "খ": "চার",
+          "গ": "পাঁচ",
+          "ঘ": "ছয়"
+        },
+        "question": "ব্যাংকের আমানত সাধারণত কয় প্রকার?",
+        "solution": "ক. তিন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4859,
+          "full_name": "চ. বো.'২০২০;সি. বো.'২০১৫",
+          "short_name": "চ. বো.'২০২০;সি. বো.'২০১৫",
+          "slug": "c-bo2020si-bo2015",
+          "pivot": {
+            "question_bank_id": 776645,
+            "tag_id": 4859,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776646,
+      "value": {
+        "options": {
+          "ক": "কৃষি ব্যাংক",
+          "খ": "বাণিজ্যিক ব্যাংক",
+          "গ": "বাংলাদেশ ব্যাংক",
+          "ঘ": "গ্রামীণ ব্যাংক"
+        },
+        "question": "কোন ব্যাংক কাগজি মুদ্রা প্রচলন করে?",
+        "solution": "গ. বাংলাদেশ ব্যাংক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 776646,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776647,
+      "value": {
+        "options": {
+          "ক": "রপ্তানি বৃদ্ধির দ্বারা",
+          "খ": "আমদানি বৃদ্ধির দ্বারা",
+          "গ": "নতুন বাণিজ্য নীতি তৈরির দ্বারা",
+          "ঘ": "নতুন পণ্য উৎপাদনের মাধ্যমে"
+        },
+        "question": "আন্তর্জাতিক বাণিজ্যের লেনদেনের ক্ষেত্রে বাংলাদেশ কীভাবে উন্নতি করতে পারে?",
+        "solution": "ক. রপ্তানি বৃদ্ধির দ্বারা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 776647,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776648,
+      "value": {
+        "options": {
+          "ক": "তলবি আমানত",
+          "খ": "স্থায়ী আমানত",
+          "গ": "মেয়াদি আমানত",
+          "ঘ": "চলতি আমানত"
+        },
+        "question": "জনাব দুলাল তার উদ্বৃত্ত আয় ব্যাংকে আমানত রাখতে চায় যেন সে যেকোনো সময়ে টাকা উত্তোলন করতে পারেন। এমতাবস্থায় সে কোন ধরনের আমানত খুলবে?",
+        "solution": "ঘ. চলতি আমানত",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4860,
+          "full_name": "সি. বো.'২০২৪;সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০২৪;সি. বো.'২০১৬",
+          "slug": "si-bo2024si-bo2016",
+          "pivot": {
+            "question_bank_id": 776648,
+            "tag_id": 4860,
+            "year": null,
+            "created_at": "2025-12-01T15:48:20.000000Z",
+            "updated_at": "2025-12-01T15:48:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776649,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনাব ফরহাদ ব্যবসায় হতে ত্রিশ লক্ষ টাকা লাভ করেন। তিনি 'R' ব্যাংকের একটি শাখায় ৭% সুদে পাঁচ বছরের জন্য টাকাগুলো জমা রাখেন।\u003Cbr\u003E\nউক্ত ব্যাংকে জমাকৃত টাকা-\u003Cbr\u003E\ni. মুদ্রাস্ফীতি বাড়ায়\u003Cbr\u003E\nii. বিনিয়োগ প্রসারিত করে\u003Cbr\u003E\niii. ঋণদানের ক্ষমতা বাড়ায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8073&grade=5&lesson=14711&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8073&grade=5&lesson=14711&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8073&grade=5&lesson=14711&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 42,
+  "total": 42
+}

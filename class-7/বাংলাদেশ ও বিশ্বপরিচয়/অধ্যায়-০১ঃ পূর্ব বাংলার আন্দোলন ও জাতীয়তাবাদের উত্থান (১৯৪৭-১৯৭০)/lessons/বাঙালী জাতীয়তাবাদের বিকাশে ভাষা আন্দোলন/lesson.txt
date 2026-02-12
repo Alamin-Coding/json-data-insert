@@ -1,0 +1,3192 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775362,
+      "value": {
+        "options": [],
+        "question": "১৯৫২ সালের ২২শে ফেব্রুয়ারি একটি র‍্যালি বের হলে পুলিশের গুলিতে অনেকে শহিদ হন। মিছিলটির প্রেক্ষাপট এবং একজন শহিদের নাম উল্লেখ করো।",
+        "solution": "১৯৫২ সালের ২১শে ফেব্রুয়ারি ঢাকায় ছাত্রদের মিছিলে পুলিশ গুলিবর্ষণ করলে আবুল বরকত, আবদুল জব্বার, রফিকসহ আরও অনেকে শহিদ হন। ছাত্রহত্যার প্রতিবাদে ২২শে ফেব্রুয়ারি ঢাকায় বিশাল শোক র&zwj;্যালি বের হয়। সেখানে পুলিশের গুলিতে শফিউর রহমান শহিদ হন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775341,
+      "value": {
+        "options": {
+          "ক": "গণঅভ্যুত্থান",
+          "খ": "ভাষা আন্দোলন",
+          "গ": "গণঅভ্যুত্থান",
+          "ঘ": "সত্তরের নির্বাচন"
+        },
+        "question": "'স্মৃতির মিনার' কবিতাটির পটভূমি কী?",
+        "solution": "ক. গণঅভ্যুত্থান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775341,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:27:10.000000Z",
+            "updated_at": "2025-12-01T15:27:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775342,
+      "value": {
+        "options": {
+          "ক": "ঢাকা ক্লেজ",
+          "খ": "জগন্নাথ কলেজ",
+          "গ": "ঢাকা বিশ্ববিদ্যালয়",
+          "ঘ": "আলিগড় বিশ্ববিদ্যালয়"
+        },
+        "question": "তমদ্দুন মজলিসের প্রতিষ্ঠাতা আবুল কাশেম কোথায় শিক্ষকতা করতেন?",
+        "solution": "গ. ঢাকা বিশ্ববিদ্যালয়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 775342,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-01T15:27:10.000000Z",
+            "updated_at": "2025-12-01T15:27:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775343,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রভাষা সংগ্রাম পরিষদ",
+          "খ": "রাষ্ট্রভাষা গণপরিষদ",
+          "গ": "স্বাধীন বাংলা পরিষদ",
+          "ঘ": "বাংলা ভাষা উন্নয়ন পরিষদ"
+        },
+        "question": "&nbsp;বাংলাকে রাষ্ট্রভাষা করার দাবিতে গঠিত হয়-",
+        "solution": "ক. রাষ্ট্রভাষা সংগ্রাম পরিষদ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4775,
+          "full_name": "রা. বো.'২০১৬;সি. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৬;সি. বো.'২০১৭",
+          "slug": "ra-bo2016si-bo2017",
+          "pivot": {
+            "question_bank_id": 775343,
+            "tag_id": 4775,
+            "year": null,
+            "created_at": "2025-12-01T15:27:10.000000Z",
+            "updated_at": "2025-12-01T15:27:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775344,
+      "value": {
+        "options": {
+          "ক": "শহিদ সালামের",
+          "খ": "শহিদ শফিউরের",
+          "গ": "শহিদ আবুল বরকতের",
+          "ঘ": "শহিদ রফিকের"
+        },
+        "question": "কার পিতা প্রথম শহিদ মিনার উদ্বোধন করেন?",
+        "solution": "খ. শহিদ শফিউরের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4776,
+          "full_name": "রা. বো.'২০১৯;চ. বো.'২০১৫;দি. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৯;চ. বো.'২০১৫;দি. বো.'২০১৫",
+          "slug": "ra-bo2019c-bo2015di-bo2015",
+          "pivot": {
+            "question_bank_id": 775344,
+            "tag_id": 4776,
+            "year": null,
+            "created_at": "2025-12-01T15:27:10.000000Z",
+            "updated_at": "2025-12-01T15:27:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775345,
+      "value": {
+        "options": {
+          "ক": "১৯৫৪",
+          "খ": "১৯৫৬",
+          "গ": "১৯৫৮",
+          "ঘ": "১৯৬০"
+        },
+        "question": "কত সালে পাকিস্তানের সংবিধানে বাংলা ভাষাকে অন্তর্ভুক্ত করা হয়?",
+        "solution": "খ. ১৯৫৬",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 775345,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:27:10.000000Z",
+            "updated_at": "2025-12-01T15:27:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775346,
+      "value": {
+        "options": {
+          "ক": "বাঙালি জাতীয়তাবাদ",
+          "খ": "অসাম্প্রদায়িক মনোভাব",
+          "গ": "দ্বিজাতি তত্ত্ব",
+          "ঘ": "স্বজাত্যবোধ"
+        },
+        "question": "ভাষা আন্দোলন পূর্ব বাংলায় কোন ভাবাদর্শ ছড়িয়ে দেয়?",
+        "solution": "ক. বাঙালি জাতীয়তাবাদ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 775346,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:27:10.000000Z",
+            "updated_at": "2025-12-01T15:27:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775347,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "পাকিস্তানের স্বাধীনতা নিশ্চিত হওয়ার পর উর্দুকে প্রথম রাষ্ট্রভাষা করার প্রস্তাব প্রদানকারী হলো-\u003Cbr\u003E\ni. খাজা নাজিমুদ্দীন\u003Cbr\u003E\nii. চৌধুরী খলীকুজ্জামান\u003Cbr\u003E\niii. ড. জিয়াউদ্দিন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 775347,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:27:10.000000Z",
+            "updated_at": "2025-12-01T15:27:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775348,
+      "value": {
+        "options": [],
+        "question": "১৯৪৭ সালে ভারতবর্ষে ব্রিটিশ শাসনের অবসানের পর কোন দুটি রাষ্ট্র জন্ম নেয়? এসময় পূর্ববাংলা কোনটির প্রদেশ হিসেবে অন্তর্ভুক্ত হয়?",
+        "solution": "১৯৪৭ সালে ভারতবর্ষে ব্রিটিশ শাসনের অবসান হলে ভারত ও পাকিস্তান নামে দুটি স্বাধীন রাষ্ট্র জন্ম নেয়। পূর্ববাংলা পাকিস্তান রাষ্ট্রের প্রদেশ হিসেবে অন্তর্ভুক্ত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775349,
+      "value": {
+        "options": [],
+        "question": "পাকিস্তান সৃষ্টির পর রাষ্ট্রভাষা হিসেবে উর্দুকে প্রস্তাব করা হয়। এই প্রস্তাবের বিরুদ্ধে বুদ্ধিজীবীরা কীভাবে প্রতিবাদ জানান?",
+        "solution": "উর্দুকে পাকিস্তানের রাষ্ট্রভাষা করার প্রস্তাব করা হলে আবদুল হক, ড. মুহম্মদ শহীদুল্লাহ, আবুল মনসুর আহমদ এবং ড. মুহাম্মদ এনামুল হকসহ বেশ কয়েকজন বুদ্ধিজীবী প্রবন্ধ লিখে প্রতিবাদ জানান।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775350,
+      "value": {
+        "options": [],
+        "question": "সর্বদলীয় রাষ্ট্রভাষা সংগ্রাম পরিষদ কবে পুনর্গঠিত হয় এবং কেন?",
+        "solution": "১৯৪৮ সালের ২৫শে ফেব্রুয়ারি পাকিস্তান গণপরিষদ সদস্য ধীরেন্দ্রনাথ দত্ত গণপরিষদের ভাষা হিসেবে উর্দু ও ইংরেজির পাশাপাশি বাংলা ব্যবহারের দাবি জানান। তার দাবি অগ্রাহ্য হলে ১৯৪৮ সালের ২রা মার্চ ঢাকা বিশ্ববিদ্যালয়ে &#39;সর্বদলীয় রাষ্ট্রভাষা সংগ্রাম পরিষদ&#39; পুনর্গঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775351,
+      "value": {
+        "options": [],
+        "question": "১৯৫২ সালের ২০শে ফেব্রুয়ারি পাকিস্তান সরকার ১৪৪ ধারা জারি করে কেন? এ সময় নেতৃবৃন্দ কী সিদ্ধান্ত গ্রহণ করেন?",
+        "solution": "বাঙালির ভাষার দাবিকে স্তব্ধ করতে এবং&#39; ভাষা আন্দোলনকে বন্ধ করতে ১৯৫২ সালের ২০শে ফেব্রুয়ারি পাকিস্তান সরকার ২১শে ফেব্রুয়ারি থেকে ১৪৪ ধারা জারি করে। এর মাধ্যমে এক মাসের জন্য সভা-সমাবেশ মিছিল নিষিদ্ধ করা হয়। এ সময় আন্দোলনের নেতৃবৃন্দ ১৪৪ ধারা ভঙ্গ করার সিদ্ধান্ত গ্রহণ করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775353,
+      "value": {
+        "options": [],
+        "question": "বাংলা ভাষা পাকিস্তানের অন্যতম রাষ্ট্রভাষা হিসেবে স্বীকৃতি লাভের প্রেক্ষাপট উল্লেখ করো।",
+        "solution": "১৯৪৭ সালে সূচিত রাষ্ট্রভাষা আন্দোলন ১৯৪৮ থেকে ১৯৫২ সালে প্রতিবাদ ও রক্তক্ষয়ী সংগ্রামে রূপ লাভ করে। এর ফলে ১৯৫৬ সালে সংবিধানে বাংলা ভাষাকে পাকিস্তানের অন্যতম রাষ্ট্রভাষা হিসেবে স্বীকৃতি দেওয়া হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775354,
+      "value": {
+        "options": [],
+        "question": "পাকিস্তান শাসনপর্বে একটি আন্দোলন সংঘটিত হয় যা ছিল বাঙালিদের জাতীয় মুক্তির প্রথম আন্দোলন। এই আন্দোলনটির নাম কী? এর গুরুত্ব ব্যাখ্যা করো।",
+        "solution": "আন্দোলনটি হলো ভাষা আন্দোলন, যা পরবর্তীকালে বাঙালির সব ধরনের রাজনৈতিক আন্দোলনের অনুপ্রেরণা জুগিয়েছিল। ভাষা আন্দোলন এ দেশের মানুষকে নিজের অধিকার সম্পর্কে সচেতন করে তোলে। তাই এ আন্দোলন ছিল পাকিস্তান শাসনপর্বে বাঙালির জাতীয় মুক্তির প্রথম আন্দোলন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775355,
+      "value": {
+        "options": [],
+        "question": "১৯৪৭ সালে তমদ্দুন মজলিস গড়ে ওঠার পর বাংলাকে রাষ্ট্রভাষা করার দাবিতে আরও একটি সংগঠন গঠিত হয়। এর নাম কী ছিল? সংগঠনটি গড়ে ওঠার প্রেক্ষাপট লেখো।",
+        "solution": "সংগঠনটি হলো &#39;রাষ্ট্রভাষা সংগ্রাম পরিষদ&#39;। ১৯৪৭ সালের ডিসেম্বর মাসে করাচিতে অনুষ্ঠিত এক শিক্ষা সম্মেলনে উর্দুকে পাকিস্তানের রাষ্ট্রভাষা করার সিদ্ধান্ত গৃহীত হলে পূর্ব বাংলায় তীব্র প্রতিবাদ শুরু হয়। সে বছরের ডিসেম্বর মাসেই বাংলাকে রাষ্ট্রভাষা করার দাবিতে &#39;রাষ্ট্রভাষা সংগ্রাম পরিষদ&#39; গঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775356,
+      "value": {
+        "options": [],
+        "question": "২১শে ফেব্রুয়ারিকে কেন্দ্র করে রচিত দুটি কবিতার নাম লেখো। কবিতাগুলোর রচয়িতাদের নাম উল্লেখ করো।",
+        "solution": "ঢাকায় ২১শে ফেব্রুয়ারি ছাত্রহত্যার প্রতিবাদে চট্টগ্রামে কবি মাহবুব-উল-আলম চৌধুরী &#39;কাঁদতে আসিনি ফাঁসির দাবি নিয়ে এসেছি&#39; শীর্ষক প্রথম কবিতা রচনা করেন। এছাড়া তরুণ কবি আলাউদ্দিন আল আজাদ &#39;স্মৃতির মিনার&#39; কবিতাটি রচনা করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775357,
+      "value": {
+        "options": [],
+        "question": "ভাষা আন্দোলন কীভাবে জাতীয়তাবাদের মূল ভিত্তি রচনা করে? ব্যাখ্যা করো।",
+        "solution": "হিন্দু-মুসলমান নির্বিশেষে আমাদের দেশের বেশিরভাগ মানুষ বাঙালি। কাজেই বাঙালি জাতীয়তাবাদের বিকাশে ভাষা আন্দোলন সকলকে ঐক্যবদ্ধ করে। এ অঞ্চলের মানুষ বাঙালি হিসেবে নিজেদের আত্মপরিচয়ে রাজনীতি, অর্থনীতি, শিক্ষা, সংস্কৃতি গড়ে তোলার গুরুত্ব উপলব্ধি করতে থাকে। ভাষাকেন্দ্রিক এই ঐক্যই জাতীয়তাবাদের মূল ভিত্তি রচনা করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775358,
+      "value": {
+        "options": [],
+        "question": "আকাশ প্রতিবছর শহিদ মিনারে ফুল দিয়ে শহিদদের শ্রদ্ধা জানায়। সে কোন দিবসটি পালন করে? ইউনেস্কো এ দিনটিকে কী হিসেবে স্বীকৃতি দিয়েছে?",
+        "solution": "আকাশ শহিদ দিবস পালন করে। ১৯৫৩ সাল থেকে ২১শে ফেব্রুয়ারি &#39;শহিদ দিবস&#39; হিসেবে দেশব্যাপী পালিত হয়ে আসছে। ১৯৯৯ সালের ১৭ই নভেম্বর ইউনেস্কো বাংলাদেশের ২১শে ফেব্রুয়ারিকে &#39;আন্তর্জাতিক মাতৃভাষা দিবস&#39; হিসেবে স্বীকৃতি দিয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775359,
+      "value": {
+        "options": [],
+        "question": "বাংলা ভাষাকে পাকিস্তানের অন্যতম রাষ্ট্রভাষা করার দাবিতে একটি আন্দোলন শুরু হয়। এটি কোন আন্দোলনকে নির্দেশ করে? এর মাধ্যমে কীভাবে জাতীয় ঐক্য গঠিত হয়?",
+        "solution": "এটি ভাষা আন্দোলনকে নির্দেশ করে। মাতৃভাষার মর্যাদা রক্ষার চেতনা থেকে পূর্ববাংলার জনগণ পাকিস্তানের শোষণের বিরুদ্ধে আন্দোলন-সংগ্রাম শুরু করে। এর ধারাবাহিকতায় এদেশের মানুষ ১৯৫৪ সালে যুক্তফ্রন্টকে এবং ১৯৭০ সালের সাধারণ নির্বাচনে আওয়ামী লীগকে জয়যুক্ত করে। এরই ফলশ্রুতিতে বাংলা ভাষা, ইতিহাস-ঐতিহ্য, সংস্কৃতি ও বাঙালি জাতিগত পরিচয়ে জাতীয় ঐক্য গঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775360,
+      "value": {
+        "options": [],
+        "question": "পাকিস্তানের একজন গভর্নর ঢাকা বিশ্ববিদ্যালয়ের সমাবর্তনে ভাষণ দেওয়ার সময় উর্দুকে পাকিস্তানের একমাত্র 'রাষ্ট্রভাষা' হিসেবে ঘোষণা করেন। তার নাম কী? ঐ সময় ছাত্রসমাজের প্রতিক্রিয়া কেমন ছিল?",
+        "solution": "১৯৪৮ সালের ২৪শে মার্চ ঢাকা বিশ্ববিদ্যালয়ের সমাবর্তনে পাকিস্তানের গভর্নর মোহাম্মদ আলী জিন্নাহ উর্দুকে পাকিস্তানের একমাত্র রাষ্ট্রভাষা হিসেবে ঘোষণা করেন। তার এ বক্তব্যে ছাত্রসমাজ প্রতিবাদমুখর হয়ে ওঠে এবং আবদুল মতিনকে অনুসরণ করে সবাই &#39;না, না&#39; বলে প্রতিবাদ জানায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775361,
+      "value": {
+        "options": [],
+        "question": "কোন প্রেক্ষাপটে এবং কবে রাষ্ট্রভাষা সংগ্রাম পরিষদ গঠিত হয়?",
+        "solution": "১৯৫২ সালের ২৬শে জানুয়ারি ঢাকার পল্টন ময়দানে অনুষ্ঠিত জনসভায় পাকিস্তানের নতুন প্রধানমন্ত্রী নাজিমুদ্দীন জিন্নাহর অনুকরণে উর্দুকে পাকিস্তানের রাষ্ট্রভাষা করার ঘোষণা করেন। এর প্রতিবাদে ৩০ শে জানুয়ারি ছাত্রসমাজ ধর্মঘট পালন করে। আবদুল মতিনকে আহ্বায়ক করে &#39;রাষ্ট্রভাষা সংগ্রাম পরিষদ&#39; গঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775352,
+      "value": {
+        "options": [],
+        "question": "ভাষা আন্দোলনকে কেন্দ্র করে রচিত দুটি গান গীতিকারের নামসহ উল্লেখ করো।",
+        "solution": "ভাষা আন্দোলনকে কেন্দ্র করে রচিত দুটি গান হলো-\u003Cbr /\u003E\n১. &#39;আমার ভাইয়ের রক্তে রাঙানো একুশে ফেব্রুয়ারি, আমি কি ভুলিতে পারি&#39;। এটি রচনা করেন আবদুল গাফ্ফার চৌধুরী।\u003Cbr /\u003E\n২. &#39;ওরা আমার মুখের ভাষা কাইড়া নিতে চায়&#39;। এটি রচনা ও সুর করেন আবদুল লতিফ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775330,
+      "value": {
+        "options": {
+          "ক": "৫০ শতাংশ",
+          "খ": "৫২ শতাংশ",
+          "গ": "৫৪ শতাংশ",
+          "ঘ": "৫৬ শতাংশ"
+        },
+        "question": "পাকিস্তানে কত শতাংশ মানুষ বাঙালি ছিল?",
+        "solution": "ঘ. ৫৬ শতাংশ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4772,
+          "full_name": "য. বো.'২০২৪;ম. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৪;ম. বো.'২০২৩",
+          "slug": "z-bo2024m-bo2023",
+          "pivot": {
+            "question_bank_id": 775330,
+            "tag_id": 4772,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775331,
+      "value": {
+        "options": {
+          "ক": "১৯৪৭ সালের ১৪ আগস্ট",
+          "খ": "১৯৪৭ সালের ২৪ আগস্ট",
+          "গ": "১৯৪৮ সালের ২৩ জুন",
+          "ঘ": "১৯৪৯ সালের ৭ মার্চ"
+        },
+        "question": "ভারতে ব্রিটিশ শাসনের অবসান হয় কখন?",
+        "solution": "ক. ১৯৪৭ সালের ১৪ আগস্ট",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4773,
+          "full_name": "সি. বো.'২০১৭;রা. বো.'২০১৬;ব. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৭;রা. বো.'২০১৬;ব. বো.'২০১৬",
+          "slug": "si-bo2017ra-bo2016b-bo2016",
+          "pivot": {
+            "question_bank_id": 775331,
+            "tag_id": 4773,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775332,
+      "value": {
+        "options": {
+          "ক": "বহুব্রীহি",
+          "খ": "কবর",
+          "গ": "আরেক ফাল্গুন",
+          "ঘ": "স্মৃতির মিনার"
+        },
+        "question": "ড. মুনীর চৌধুরী জেলে বসে রচনা করেন-",
+        "solution": "খ. কবর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 775332,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775333,
+      "value": {
+        "options": {
+          "ক": "২১ ফেব্রুয়ারি",
+          "খ": "২২ ফেব্রুয়ারি",
+          "গ": "২৩ ফেব্রুয়ারি",
+          "ঘ": "২৪ ফেব্রুয়ারি"
+        },
+        "question": "ভাষাশহিদ শফিউর কত তারিখে শহিদ হন?",
+        "solution": "খ. ২২ ফেব্রুয়ারি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 775333,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775334,
+      "value": {
+        "options": {
+          "ক": "১৯৯৮",
+          "খ": "১৯৯৯",
+          "গ": "২০০০",
+          "ঘ": "২০০১"
+        },
+        "question": "কত সালে ইউনেস্কো কর্তৃক একুশে ফেব্রুয়ারিকে আন্তর্জাতিক মাতৃভাষা দিবস হিসেবে ঘোষণা করা হয়?",
+        "solution": "খ. ১৯৯৯",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 775334,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775335,
+      "value": {
+        "options": {
+          "ক": "জাতীয় চেতনা",
+          "খ": "জাতীয় ঐক্য",
+          "গ": "জাতীয় পরিচয়",
+          "ঘ": "জাতীয় ঐতিহ্য"
+        },
+        "question": "জাতীয়তাবাদ বলতে কী বোঝায়?",
+        "solution": "খ. জাতীয় ঐক্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 775335,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775336,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "২১ ফেব্রুয়ারি ১৪৪ ধারা জারি করা হয় যে কারণে-&nbsp;\u003Cbr\u003E\ni.&nbsp; সভা-সমাবেশ বন্ধ করতে\u003Cbr\u003E\nii.&nbsp; মিছিল বন্ধ করতে\u003Cbr\u003E\niii. সাংস্কৃতিক কর্মকাণ্ড বন্ধ করতে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 775336,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775337,
+      "value": {
+        "options": {
+          "ক": "&nbsp;ইংরেজি",
+          "খ": "বাংলা&nbsp;",
+          "গ": "উর্দু&nbsp;",
+          "ঘ": "ঘফারসি&nbsp;"
+        },
+        "question": "৮ দফা চুক্তিতে শিক্ষার মাধ্যম হিসেবে কোন ভাষাকে চিহ্নিত করা হয়?",
+        "solution": "খ. বাংলা&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 775337,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775338,
+      "value": {
+        "options": {
+          "ক": "রাজনৈতিক প্রতিষ্ঠান",
+          "খ": "সাংস্কৃতিক সংগঠন",
+          "গ": "সামাজিক সংস্থা",
+          "ঘ": "অর্থনৈতিক কমিটি"
+        },
+        "question": "তমদ্দুন মজলিস মূলত একটি-",
+        "solution": "খ. সাংস্কৃতিক সংগঠন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775338,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775339,
+      "value": {
+        "options": {
+          "ক": "ভাষা আন্দোলন",
+          "খ": "৬ দফা আন্দোলন",
+          "গ": "৬৯&#39;র গণঅভ্যুত্থান",
+          "ঘ": "সামরিক শাসন বিরোধী আন্দোলন"
+        },
+        "question": "'আমার ভাইয়ের রক্তে রাঙানো'&nbsp;গানটি নিচের কোনটিকে স্মরণ&nbsp;করিয়ে দেয়?",
+        "solution": "ক. ভাষা আন্দোলন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 775339,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775340,
+      "value": {
+        "options": {
+          "ক": "গণ আজাদী লীগ",
+          "খ": "তমদ্দুন মজলিস",
+          "গ": "মুসলিম লীগ",
+          "ঘ": "গণতন্ত্রী দল"
+        },
+        "question": "কোন প্রতিষ্ঠান ভাষা সংগ্রাম পরিষদ গঠন করেছিল?&nbsp;",
+        "solution": "খ. তমদ্দুন মজলিস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4774,
+          "full_name": "য. বো.'২০২৩;ঢা. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩;ঢা. বো.'২০২৩",
+          "slug": "z-bo2023dha-bo2023",
+          "pivot": {
+            "question_bank_id": 775340,
+            "tag_id": 4774,
+            "year": null,
+            "created_at": "2025-12-01T15:27:10.000000Z",
+            "updated_at": "2025-12-01T15:27:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775329,
+      "value": {
+        "options": {
+          "ক": "নির্দয় মনোভাব",
+          "খ": "প্রকৃত শাসকের রূপ",
+          "গ": "স্বৈরাচারী মনোভাব",
+          "ঘ": "ভাষাপ্রীতি"
+        },
+        "question": "\"উর্দুই হবে পাকিস্তানের একমাত্র রাষ্ট্রভাষা\" জিন্নাহর এ ঘোষণা প্রকাশ পেয়েছে তার-",
+        "solution": "গ. স্বৈরাচারী মনোভাব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775329,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775304,
+      "value": {
+        "options": {
+          "ক": "২১ ফেব্রুয়ারি",
+          "খ": "২২ ফেব্রুয়ারি",
+          "গ": "২৩ ফেব্রুয়ারি",
+          "ঘ": "২৪ ফেব্রুয়ারি"
+        },
+        "question": "প্রথম শহিদ মিনার উদ্বোধন করা হয় কত তারিখে?",
+        "solution": "গ. ২৩ ফেব্রুয়ারি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 775304,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775312,
+      "value": {
+        "options": {
+          "ক": "ইমদাদুল হক",
+          "খ": "মাহবুবুল আলম",
+          "গ": "আলাউদ্দিন আল আজাদ",
+          "ঘ": "ড. এনামুল হক"
+        },
+        "question": "'স্মৃতির মিনার' কে রচনা করেন?",
+        "solution": "গ. আলাউদ্দিন আল আজাদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4766,
+          "full_name": "রা. বো.'২০২৩;য. বো.'২০১৯",
+          "short_name": "রা. বো.'২০২৩;য. বো.'২০১৯",
+          "slug": "ra-bo2023z-bo2019",
+          "pivot": {
+            "question_bank_id": 775312,
+            "tag_id": 4766,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775311,
+      "value": {
+        "options": {
+          "ক": "ড. মুহাম্মদ শহীদুল্লাহ",
+          "খ": "অধ্যাপক আবুল কাশেম",
+          "গ": "মুহাম্মদ এনামুল হক",
+          "ঘ": "ড. মুনীর চৌধুরী"
+        },
+        "question": "তমদ্দুন মজলিস প্রতিষ্ঠানটি গড়ে তোলেন কে?",
+        "solution": "খ. অধ্যাপক আবুল কাশেম",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4765,
+          "full_name": "ব. বো.'২০২৪;ঢা. বো.'২০২৩;দি. বো.'২০১৭",
+          "short_name": "ব. বো.'২০২৪;ঢা. বো.'২০২৩;দি. বো.'২০১৭",
+          "slug": "b-bo2024dha-bo2023di-bo2017",
+          "pivot": {
+            "question_bank_id": 775311,
+            "tag_id": 4765,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775310,
+      "value": {
+        "options": {
+          "ক": "শহীদ মিনার নির্মাণ",
+          "খ": "ঐতিহাসিক আগরতলা মামলা",
+          "গ": "ছাত্র সমাজের ১৫ দফা কর্মসূচি",
+          "ঘ": "আন্তর্জাতিক মাতৃভাষা দিবসের স্বীকৃতি"
+        },
+        "question": "কোন ঘটনাটি অপেক্ষাকৃত আগে ঘটে",
+        "solution": "ক. শহীদ মিনার নির্মাণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 775310,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775309,
+      "value": {
+        "options": {
+          "ক": "আরবি",
+          "খ": "ফারসি",
+          "গ": "উর্দু",
+          "ঘ": "ইংরেজি"
+        },
+        "question": "পাকিস্তান সরকার কোন হরফে বাংলা প্রচলনের উদ্যোগ নেয়?",
+        "solution": "ক. আরবি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 775309,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775308,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ভাষা আন্দোলনের ফলে-\u003Cbr\u003E\ni. বাঙালিরা ইতিহাস, ঐতিহ্য ও সংস্কৃতি নিয়ে আত্মপ্রত্যয়ী হয়\u003Cbr\u003E\nii. বিভিন্ন রাজনৈতিক আন্দোলন সংঘটিত করতে অনুপ্রেরণা জোগায়\u003Cbr\u003E\niii. বিভিন্ন ভাষার জনগোষ্ঠীর মধ্যে বিরোধ তৈরি হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775307,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "২১ ফেব্রুয়ারি ১৪৪ ধারা জারি করা হয়-\u003Cbr\u003E\ni. মিছিল বন্ধ করতে\u003Cbr\u003E\nii. সভা-সমাবেশ বন্ধ করতে\u003Cbr\u003E\niii. ভাষা আন্দোলন বন্ধ করতে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 775307,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775306,
+      "value": {
+        "options": {
+          "ক": "মুসলিম লীগ",
+          "খ": "গণআজাদী লীগ",
+          "গ": "কংগ্রেস",
+          "ঘ": "যুক্তফ্রন্ট"
+        },
+        "question": "১৯৪৭ সালে কোন দল মাতৃভাষায় শিক্ষাদানের দাবি জানায়?",
+        "solution": "খ. গণআজাদী লীগ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775305,
+      "value": {
+        "options": {
+          "ক": "১৯৫২",
+          "খ": "১৯৫৩",
+          "গ": "১৯৫৪",
+          "ঘ": "১৯৫৫"
+        },
+        "question": "কোন সাল থেকে ২১ ফেব্রুয়ারি শহিদ দিবস হিসেবে পালিত হচ্ছে?",
+        "solution": "খ. ১৯৫৩",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 775305,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775313,
+      "value": {
+        "options": {
+          "ক": "সংবিধান অনুযায়ী চলা",
+          "খ": "দেশের প্রতি ভালবাসা",
+          "গ": "অন্য সংস্কৃতির প্রতি ভালোবাসা",
+          "ঘ": "সরকারের দেয়া আদেশ মেনে চলা"
+        },
+        "question": "নিজ বিদ্যালয়ে ফেব্রুয়ারি মাসের ২১ তারিখে দশম শ্রেণির ছাত্র রাফি ভাষাশহিদদের প্রতি সম্মান জানিয়ে বক্তব্য রাখে। রাফির বক্তব্যের মাধ্যমে কোন দায়িত্ববোধটি ফুটে উঠেছে?",
+        "solution": "খ. দেশের প্রতি ভালবাসা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 775313,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775303,
+      "value": {
+        "options": {
+          "ক": "ড. মুনীর চৌধুরী",
+          "খ": "আবদুল গাফ্ফার চৌধুরী",
+          "গ": "জহির রায়হান",
+          "ঘ": "আবদুল লতিফ"
+        },
+        "question": "'তোরা ঢাকা শহর রক্তে ভাসাইলি' গানের সুরকার কে?",
+        "solution": "ঘ. আবদুল লতিফ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3787,
+          "full_name": "দি. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৯",
+          "slug": "di-bo2019",
+          "pivot": {
+            "question_bank_id": 775303,
+            "tag_id": 3787,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775302,
+      "value": {
+        "options": {
+          "ক": "নূরুল আমীন",
+          "খ": "জুলফিকার আলী ভুট্টো",
+          "গ": "খাজা নাজিমুদ্দীন",
+          "ঘ": "রাও ফরমান আলী"
+        },
+        "question": "১৫ মার্চ সংগ্রাম পরিষদের সঙ্গে ৮ দফা চুক্তিতে স্বাক্ষর করেন কে?",
+        "solution": "গ. খাজা নাজিমুদ্দীন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 775302,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775301,
+      "value": {
+        "options": {
+          "ক": "কামরুদ্দিন আহমদ",
+          "খ": "শেরে বাংলা এ. কে. ফজলুল হক",
+          "গ": "ড. মুহাম্মদ শহীদুল্লাহ",
+          "ঘ": "ড. মুহাম্মদ এনামুল হক"
+        },
+        "question": "১৯৩৭ সালে মোহাম্মদ আলী জিন্নাহ মুসলিম লীগের দাপ্তরিক ভাষা উর্দু করার প্রস্তাব করলে কে এর বিরোধিতা করেন?",
+        "solution": "খ. শেরে বাংলা এ. কে. ফজলুল হক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 775301,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775300,
+      "value": {
+        "options": {
+          "ক": "ড. জিয়াউদ্দিন আহমদ",
+          "খ": "ড. মুহাম্মদ এনামুল হক",
+          "গ": "ড. মুহম্মদ শহীদুল্লাহ",
+          "ঘ": "ড. কুদরত-এ-খুদা"
+        },
+        "question": "১৯৪৭ সালে আলিগড় বিশ্ববিদ্যালয়ের উপাচার্য কে ছিলেন?",
+        "solution": "ক. ড. জিয়াউদ্দিন আহমদ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 775300,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775299,
+      "value": {
+        "options": {
+          "ক": "ধীরেন্দ্রনাথ দত্ত",
+          "খ": "ড. মুহাম্মদ এনামুল হক",
+          "গ": "মুহাম্মদ শহীদুল্লাহ",
+          "ঘ": "চৌধুরী খলীকুজ্জামান"
+        },
+        "question": "গণপরিষদের ভাষা হিসেবে উর্দু ও ইংরেজির পাশাপাশি বাংলা ব্যবহারের দাবি কে জানান?",
+        "solution": "ক. ধীরেন্দ্রনাথ দত্ত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775299,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775298,
+      "value": {
+        "options": {
+          "ক": "মোহাম্মদ আলী জিন্নাহ",
+          "খ": "ড. মুহাম্মদ শহীদুল্লাহ",
+          "গ": "ড. মুহাম্মদ এনামুল হক",
+          "ঘ": "শেরে বাংলা এ. কে. ফজলুল হক"
+        },
+        "question": "১৯৩৭ সালে মুসলিম লীগের দাপ্তরিক ভাষা উর্দু করার প্রস্তাব করেন কে?",
+        "solution": "ক. মোহাম্মদ আলী জিন্নাহ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 775298,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775297,
+      "value": {
+        "options": {
+          "ক": "ভাষা আন্দোলন",
+          "খ": "১৯৬৯-এর গণঅভ্যুত্থান",
+          "গ": "সামরিক শাসন বিরোধী আন্দোলন",
+          "ঘ": "ব্রিটিশ বিরোধী আন্দোলন"
+        },
+        "question": "কোনটি বাঙালিদের জাতীয় মুক্তির প্রথম আন্দোলন?",
+        "solution": "ক. ভাষা আন্দোলন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 775297,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775296,
+      "value": {
+        "options": {
+          "ক": "ভাষা আন্দোলন",
+          "খ": "গণঅভ্যুত্থান",
+          "গ": "৭০-এর নির্বাচন",
+          "ঘ": "ছয় দফা"
+        },
+        "question": "বাঙালির নিজস্ব জাতিসত্তা সৃষ্টিতে অবদান রাখে কোনটি?",
+        "solution": "ক. ভাষা আন্দোলন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 775296,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775314,
+      "value": {
+        "options": {
+          "ক": "দুটি দেশভিত্তিক",
+          "খ": "দুটি ধর্মভিত্তিক",
+          "গ": "দুটি রাষ্ট্রভিত্তিক",
+          "ঘ": "দুটি জাতিভিত্তিক"
+        },
+        "question": "'দ্বিজাতি তত্ত্ব' বলতে কী বোঝ?",
+        "solution": "খ. দুটি ধর্মভিত্তিক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775314,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775315,
+      "value": {
+        "options": {
+          "ক": "বাংলা ভাষায় কাব্য রচনা",
+          "খ": "বাংলার জনগণের উপকার",
+          "গ": "স্বৈরাচারী শাসনের প্রতিবাদ",
+          "ঘ": "গণপরিষদে বাংলা ভাষার প্রস্তাব পেশ"
+        },
+        "question": "বৃহত্তর কুমিল্লার লোকজন ধীরেন্দ্রনাথ দত্তের প্রতি গভীর শ্রদ্ধা প্রদর্শন করে। তাদের এ শ্রদ্ধা প্রদর্শনের কারণ কী?",
+        "solution": "ঘ. গণপরিষদে বাংলা ভাষার প্রস্তাব পেশ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775315,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775316,
+      "value": {
+        "options": {
+          "ক": "স্মৃতির মিনার",
+          "খ": "কবর&nbsp;",
+          "গ": "আরেক ফাল্গুনঘ&nbsp;",
+          "ঘ": "রক্তাক্ত প্রান্তর"
+        },
+        "question": "কোনটি ভাষা আন্দোলনভিত্তিক রচনা নয়?",
+        "solution": "ঘ. রক্তাক্ত প্রান্তর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 775316,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775317,
+      "value": {
+        "options": {
+          "ক": "উপন্যাস",
+          "খ": "নাটক",
+          "গ": "কবিতা",
+          "ঘ": "গল্প"
+        },
+        "question": "'স্মৃতির মিনার' কী?",
+        "solution": "গ. কবিতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4767,
+          "full_name": "ঢা. বো.'২০১৭;সি. বো.'২০২০;চ. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০১৭;সি. বো.'২০২০;চ. বো.'২০২৪",
+          "slug": "dha-bo2017si-bo2020c-bo2024",
+          "pivot": {
+            "question_bank_id": 775317,
+            "tag_id": 4767,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775318,
+      "value": {
+        "options": {
+          "ক": "আবদুল গাফ্ফার চৌধুরী",
+          "খ": "আব্দুল আলিম",
+          "গ": "আবদুল লতিফ",
+          "ঘ": "রূহুল আমিন"
+        },
+        "question": "\"ওরা আমার মুখের ভাষা কাইড়া নিতে চায়\"- এ গানটির গীতিকার ও সুরকার কে ছিলেন?",
+        "solution": "গ. আবদুল লতিফ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 775318,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775319,
+      "value": {
+        "options": {
+          "ক": "১৯৪৭",
+          "খ": "১৯৪৮",
+          "গ": "১৯৫১",
+          "ঘ": "১৯৫২"
+        },
+        "question": "&nbsp;ধীরেন্দ্রনাথ দত্ত কত সালে উর্দু ও ইংরেজির পাশাপাশি বাংলার ব্যবহারের দাবি জানান?",
+        "solution": "খ. ১৯৪৮",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 775319,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775320,
+      "value": {
+        "options": {
+          "ক": "আব্দুস সালাম",
+          "খ": "শফিউর রহমান",
+          "গ": "আবদুল জব্বার",
+          "ঘ": "আবুল বরকত"
+        },
+        "question": "১৯৫২ সালের ২২ ফেব্রুয়ারির শোক র‍্যালিতে পুলিশের হামলায় কে শহিদ হন?",
+        "solution": "খ. শফিউর রহমান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 775320,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775321,
+      "value": {
+        "options": {
+          "ক": "সামরিক শাসন বিরোধী আন্দোলন",
+          "খ": "ভাষা আন্দোলন",
+          "গ": "ছয় দফা আন্দোলন",
+          "ঘ": "৬৯-এর গণঅভ্যুত্থান"
+        },
+        "question": "বাংলাদেশের স্বাধীনতা আন্দোলনের ভিত্তি কী ছিল?",
+        "solution": "খ. ভাষা আন্দোলন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 775321,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775322,
+      "value": {
+        "options": {
+          "ক": "কবি মাহবুব-উল-আলম চৌধুরী",
+          "খ": "আলাউদ্দিন আল আজাদ",
+          "গ": "শামসুর রাহমান",
+          "ঘ": "কাজী নজরুল ইসলাম"
+        },
+        "question": "ঢাকায় ২১ ফেব্রুয়ারি ছাত্র হত্যার প্রতিবাদে প্রথম কবিতাটি রচনা করেন কে?",
+        "solution": "ক. কবি মাহবুব-উল-আলম চৌধুরী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775322,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775323,
+      "value": {
+        "options": {
+          "ক": "ভাষা আন্দোলন",
+          "খ": "একুশ দফা",
+          "গ": "গণঅভ্যুত্থান",
+          "ঘ": "১৯৭০-এর নির্বাচন"
+        },
+        "question": "বাঙালি জাতীয়তাবাদ বিকাশে কোনটি ঐক্যবদ্ধ করে?",
+        "solution": "ক. ভাষা আন্দোলন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775324,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাঙালি জাতীয়তাবাদের প্রতি আস্থার বহিঃপ্রকাশ ঘটে-\u003Cbr\u003E\ni.&nbsp; সামরিক শাসনে\u003Cbr\u003E\nii. ভাষা আন্দোলনে&nbsp;&nbsp;\u003Cbr\u003E\niii. প্রাদেশিক নির্বাচনে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775324,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775325,
+      "value": {
+        "options": {
+          "ক": "জহির রায়হান",
+          "খ": "ড. মুনীর চৌধুরী",
+          "গ": "আবদুল গাফ্ফার চৌধুরী",
+          "ঘ": "&nbsp;মাহবুব-উল-আলম চৌধুরী"
+        },
+        "question": "'কবর' নাটকটির রচয়িতা কে?",
+        "solution": "খ. ড. মুনীর চৌধুরী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4768,
+          "full_name": "ঢা. বো.'২০২৩;চ. বো.'২০২৪;দি. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২৩;চ. বো.'২০২৪;দি. বো.'২০২০",
+          "slug": "dha-bo2023c-bo2024di-bo2020",
+          "pivot": {
+            "question_bank_id": 775325,
+            "tag_id": 4768,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775326,
+      "value": {
+        "options": {
+          "ক": "রাজনৈতিক",
+          "খ": "সামাজিক",
+          "গ": "সাংস্কৃতিক",
+          "ঘ": "ঐতিহ্যগত"
+        },
+        "question": "তমদ্দুন মজলিস কোন ধরনের প্রতিষ্ঠান?",
+        "solution": "গ. সাংস্কৃতিক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4769,
+          "full_name": "ব. বো.'২০২৩;সি. বো.'২০২০;দি. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৩;সি. বো.'২০২০;দি. বো.'২০২৪",
+          "slug": "b-bo2023si-bo2020di-bo2024",
+          "pivot": {
+            "question_bank_id": 775326,
+            "tag_id": 4769,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775327,
+      "value": {
+        "options": {
+          "ক": "ভাষা আন্দোলন।",
+          "খ": "গণঅভ্যুত্থান",
+          "গ": "ছয় দফা দাবি",
+          "ঘ": "জেল হত্যা"
+        },
+        "question": "'কবর' নাটকের পটভূমি কোনটি?",
+        "solution": "ক. ভাষা আন্দোলন।",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4770,
+          "full_name": "সি. বো.'২০১৫;ব. বো.'২০২৩",
+          "short_name": "সি. বো.'২০১৫;ব. বো.'২০২৩",
+          "slug": "si-bo2015b-bo2023",
+          "pivot": {
+            "question_bank_id": 775327,
+            "tag_id": 4770,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775328,
+      "value": {
+        "options": {
+          "ক": "জহির রায়হান",
+          "খ": "ড. মুনীর চৌধুরী",
+          "গ": "আব্দুল লতিফ",
+          "ঘ": "আলাউদ্দিন আল আজাদ"
+        },
+        "question": "'আরেক ফাল্গুন' উপন্যাসটি কে লিখেন?",
+        "solution": "ক. জহির রায়হান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4771,
+          "full_name": "রা. বো.'২০১৯;চ. বো.'২০২০;ব. বো.'২০২৩",
+          "short_name": "রা. বো.'২০১৯;চ. বো.'২০২০;ব. বো.'২০২৩",
+          "slug": "ra-bo2019c-bo2020b-bo2023",
+          "pivot": {
+            "question_bank_id": 775328,
+            "tag_id": 4771,
+            "year": null,
+            "created_at": "2025-12-01T15:27:09.000000Z",
+            "updated_at": "2025-12-01T15:27:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8061&grade=5&lesson=14641&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8061&grade=5&lesson=14641&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8061&grade=5&lesson=14641&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 67,
+  "total": 67
+}

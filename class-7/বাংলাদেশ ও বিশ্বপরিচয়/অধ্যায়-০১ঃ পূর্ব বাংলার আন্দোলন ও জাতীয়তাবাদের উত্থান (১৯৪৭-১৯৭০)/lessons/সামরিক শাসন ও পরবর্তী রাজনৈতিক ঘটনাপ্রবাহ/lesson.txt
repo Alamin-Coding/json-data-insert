@@ -1,0 +1,2204 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775419,
+      "value": {
+        "options": [],
+        "question": "'ক' রাষ্ট্রের জন্মের পর দুই অঞ্চলের মধ্যে চরম বৈষম্য বিরাজমান ছিল। 'ক' যে রাষ্ট্রকে নির্দেশ করছে সেটির দুই অঞ্চলের মধ্যে বিরাজমান অর্থনৈতিক বৈষম্যের ব্যাখ্যা দাও।",
+        "solution": "&#39;ক&#39; পাকিস্তান রাষ্ট্রকে নির্দেশ করছে। পাকিস্তান সরকারের বৈষম্যমূলক নীতির কারণে পূর্ব পাকিস্তানের চেয়ে পশ্চিম পাকিস্তান অনেক বেশি অর্থনৈতিক সুবিধা লাভ করেছিল। পূর্ব পাকিস্তানের পণ্য বিদেশে রপ্তানি করে অর্জিত বৈদেশিক মুদ্রার সিংহভাগ পশ্চিম পাকিস্তানের উন্নয়নে ব্যয় হতো। ফলে পূর্ব ও পশ্চিম পাকিস্তানের মধ্যে ব্যবসা-বাণিজ্য, শিল্প উৎপাদন, কৃষিসহ অর্থনীতির সকল ক্ষেত্রে চরম বৈষম্য বিরাজ করতো।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775407,
+      "value": {
+        "options": {
+          "ক": "অতিরঞ্জিত কর্মসূচি",
+          "খ": "বাঙালি জাতীয়তাবাদের কর্মসূচি",
+          "গ": "বিচ্ছিন্নতাবাদী কর্মসূচি",
+          "ঘ": "পূর্ব বাংলার মুক্তির সনদ"
+        },
+        "question": "বাঙালি জাতির মুক্তির সনদকে আইয়ুব সরকার কী নামে আখ্যায়িত&nbsp;করে?",
+        "solution": "গ. বিচ্ছিন্নতাবাদী কর্মসূচি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3847,
+          "full_name": "ব. বো.'২০১৬",
+          "short_name": "ব. বো.'২০১৬",
+          "slug": "b-bo2016",
+          "pivot": {
+            "question_bank_id": 775407,
+            "tag_id": 3847,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775408,
+      "value": {
+        "options": {
+          "ক": "শিল্পায়ন ও অর্থনীতি",
+          "খ": "প্রতিরক্ষা ও অর্থনীতি",
+          "গ": "প্রতিরক্ষা ও পররাষ্ট্র",
+          "ঘ": "সামরিক শাসন ও বাণিজ্য"
+        },
+        "question": "ঐতিহাসিক ছয় দফায় কেন্দ্রীয় সরকারের হাতে কোন দুটি বিষয় থাকার কথা বঙ্গবন্ধু উল্লেখ করেছিলেন?",
+        "solution": "গ. প্রতিরক্ষা ও পররাষ্ট্র",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 775408,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775409,
+      "value": {
+        "options": {
+          "ক": "১৯৫৪",
+          "খ": "১৯৬৫",
+          "গ": "১৯৬৯",
+          "ঘ": "১৯৭০"
+        },
+        "question": "পাকিস্তানে প্রথম সাধারণ নির্বাচন অনুষ্ঠিত হয় কত সালে?",
+        "solution": "ঘ. ১৯৭০",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 775409,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775410,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "পূর্ব পাকিস্তানের উন্নয়ন ব্যাহত হয়-\u003Cbr\u003E\ni. শাসকগোষ্ঠীর বৈষম্যের কারণে\u003Cbr\u003E\nii. পূর্ব পাকিস্তানের জন্য কম অর্থ বরাদ্দের কারণে\u003Cbr\u003E\niii. কম আমদানি ও রপ্তানি করার কারণে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 775410,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775411,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "&nbsp;১৯৭০ সালের নির্বাচনের গুরুত্ব হলো-\u003Cbr\u003E\ni. ৬ দফার প্রতি জনগণের সমর্থনের বিষয়টি স্পষ্ট হয়\u003Cbr\u003E\nii. বাঙালি জাতীয়তাবাদের রাজনৈতিক বিজয় ঘটে\u003Cbr\u003E\niii. পশ্চিম পাকিস্তানের কর্তৃত্বের&nbsp;বিরুদ্ধে এদেশের জনগণের&nbsp;অবস্থান সুদৃঢ় হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 775411,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775412,
+      "value": {
+        "options": {
+          "ক": "১৯৫২ সালের ভাষা আন্দোলন",
+          "খ": "১৯৬২ সালের শিক্ষা আন্দোলন",
+          "গ": "১৯৬৬ সালের ৬ দফা আন্দোলন",
+          "ঘ": "১৯৬৬ সালের গণঅভ্যুত্থান"
+        },
+        "question": "'X' ফ্যাক্টরির দুটি শাখা ছিল। দ্বিতীয় শাখার শ্রমিকরা নানাভাবে বঞ্চিত হয়ে আসছিল। শ্রমিক নেতা 'Y' শ্রমিক সমাবেশ ডেকে শ্রমিকদের চাকরি বিধি, নিরাপত্তাসহ আরো চারটি দাবি মালিকের নিকট পেশ করেন। মালিক দাবি না মেনে শ্রমিক নেতার বিরুদ্ধে বিদ্রোহের অভিযোগ আনলেন।\u003Cbr\u003E\nউদ্দীপকের শ্রমিক নেতার কার্যক্রম ঐতিহাসিক কোন ঘটনাকে ইঙ্গিত করে?",
+        "solution": "গ. ১৯৬৬ সালের ৬ দফা আন্দোলন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775413,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "&nbsp;i, ii ও iii&nbsp;"
+        },
+        "question": "পাকিস্তানের প্রতিরক্ষা বাহিনীর সদর দপ্তর ও সমবায় কারখানা ছিল পাকিস্তানের পশ্চিম অঞ্চলে। সেনাবাহিনীর মাত্র ৪ ভাগ সদস্য ছিল বাঙালি। সামারিক বাহিনীর জন্য বাজেটের বেশির ভাগ ব্যয় করা হতো পশ্চিম পাকিস্তানে।\u003Cbr\u003E\nউক্ত বৈষম্যের বাস্তব ফল হলো-\u003Cbr\u003E\ni. পশ্চিম পাকিস্তানের অরক্ষিত সীমান্ত\u003Cbr\u003E\nii. পূর্ব পাকিস্তানের অরক্ষিত ভূখণ্ড\u003Cbr\u003E\niii. পূর্ব পাকিস্তানের জনগণের নিরাপত্তাহীনতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775414,
+      "value": {
+        "options": [],
+        "question": "একটি ঐতিহাসিক আন্দোলনে অংশ নিয়ে ঢাকা বিশ্ববিদ্যালয়ের ছাত্র এবং রাজশাহী বিশ্ববিদ্যালয়ের একজন শিক্ষক শহিদ হন। তারা কারা? এ সময় কে দুর্বার আন্দোলন গড়ে তোলেন?",
+        "solution": "১৯৬৯ সালের গণঅভ্যুত্থানে ঢাকা বিশ্ববিদ্যালয়ের ছাত্র আসাদ ও রাজশাহী বিশ্ববিদ্যালয়ের শিক্ষক ড. শামসুজ্জোহা শহিদ হন। এ সময় মওলানা ভাসানী দুর্বার আন্দোলন গড়ে তোলেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775415,
+      "value": {
+        "options": [],
+        "question": "পাকিস্তানের ইতিহাসে সর্বপ্রথম 'এক ব্যক্তির এক ভোটের' ভিত্তিতে একটি নির্বাচন অনুষ্ঠিত হয়। এটি কোন নির্বাচনকে নির্দেশ করে? এ নির্বাচনে পূর্ব পাকিস্তানের ভোটার ছিল কতজন?",
+        "solution": "এটি ১৯৭০ সালের ৭ ডিসেম্বর অনুষ্ঠিত সাধারণ নির্বাচনকে নির্দেশ করে। এ নির্বাচনে ৫ কোটি ৬৪ লাখ ভোটারের মধ্যে পূর্ব পাকিস্তানের ভোটারের সংখ্যা ছিল ৩ কোটি ২২ লাখ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775416,
+      "value": {
+        "options": [],
+        "question": "১৯৭০ সালের নির্বাচনে একটি দল জাতীয় পরিষদে ১৬০টি আসন লাভ করে। এটি কোন রাজনৈতিক দল? দলটি কয়টি মহিলা আসন লাভ করে?",
+        "solution": "১৯৭০ সালের সাধারণ নির্বাচনে আওয়ামী লীগ জাতীয় পরিষদের ৩০০ আসনের মধ্যে পূর্ব বাংলার জন্য নির্ধারিত ১৬২টি আসনের মধ্যে ১৬০টি আসন লাভ করে। দলটি সংরক্ষিত মহিলা আসনে ৭টি আসন লাভ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775417,
+      "value": {
+        "options": [],
+        "question": "১৯৭০ সালের নির্বাচনে পূর্ব পাকিস্তানে প্রাদেশিক পরিষদে 'A' দল সংখ্যাগরিষ্ঠতা অর্জন করে। দলটি মোট কতটি আসন পেয়েছিল? কোন কোন দফার ভিত্তিতে দলটি বিজয় অর্জন করে?",
+        "solution": "পূর্ব পাকিস্তানের প্রাদেশিক পরিষদ নির্বাচনে আওয়ামী লীগ মোট ৩১০টি আসনের মধ্যে ২৯৮টি আসন লাভ করে। মূলত ৬ দফা ও ১১ দফার ভিত্তিতে দলটি এই বিজয় অর্জন করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775418,
+      "value": {
+        "options": [],
+        "question": "১৯৭০ সালের সাধারণ নির্বাচনের গুরুত্ব লেখো।",
+        "solution": "১৯৭১ সালের স্বাধীন-সার্বভৌম বাংলাদেশ রাষ্ট্রের অভ্যুদয়ের পিছনে ১৯৭০ সালের সাধারণ নির্বাচনের গুরুত্ব ব্যাপক। এই নির্বাচন বাঙালি জাতীয়তাবাদের রাজনৈতিক অগ্রযাত্রাকে মহান মুক্তিযুদ্ধের চরিত্র দানে বিশাল ভূমিকা রাখে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775406,
+      "value": {
+        "options": {
+          "ক": "১৯৫৮",
+          "খ": "১৯৬১",
+          "গ": "১৯৬৬",
+          "ঘ": "১৯৬৯"
+        },
+        "question": "আইয়ুব খান কত সালে সামরিক শাসন জারি করেন?",
+        "solution": "ক. ১৯৫৮",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 775406,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775420,
+      "value": {
+        "options": [],
+        "question": "পাকিস্তানের দুই অঞ্চলে ব্যাপক অর্থনৈতিক বৈষম্য বিরাজমান ছিল। এছাড়া আর কোন কোন ক্ষেত্রে বৈষম্য ছিল?",
+        "solution": "১৯৪৭ সালে পাকিস্তান রাষ্ট্র প্রতিষ্ঠার পর থেকে পূর্ব অংশের জনগণ বিভিন্ন ক্ষেত্রে পিছিয়ে পড়তে থাকে। তারা পশ্চিম পাকিস্তানিদের দ্বারা অর্থনৈতিক বৈষম্য ছাড়াও প্রশাসনে, সেনাবাহিনীতে, শিক্ষা-দীক্ষা ও সামাজিক ক্ষেত্রে ব্যাপক বৈষম্যের শিকার হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775421,
+      "value": {
+        "options": [],
+        "question": "ঐতিহাসিক ছয় দফার ২য় দফায় কয়টি বিষয় কেন্দ্রীয় সরকারের হাতে রাখার প্রস্তাব করা হয়? বিষয়গুলো কী কী?",
+        "solution": "ঐতিহাসিক ৬ দফার ২য় দফায় মাত্র দুটি বিষয় কেন্দ্রীয় সরকারের হাতে রাখার প্রস্তাব করা হয়। বিষয়গুলো হলো- প্রতিরক্ষা ও পররাষ্ট্র মন্ত্রণালয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775422,
+      "value": {
+        "options": [],
+        "question": "মৌলিক গণতন্ত্র ধারণাটি ব্যাখ্যা করো।",
+        "solution": "মৌলিক গণতন্ত্র হলো জেনারেল আইয়ুব খান প্রবর্তিত একটি ধারণা।&nbsp;এটি ছিল একটি পরোক্ষ নির্বাচন পদ্ধতি। এ ব্যবস্থায় পূর্ব পাকিস্তান ও পশ্চিম পাকিস্তান থেকে মোট ৮০ হাজার নির্বাচিত ইউনিয়ন কাউন্সিল সদস্য নিয়ে নির্বাচকমণ্ডলী গঠনের সিদ্ধান্ত গৃহীত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775423,
+      "value": {
+        "options": [],
+        "question": "লাহোরে সংবাদ সম্মেলন করে একজন নেতা পূর্ব পাকিস্তানের জনগণের অধিকার রক্ষায় বেশকিছু দাবি তুলে ধরেন। উক্ত নেতার নাম কী? দাবিগুলোর প্রথমটি লেখো।",
+        "solution": "আওয়ামী লীগের তৎকালীন সাধারণ সম্পাদক শেখ মুজিবুর রহমান ছয় দফা দাবি উত্থাপন করেন। এর প্রথম দফাটি হলো- পাকিস্তানে যুক্তরাষ্ট্রীয় ব্যবস্থাধীনে সংসদীয় পদ্ধতির সরকার হবে। সর্বজনীন ভোটাধিকারের ভিত্তিতে প্রাপ্তবয়স্কদের ভোটে নির্বাচন অনুষ্ঠিত হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775424,
+      "value": {
+        "options": [],
+        "question": "আরিফের দাদা তাকে এমন একটি ঘটনা শোনালো যেটি ১৯৬৯ সালের সবচেয়ে গুরুত্বপূর্ণ ঘটনা। ঘটনাটি কী? এর তাৎপর্য লেখো।",
+        "solution": "আরিফের দাদার শোনানো ঘটনাটি হলো ঊনসত্তরের গণঅভ্যুত্থান। এই গণঅভ্যুত্থানে সকল গণতান্ত্রিক দল, পেশাজীবী সংগঠন ও মানুষ যার যার অবস্থান থেকে যুক্ত হয়। ফলে এটি একসময় বিপ্লবাত্মক রূপ ধারণ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775425,
+      "value": {
+        "options": [],
+        "question": "১৯৫৮ সালের ৭ই অক্টোবর প্রেসিডেন্ট 'ক' সামরিক আইন জারি করেন এবং বেশকিছু পদক্ষেপ গ্রহণ করেন। প্রেসিডেন্ট 'ক' কোন ব্যক্তিকে নির্দেশ করছে? তিনি কীভাবে ক্ষমতা দখল করেন?",
+        "solution": "প্রেসিডেন্ট &#39;ক&#39; ইস্কান্দার মীর্জাকে ইঙ্গিত করছে। কেন্দ্র ও প্রদেশে ঘন ঘন সরকার পরিবর্তনের ধারাবাহিকতায় পূর্ববাংলায় অরাজক পরিস্থিতির সৃষ্টি হয়। এ সময় প্রাদেশিক পরিষদে পরস্পর বিরোধী&nbsp;এমএলএদের মধ্যে মারামারির মতো অপ্রীতিকর ঘটনাও ঘটে। এতে ডেপুটি স্পিকার শাহেদ আলী গুরুতর আহত হয়ে হাসপাতালে মারা যান। এরই সুযোগ নিয়ে ১৯৫৮ সালের ৭ই অক্টোবর প্রেসিডেন্ট ইস্কান্দার মীর্জা সামরিক আইন জারির মাধ্যমে ক্ষমতা দখল করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775426,
+      "value": {
+        "options": [],
+        "question": "১৯৬২ সালে ছাত্রসমাজ কত দফা কর্মসূচি ঘোষণা করে? এ আন্দোলনে পরবর্তীতে ছাত্রদের সাথে কারা অংশগ্রহণ করেন?",
+        "solution": "১৯৬২ সালে স্বৈরশাসক আইয়ুব খানের প্রস্তাবিত শাসনতন্ত্রের বিরুদ্ধে ছাত্রসমাজ প্রতিবাদমুখর হয়ে ওঠে এবং ১৫ দফা কর্মসূচি ঘোষণা করে। শিক্ষানীতি বিষয়ক ছাত্রদের আন্দোলনে বিভিন্ন পেশাজীবীও অংশগ্রহণ করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775427,
+      "value": {
+        "options": [],
+        "question": "আইয়ুব খানের শাসনামলে বাঙালিদের একজন নেতা কয়েকটি দাবি উপস্থাপন করেছিলেন। এটি কোন ঘটনাকে ইঙ্গিত করে? সেটি কীসের সারসংক্ষেপ ছিল?",
+        "solution": "এটি ছয় দফাকে ইঙ্গিত করে। পূর্ব পাকিস্তানের জনগণের সংস্কৃতি, ইতিহাস, ঐতিহ্য, অর্থনৈতিক এবং রাজনৈতিক অধিকার রক্ষার জন্য শেখ মুজিবুর রহমান ৬ দফা দাবি উপস্থাপন করেছিলেন। এ ৬ দফা ছিল মূলত ছাত্রদের ১১ দফা ও যুক্তফ্রন্টের ২১ দফার সারসংক্ষেপ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775428,
+      "value": {
+        "options": [],
+        "question": "১৯৬৮ সালে পাকিস্তান সরকার একটি মামলা দায়ের করে। মামলাটির নাম কী? এ মামলায় কতজন আসামি ছিল?",
+        "solution": "মামলাটি হলো আগরতলা ষড়যন্ত্র মামলা (রাষ্ট্র বনাম শেখ মুজিবুর রহমান এবং অন্যান্য)। পাকিস্তান সরকার শেখ মুজিবুর রহমানসহ অন্যান্য রাজনীতিবিদ, সামরিক কর্মকর্তা এবং অন্যান্য বেসামরিক কর্মকর্তাসহ মোট ৩৫ জনকে আসামি করে এ মামলা দায়ের করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775429,
+      "value": {
+        "options": [],
+        "question": "১৯৬৯ সালে একটি ঐতিহাসিক গণঅভ্যুত্থানের ফলে পাকিস্তানের সামরিক শাসক পদত্যাগ করেন। তার নাম কী? গণঅভ্যুত্থানের ফলাফল কী ছিলো?",
+        "solution": "পদত্যাগকৃত সামরিক শাসক হলেন আইয়ুব খান। এই গণঅভ্যুত্থানের ফলে পূর্ববাংলার জনগণের মধ্যে জাতীয়তাবাদী রাজনৈতিক চিন্তা-চেতনার বিকাশ ঘটে। বাঙালি জাতীয়তাবাদের প্রয়োজনীয়তা তাদের কাছে স্পষ্ট হয়ে ওঠে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775430,
+      "value": {
+        "options": [],
+        "question": "আইয়ুব খানের শাসনামলে বাঙালিদের একজন নেতা কয়েকটি দাবি উপস্থাপন করেছিলেন। এটি কোন ঘটনাকে ইঙ্গিত করে? সেটি কীসের সারসংক্ষেপ ছিল?",
+        "solution": "এটি ছয় দফাকে ইঙ্গিত করে। পূর্ব পাকিস্তানের জনগণের সংস্কৃতি, ইতিহাস, ঐতিহ্য, অর্থনৈতিক এবং রাজনৈতিক অধিকার রক্ষার জন্য শেখ মুজিবুর রহমান ৬ দফা দাবি উপস্থাপন করেছিলেন। এ ৬ দফা ছিল মূলত ছাত্রদের ১১ দফা ও যুক্তফ্রন্টের ২১ দফার সারসংক্ষেপ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775394,
+      "value": {
+        "options": {
+          "ক": "ছাত্রলীগ",
+          "খ": "মুসলিম লীগ",
+          "গ": "জাতীয় গণতান্ত্রিক ফ্রন্ট",
+          "ঘ": "যুক্তফ্রন্ট"
+        },
+        "question": "কোন সংগঠনটি আইয়ুব খানের সামরিক শাসন বিরোধী আন্দোলন গড়ে তোলে?",
+        "solution": "গ. জাতীয় গণতান্ত্রিক ফ্রন্ট",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 775394,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775383,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্র বনাম শেখ মুজিবুর রহমান",
+          "খ": "রাষ্ট্র বনাম শেখ মুজিবুর রহমান এবং অন্যান্য",
+          "গ": "রাষ্ট্র বনাম অন্যান্য",
+          "ঘ": "রাষ্ট্র বনাম আগরতলা ষড়যন্ত্রকারীগণ&nbsp;"
+        },
+        "question": "ঐতিহাসিক আগরতলা মামলাটি কী নামে দায়ের করা হয়?",
+        "solution": "খ. রাষ্ট্র বনাম শেখ মুজিবুর রহমান এবং অন্যান্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 775383,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775384,
+      "value": {
+        "options": {
+          "ক": "৮০,০০০",
+          "খ": "৯০,০০০",
+          "গ": "১,০০,০০০",
+          "ঘ": "১,২০,০০০"
+        },
+        "question": "মৌলিক গণতন্ত্রে 'নির্বাচকমন্ডলীর' সংখ্যা কত ছিল?",
+        "solution": "ক. ৮০,০০০",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 775384,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775385,
+      "value": {
+        "options": {
+          "ক": "সাংবিধানিক রাজতন্ত্র",
+          "খ": "সামরিক সমাজতন্ত্র",
+          "গ": "কেন্দ্রীভূত গণতন্ত্র",
+          "ঘ": "মৌলিক গণতন্ত্র"
+        },
+        "question": "সামরিক শাসনকে দীর্ঘস্থায়ী করার জন্য আইয়ুব খান কোন ব্যবস্থার&nbsp;প্রবর্তন করেন?",
+        "solution": "ঘ. মৌলিক গণতন্ত্র",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775385,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775386,
+      "value": {
+        "options": {
+          "ক": "ময়নামতি ক্যান্টনমেন্ট",
+          "খ": "ঢাকা ক্যান্টনমেন্ট",
+          "গ": "করাচি ক্যান্টনমেন্ট",
+          "ঘ": "লাহোর ক্যান্টনমেন্ট"
+        },
+        "question": "ঐতিহাসিক আগরতলা মামলার শুনানি কোথায় হয়?",
+        "solution": "খ. ঢাকা ক্যান্টনমেন্ট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 775386,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775387,
+      "value": {
+        "options": {
+          "ক": "৬ দফা",
+          "খ": "৮ দফা",
+          "গ": "১১ দফা",
+          "ঘ": "২১ দফা"
+        },
+        "question": "১৯৬৯ সালের গণঅভ্যুত্থান সৃষ্টিতে কোন আন্দোলন সবচেয়ে গুরুত্বপূর্ণ ভূমিকা পালন করে?",
+        "solution": "গ. ১১ দফা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775387,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775388,
+      "value": {
+        "options": {
+          "ক": "আইয়ুব খান",
+          "খ": "ইস্কান্দার মীর্জা",
+          "গ": "টিক্কা খান",
+          "ঘ": "নিয়াজি"
+        },
+        "question": "১৯৫৮ সালের ৭ অক্টোবর পূর্ব পাকিস্তানে সামরিক আইন জারি করেন-",
+        "solution": "খ. ইস্কান্দার মীর্জা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 775388,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775389,
+      "value": {
+        "options": {
+          "ক": "গণতন্ত্র প্রতিষ্ঠা করা",
+          "খ": "দুর্নীতি দূর করা",
+          "গ": "শাসন ক্ষমতার বিকেন্দ্রীকরণ",
+          "ঘ": "সামরিক শাসন দীর্ঘস্থায়ী করা"
+        },
+        "question": "'আইয়ুব খানের 'মৌলিক গণতন্ত্র' ব্যবস্থার লক্ষ্য কী ছিল?",
+        "solution": "ঘ. সামরিক শাসন দীর্ঘস্থায়ী করা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 775389,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775390,
+      "value": {
+        "options": {
+          "ক": "১১",
+          "খ": "১৫",
+          "গ": "১৭",
+          "ঘ": "২১"
+        },
+        "question": "১৯৬৫ সালের ৬ সেপ্টেম্বর শুরু হওয়া ভারত-পাকিস্তান যুদ্ধ কত দিন অব্যাহত ছিল?",
+        "solution": "গ. ১৭",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4778,
+          "full_name": "ঢা. বো.'২০১৯;ব. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৯;ব. বো.'২০১৬",
+          "slug": "dha-bo2019b-bo2016",
+          "pivot": {
+            "question_bank_id": 775390,
+            "tag_id": 4778,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775391,
+      "value": {
+        "options": {
+          "ক": "হিন্দুয়ানির",
+          "খ": "হিন্দু সংস্কৃতির",
+          "গ": "অপসংস্কৃতির",
+          "ঘ": "পাশ্চাত্য সংস্কৃতির"
+        },
+        "question": "কাজী নজরুল ইসলামের গানে-পাকিস্তানিরা কিসের&nbsp;অভিযোগ&nbsp;তুলেছিল?",
+        "solution": "ক. হিন্দুয়ানির",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 775391,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775392,
+      "value": {
+        "options": {
+          "ক": "ভাষা আন্দোলন",
+          "খ": "ভাষা আন্দোলন",
+          "গ": "৬ দফা",
+          "ঘ": "২১ দফা"
+        },
+        "question": "পূর্ব বাংলার মুক্তিসনদ কোনটি?",
+        "solution": "গ. ৬ দফা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 775392,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775393,
+      "value": {
+        "options": {
+          "ক": "১৯৬১",
+          "খ": "১৯৬২",
+          "গ": "১৯৬৮",
+          "ঘ": "১৯৬৯"
+        },
+        "question": "ছাত্ররা ১১ দফার দাবিতে কত সালে আন্দোলন করেছিল?",
+        "solution": "গ. ১৯৬৮",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 775393,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775382,
+      "value": {
+        "options": {
+          "ক": "ইয়াহিয়া খান",
+          "খ": "মোহাম্মদ আলী জিন্নাহ",
+          "গ": "আইয়ুব খান",
+          "ঘ": "ইস্কান্দার মীর্জা"
+        },
+        "question": "কে ছয় দফাকে 'বিচ্ছিন্নতাবাদী কর্মসূচি' হিসেবে আখ্যায়িত করে?",
+        "solution": "ক. ইয়াহিয়া খান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 775382,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775395,
+      "value": {
+        "options": {
+          "ক": "বাঙালিদের মুক্তির জন্য",
+          "খ": "একটি দুর্নীতিমুক্ত সমাজ নিশ্চিত করতে",
+          "গ": "বাঙালিদের অর্থনৈতিক মুক্তির জন্য",
+          "ঘ": "প্রতিরক্ষা খাতের নিরপেক্ষতা নিশ্চিত করতে"
+        },
+        "question": "বঙ্গবন্ধু শেখ মুজিবুর রহমান ছয় দফা দাবি ঘোষণা করেন কেন?",
+        "solution": "ক. বাঙালিদের মুক্তির জন্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 775395,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775396,
+      "value": {
+        "options": {
+          "ক": "৩২",
+          "খ": "৩৩",
+          "গ": "৩৪",
+          "ঘ": "৩৫"
+        },
+        "question": "ঐতিহাসিক 'আগরতলা' মামলা কতজনের বিরুদ্ধে রুজু করা হয়?",
+        "solution": "ঘ. ৩৫",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 775396,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775397,
+      "value": {
+        "options": {
+          "ক": "১৯৬৮ সালের ১৯ জুন",
+          "খ": "১৯৬৯ সালের ২২ ফেব্রুয়ারি",
+          "গ": "১৯৬৯ সালের ২৩-ফেব্রুয়ারি",
+          "ঘ": "১৯৬৯ সালের ২৫ মার্চ"
+        },
+        "question": "শেখ মুজিবুর রহমানকে কখন 'বঙ্গবন্ধু' উপাধি দেওয়া হয়?",
+        "solution": "গ. ১৯৬৯ সালের ২৩-ফেব্রুয়ারি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775397,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775398,
+      "value": {
+        "options": {
+          "ক": "৫ ডিসেম্বর",
+          "খ": "৬ ডিসেম্বর",
+          "গ": "৭ ডিসেম্বর",
+          "ঘ": "৮ ডিসেম্বর"
+        },
+        "question": "১৯৭০ সালের কত তারিখে পাকিস্তানে সাধারণ নির্বাচন অনুষ্ঠিত হয়?",
+        "solution": "গ. ৭ ডিসেম্বর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 775398,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775399,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "১৯৭০ সালের নির্বাচন গুরুত্বপূর্ণ হওয়ার যথার্থ কারণ-\u003Cbr\u003E\ni. বাঙালিদের সংখ্যাগরিষ্ঠতা অর্জন&nbsp;\u003Cbr\u003E\nii. পাকিস্তানের অপশাসনের বিরুদ্ধে জনগণের রায়\u003Cbr\u003E\niii. বাংলার স্বায়ত্তশাসনের দাবি উপস্থাপন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775400,
+      "value": {
+        "options": {
+          "ক": "আইয়ুব খান",
+          "খ": "টিক্কা খান",
+          "গ": "ইয়াহিয়া খান",
+          "ঘ": "ইস্কান্দার মীর্জা"
+        },
+        "question": "নিচের কোন ব্যক্তি পাকিস্তানে 'মৌলিক গণতন্ত্র' প্রবর্তন করেন?",
+        "solution": "ক. আইয়ুব খান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 775400,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775401,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রপতি ও জাতীয় পরিষদের সদস্যদের",
+          "খ": "প্রধানমন্ত্রী ও জাতীয় পরিষদের সদস্যদের",
+          "গ": "রাষ্ট্রপতি ও প্রধানমন্ত্রীকে",
+          "ঘ": "রাষ্ট্রপতি ও অন্য মন্ত্রীদের"
+        },
+        "question": "আইয়ুব খান মৌলিক গণতন্ত্রের মাধ্যমে নির্বাচিত করার ব্যবস্থ&nbsp;করেন-",
+        "solution": "ক. রাষ্ট্রপতি ও জাতীয় পরিষদের সদস্যদের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 775401,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775402,
+      "value": {
+        "options": {
+          "ক": "ভাষা আন্দোলন",
+          "খ": "যুক্তফ্রন্ট নির্বাচন",
+          "গ": "ছয় দফা কর্মসূচি",
+          "ঘ": "ছাত্রসমাজের এগার দফার কর্মসূচি"
+        },
+        "question": "নিচের কোনটি বাঙালিদের স্বাধীনতার মন্ত্রে উজ্জীবিত করে?",
+        "solution": "ক. ভাষা আন্দোলন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 775402,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775403,
+      "value": {
+        "options": {
+          "ক": "জনগণের অধিকার রক্ষা",
+          "খ": "বাংলাকে শিক্ষার মাধ্যম হিসেবে স্বীকৃতিদান",
+          "গ": "২১ ফেব্রুয়ারিকে &#39;শহিদ দিবস&#39; হিসেবে স্বীকৃতিদান",
+          "ঘ": "শাসন বিভাগ হতে বিচার বিভাগকে পৃথক করা"
+        },
+        "question": "৬ দফার উদ্দেশ্য কী ছিল?",
+        "solution": "ক. জনগণের অধিকার রক্ষা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 775403,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775404,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "৬ দফা পূর্ব বাংলার মুক্তির সনদ কারণ, এতে-\u003Cbr\u003E\ni. রাজস্ব আদায়ের ভার কেন্দ্রের ওপর দেয়ার দাবি ছিল\u003Cbr\u003E\nii. পূর্ব বাংলায় নিজেদের শাসন প্রতিষ্ঠা করার দাবি ছিল\u003Cbr\u003E\niii. নিজেদের নিরাপত্তা নিজেদেরই রক্ষা করার দাবি ছিল\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 775404,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:27:31.000000Z",
+            "updated_at": "2025-12-01T15:27:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775405,
+      "value": {
+        "options": {
+          "ক": "অর্থনৈতিক&nbsp;",
+          "খ": "সামরিক&nbsp;",
+          "গ": "প্রশাসনিক&nbsp;",
+          "ঘ": "রাজনৈতিক&nbsp;"
+        },
+        "question": "পাকিস্তানের প্রতিরক্ষা বাহিনীর সদর দপ্তর ও সমবায় কারখানা ছিল পাকিস্তানের পশ্চিম অঞ্চলে। সেনাবাহিনীর মাত্র ৪ ভাগ সদস্য ছিল বাঙালি। সামারিক বাহিনীর জন্য বাজেটের বেশির ভাগ ব্যয় করা হতো পশ্চিম পাকিস্তানে।\u003Cbr\u003E\nঅনুচ্ছেদে পাকিস্তানি শাসকগোষ্ঠীর কোন বৈষম্যের দিকটি ফুটে ওঠেছে?",
+        "solution": "খ. সামরিক&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8061&grade=5&lesson=14643&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8061&grade=5&lesson=14643&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8061&grade=5&lesson=14643&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 49,
+  "total": 49
+}

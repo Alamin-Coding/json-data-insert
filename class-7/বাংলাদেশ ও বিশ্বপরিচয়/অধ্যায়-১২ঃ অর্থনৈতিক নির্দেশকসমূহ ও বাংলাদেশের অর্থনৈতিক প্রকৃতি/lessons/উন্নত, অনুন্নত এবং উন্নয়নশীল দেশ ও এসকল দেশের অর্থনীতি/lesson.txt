@@ -1,0 +1,1041 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776521,
+      "value": {
+        "options": [],
+        "question": "অর্থনৈতিক উন্নয়ন ধারণাটি ব্যাখ্যা করো।",
+        "solution": "উন্নয়ন বলতে বিদ্যমান অবস্থার ইতিবাচক পরিবর্তনকে বোঝায়। উন্নয়ন মূলত সমৃদ্ধি বা সার্বিক মানোন্নয়নকে নির্দেশ করে। আর দেশের সম্পদ ও সম্ভাবনাকে কাজে লাগিয়ে আর্থসামাজিক সমৃদ্ধি ও বিকাশ সাধনকে অর্থনৈতিক উন্নয়ন বলা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776532,
+      "value": {
+        "options": [],
+        "question": "জনশক্তি রপ্তানিকারক দেশ হিসেবে বাংলাদেশের অবস্থান ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশের রপ্তানির একটি উল্লেখযোগ্য দিক হলো এটি একটি জনশক্তি রপ্তানিকারক দেশ। বাংলাদেশ বিশ্বের বিভিন্ন দেশে দক্ষ ও আধা-দক্ষ শ্রমিক রপ্তানি করে থাকে। সিঙ্গাপুর, মালয়েশিয়া, মধ্যপ্রাচ্যের দেশ-সৌদি আরব, আরব আমিরাত, কাতার, ওমান, বাহরাইন ও কুয়েতে উল্লেখযোগ্য সংখ্যক বাংলাদেশি শ্রমিকরা কাজ করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776531,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশ পৃথিবীর অন্যতম বৃহৎ পোশাক রপ্তানিকারক দেশ। পোশাক ছাড়াও বাংলাদেশ আর কোন কোন পণ্য রপ্তানি করে?",
+        "solution": "বাংলাদেশের প্রধান প্রধান রপ্তানি পণ্যগুলো হলো- কাঁচা পাট, পাটজাত পণ্য, চিংড়ি মাছ, ইলিশ, হিমায়িত খাদ্য, চা, চামড়া কৃষিজাত পণ্য, সিরামিক ইত্যাদি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776530,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশকে উন্নয়নশীল দেশ হিসেবে বিবেচনা করা যায় কেন?",
+        "solution": "বাংলাদেশে আর্থসামাজিক ক্ষেত্রে অব্যাহত উন্নয়ন প্রচেষ্টা ও কার্যক্রম চলমান। সেই সাথে কিছু আর্থসামাজিক সূচকে যেমন: শিক্ষায় জেন্ডার সমতা, শিশু ও মাতৃমৃত্যু হার হ্রাস, প্রাথমিক শিক্ষায় ভর্তির হারে&nbsp;উল্লেখযোগ্য অগ্রগতি প্রভৃতির উচ্চমানের কারণে বাংলাদেশকে উন্নয়নশীল দেশ হিসেবে বিবেচনা করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776529,
+      "value": {
+        "options": [],
+        "question": "উন্নয়নশীল দেশের কয়েকটি বৈশিষ্ট্য লেখো।",
+        "solution": "উন্নয়নশীল দেশের কয়েকটি বৈশিষ্ট্য হলো- জনসংখ্যা বৃদ্ধির হার হ্রাস ও মানবসম্পদ উন্নয়ন, বেকারত্ব হ্রাস ও দারিদ্র্য বিমোচন, নগরায়ণের হার বৃদ্ধি ও সামাজিক পরিবেশের উন্নয়ন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776528,
+      "value": {
+        "options": [],
+        "question": "উন্নয়নশীল দেশ বলতে কী বোঝায়? ব্যাখ্যা করো।",
+        "solution": "বিশ্বের উন্নত ও অনুন্নত দেশসমূহের মধ্যপর্যায়ে আরেক ধরনের দেশ রয়েছে। সেগুলোকে উন্নয়নশীল দেশ বলা হয়। এসব দেশের মাথাপিছু প্রকৃত আয় উন্নত দেশসমূহের তুলনায় কম। উন্নয়নশীল দেশে অনুন্নত অর্থনীতির অধিকাংশ বৈশিষ্ট্যই বিদ্যমান। তবে এখানে মাথাপিছু আয় বৃদ্ধির প্রবণতা সৃষ্টি হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776527,
+      "value": {
+        "options": [],
+        "question": "অনুন্নত দেশগুলোর কৃষি অত্যন্ত অনুন্নত কেন? ব্যাখ্যা করো।",
+        "solution": "অনুন্নত দেশগুলোর কৃষি উৎপাদন ও বণ্টনব্যবস্থা অনুন্নত। সনাতন পদ্ধতিতে চাষাবাদ, ত্রুটিপূর্ণ মালিকানা, স্বল্প বিনিয়োগ, কৃষি উপকরণ ও কৃষির জন্য প্রয়োজনীয় অবকাঠামো ও উপাদানের অভাব, কৃষির প্রকৃতি নির্ভরতা প্রভৃতি কারণে এসব দেশের কৃষি অত্যন্ত অনুন্নত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776526,
+      "value": {
+        "options": [],
+        "question": "'B' দেশটির জনগণের মাথাপিছু আয় অনেক কম। দেশটির প্রধান বৈশিষ্ট্যগুলো বর্ণনা করো।",
+        "solution": "&#39;B&#39; দেশটি হলো অনুন্নত দেশ। এ ধরনের দেশের প্রধান বৈশিষ্ট্য নিম্ন মাথাপিছু আয় এবং জীবনযাত্রার নিম্নমান। জনগণের বৃহত্তর অংশেরই মৌলিক চাহিদা যেমন: খাদ্য, বস্ত্র, বাসস্থান, শিক্ষা ও চিকিৎসা সুবিধা পূরণ করার সামর্থ্য নেই। এসব দেশে কৃষি জাতীয় উৎপাদনের একক বৃহত্তম খাত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776525,
+      "value": {
+        "options": [],
+        "question": "লিমার বসবাসকারী দেশের জনগণের মাথাপিছু আয় ৩৯,০০০ থেকে ১০২,৪৬০ মার্কিন ডলার। এটি কোন ধরনের দেশ? এর বৈশিষ্ট্য লেখো।",
+        "solution": "লিমার বসবাসকারী দেশটি হলো উন্নত দেশ। এ দেশগুলোতে অর্থনৈতিক উন্নয়ন ঘটেছে এবং তা দীর্ঘমেয়াদে অব্যাহত আছে। এছাড়া জনগণের মাথাপিছু আয় বেশি। ফলে জীবনযাত্রা অত্যন্ত উন্নত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776524,
+      "value": {
+        "options": [],
+        "question": "'ক' গ্রামের মানুষ অর্থনৈতিক উন্নয়নের ফলে সুশাসনের সুফল, শিক্ষার সুযোগ ও স্বাস্থ্যসেবা ভোগ করছে। 'ক' গ্রামে কোন ধরনের পরিবর্তন ঘটছে? ব্যাখ্যা করো।",
+        "solution": "&#39;ক&#39; গ্রামে অর্থনৈতিক উন্নয়নের ফলে সামাজিক অবকাঠামোর পরিবর্তন ঘটেছে। এতে জনগণের জীবনমানে উন্নয়ন ঘটে এবং জনগণ উন্নত জীবনযাত্রার সুবিধা উপলব্ধি করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776523,
+      "value": {
+        "options": [],
+        "question": "'X' দেশটি কৃষিপ্রধান থেকে শিল্পপ্রধান অর্থনীতিতে রূপান্তরিত হচ্ছে। এটি অর্থনীতির কোন ধরনের পরিবর্তনকে নির্দেশ করছে?",
+        "solution": "&#39;X&#39; দেশটির পরিবর্তন অর্থনীতির প্রকৃতিগত পরিবর্তনকে নির্দেশ করে। অর্থনীতির প্রকৃতিগত পরিবর্তনের ফলে দেশ গ্রামীণ অর্থনীতি থেকে শহরভিত্তিক অর্থনীতি ও সমাজব্যবস্থায় রূপান্তরিত হয়। ফলে জনগণের আয় বৃদ্ধি পায়, জীবনযাত্রার মান ক্রমাগত উন্নত হতে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776522,
+      "value": {
+        "options": [],
+        "question": "ফাহিম তার ছোটভাই ফাহাদকে বলল, অর্থনৈতিক উন্নয়ন ও অর্থনৈতিক প্রবৃদ্ধি বিষয় দুটি এক নয়, কিছুটা পার্থক্য আছে। পার্থক্যগুলো তুলে ধরো।",
+        "solution": "কোনো দেশের জাতীয় আয়ের বার্ষিক বৃদ্ধির হারকে অর্থনৈতিক প্রবৃদ্ধির হার বলে। অন্যদিকে দেশের মোট জাতীয় উৎপাদন বা আয় বৃদ্ধির সাথে দীর্ঘ সময় ধরে মাথাপিছু প্রকৃত আয়ের বৃদ্ধিকে অর্থনৈতিক উন্নয়ন বলে। প্রবৃদ্ধির হারের সাথে জনসংখ্যা ও দ্রব্যমূল্যস্তর বিবেচনায় নিয়ে অর্থনৈতিক উন্নয়ন নির্ধারণ করা হয়। প্রবৃদ্ধির হারের তুলনায় অর্থনৈতিক উন্নয়ন একটি বহুমাত্রিক বিষয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776509,
+      "value": {
+        "options": {
+          "ক": "দুর্বল আর্থসামাজিক অবকাঠামো",
+          "খ": "মূলধন গঠন ও বিনিয়োগের নিম্নহার",
+          "গ": "প্রতিকূল বৈদেশিক বাণিজ্য",
+          "ঘ": "নগরায়ণের হার বৃদ্ধি"
+        },
+        "question": "উন্নয়নশীল দেশের বৈশিষ্ট্য কোনটি?",
+        "solution": "ঘ. নগরায়ণের হার বৃদ্ধি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776509,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776520,
+      "value": {
+        "options": {
+          "ক": "অনুন্নত হবে",
+          "খ": "অপরিবর্তিত থাকবে",
+          "গ": "মাথাপিছু আয় কমবে",
+          "ঘ": "উন্নতির দিকে যাবে"
+        },
+        "question": "'T' দেশের প্রবৃদ্ধির হার ৭% এবং জনসংখ্যা বৃদ্ধির হার ৫% হলে দেশটির অর্থনীতির গতি প্রকৃতি কেমন হবে?",
+        "solution": "ঘ. উন্নতির দিকে যাবে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776520,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776519,
+      "value": {
+        "options": {
+          "ক": "চীন",
+          "খ": "জাপান",
+          "গ": "তুরস্ক",
+          "ঘ": "মালয়েশিয়া"
+        },
+        "question": "নিচের কোনটি পৃথিবীর একটি উন্নত দেশ?",
+        "solution": "খ. জাপান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 776519,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776518,
+      "value": {
+        "options": {
+          "ক": "শিক্ষিতের হার কম",
+          "খ": "জনসংখ্যা বেশি&nbsp;",
+          "গ": "যথাযথ নিয়ন্ত্রণের অভাব",
+          "ঘ": "জীবনযাত্রার নিম্নমান"
+        },
+        "question": "অনুন্নত দেশের জনসংখ্যা বৃদ্ধির হার বেশি কেন?",
+        "solution": "গ. যথাযথ নিয়ন্ত্রণের অভাব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 776518,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776517,
+      "value": {
+        "options": {
+          "ক": "পাকিস্তান",
+          "খ": "ভারত",
+          "গ": "নেপাল",
+          "ঘ": "ভূটান"
+        },
+        "question": "সার্কভুক্ত দেশসমূহের মধ্যে কোন দেশে বাংলাদেশের রপ্তানির পরিমাণ সর্বোচ্চ?",
+        "solution": "খ. ভারত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 776517,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776516,
+      "value": {
+        "options": {
+          "ক": "অনুন্নত",
+          "খ": "উন্নয়নশীল",
+          "গ": "স্বল্পোন্নত",
+          "ঘ": "উন্নত"
+        },
+        "question": "'A' নামক দেশের জনসংখ্যা বৃদ্ধির হার ১% এবং প্রবৃদ্ধির হার ৮% হলে উক্ত দেশের অর্থনৈতিক অবস্থার ধরন হবে-",
+        "solution": "ঘ. উন্নত",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776516,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776515,
+      "value": {
+        "options": {
+          "ক": "জাপান",
+          "খ": "যুক্তরাজ্য",
+          "গ": "যুক্তরাষ্ট্র",
+          "ঘ": "চীন"
+        },
+        "question": "বাংলাদেশ কোন দেশ থেকে সবচেয়ে বেশি পণ্য আমদানি করে?",
+        "solution": "ঘ. চীন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 776515,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776514,
+      "value": {
+        "options": {
+          "ক": "কফ্রান্স",
+          "খ": "যুক্তরাষ্ট্র",
+          "গ": "যুক্তরাজ্য",
+          "ঘ": "শ্রীলঙ্কা"
+        },
+        "question": "বিগত এক দশক যাবৎ বাংলাদেশের রপ্তানি পণ্যের সবচেয়ে বড় বাজার কোনটি?",
+        "solution": "খ. যুক্তরাষ্ট্র",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776513,
+      "value": {
+        "options": {
+          "ক": "খুব বেশি",
+          "খ": "খুব কম",
+          "গ": "মধ্যম",
+          "ঘ": "নীচু মনের"
+        },
+        "question": "উন্নত দেশের মাথাপিছু আয়-",
+        "solution": "ক. খুব বেশি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 776513,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776512,
+      "value": {
+        "options": {
+          "ক": "শিল্প",
+          "খ": "সেবা",
+          "গ": "কৃষিজ",
+          "ঘ": "ব্যবসায়"
+        },
+        "question": "অনুন্নত দেশের জাতীয় উৎপাদনের একক বৃহত্তম খাত কোনটি?",
+        "solution": "গ. কৃষিজ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 776512,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776511,
+      "value": {
+        "options": {
+          "ক": "শিক্ষাদান করে",
+          "খ": "দ্রুত শিল্পায়নের মাধ্যমে",
+          "গ": "কৃষি উৎপাদন বৃদ্ধি করে",
+          "ঘ": "জন্মহার কমিয়ে"
+        },
+        "question": "উন্নয়নশীল দেশে কীভাবে বেকারত্ব সমস্যা সমাধান করা যেতে পারে?",
+        "solution": "খ. দ্রুত শিল্পায়নের মাধ্যমে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 776511,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776510,
+      "value": {
+        "options": {
+          "ক": "মালয়েশিয়া",
+          "খ": "কানাডা",
+          "গ": "তুরস্ক",
+          "ঘ": "ইরান"
+        },
+        "question": "নিচের কোনটি উন্নত দেশ?",
+        "solution": "খ. কানাডা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776510,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:46:20.000000Z",
+            "updated_at": "2025-12-01T15:46:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14703&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14703&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14703&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 24
+}

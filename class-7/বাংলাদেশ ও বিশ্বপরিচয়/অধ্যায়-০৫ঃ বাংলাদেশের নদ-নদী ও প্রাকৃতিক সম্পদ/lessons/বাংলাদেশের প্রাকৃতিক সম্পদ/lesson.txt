@@ -1,0 +1,1845 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775882,
+      "value": {
+        "options": [],
+        "question": "তোমার মতে অঞ্চলভেদে কৃষি উৎপাদনে তারতম্য ঘটে কেন?",
+        "solution": "কৃষি উৎপাদনের জন্য একটি সুনির্দিষ্ট মাত্রার তাপমাত্রা ও বৃষ্টিপাতের দরকার হয়। কিন্তু সব অঞ্চলের তাপমাত্রা ও বৃষ্টিপাতের পরিমাণ একরকম নয়। এজন্য অঞ্চলভেদে কৃষি উৎপাদনে তারতম্য ঘটে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775873,
+      "value": {
+        "options": {
+          "ক": "৪,১৯২ বর্গ কি. মি",
+          "খ": "৪,২৯২ বর্গ কি. মি.",
+          "গ": "৬,১৯২ বর্গ কি. মি.",
+          "ঘ": "৮,১৯২ বর্গ কি. মি."
+        },
+        "question": "বাংলাদেশের স্রোতজ বনভূমির মোট আয়তন কত?",
+        "solution": "ক. ৪,১৯২ বর্গ কি. মি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4813,
+          "full_name": "সি. বো.'২০১৬;কু. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৬;কু. বো.'২০১৫",
+          "slug": "si-bo2016ku-bo2015",
+          "pivot": {
+            "question_bank_id": 775873,
+            "tag_id": 4813,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775874,
+      "value": {
+        "options": {
+          "ক": "১৯৭৯",
+          "খ": "১৯৭৭",
+          "গ": "১৯৭৪",
+          "ঘ": "১৯৭২"
+        },
+        "question": "বাংলাদেশের শিপিং কর্পোরেশন কত সালে প্রতিষ্ঠিত হয়?",
+        "solution": "ঘ. ১৯৭২",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 775874,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775875,
+      "value": {
+        "options": {
+          "ক": "শালবন বিহার",
+          "খ": "ক্রান্তীয় পত্রপতনশীল",
+          "গ": "স্রোতজ বনভূমি",
+          "ঘ": "ক্রান্তীয় চিরহরিৎ"
+        },
+        "question": "মিতা ও তার বন্ধুরা মিলে রাঙামাটি বেড়াতে গিয়ে গর্জন, চাপালিশ, জারুল, মেহগনি ইত্যাদি বৃক্ষ দেখতে পায়। মিতারা কোন বনভূমিতে বেড়াতে গিয়েছিল?",
+        "solution": "ঘ. ক্রান্তীয় চিরহরিৎ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 775875,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775876,
+      "value": {
+        "options": {
+          "ক": "বরেন্দ্র ভূমির বনভূমি",
+          "খ": "ক্রান্তীয় পাতাঝরা ও পত্রপতনশীল&nbsp;",
+          "গ": "স্রোতজ বনভূমি&nbsp;",
+          "ঘ": "ক্রান্তীয় চিরহরিৎ ও পাতাঝরা"
+        },
+        "question": "নাসিরদের বাড়ি দেশের মধ্যভাগে অবস্থিত। তাদের বাড়ির আশপাশের মাটির রং লাল ও ধূসর। নাসিরদের বাড়ির ঐ অঞ্চলে কোন ধরনের বনভূমি রয়েছে?",
+        "solution": "খ. ক্রান্তীয় পাতাঝরা ও পত্রপতনশীল&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775876,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775877,
+      "value": {
+        "options": {
+          "ক": "রাজনৈতিক",
+          "খ": "তথ্য",
+          "গ": "জীবনধারণের",
+          "ঘ": "শিক্ষা"
+        },
+        "question": "গ্রামের একজন ছেলে শহরের কলেজে এসে ভর্তি নিয়মকানুন জানতে চাইলে, তাকে তা জানতে দেওয়া হয়নি। ছেলেটির কোন অধিকার ক্ষুণ্ণ হলো?",
+        "solution": "খ. তথ্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 775877,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775878,
+      "value": {
+        "options": {
+          "ক": "চিরহরিৎ",
+          "খ": "শালবন",
+          "গ": "ক্রান্তীয় পাতা খরা",
+          "ঘ": "সুন্দরবন"
+        },
+        "question": "শিমুল, শিলা ও মনজু মিলে সাতক্ষীরা, খুলনা এবং বাগেরহাট অঞ্চলে অবস্থিত বন অঞ্চলে পরিদর্শনে যেয়ে শাল, গরান ও কেওড়া গাছ দেখতে পায়। শিমুল, শিলা ও মনজুরের দেখা বনের নাম কী?",
+        "solution": "ঘ. সুন্দরবন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775879,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "চিরহরিৎ বনভূমির গাছের পাতা-\u003Cbr\u003E\ni. একত্রে ফোটে না\u003Cbr\u003E\nii. একত্রে ঝরে না\u003Cbr\u003E\niii. একত্রে ফোটে এবং একত্রে ঝরে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 775879,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775880,
+      "value": {
+        "options": [],
+        "question": "প্রাকৃতিক সম্পদকে তুমি কীভাবে সংজ্ঞায়িত করবে?",
+        "solution": "প্রকৃতি থেকে প্রাপ্ত সম্পদকে প্রাকৃতিক সম্পদ বলা হয়। মাটি, পানি, বনভূমি, সৌরতাপ, মৎস্য, খনিজ ইত্যাদি প্রাকৃতিক সম্পদ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775881,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের 'ম' বনভূমিতে বছরের শীতকালে একবার গাছের পাতা সম্পূর্ণরূপে ঝরে যায়। এ বনভূমির নাম কী? একে শালবন বলা হয় কেন?",
+        "solution": "বাংলাদেশের ক্রান্তীয় পাতাঝরা বা পত্রপতনশীল অরণ্যে শীতকালে একবার গাছের পাতা সম্পূর্ণরূপে ঝরে যায়। এ বনভূমির প্রধান বৃক্ষ শালগাছ। এ কারণে এ বনকে শালবন হিসেবেও অভিহিত করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775872,
+      "value": {
+        "options": {
+          "ক": "১০%",
+          "খ": "১১%",
+          "গ": "১২%",
+          "ঘ": "১৩%"
+        },
+        "question": "বাংলাদেশে মোট আয়তনের কত শতাংশ বনভূমি আছে?",
+        "solution": "ঘ. ১৩%",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 775872,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775883,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের খনিজসম্পদ সম্পর্কে তুমি কী জানো?",
+        "solution": "বাংলাদেশের পূর্বাঞ্চলীয় পাহাড়ি জেলাসমূহের মাটির নিচে গ্যাস, কয়লা, তেল, চুনাপাথরসহ নানা ধরনের মূল্যবান খনিজ পদার্থের সন্ধান পাওয়া গেছে। এসব সম্পদ আহরণ করে দেশের গ্যাসের চাহিদা মেটানো হচ্ছে। বঙ্গোপসাগরের তলদেশেও গ্যাস আবিষ্কৃত হয়েছে। সেখানে আরও অনেক ধরনের প্রাণিজ এবং খনিজ পদার্থ পাওয়ার সম্ভাবনা রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775884,
+      "value": {
+        "options": [],
+        "question": "সূর্য থেকে আমরা বিশেষ এক ধরনের শক্তি পাই যা রূপান্তর যোগ্য। এই শক্তি সম্পর্কে তুমি কী জানো?",
+        "solution": "সৌরশক্তি, হলো সূর্য থেকে প্রাপ্ত এমন শক্তি যা তাপ বা বৈদ্যুতিক শক্তিকে রূপান্তরিত হয়। নিরক্ষীয় নিম্ন অক্ষাংশ অঞ্চলে সূর্য বছরের প্রায় সবসময়ই লম্বভাবে কিরণ দেয়। বাংলাদেশসহ দক্ষিণ এশিয়ার অপরাপর দেশগুলো নিরক্ষীয় বা ক্রান্তীয় অঞ্চলে অবস্থিত হওয়ার কারণে এসব দেশ সহজে প্রচুর সৌরশক্তি পেয়ে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775885,
+      "value": {
+        "options": [],
+        "question": "তোমার মতে বাংলাদেশে বনভূমির পরিমাণ হ্রাস পাওয়ার কারণ কী?",
+        "solution": "বাংলাদেশে পর্যাপ্ত বনভূমি নেই। তদুপরি দ্রুত জনসংখ্যা বৃদ্ধি পাওয়ার সঙ্গে মানুষের ঘরবাড়ি এবং আসবাবপত্র নির্মাণে মূল্যবান কাঠের প্রয়োজন। এসব কাঠ বনভূমি থেকেই সরবরাহ করা হয়। ফলে বাংলাদেশের বনভূমি ক্রমেই কমে যাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775886,
+      "value": {
+        "options": [],
+        "question": "ক্রান্তীয় চিরহরিৎ এবং পত্রপতনশীল বনভূমি বলতে তুমি কী বোঝ?",
+        "solution": "বাংলাদেশের দক্ষিণ-পূর্ব ও উত্তর-পূর্ব অংশের পাহাড়ি অঞ্চলকে ক্রান্তীয় চিরহরিৎ এবং পত্রপতনশীল বনভূমি এলাকা নামে অভিহিত করা হয়। এসব বনের গাছের পাতা একত্রে ফোটেও না, ঝরেও না। ফলে সারা বছর বনগুলো সবুজ থাকে। এ কারণেই এসব বনকে চিরহরিৎ বা চিরসবুজ বনভূমি বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775887,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের মৎস্যসম্পদ সম্পর্কে ধারণা দাও।",
+        "solution": "যেকোনো দেশের মৎস্যসম্পদের সঙ্গে সরাসরি ভূপ্রকৃতি ও জলবায়ুর সম্পর্ক রয়েছে। বাংলাদেশে বৃষ্টিপাত, নদ-নদীতে পানিপ্রবাহ, খাল, বিল, হাওড়, পুকুর ইত্যাদিতে পানি থাকায় দেশটি মৎস্যসম্পদে সমৃদ্ধ। এখানে ছোট-বড় নানা প্রকারের মাছ পাওয়া যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775888,
+      "value": {
+        "options": [],
+        "question": "বনভূমি বলতে তুমি কী বোঝ?",
+        "solution": "বৃক্ষরাজি যে ভূমিতে সমারোহ ঘটায় তাকে বনভূমি বলে। এসব বনে কাঠ, মধু, মোম ইত্যাদি বনজসম্পদ পাওয়া যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775889,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের উর্বর ভূমি হ্রাস পাওয়ার কারণ ব্যাখ্যা করো।",
+        "solution": "বিভিন্ন কারণে বাংলাদেশের উর্বর ভূমি হ্রাস পাচ্ছে। এগুলোর মধ্যে অন্যতম কারণ হচ্ছে জনসংখ্যার চাপ বা অধিক জনসংখ্যা। এছাড়া বাড়িঘর, কলকারখানা, রাস্তাঘাট, শহর-উপশহর নির্মাণ প্রভৃতি কারণেও বাংলাদেশের উর্বর ভূমি হ্রাস পাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775890,
+      "value": {
+        "options": [],
+        "question": "পানিসম্পদ ব্যবস্থাপনা বলতে কী বোঝ?",
+        "solution": "পানির পরিকল্পিত প্রাপ্যতা ও ব্যবহারকে পানি ব্যবস্থাপনা বলা হয়। শীত ও শুষ্ক মৌসুমে পানির প্রাপ্তি নিশ্চিত করতে নদ-নদী, খাল, পুকুর, হাওড় ও বিলে পরিকল্পিতভাবে পানি ধরে রাখার ব্যবস্থা করার মাধ্যমে পানিসম্পদ ব্যবস্থাপনা করা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775891,
+      "value": {
+        "options": [],
+        "question": "স্রোতজ বা গরান বনভূমি সম্পর্কে তুমি কী জানো?",
+        "solution": "বাংলাদেশের দক্ষিণ-পশ্চিমাংশে খুলনা এবং দক্ষিণ পূর্বাংশে নোয়াখালী ও চট্টগ্রাম জেলার উপকূলে জোয়ার ভাটার লোনা ও ভেজা মাটিতে যেসব উদ্ভিজ্জ জন্মায় তাদের স্রোতজ বা গরান বনভূমি বলা হয়। প্রধানত সুন্দরবনে এসব উদ্ভিদ বেশি জন্মায়। স্যাঁতসেঁতে লোনা পানিতে জন্মানো সুন্দরী, গেওয়া, পশুর, ধুন্দল, কেওড়া, বাইন, গরান, গোলপাতা ইত্যাদি বৃক্ষ এ বনভূমির অন্তর্গত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775862,
+      "value": {
+        "options": {
+          "ক": "মিঠা পানি",
+          "খ": "বাঁধ নির্মাণ",
+          "গ": "প্রযুক্তির ব্যবহার",
+          "ঘ": "খাদ্য নিরাপত্তা"
+        },
+        "question": "কোনটির অভাবে কৃষিজ ফসল ক্ষতিগ্রস্ত হচ্ছে?",
+        "solution": "খ. বাঁধ নির্মাণ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775862,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775853,
+      "value": {
+        "options": {
+          "ক": "সামাজিক",
+          "খ": "ব্যক্তিগত",
+          "গ": "জাতীয়",
+          "ঘ": "আন্তর্জাতিক"
+        },
+        "question": "নদনদী কোন ধরনের সম্পদ?",
+        "solution": "গ. জাতীয়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775853,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775854,
+      "value": {
+        "options": {
+          "ক": "চাপালিশ",
+          "খ": "গরান",
+          "গ": "বহেরা",
+          "ঘ": "কড়ই"
+        },
+        "question": "সুন্দরবনের বৃক্ষ কোনটি?",
+        "solution": "খ. গরান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4812,
+          "full_name": "সি. বো.",
+          "short_name": "সি. বো.",
+          "slug": "si-bo",
+          "pivot": {
+            "question_bank_id": 775854,
+            "tag_id": 4812,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775855,
+      "value": {
+        "options": {
+          "ক": "সেগুন গাছ",
+          "খ": "গেওয়া গাছ",
+          "গ": "শাল গাছ",
+          "ঘ": "বৈলাম গাছ"
+        },
+        "question": "সুন্দরবনে জন্মে-",
+        "solution": "খ. গেওয়া গাছ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 775855,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775856,
+      "value": {
+        "options": {
+          "ক": "পদ্মা",
+          "খ": "মেঘনা",
+          "গ": "গনাফ্",
+          "ঘ": "কর্ণফুলী"
+        },
+        "question": "কোন নদীতে বাঁধ দিয়ে বিদ্যুৎ উৎপন্ন করা হয়?",
+        "solution": "ঘ. কর্ণফুলী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 775856,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775857,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বঙ্গোপসাগরের তলদেশে অধিক মাত্রায় পাওয়ার সম্ভাবনা রয়েছে-\u003Cbr\u003E\ni. বৃক্ষ সম্পদ\u003Cbr\u003E\nii. খনিজ সম্পদ\u003Cbr\u003E\niii. প্রাণিজ সম্পদ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775857,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775858,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "খনিজ উৎস হলো-\u003Cbr\u003E\ni. গ্যাস\u003Cbr\u003E\nii. মাছ\u003Cbr\u003E\niii. কয়লা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 775858,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775859,
+      "value": {
+        "options": {
+          "ক": "ক্রান্তীয় চিরহরিৎ এবং পত্রপতনশীল বনভূমি",
+          "খ": "ক্রান্তীয় পাতাঝরা বা পত্রপতনশীল অরণ্য",
+          "গ": "গরান বনভূমি",
+          "ঘ": "স্রোতজ বা ম্যানগ্রোভ বনভূমি"
+        },
+        "question": "সারাবছর কোন বনভূমির গাছগুলো সবুজ থাকে?",
+        "solution": "ক. ক্রান্তীয় চিরহরিৎ এবং পত্রপতনশীল বনভূমি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 775859,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775860,
+      "value": {
+        "options": {
+          "ক": "গাছ",
+          "খ": "পুকুর",
+          "গ": "প্রাকৃতিক গ্যাস",
+          "ঘ": "লবণ"
+        },
+        "question": "জমির অভ্যন্তরের উৎপাদনের উপাদান কোনটি?",
+        "solution": "গ. প্রাকৃতিক গ্যাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 775860,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775861,
+      "value": {
+        "options": {
+          "ক": "তিন",
+          "খ": "চার",
+          "গ": "পাঁচ",
+          "ঘ": "ছয়"
+        },
+        "question": "বাংলাদেশ স্বাধীনতার চল্লিশ বছরে কতগুণ খাদ্য উৎপাদন বৃদ্ধি&nbsp;করতে পেরেছে?",
+        "solution": "ক. তিন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 775861,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775852,
+      "value": {
+        "options": {
+          "ক": "নদীপথে যাতায়াত বাধাগ্রস্ত হওয়া",
+          "খ": "ফসল উৎপাদন বৃদ্ধি পাওয়া",
+          "গ": "জল বিদ্যুৎ উৎপাদন হবে",
+          "ঘ": "প্রাকৃতিক সৌন্দর্য বৃদ্ধি পাবে"
+        },
+        "question": "নদী শুকিয়ে যাওয়ার প্রভাব হলো-",
+        "solution": "ক. নদীপথে যাতায়াত বাধাগ্রস্ত হওয়া",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775852,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775863,
+      "value": {
+        "options": {
+          "ক": "১০-১৫ শতাংশ",
+          "খ": "১৫-২০ শতাংশ",
+          "গ": "২০-২৫ শতাংশ",
+          "ঘ": "২৫-৩০ শতাংশ"
+        },
+        "question": "একটি দেশের মোট আয়তনের কত শতাংশ বনভূমি থাকা প্রয়োজন?",
+        "solution": "গ. ২০-২৫ শতাংশ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 775863,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775864,
+      "value": {
+        "options": {
+          "ক": "পার্বত্য চট্টগ্রামে",
+          "খ": "রাজশাহীতে",
+          "গ": "সুন্দরবনে",
+          "ঘ": "সিলেটে"
+        },
+        "question": "স্রোতজ বা গরান বন প্রধানত কোথায় বেশি জন্ম নেয়?",
+        "solution": "গ. সুন্দরবনে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775865,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "'শাল' বৃক্ষের বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. ঋতুভেদে সকল পাতা ঝরে পড়ে\u003Cbr\u003E\nii. গাজীপুর, টাঙ্গাইল জেলায় জন্মে\u003Cbr\u003E\niii. ইহা ভাওয়াল বনভূমি নামে পরিচিত\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 775865,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775866,
+      "value": {
+        "options": {
+          "ক": "স্রোতজ",
+          "খ": "ম্যানগ্রোভ",
+          "গ": "ক্রান্তীয় পাতাঝরা",
+          "ঘ": "ক্রান্তীয় চিরহরিৎ"
+        },
+        "question": "রাফান ও রাইসা একটি বনভূমি অঞ্ছলে গিয়ে দেখল এই বনভূমির পাতা সম্পূর্ণরূপে ধরে গিয়েছে।\u003Cbr\u003E\nরাফান ও রাইসা কোন বনভূমিতে গিয়েছিল?",
+        "solution": "গ. ক্রান্তীয় পাতাঝরা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 775866,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775867,
+      "value": {
+        "options": {
+          "ক": "গম",
+          "খ": "বন",
+          "গ": "পানি",
+          "ঘ": "মাছ"
+        },
+        "question": "কোনটি আধুনিককালে মানুষের কল্যাণে সর্বাধিক গুরুত্ব বহন করে?",
+        "solution": "গ. পানি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775867,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775868,
+      "value": {
+        "options": {
+          "ক": "পরিকল্পিত পানি প্রবাহ",
+          "খ": "পরিকল্পিত প্রাপ্যতা ও ব্যবহার",
+          "গ": "পানির প্রবাহ নিশ্চিত করা",
+          "ঘ": "সকলের জন্য পানির প্রাপ্যতা"
+        },
+        "question": "পানিসম্পদ ব্যবস্থাপনা বলতে কী বোঝ?",
+        "solution": "খ. পরিকল্পিত প্রাপ্যতা ও ব্যবহার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 775868,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775869,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশের প্রধান খনিজ সম্পদ হলো-\u003Cbr\u003E\ni. সোনা\u003Cbr\u003E\nii. চীনামাটি\u003Cbr\u003E\niii. কয়লা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775870,
+      "value": {
+        "options": {
+          "ক": "ক্রান্তীয় চিরহরিৎ",
+          "খ": "শালবন",
+          "গ": "সুন্দরবন",
+          "ঘ": "ম্যানগ্রোভ"
+        },
+        "question": "তিথি গত শীতে স্কাউট জাম্বুরিতে গাজীপুর গিয়ে একটি বনাঞ্চল পরিদর্শন করে। তখন সেখানকার গাছ ছিল পাতাশূন্য। তিথির দেখা বনটি হলো-",
+        "solution": "খ. শালবন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775870,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775871,
+      "value": {
+        "options": {
+          "ক": "তেলসুর",
+          "খ": "হরিতকি",
+          "গ": "কেওড়া",
+          "ঘ": "গেওয়া"
+        },
+        "question": "ক্রান্তীয় চিরহরিৎ বনভূমির বৃক্ষ কোনটি?",
+        "solution": "ক. তেলসুর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8065,
+      "created_at": "2025-12-01T15:32:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 775871,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:32:51.000000Z",
+            "updated_at": "2025-12-01T15:32:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8065&grade=5&lesson=14655&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8065&grade=5&lesson=14655&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8065&grade=5&lesson=14655&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 40,
+  "total": 40
+}

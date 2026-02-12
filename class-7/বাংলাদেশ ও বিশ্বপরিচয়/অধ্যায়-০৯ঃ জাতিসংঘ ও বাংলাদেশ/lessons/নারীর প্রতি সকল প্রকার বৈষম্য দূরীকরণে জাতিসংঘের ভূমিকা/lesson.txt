@@ -1,0 +1,1094 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776222,
+      "value": {
+        "options": {
+          "ক": "UNICEF",
+          "খ": "UNIFEM",
+          "গ": "UNFPA",
+          "ঘ": "CEDAW"
+        },
+        "question": "নারীর প্রতি সকল বৈষম্য বাতিল ধারা কোনটি?",
+        "solution": "ঘ. CEDAW",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 776222,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776233,
+      "value": {
+        "options": [],
+        "question": "সিডও সনদের ধারা ব্যাখ্যা করো।",
+        "solution": "নারী ও পুরুষের সমতার নীতির ওপর ভিত্তি করে সিডও সনদটি তৈরি। সিডও সনদে ৩০টি ধারা আছে। এর মধ্যে প্রথম ১৬টি ধারা নারীর প্রতি কত প্রকার বৈষম্য আছে তা বিশ্লেষণ করে। আর পরের ১৪টি ধারা এ বৈষম্যগুলো কীভাবে বিলোপ করা যায় তা ব্যাখ্যা করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776232,
+      "value": {
+        "options": [],
+        "question": "সিডও সনদের বিশেষ বৈশিষ্ট্য কী? এ পর্যন্ত কতটি দেশ এ সনদটি সমর্থন করেছে?",
+        "solution": "সিডও সনদের বিশেষ বৈশিষ্ট্য হলো- এটি নারী অধিকারের পূর্ণাঙ্গ দলিল। সনদটি বিভিন্ন সময়ে নারীর প্রতি বৈষম্য নিরসনে গৃহীত বিভিন্ন ইস্যুকে সমন্বিত করে। বর্তমানে বাংলাদেশসহ বিশ্বের মোট ১৩২টি দেশ এ সনদটি সমর্থন করেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776231,
+      "value": {
+        "options": [],
+        "question": "সিডও কী? এটি কত সালে কার্যকর হয়?",
+        "solution": "নারীর প্রতি সকল প্রকার বৈষম্য বিলোপ সনদটি &#39;সিডও&#39; নামে পরিচিত। ১৯৮১ সালে ২০টি দেশ সমর্থন করার পর এটি কার্যকর হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776230,
+      "value": {
+        "options": [],
+        "question": "প্রথম বিশ্ব নারী সম্মেলন কত সালে এবং কোথায় অনুষ্ঠিত হয়?",
+        "solution": "প্রথম বিশ্ব নারী সম্মেলন ১৯৭৫ সালে অনুষ্ঠিত হয়। এটি মেক্সিকোতে অনুষ্ঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776229,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘ কত সালে নারীর রাজনৈতিক অধিকারের স্বীকৃতি দেয়? এর ফলাফল লেখো।",
+        "solution": "জাতিসংঘ ১৯৫২ সালে নারীর রাজনৈতিক অধিকারের স্বীকৃতি দেয়। এ স্বীকৃতির ফলে নারী নির্বাচনে ভোট প্রদান ও প্রতিদ্বন্দ্বিতা করার সুযোগ পায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776228,
+      "value": {
+        "options": {
+          "ক": "মেক্সিকো",
+          "খ": "নাইরোবি",
+          "গ": "বেলজিয়াম",
+          "ঘ": "কোপেনহেগেন"
+        },
+        "question": "একদিন সকালে সালমা এফএম (FM) রেডিও শুনছিল। ঐ দিন রেডিওতে আন্তর্জাতিক নারী দিবস উপলক্ষে অনুষ্ঠান প্রচার করা হচ্ছিল\u003Cbr\u003E\nপ্রথম বিশ্ব নারী সম্মেলন কোথায় হয়েছিল?",
+        "solution": "ক. মেক্সিকো",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776227,
+      "value": {
+        "options": {
+          "ক": "২১ ফেব্রুয়ারি",
+          "খ": "৮ মার্চ",
+          "গ": "১ মে",
+          "ঘ": "১ ডিসেম্বর"
+        },
+        "question": "একদিন সকালে সালমা এফএম (FM) রেডিও শুনছিল। ঐ দিন রেডিওতে আন্তর্জাতিক নারী দিবস উপলক্ষে অনুষ্ঠান প্রচার করা হচ্ছিল\u003Cbr\u003E\nউদ্দীপকে উল্লিখিত দিনটি কত তারিখ?",
+        "solution": "খ. ৮ মার্চ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776226,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "ii",
+          "গ": "i ও ii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "সিডও-এর বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. নারী ও পুরুষের সমতার নীতি\u003Cbr\u003E\nii. এর ৩০টি ধারা আছে\u003Cbr\u003E\niii. ১৯৮০ সালে এটি কার্যকর হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. i ও ii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776226,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776225,
+      "value": {
+        "options": {
+          "ক": "১ম",
+          "খ": "২য়",
+          "গ": "৩য়",
+          "ঘ": "৪র্থ"
+        },
+        "question": "\"নারীর চোখে বিশ্ব দেখুন\"- ঘোষণাটি কততম নারী সম্মেলনে ছিল?",
+        "solution": "ঘ. ৪র্থ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 776225,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776224,
+      "value": {
+        "options": {
+          "ক": "নারী উন্নয়ন সনদ",
+          "খ": "নারী নির্যাতন প্রতিরোধ সনদ",
+          "গ": "নারী কল্যাণ সনদ",
+          "ঘ": "সিডও সনদ"
+        },
+        "question": "আন্তর্জাতিক সংস্থার কোন কাজটির মাধ্যমে নারী অধিকার প্রতিষ্ঠিত হয়?",
+        "solution": "ঘ. সিডও সনদ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776224,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776223,
+      "value": {
+        "options": {
+          "ক": "নিউইয়র্কে",
+          "খ": "নাইরোবিতে",
+          "গ": "কোপেনহেগেনে",
+          "ঘ": "মেক্সিকোতে"
+        },
+        "question": "বেইজিং প্লাস টেন সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+        "solution": "ক. নিউইয়র্কে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 776223,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776211,
+      "value": {
+        "options": {
+          "ক": "CEDAW",
+          "খ": "UNICEF",
+          "গ": "FAO",
+          "ঘ": "UNFPA"
+        },
+        "question": "মি. 'P' N নামক একটি আন্তর্জাতিক সংস্থায় কাজ করেন। তিনি মহিলাদের অধিকার রক্ষায় বিশেষ ভূমিকা পালন করেন। মি. 'P' কোন ধরনের সংস্থায় কাজ করেন?",
+        "solution": "ক. CEDAW",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776211,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776221,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নারীর প্রতি সহযোগিতার মনোভাব পোষণকারী সংস্থা-\u003Cbr\u003E\ni. গ্রামীণ ব্যাংক\u003Cbr\u003E\nii. ব্রেকিং দ্য সাইলেন্সি\u003Cbr\u003E\niii. জাতিসংঘ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776220,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশের শান্তিরক্ষী বাহিনীর অর্জন হচ্ছে-\u003Cbr\u003E\ni. সিয়েরালিয়নে বাংলা ভাষা ব্যবহার\u003Cbr\u003E\nii. আইভরিকোস্টে সড়কের নামকরণ হয়েছে 'বাংলাদেশ সড়ক'\u003Cbr\u003E\niii. শক্তি বৃদ্ধিতে উন্নত কৌশল অবলম্বন করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 776220,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776219,
+      "value": {
+        "options": {
+          "ক": "বেইজিংয়ে",
+          "খ": "কোপেনহেগেনে",
+          "গ": "নাইরোবিতে",
+          "ঘ": "মেক্সিকোতে"
+        },
+        "question": "দ্বিতীয় বিশ্ব নারী সম্মেলন কোথায় হয়েছিল?",
+        "solution": "খ. কোপেনহেগেনে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 776219,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776218,
+      "value": {
+        "options": {
+          "ক": "২৪ অক্টোবর",
+          "খ": "১৭ নভেম্বর",
+          "গ": "২৫ নভেম্বর",
+          "ঘ": "১০ ডিসেম্বর"
+        },
+        "question": "\"আন্তর্জাতিক নারী নির্যাতন প্রতিরোধ দিবস\" কত তারিখে পালন করা হয়?",
+        "solution": "গ. ২৫ নভেম্বর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 776218,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776217,
+      "value": {
+        "options": {
+          "ক": "মেক্সিকোতে",
+          "খ": "কোপেনহেগে",
+          "গ": "নাইরোবিতে",
+          "ঘ": "টোকিওতে"
+        },
+        "question": "১৯৮০ সালে দ্বিতীয় বিশ্ব নারী সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+        "solution": "খ. কোপেনহেগে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 776217,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776216,
+      "value": {
+        "options": {
+          "ক": "ব্যবসা বাণিজ্যের জন্য",
+          "খ": "বাঙালিরা ঐ দেশের নাগরিক হওয়ার জন্য",
+          "গ": "সাহায্য-সহযোগিতার জন্য",
+          "ঘ": "বাঙালি সৈন্যদের আন্তরিকতার জন্য"
+        },
+        "question": "সিয়েরালিওনে বাংলা ভাষা দ্বিতীয় রাষ্ট্র ভাষার মর্যাদা পেয়েছে কেন?",
+        "solution": "ঘ. বাঙালি সৈন্যদের আন্তরিকতার জন্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 776216,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776215,
+      "value": {
+        "options": {
+          "ক": "নাইরোবি",
+          "খ": "কোপেন হেগেন",
+          "গ": "বেইজিং",
+          "ঘ": "নিউইয়র্ক"
+        },
+        "question": "ডেনমার্কের রাজধানীর নাম কী?",
+        "solution": "খ. কোপেন হেগেন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 776215,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776214,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "জাতিসংঘের বিভিন্ন দেশে শান্তিরক্ষী বাহিনী পাঠানোর উদ্দেশ্য-\u003Cbr\u003E\ni. বিশ্ব শান্তি প্রতিষ্ঠা করা\u003Cbr\u003E\nii. মানবাধিকার রক্ষা করা\u003Cbr\u003E\niii. দেশটিতে নিয়ন্ত্রণ প্রতিষ্ঠা করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 776214,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776213,
+      "value": {
+        "options": {
+          "ক": "বেইজিং",
+          "খ": "মেক্সিকো",
+          "গ": "জেনেভা",
+          "ঘ": "নাইরোবি"
+        },
+        "question": "তৃতীয় বিশ্ব নারী সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+        "solution": "ঘ. নাইরোবি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 776213,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776212,
+      "value": {
+        "options": {
+          "ক": "বেইজিংয়ে",
+          "খ": "মেক্সিকোতে",
+          "গ": "নাইরোবিতে",
+          "ঘ": "কোপেনহেগেনে"
+        },
+        "question": "প্রথম বিশ্ব নারী সম্মেলন কোথায় অনুষ্ঠিত হয়?",
+        "solution": "খ. মেক্সিকোতে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4841,
+          "full_name": "সি. বো.'২০১৯;ব. বো.'২০২৪;ঢা. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৯;ব. বো.'২০২৪;ঢা. বো.'২০১৬",
+          "slug": "si-bo2019b-bo2024dha-bo2016",
+          "pivot": {
+            "question_bank_id": 776212,
+            "tag_id": 4841,
+            "year": null,
+            "created_at": "2025-12-01T15:42:11.000000Z",
+            "updated_at": "2025-12-01T15:42:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8069&grade=5&lesson=14669&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8069&grade=5&lesson=14669&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8069&grade=5&lesson=14669&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 23,
+  "total": 23
+}

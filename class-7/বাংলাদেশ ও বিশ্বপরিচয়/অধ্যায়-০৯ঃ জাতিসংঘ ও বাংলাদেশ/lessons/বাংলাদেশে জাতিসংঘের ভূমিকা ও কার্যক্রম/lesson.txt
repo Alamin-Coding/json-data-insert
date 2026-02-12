@@ -1,0 +1,2251 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776273,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের স্থায়ী সদস্য রাষ্ট্রগুলোর একটি বিশেষ ক্ষমতা রয়েছে। এ ক্ষমতাটি ব্যাখ্যা করো।",
+        "solution": "জাতিসংঘের স্থায়ী ৫টি সদস্য রাষ্ট্রের ভেটো প্রদান বা কোনো প্রস্তাব নাকচ করে দেওয়ার ক্ষমতা রয়েছে। ৫টি স্থায়ী সদস্য রাষ্ট্রগুলো হলো-মার্কিন যুক্তরাষ্ট্র, গ্রেট ব্রিটেন, ফ্রান্স, রাশিয়া ও চীন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776261,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "মাহিন সম্প্রতি একটি আন্তর্জাতিক সংস্থায় যোগদান করেছেন। সেখানে তিনি বিভিন্ন দেশের স্বাস্থ্য সম্পর্কিত বিষয়গুলো পরিচালনা করেন।\u003Cbr\u003E\nউক্ত সংস্থাটির কাজ হলো-&nbsp;\u003Cbr\u003E\ni. টিকা দান কর্মসূচি পরিচালনা করা\u003Cbr\u003E\nii. শিশুশ্রম বন্ধ করা\u003Cbr\u003E\niii. পুষ্টিহীনতা দূর করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4845,
+          "full_name": "দি. বো.'২০১৯;য. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৯;য. বো.'২০১৭",
+          "slug": "di-bo2019z-bo2017",
+          "pivot": {
+            "question_bank_id": 776261,
+            "tag_id": 4845,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776262,
+      "value": {
+        "options": {
+          "ক": "ইউনেস্কো",
+          "খ": "ইউনিফেম",
+          "গ": "ইউনিসেফ",
+          "ঘ": "ইউএনএইচসি আর"
+        },
+        "question": "শিমু রমনা পার্কে ফুল কুড়িয়ে মালা গাঁথে। মালাগুলো গাড়ির যাত্রীদের কাছে বিক্রি করে পথের ধারে খাবার খেয়ে রাতে পার্কেই ঘুমিয়ে থাকে। শিমুর মতো অসহায় শিশুদের অধিকার আদায়ের লক্ষ্যে কাজ করে কোন সংস্থাটি?",
+        "solution": "গ. ইউনিসেফ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776262,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776263,
+      "value": {
+        "options": {
+          "ক": "ইউ.এন.ডি.পি",
+          "খ": "ইউনেস্কো",
+          "গ": "ইউনিসেফ",
+          "ঘ": "বিশ্ব স্বাস্থ্য সংস্থা"
+        },
+        "question": "নাইজার গ্রামে উপজাতির যুদ্ধে অনেক লোক মারা গিয়েছিল। এখানে অনেক শিশু মাতৃ-পিতৃহীন হয়ে পড়েছিল।\u003Cbr\u003E\nকোন সংগঠন এ অবস্থায় কাজ করবে?",
+        "solution": "গ. ইউনিসেফ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 776263,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776264,
+      "value": {
+        "options": [],
+        "question": "বিংশ শতাব্দীতে পৃথিবীতে কয়টি বড়ো যুদ্ধ হয়েছে? যুদ্ধগুলোর সাল উল্লেখসহ নাম লেখো।",
+        "solution": "বিংশ শতাব্দীতে পৃথিবীতে দুইটি বড়ো যুদ্ধ হয়েছে। এগুলো হলো-\u003Cbr /\u003E\nপ্রথম বিশ্বযুদ্ধ (১৯১৪-১৯১৮) এবং দ্বিতীয় বিশ্বযুদ্ধ (১৯৩৯-১৯৪৫) ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776265,
+      "value": {
+        "options": [],
+        "question": "প্রথম বিশ্বযুদ্ধ কত সালে সংঘটিত হয়? এ যুদ্ধের পর গঠিত আন্তর্জাতিক প্রতিষ্ঠানের নাম লেখো।",
+        "solution": "১৯১৪ সালে প্রথম বিশ্বযুদ্ধ সংঘটিত হয়। এ যুদ্ধের ব্যাপকতা এবং ধ্বংসলীলা দেখে বিশ্বশান্তি ও নিরাপত্তার লক্ষ্যে ১৯২০ সালের ১০ই জানুয়ারি আন্তর্জাতিক প্রতিষ্ঠান &#39;লীগ অব নেশনস&#39; গঠন করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776266,
+      "value": {
+        "options": [],
+        "question": "১৯২০ সালের ১০ই জানুয়ারি একটি আন্তর্জাতিক সংগঠন প্রতিষ্ঠিত হয়। সংগঠনটির নাম কী? বিশ্বশান্তি প্রতিষ্ঠায় এটি ব্যর্থ হয় কেন?",
+        "solution": "১৯২০ সালের ১০ই জানুয়ারি আন্তর্জাতিক সংগঠন হিসেবে বিশ্বশান্তি প্রতিষ্ঠার লক্ষ্যে &#39;লীগ অব নেশনস&#39; প্রতিষ্ঠিত হয়। কিন্তু প্রতিষ্ঠানটির সাংগঠনিক দুর্বলতা ও অন্যান্য কারণে এটি বিশ্বশান্তি প্রতিষ্ঠায় ব্যর্থ হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776267,
+      "value": {
+        "options": [],
+        "question": "দ্বিতীয় বিশ্বযুদ্ধ কত সালে সংঘটিত হয়? এই বিশ্বযুদ্ধের ভয়াবহতা সম্পর্কে লেখো।",
+        "solution": "১৯৩৯ সালে দ্বিতীয় বিশ্বযুদ্ধ সংঘটিত হয়। এই যুদ্ধের ধ্বংসলীলা পৃথিবীকে গ্রাস করে। লক্ষ লক্ষ মানুষ নিহত ও আহত হয়। অনেকে গৃহহারা হয়ে এবং পঙ্গুত্ব বরণ করে। প্রতিটি দেশ তার কর্মক্ষম যুব সম্প্রদায়কে হারায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776268,
+      "value": {
+        "options": [],
+        "question": "তেহরান ও মস্কোতে অনুষ্ঠিত সম্মেলনে কয়টি দেশের প্রতিনিধিবৃন্দ সম্মিলিত জাতিসংঘ গঠনের সিদ্ধান্ত গ্রহণ করে? দেশগুলোর নাম লেখো।",
+        "solution": "তেহরান ও মস্কোতে সমসাময়িক বিশ্বের ৪টি দেশের প্রতিনিধিবৃন্দ সম্মিলিত জাতিসংঘ গঠনের সিদ্ধান্ত গ্রহণ করে। এগুলো হলো- ব্রিটেন, মার্কিন যুক্তরাষ্ট্র, রাশিয়া ও ফ্রান্স।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776269,
+      "value": {
+        "options": [],
+        "question": "প্রতিবছর ২৪শে অক্টোবর একটি দিবস পালন করা হয়। এটি কোন দিবস? এ দিবস পালনের প্রেক্ষাপট কী?",
+        "solution": "প্রতিবছর ২৪শে অক্টোবর জাতিসংঘ দিবস হিসেবে পালন করা হয়। কারণ ১৯৪৫ সালের ২৪শে অক্টোবর জাতিসংঘ আনুষ্ঠানিকভাবে আত্মপ্রকাশ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776270,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের গঠন কাঠামো ব্যাখ্যা করো।",
+        "solution": "জাতিসংঘের পাঁচটি প্রধান অঙ্গ ও একটি সেক্রেটারিয়েটের সমন্বয়ে গঠিত। সংস্থাটির পাঁচটি প্রধান অঙ্গ হলো- সাধারণ পরিষদ, নিরাপত্তা পরিষদ, অর্থনৈতিক ও সামাজিক পরিষদ, অছি পরিষদ এবং আন্তর্জাতিক আদালত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776271,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘ কতটি সদস্য রাষ্ট্র নিয়ে যাত্রা শুরু করে? বর্তমানে এর সদস্য সংখ্যা কত?",
+        "solution": "জাতিসংঘ ৫০টি সদস্যরাষ্ট্র নিয়ে যাত্রা শুরু করে। বর্তমানে এর সদস্য সংখ্যা ১৯৩টি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776272,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের 'A' পরিষদ হচ্ছে সবচেয়ে গুরুত্বপূর্ণ ও কার্যকরী পরিষদ। এ পরিষদের গঠন কাঠামো উল্লেখ করো।",
+        "solution": "&#39;A&#39; পরিষদটি জাতিসংঘের নিরাপত্তা পরিষদ। ৫টি স্থায়ী ও ১০টি অস্থায়ী মোট ১৫টি সদস্য রাষ্ট্র নিয়ে এটি গঠিত। অস্থায়ী সদস্য রাষ্ট্রসমূহ দুই বছরের জন্য আঞ্চলিক ভিত্তিতে নির্বাচিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776260,
+      "value": {
+        "options": {
+          "ক": "UNICEF",
+          "খ": "UNDP",
+          "গ": "WHO",
+          "ঘ": "FAO"
+        },
+        "question": "মাহিন সম্প্রতি একটি আন্তর্জাতিক সংস্থায় যোগদান করেছেন। সেখানে তিনি বিভিন্ন দেশের স্বাস্থ্য সম্পর্কিত বিষয়গুলো পরিচালনা করেন।\u003Cbr\u003E\n&nbsp;উদ্দীপকে উল্লিখিত সংস্থাটির নাম কী?",
+        "solution": "গ. WHO",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4845,
+          "full_name": "দি. বো.'২০১৯;য. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৯;য. বো.'২০১৭",
+          "slug": "di-bo2019z-bo2017",
+          "pivot": {
+            "question_bank_id": 776260,
+            "tag_id": 4845,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776274,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের অন্যতম অঙ্গ আন্তর্জাতিক বিচারালয় সম্পর্কে লেখো।",
+        "solution": "আন্তর্জাতিক বিবাদ মীমাংসা করা আন্তর্জাতিক বিচারালয়ের কাজ। নেদারল্যান্ডের হেগ শহরে এর কার্যালয় অবস্থিত। এ আদালতে ১৫ জন বিচারক দায়িত্ব পালন করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776275,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের প্রশাসনিক বিভাগ ব্যাখ্যা করো।",
+        "solution": "সেক্রেটারিয়েট হচ্ছে জাতিসংঘের প্রশাসনিক বিভাগ। সেক্রেটারি জেনারেল বা মহাসচিব এর প্রধান নির্বাহী। মার্কিন যুক্তরাষ্ট্রের নিউইয়র্ক শহরে জাতিসংঘের সদর দপ্তর অবস্থিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776276,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের সদস্যপদ অর্জনের নিয়ম বর্ণনা করো। বাংলাদেশ জাতিসংঘের কততম সদস্য?",
+        "solution": "জাতিসংঘের চার্টার বা সনদের নিয়মকানুন মেনে চলতে আগ্রহী বিশ্বের যে কোনো শান্তিকামী স্বাধীন দেশ জাতিসংঘের সদস্য হতে পারে। বাংলাদেশ ১৯৭৪ সালের ২৭শে সেপ্টেম্বর জাতিসংঘের ১৩৬তম সদস্য হিসেবে অন্তর্ভুক্ত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776277,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের যেকোনো দুটি উদ্দেশ্য উল্লেখ করো।",
+        "solution": "জাতিসংঘের দুটি উদ্দেশ্য হলো- ১. অর্থনৈতিক, সামাজিক ও সাংস্কৃতিক ক্ষেত্রে সকল জাতির মধ্যে সহযোগিতা গড়ে তোলা। ২. আন্তর্জাতিক আইনের সাহায্যে আন্তর্জাতিক বিরোধের শান্তিপূর্ণ সমাধান নিশ্চিত করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776278,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের একটি কার্যক্রমে বাংলাদেশে সর্বোচ্চ অবদান রেখে যাচ্ছে। কার্যক্রমটির নাম কী? এ কার্যক্রমে বাংলাদেশ কত সালে যোগদান করে?",
+        "solution": "জাতিসংঘে বাংলাদেশের আর্থিক অবদান কম হলেও বাংলাদেশের সৈন্যরা প্রাণ উৎসর্গ করে শান্তিরক্ষা মিশনে সর্বোচ্চ সৈন্য প্রেরণ করে অবদান রেখে যাচ্ছে। ১৯৮৮ সালে ইরাক ও নামিবিয়া শান্তি মিশনে যোগদানের মাধ্যমে বাংলাদেশ জাতিসংঘের শান্তি মিশন শুরু করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776279,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘে বাংলাদেশের ভূমিকা ও কার্যক্রম ব্যাখ্যা করো।",
+        "solution": "১৯৭৫ সালে বাংলাদেশ জাতিসংঘের সাধারণ পরিষদে সহ-সভাপতি নির্বাচিত হয়। ১৯৮৪ সাল থেকে জাতিসংঘের কার্যপ্রণালিতে বাংলা ভাষার ব্যবহার আমাদের জন্য গৌরবের বিষয়। ১৯৮৬ সালে বাংলাদেশের তৎকালীন পররাষ্ট্রমন্ত্রী হুমায়ুন রশীদ চৌধুরী জাতিসংঘের সাধারণ পরিষদে ৪১তম অধিবেশনে সভাপতিত্ব করেন। এছাড়া বাংলাদেশের সৈন্যরা প্রাণ উৎসর্গ করে শান্তিরক্ষা মিশন পরিচালনায় কার্যকরী ভূমিকা রাখছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776280,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে জাতিসংঘ উন্নয়ন কর্মসূচি (UNDP)-র কার্যক্রম ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশের আর্থ-সামাজিক অবস্থার উন্নয়নে ইউএনডিপি দেশব্যাপী অসংখ্য কার্যক্রম চালিয়ে যাচ্ছে। শিশু মৃত্যুহার হ্রাস, মাতৃস্বাস্থ্য উন্নয়ন, দারিদ্র্যের হার হ্রাস এবং নারীর ক্ষমতায়নের ক্ষেত্রে উল্লেখযোগ্য সফলতা অর্জন করছে। বর্তমানে জাতিসংঘ ঘোষিত টেকসই উন্নয়নের ১৭টি লক্ষ্যমাত্রা অর্জনে এ সংস্থাটি কাজ করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776281,
+      "value": {
+        "options": [],
+        "question": "ইউনিসেফ কী? এর কার্যক্রম সম্পর্কে কী জানো?",
+        "solution": "ইউনিসেফ (UNICEF) জাতিসংঘের একটি অঙ্গসংস্থা যা শিশুদের নিয়ে কাজ করে। জাতিসংঘ শিশু তহবিল বা ইউনিসেফ দেশের সুবিধাবঞ্চিত শিশুদের মৌলিক অধিকার আদায়ের লক্ষ্যে বিশেষত শিক্ষা ও চিকিৎসা নিশ্চিত করতে কাজ করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776282,
+      "value": {
+        "options": [],
+        "question": "ইউনেস্কো কী? এর কার্যক্রম উল্লেখ করো।",
+        "solution": "ইউনেস্কো জাতিসংঘের শিক্ষা, বিজ্ঞান ও সংস্কৃতি সংস্থা। বিশ্বব্যাপী শিক্ষা, বিজ্ঞান ও সংস্কৃতির উন্নয়নের লক্ষ্যে এ সংস্থাটি কার্যক্রম পরিচালনা করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776283,
+      "value": {
+        "options": [],
+        "question": "WHO এর পূর্ণরূপ লেখো। এই সংস্থাটি কত সালে বাংলাদেশকে পোলিওমুক্ত হিসেবে ঘোষণা করে?",
+        "solution": "WHO এর পূর্ণরূপ- World Health Organization, বিশ্ব স্বাস্থ্য সংস্থা (WHO) ২০১৪ সালে বাংলাদেশকে পোলিওমুক্ত হিসেবে ঘোষণা করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776284,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের 'X' নামক একটি সংস্থা উদ্বাস্তু সমস্যা নিয়ে কাজ করে। বাংলাদেশ এই সংস্থাটির কার্যক্রম ব্যাখ্যা করো।",
+        "solution": "ইউএনএইচসিআর (UNHCR) বা উদ্বাস্তুবিষয়ক জাতিসংঘের হাইকমিশনারের কার্যালয় বিশ্বব্যাপী উদ্বাস্তু সমস্যা নিয়ে কাজ করে। বাংলাদেশ-মিয়ানমার রোহিঙ্গা ইস্যুতে এই সংস্থা মধ্যস্থতা করছে। এছাড়া বাংলাদেশে বিহারী জনগোষ্ঠীর আবাসনসহ অন্যান্য ইস্যুতেও এই সংস্থা ব্যাপক অবদান রাখছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776285,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘের একটি সংস্থা বাংলাদেশ নারীদের উন্নয়নে বিভিন্ন কর্মসূচি পালন করছে। এটি কোন সংস্থা? এ সংস্থাটির কার্যক্রম উল্লেখ করো।",
+        "solution": "ইউনিফেম নারীদের উন্নয়নে বিভিন্ন ধরনের কর্মসূচি পালন করছে। নারীদের বিভিন্ন ধরনের অধিকার আদায়ে তারা ভূমিকা রাখছে এবং অর্থনৈতিক কর্মকান্ডের সাথে তাদের সংশ্লিষ্ট করছে। নারীদের নিরাপদ শ্রম অভিবাসনসহ বিভিন্ন ইস্যুতেও এ সংস্থাটি কাজ করে যাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776259,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "মি. হ্যানয় রোহিঙ্গা সমস্যা সমাধানে একটি আন্তর্জাতিক সংস্থার প্রতিনিধি হিসেবে ঢাকায় কর্মরত আছেন। তিনি মিয়ানমার সামরিক জান্তা এবং বাংলাদেশের পররাষ্ট্র মন্ত্রণালয়ের সাথে রোহিঙ্গা ইস্যুতে মধ্যস্থতা করছেন।\u003Cbr\u003E\nউক্ত সংস্থা বাংলাদেশে আরও যে বিষয়ে অবদান রাখছে তা হলো-\u003Cbr\u003E\ni. বিশাল শরণার্থীর ব্যয় নির্বাহ\u003Cbr\u003E\nii. কৃষকদের কৃষি বিষয়ক পরামর্শ দান\u003Cbr\u003E\niii. বিহারী জনগোষ্ঠীর আবাসন প্রদান\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776241,
+      "value": {
+        "options": {
+          "ক": "খাদ্য মজুদের জন্য",
+          "খ": "খাদ্যে স্বয়ংসম্পূর্ণতা অর্জনের জন্য",
+          "গ": "কৃষি ক্ষেত্রে প্রযুক্তি ব্যবহার জন্য",
+          "ঘ": "খাদ্য রপ্তানির জন্য"
+        },
+        "question": "FAO বাংলাদেশ সরকারকে প্রয়োজনীয় পরামর্শ দেয় কেন?",
+        "solution": "খ. খাদ্যে স্বয়ংসম্পূর্ণতা অর্জনের জন্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 776241,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776242,
+      "value": {
+        "options": {
+          "ক": "UNIFEM",
+          "খ": "UNFPA",
+          "গ": "UNHCR",
+          "ঘ": "UNDP"
+        },
+        "question": "মিস. কাজল শিক্ষিত নারীদের কর্মসংস্থান সৃষ্টি এবং পারিবারিক সম্পত্তির বণ্টন নিশ্চিত করতে জাতিসংঘের ১টি অঙ্গসংস্থায় চাকরি করেন। মিস, কাজলের কর্মরত সংস্থার নাম কী?",
+        "solution": "ক. UNIFEM",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 776242,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776243,
+      "value": {
+        "options": {
+          "ক": "নারীদের অর্থনৈতিক কর্মকাণ্ডে অন্তর্ভুক্ত করা",
+          "খ": "বাংলাদেশের জনগোষ্ঠীর খাদ্য নিশ্চিত করা",
+          "গ": "শরণার্থীদের লালন-পালন ও আবাসন ব্যবস্থা",
+          "ঘ": "&nbsp;সুবিধাবঞ্চিত শিশুদের অধিকার আদায়&nbsp;"
+        },
+        "question": "ইউনিফেম সংস্থাটির কাজ কোনটি?&nbsp;",
+        "solution": "ক. নারীদের অর্থনৈতিক কর্মকাণ্ডে অন্তর্ভুক্ত করা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4843,
+          "full_name": "কু. বো.'২০১৬;ব. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৬;ব. বো.'২০১৭",
+          "slug": "ku-bo2016b-bo2017",
+          "pivot": {
+            "question_bank_id": 776243,
+            "tag_id": 4843,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776244,
+      "value": {
+        "options": {
+          "ক": "স্বাস্থ্য শিক্ষার ক্ষেত্রে",
+          "খ": "এইডস নিবারনের ক্ষেত্রে",
+          "গ": "পোলিও নিবারনের ক্ষেত্রে",
+          "ঘ": "নারী স্বাস্থ্য বিষয়ে"
+        },
+        "question": "বিশ্ব স্বাস্থ্য সংস্থা বাংলাদেশে কাজ করছে-",
+        "solution": "গ. পোলিও নিবারনের ক্ষেত্রে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776245,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ইউনিফেম কাজ করছে-\u003Cbr\u003E\ni. নারীদের আত্মনির্ভরশীল করতে\u003Cbr\u003E\nii. নারীদের নিরাপদ কর্মস্থল নিশ্চিত করতে\u003Cbr\u003E\niii. বিজ্ঞান ও শিক্ষা প্রদ্ধতির উন্নয়ন করতে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 776245,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776246,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "ইউনেস্কো কাজ করে-\u003Cbr\u003E\ni. বিজ্ঞান\u003Cbr\u003E\nii. সংস্কৃতি\u003Cbr\u003E\niii. খাদ্য\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 776246,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776247,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "ii&nbsp;",
+          "গ": "iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "UNICEF কাজ করছে মূলত-\u003Cbr\u003E\ni. সুবিধা বঞ্চিত শিশুদের জন্য\u003Cbr\u003E\nii. মেয়ে শিশুদের জন্য\u003Cbr\u003E\niii. নারী উন্নয়নের জন্য\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776248,
+      "value": {
+        "options": {
+          "ক": "৪০",
+          "খ": "৪১",
+          "গ": "৪২",
+          "ঘ": "৪৩"
+        },
+        "question": "বাংলাদেশ জাতিসংঘের সাধারণ পরিষদের কততম অধিবেশনে&nbsp;সভাপতিত্ব করেছিল?",
+        "solution": "খ. ৪১",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4835,
+          "full_name": "সি. বো.'২০২০;ঢা. বো.'২০১৭",
+          "short_name": "সি. বো.'২০২০;ঢা. বো.'২০১৭",
+          "slug": "si-bo2020dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776248,
+            "tag_id": 4835,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776249,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জাতিসংঘের উদ্বাস্তুবিষয়ক হাইকমিশন বাংলাদেশে কাজ করছে-\u003Cbr\u003E\ni. মায়ানমার থেকে পালিয়ে আসা বিশেষ জনগোষ্ঠী নিয়ে\u003Cbr\u003E\nii. মুক্তিযুদ্ধের পর আটকে পড়া বিহারিনের নিয়ে-\u003Cbr\u003E\niii. দুর্যোগ কবলিত লোকদের নিয়ে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776249,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776250,
+      "value": {
+        "options": {
+          "ক": "UNDP",
+          "খ": "UNHCR",
+          "গ": "UNIFEM",
+          "ঘ": "UNESCO"
+        },
+        "question": "মি. হ্যানয় রোহিঙ্গা সমস্যা সমাধানে একটি আন্তর্জাতিক সংস্থার প্রতিনিধি হিসেবে ঢাকায় কর্মরত আছেন। তিনি মিয়ানমার সামরিক জান্তা এবং বাংলাদেশের পররাষ্ট্র মন্ত্রণালয়ের সাথে রোহিঙ্গা ইস্যুতে মধ্যস্থতা করছেন।\u003Cbr\u003E\nমি. হ্যানয় আন্তর্জাতিক কোন সংস্থার সাথে সম্পৃক্ত?",
+        "solution": "খ. UNHCR",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 776250,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776251,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "ii",
+          "গ": "i&nbsp; ও ii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "নাইজার গ্রামে উপজাতির যুদ্ধে অনেক লোক মারা গিয়েছিল। এখানে অনেক শিশু মাতৃ-পিতৃহীন হয়ে পড়েছিল।\u003Cbr\u003E\nএ অবস্থায় সংগঠনটি যে পদক্ষেপসমূহ নিবে-&nbsp;\u003Cbr\u003E\ni. দরিদ্র ছাত্রদের মাঝে বই বিতরণ করবে\u003Cbr\u003E\nii. শিশুদের চিকিৎসার ব্যবস্থা করবে\u003Cbr\u003E\niii. শিশুদের খাদ্যের ব্যবস্থা করবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776252,
+      "value": {
+        "options": {
+          "ক": "৩ বার",
+          "খ": "৪ বার",
+          "গ": "৫ বার",
+          "ঘ": "৬ বার"
+        },
+        "question": "জাতিসংঘের চারজন মহাসচিব এ পর্যন্ত কতবার বাংলাদেশ সফর করে গেছেন?",
+        "solution": "গ. ৫ বার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 776252,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776253,
+      "value": {
+        "options": {
+          "ক": "১৯৭৪",
+          "খ": "১৯৭৯",
+          "গ": "১৯৮৪",
+          "ঘ": "১৯৮৬"
+        },
+        "question": "জাতিসংঘের কার্যপ্রণালিতে বাংলা ভাষার ব্যবহার হয় কত সাল থেকে?",
+        "solution": "গ. ১৯৮৪",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4844,
+          "full_name": "ঢা. বো.'২০২৩;রা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০২৩;রা. বো.'২০১৭",
+          "slug": "dha-bo2023ra-bo2017",
+          "pivot": {
+            "question_bank_id": 776253,
+            "tag_id": 4844,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776254,
+      "value": {
+        "options": {
+          "ক": "UNDP",
+          "খ": "UNHCR",
+          "গ": "UNESCO",
+          "ঘ": "UNICEF"
+        },
+        "question": "জাতিসংঘের কোন সংস্থা বাংলাদেশ-মিয়ানমার ইস্যুতে&nbsp;মধ্যস্থতাকারী হিসেবে কাজ করছে?",
+        "solution": "খ. UNHCR",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 776254,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776255,
+      "value": {
+        "options": {
+          "ক": "১৫",
+          "খ": "৪১",
+          "গ": "৭৪",
+          "ঘ": "১৩৬"
+        },
+        "question": "জাতিসংঘের কততম সদস্য হিসেবে বাংলাদেশ অন্তর্ভুক্ত হয়?",
+        "solution": "ঘ. ১৩৬",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776256,
+      "value": {
+        "options": {
+          "ক": "UNICEF",
+          "খ": "UNIFEM",
+          "গ": "CEDAW",
+          "ঘ": "UNHCR"
+        },
+        "question": "বাংলাদেশে আশ্রিত রোহিঙ্গাদেরকে নিয়ে জাতিসংঘের কোন সংস্থা কাজ করছে?",
+        "solution": "ঘ. UNHCR",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 776256,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776257,
+      "value": {
+        "options": {
+          "ক": "১৯৭২",
+          "খ": "১৯৭৩",
+          "গ": "১৯৭৪",
+          "ঘ": "১৯৭৫"
+        },
+        "question": "জাতির জনক বঙ্গবন্ধু শেখ মুজিবুর রহমান জাতিসংঘের সাধারণ পরিষদে বাংলা ভাষায় বক্তৃতা প্রদান করেন কত সালে?",
+        "solution": "গ. ১৯৭৪",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 776257,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776258,
+      "value": {
+        "options": {
+          "ক": "৮",
+          "খ": "১৪",
+          "গ": "১৬",
+          "ঘ": "১৭"
+        },
+        "question": "UNDP টেকসই উন্নয়নের কয়টি লক্ষ্যমাত্রা নিয়ে কাজ করছে?",
+        "solution": "ঘ. ১৭",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 776258,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776234,
+      "value": {
+        "options": {
+          "ক": "UNDP",
+          "খ": "UNICEF",
+          "গ": "UNHCR",
+          "ঘ": "UNFPA"
+        },
+        "question": "বাংলাদেশের দক্ষিণ-পূর্ব অঞ্চলে কিছু শরণার্থী আশ্রয় নিয়েছে। তাদের জীবনযাপনে কোন আন্তর্জাতিক সংস্থা দায়িত্ব পালন করে?",
+        "solution": "গ. UNHCR",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 776234,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:42:28.000000Z",
+            "updated_at": "2025-12-01T15:42:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776240,
+      "value": {
+        "options": {
+          "ক": "ইউএনডিপি",
+          "খ": "ইউএনডিপি",
+          "গ": "ইউনিফেম",
+          "ঘ": "ইউএনএইচসিআর"
+        },
+        "question": "জাতিসংঘের কোন অঙ্গ সংস্থা টেকসই উন্নয়নের লক্ষ্যমাত্রা অর্জনের লক্ষ্যে কাজ করছে?",
+        "solution": "ক. ইউএনডিপি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4656,
+          "full_name": "ম. বো.'২০১৯",
+          "short_name": "ম. বো.'২০১৯",
+          "slug": "m-bo2019",
+          "pivot": {
+            "question_bank_id": 776240,
+            "tag_id": 4656,
+            "year": null,
+            "created_at": "2025-12-01T15:42:29.000000Z",
+            "updated_at": "2025-12-01T15:42:29.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776239,
+      "value": {
+        "options": {
+          "ক": "১৯৭১ সালে",
+          "খ": "১৯৭২ সালে",
+          "গ": "১৯৭৩ সালে",
+          "ঘ": "১৯৭৪ সালে"
+        },
+        "question": "বাংলাদেশ কত সালে জাতিসংঘের সদস্য হিসেবে অন্তর্ভুক্ত হয়?",
+        "solution": "ঘ. ১৯৭৪ সালে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4842,
+          "full_name": "চ. বো.'২০২০;দি. বো.'২০১৯",
+          "short_name": "চ. বো.'২০২০;দি. বো.'২০১৯",
+          "slug": "c-bo2020di-bo2019",
+          "pivot": {
+            "question_bank_id": 776239,
+            "tag_id": 4842,
+            "year": null,
+            "created_at": "2025-12-01T15:42:28.000000Z",
+            "updated_at": "2025-12-01T15:42:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776238,
+      "value": {
+        "options": {
+          "ক": "CEDAW",
+          "খ": "UNDP",
+          "গ": "UNICEF",
+          "ঘ": "UNHCR&nbsp;"
+        },
+        "question": "বাংলাদেশে 'বিহারী' জনগোষ্ঠীর আবাসন সংক্রান্ত ইস্যুতে কোন সংস্থার ব্যাপক অবদান রয়েছে?",
+        "solution": "ঘ. UNHCR&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 776238,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:42:28.000000Z",
+            "updated_at": "2025-12-01T15:42:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776237,
+      "value": {
+        "options": {
+          "ক": "১৯৮৪",
+          "খ": "১৯৮৫",
+          "গ": "১৯৮৬",
+          "ঘ": "১৯৮৭"
+        },
+        "question": "জনাব হুমায়ূন রশিদ চৌধুরী কত সালে জাতিসংঘের সাধারণ&nbsp;পরিষদের সভাপতি নির্বাচিত হন?",
+        "solution": "গ. ১৯৮৬",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 776237,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:42:28.000000Z",
+            "updated_at": "2025-12-01T15:42:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776236,
+      "value": {
+        "options": {
+          "ক": "FAO",
+          "খ": "WHO",
+          "গ": "UNHCR",
+          "ঘ": "UNDP"
+        },
+        "question": "আন্তর্জাতিক সংস্থার দায়িত্বপ্রাপ্ত হয়ে মনির আম্মু বরিশাল অঞ্চলের সিত্রাং-এ পূর্বাভাসকালীন আশ্রয় কেন্দ্রে খাদ্য সরবরাহ নিশ্চিত করার বিষয়ে পরামর্শ দেন। মনির আম্মু কোন আন্তর্জাতিক সংস্থার সাথে সম্পৃক্ত?",
+        "solution": "গ. UNHCR",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 776236,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:42:28.000000Z",
+            "updated_at": "2025-12-01T15:42:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776235,
+      "value": {
+        "options": {
+          "ক": "১৩৯",
+          "খ": "১৩৮",
+          "গ": "১৩৭",
+          "ঘ": "১৩৬"
+        },
+        "question": "বাংলাদেশ জাতিসংঘের কততম সদস্যরাষ্ট্র?",
+        "solution": "ঘ. ১৩৬",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:42:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4809,
+          "full_name": "চ. বো.'২০২৩;ব. বো.'২০১৬",
+          "short_name": "চ. বো.'২০২৩;ব. বো.'২০১৬",
+          "slug": "c-bo2023b-bo2016",
+          "pivot": {
+            "question_bank_id": 776235,
+            "tag_id": 4809,
+            "year": null,
+            "created_at": "2025-12-01T15:42:28.000000Z",
+            "updated_at": "2025-12-01T15:42:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8069&grade=5&lesson=14670&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8069&grade=5&lesson=14670&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8069&grade=5&lesson=14670&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 52,
+  "total": 52
+}

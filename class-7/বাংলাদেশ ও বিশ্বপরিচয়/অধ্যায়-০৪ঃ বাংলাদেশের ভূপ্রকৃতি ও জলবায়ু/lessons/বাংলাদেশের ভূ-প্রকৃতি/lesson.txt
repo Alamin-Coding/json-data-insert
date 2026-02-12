@@ -1,0 +1,2572 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775753,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে জলবায়ু পরিবর্তনের দুটি ক্ষতিকর প্রভাব লেখো।",
+        "solution": "জলবায়ু পরিবর্তনের দুটি ক্ষতিকর প্রভাব হচ্ছে-\u003Cbr /\u003E\n১. স্বল্প সময়ে অধিক বৃষ্টিপাত, ভারি বর্ষণের ফলে ভূমিধস, বন্যা ও পাহাড়ধসের ঘটনা ঘটছে; ২. সমুদ্রপৃষ্ঠের উচ্চতা বেড়ে গেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775739,
+      "value": {
+        "options": {
+          "ক": "চিকনাগুল",
+          "খ": "মোদক মুয়াল",
+          "গ": "জয়ন্তিয়া",
+          "ঘ": "খাসিয়া"
+        },
+        "question": "নিচের কোনটি অন্যদের থেকে ব্যতিক্রম?",
+        "solution": "খ. মোদক মুয়াল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775739,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775740,
+      "value": {
+        "options": {
+          "ক": "৯১৫ মি.",
+          "খ": "১০০০ মি.",
+          "গ": "১২০০ মি.",
+          "ঘ": "১২৩১. মি."
+        },
+        "question": "বাংলাদেশের সর্বোচ্চ শৃঙ্গ বিজয়ের উচ্চতা কত?&nbsp;",
+        "solution": "ঘ. ১২৩১. মি.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775740,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775741,
+      "value": {
+        "options": {
+          "ক": "তাজিওডং",
+          "খ": "কিওক্রাডং",
+          "গ": "মোদকমুয়াল",
+          "ঘ": "পিরামিড"
+        },
+        "question": "বাংলাদেশের দ্বিতীয় সর্বোচ্চ শৃঙ্গের নাম কী?",
+        "solution": "খ. কিওক্রাডং",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775742,
+      "value": {
+        "options": {
+          "ক": "২০",
+          "খ": "২৬",
+          "গ": "৩০",
+          "ঘ": "৩৪"
+        },
+        "question": "লালমাই পাহাড়ের আয়তন কত বর্গ কি. মি.?",
+        "solution": "ঘ. ৩৪",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4805,
+          "full_name": "য. বো.'২০১৭;দি. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৭;দি. বো.'২০১৯",
+          "slug": "z-bo2017di-bo2019",
+          "pivot": {
+            "question_bank_id": 775742,
+            "tag_id": 4805,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775743,
+      "value": {
+        "options": {
+          "ক": "৫ কি.মি. পূর্বে",
+          "খ": "৬ কি.মি. দক্ষিণে",
+          "গ": "৭ কি.মি. উত্তরে",
+          "ঘ": "৮ কি.মি. পশ্চিয়ে"
+        },
+        "question": "লালমাই পাহাড় কুমিল্লা শহর থেকে অবস্থিত।",
+        "solution": "ঘ. ৮ কি.মি. পশ্চিয়ে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 775743,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775744,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের ভূপ্রকৃতি ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশ পলল গঠিত একটি আর্দ্র অঞ্চল। উত্তর-পূর্ব ও দক্ষিণ-পূর্বের সামান্য পাহাড়ি অঞ্চল এবং উত্তর-পশ্চিমাংশের সীমিত উঁচুভূমি ব্যতীত সমগ্র বাংলাদেশ নদী বিধৌত এক বিস্তীর্ণ সমভূমি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775745,
+      "value": {
+        "options": [],
+        "question": "দক্ষিণ এশিয়ার 'ক' দেশটির আয়তন ১,৪৭,৫৭০ বর্গ কি.মি.। উক্ত দেশটির ভৌগোলিক সীমানা ব্যাখ্যা করো।",
+        "solution": "&#39;ক&#39; দেশটির অর্থাৎ বাংলাদেশের পূর্ব-পশ্চিমে সর্বোচ্চ বিস্তৃতি ৪৪০ কি.মি. এবং উত্তর-উত্তর পশ্চিম থেকে দক্ষিণ-দক্ষিণ পূর্ব প্রান্ত পর্যন্ত সর্বোচ্চ বিস্তৃতি ৭৬০ কি.মি.। বাংলাদেশের উত্তরে ভারতের পশ্চিমবঙ্গ, মেঘালয় ও আসাম; পূর্বে আসাম, ত্রিপুরা ও মিজোরাম এবং মিয়ানমার; দক্ষিণে বঙ্গোপসাগর এবং পশ্চিমে ভারতের পশ্চিমবঙ্গ অবস্থিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775746,
+      "value": {
+        "options": [],
+        "question": "'ক' এর এলাকায় গ্রীষ্মকালে পশ্চিম ও উত্তর-পশ্চিম দিক থেকে শুষ্ক ও শীতল বায়ু প্রবাহিত হয়ে এক ধরনের ঝড়ের সৃষ্টি হয়। উক্ত ঝড়টি সংঘটিত হওয়ার কারণ ব্যাখ্যা করো।",
+        "solution": "&#39;ক&#39; এলাকার ঝড়টি কালবৈশাখি ঝড়। গ্রীষ্মকালে সূর্য উত্তর গোলার্ধে কর্কটক্রান্তি রেখার নিকটবর্তী হওয়ায় বায়ুর চাপের পরিবর্তন হয় এবং&nbsp;বাংলাদেশের ওপর দিয়ে দক্ষিণ-পশ্চিম মৌসুমি বায়ু প্রবাহিত হতে থাকে। একই সময়ে পশ্চিম ও উত্তর-পশ্চিম দিক থেকে শুষ্ক ও শীতল বায়ু প্রবাহিত হয়। এর ফলে একধরনের ঝড়ের সৃষ্টি হয়। এ ঝড়কে কালবৈশাখি বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775747,
+      "value": {
+        "options": [],
+        "question": "ভূমিকম্প কী? ব্যাখ্যা করো।",
+        "solution": "কখনো কখনো ভূপৃষ্ঠের কিছু অংশ হঠাৎ কোনো কারণে কেঁপে ওঠে। এ কম্পন অত্যন্ত মৃদু থেকে প্রচণ্ড হয়ে থাকে, যা মাত্র কয়েক সেকেন্ড স্থায়ী হয়। ভূপৃষ্ঠের এরূপ আকস্মিক ও ক্ষণস্থায়ী কম্পনকে ভূমিকম্প বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775748,
+      "value": {
+        "options": [],
+        "question": "জনাব 'X' একজন সচেতন ব্যক্তি। ভূমিকম্পের পর তার দুটি করণীয় ব্যাখ্যা করো।",
+        "solution": "ভূমিকম্পের পর একজন সচেতন ব্যক্তির দুটি করণীয় হচ্ছে-\u003Cbr /\u003E\n১. নিজের এবং অন্যের আঘাত পরীক্ষা করা এবং প্রাথমিক চিকিৎসা দেওয়া;\u003Cbr /\u003E\n২. পানি, গ্যাস ও বৈদ্যুতিক লাইন পরীক্ষা করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775749,
+      "value": {
+        "options": [],
+        "question": "জনাব 'ক' পার্বত্য এলাকায় এবং 'খ' সুন্দরবন অঞ্চলে বসবাস করে। উক্ত অঞ্চলের জনবসতির ঘনত্ব কম কেন? ব্যাখ্যা করো।",
+        "solution": "পার্বত্য এলাকা ও সুন্দরবন অঞ্চলে জীবিকার সংস্থান কষ্টসাধ্য হওয়ায় এ দুটি অঞ্চলে জনবসতির ঘনত্ব খুবই কম। এসব অঞ্চলে ভালো রাস্তাঘাট বা রেল সংযোগ উপযুক্ত পরিমাণে না থাকায় জীবিকার সংস্থানও কষ্টকর। অনুন্নত যাতায়াত ব্যবস্থা, বনভূমি ও ভূপ্রকৃতিগত কারণে এ সকল স্থান জনবিরল।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775750,
+      "value": {
+        "options": [],
+        "question": "আরিফের পরিবার নদী ভাঙনে বাস্তুহারা হয়ে জীবন-জীবিকার টানে শহরে আশ্রয় গ্রহণ করেছে। উক্ত দুর্যোগটির দুটি ক্ষতিকর প্রভাব লেখো।",
+        "solution": "উক্ত দুর্যোগটি অর্থাৎ নদী ভাঙনের দুটি ক্ষতিকর প্রভাব হলো-১. কৃষির উৎপাদন ব্যাহত হয়; ২. শিশু, বৃদ্ধ ও নারীর নিরাপত্তা বিঘ্নিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775751,
+      "value": {
+        "options": [],
+        "question": "সুনামি কী? ব্যাখ্যা করো।",
+        "solution": "ভূমিকম্পের ধাক্কায় সমুদ্রের পানি তীর থেকে নিচে নেমে যায় এবং পরক্ষণেই ভীষণ গর্জন সহকারে ১৫-২০ মিটার উঁচু হয়ে ঢেউয়ের আকারে উপকূলে এসে আছড়ে পড়ে। এধরনের জলোচ্ছ্বাসকে সুনামি বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775752,
+      "value": {
+        "options": [],
+        "question": "জনাব 'ক' খেয়াল করলেন তার বসবাসরত ভবনটি হঠাৎ কেঁপে উঠেছে। উক্ত কম্পনটি সংঘটিত হওয়ার দুটি কারণ ব্যাখ্যা করো।",
+        "solution": "উক্ত কম্পন অর্থাৎ ভূমিকম্প সংঘটিত হওয়ার দুটি কারণ হচ্ছে:\u003Cbr /\u003E\n১. ভিত্তিশিলা চ্যুতি বা ফাটল বরাবর আকস্মিক ভূআলোড়ন হলে ভূমিকম্প হয়; ২. আগ্নেয়গিরির লাভা প্রচন্ড শক্তিতে ভূঅভ্যন্তর থেকে বের হয়ে আসার সময় ভূমিকম্পের সৃষ্টি হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775738,
+      "value": {
+        "options": {
+          "ক": "নেত্রকোনায়",
+          "খ": "বরিশালে",
+          "গ": "যশোরে",
+          "ঘ": "রাজশাহীতে"
+        },
+        "question": "টারশিয়ারি যুগের পাহাড় আছে-",
+        "solution": "ক. নেত্রকোনায়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775738,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775754,
+      "value": {
+        "options": [],
+        "question": "'X' হচ্ছে বাংলাদেশের সর্বোচ্চ শৃঙ্গ। 'X' এর নাম কী? এর উচ্চতা কত এবং কোথায় অবস্থিত?",
+        "solution": "উল্লিখিত &#39;X&#39; এর নাম তাজিংডং (বিজয়)। এর উচ্চতা ১,২৩১\u003Cbr /\u003E\nমিটার এবং এটি বান্দরবান জেলায় অবস্থিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775755,
+      "value": {
+        "options": [],
+        "question": "স্বচ্ছর বাড়ি টাঙ্গাইলে অবস্থিত। এ অঞ্চলটি প্লাইস্টোসিন কালের কোন সোপান ভূমির অন্তর্গত এবং এর আয়তন কত?",
+        "solution": "টাঙ্গাইল জেলাটি প্লাইস্টোসিন কালের মধুপুর ও ভাওয়াল গড় সোপান ভূমির অন্তর্গত। এর আয়তন প্রায় ৪,১০৩ বর্গ কিলোমিটার।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775756,
+      "value": {
+        "options": [],
+        "question": "সমতল অঞ্চল জনজীবনকে আকৃষ্ট করে কেন? ব্যাখ্যা করো।",
+        "solution": "সমতল নদী অববাহিকা অঞ্চল উর্বর পলিমাটি দ্বারা সৃষ্ট হওয়ায় এ অঞ্চলে কৃষি আবাদ অনেকটা সহজসাধ্য। ফলে এসব অঞ্চলে ঘন জনবসতি গড়ে উঠতে দেখা যায়। এসব অঞ্চলে নদীগুলোর নাব্য, সড়কপথ ও রেলপথের যোগাযোগের সুযোগসুবিধা জনজীবনকে আকৃষ্ট করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775757,
+      "value": {
+        "options": [],
+        "question": "বরেন্দ্রভূমি কোন কোন জেলা নিয়ে গঠিত এবং এর আয়তন কত?",
+        "solution": "নওগাঁ, রাজশাহী, বগুড়া, জয়পুরহাট, রংপুর ও দিনাজপুর জেলার অংশবিশেষ নিয়ে বরেন্দ্রভূমি গঠিত। এর আয়তন ৯,৩২০ বর্গ কিলোমিটার।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775758,
+      "value": {
+        "options": [],
+        "question": "বিজয়ের বাড়ি বাংলাদেশের দক্ষিণ-পূর্বাঞ্চলের একটি পাহাড়ি এলাকায় অবস্থিত। এখানকার পাহাড়সমূহ কোন কোন জেলায় অবস্থিত এবং পাহাড়গুলোর গড় উচ্চতা কত?",
+        "solution": "বাংলাদেশের দক্ষিণ-পূর্বাঞ্চলের পাহাড়গুলো রাঙামাটি, বান্দরবান, খাগড়াছড়ি, কক্সবাজার ও চট্টগ্রাম জেলার পূর্বাংশের অন্তর্গত। এ অঞ্চলের পাহাড়গুলোর গড় উচ্চতা ৬১০ মিটার।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775759,
+      "value": {
+        "options": [],
+        "question": "কিওক্রাডং এর উচ্চতা কত এবং কী কী দ্বারা গঠিত?",
+        "solution": "কিওক্রাডং এর উচ্চতা ১,২৩০ মিটার। এ পাহাড়টি বেলে পাথর,\u003Cbr /\u003E\nকর্দম ও শেল পাথর দ্বারা গঠিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775760,
+      "value": {
+        "options": [],
+        "question": "'X' অঞ্চলের পাহাড়সমূহ স্থানীয়ভাবে টিলা নামে পরিচিত। এ পাহাড়গুলোর উচ্চতা এবং এ অঞ্চলের প্রধান পাহাড়গুলোর নাম লেখো।",
+        "solution": "উত্তরের পাহাড়সমূহ স্থানীয়ভাবে টিলা নামে পরিচিত এবং এগুলোর উচ্চতা ৩০ থেকে ৯০ মিটার। চিকনাগুল, খাসিয়া ও জয়ন্তিয়া এ অঞ্চলের প্রধান পাহাড়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775761,
+      "value": {
+        "options": [],
+        "question": "জনাব 'ক' পটুয়াখালীতে বসবাস করেন। উক্ত জেলাটি কোন সমভূমির অন্তর্গত? এই ভূমির মোট আয়তন কত?",
+        "solution": "পটুয়াখালী জেলাটি সাম্প্রতিককালের প্লাবন সমভূমির অন্তর্গত।\u003Cbr /\u003E\nপ্লাবন সমভূমির আয়তন প্রায় ১,২৪,২৬৬ বর্গকিলোমিটার।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775762,
+      "value": {
+        "options": [],
+        "question": "টারশিয়ারি যুগের পাহাড়গুলোকে কয় ভাগে ভাগ করা যায়? ভাগগুলো লেখো।",
+        "solution": "টারশিয়ারি যুগের পাহাড় গুলোকে দুই ভাগে ভাগ করা যায়। যথা-দক্ষিণ-পূর্বাঞ্চলের পাহাড়সমূহ এবং উত্তর ও উত্তর-পূর্বাঞ্চলের পাহাড়সমূহ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775763,
+      "value": {
+        "options": [],
+        "question": "জনাব 'ক' এর বাড়ি বাংলাদেশের উত্তর ও উত্তর-পূর্বাঞ্চলে\u003Cbr\u003E\nঅবস্থিত। এখানকার পাহাড়সমূহের অবস্থান ও উচ্চতা লেখো।",
+        "solution": "উত্তর ও উত্তর-পূর্বাঞ্চলের পাহাড়সমূহ ময়মনসিংহ ও নেত্রকোণা জেলার উত্তরাংশ, সিলেট জেলার উত্তর ও উত্তর-পূর্বাংশ এবং মৌলভীবাজার ও হবিগঞ্জ জেলার দক্ষিণে অবস্থিত। এ পাহাড়গুলোর উচ্চতা ২৪৪ মিটারের বেশি নয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775764,
+      "value": {
+        "options": [],
+        "question": "লালমাই পাহাড়ের আয়তন ও গড় উচ্চতা কত? এ অঞ্চলের মাটির ধরন ব্যাখ্যা করো।",
+        "solution": "লালমাই পাহাড়ের আয়তন ৩৪ বর্গ কি.মি. এবং এর গড় উচ্চতা ২১ মিটার। এ অঞ্চলের মাটির রং লালচে এবং মাটি নুড়ি, বালি ও কংকর মিশ্রিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775765,
+      "value": {
+        "options": [],
+        "question": "জনাব 'ক' এর বসবাসকৃত অঞ্চলটি বাংলাদেশের ৮০% এলাকা নিয়ে গঠিত। উক্ত অঞ্চলটি কী নামে পরিচিত এবং কৃষি কাজে কীভাবে উল্লেখযোগ্য ভূমিকা রাখে?",
+        "solution": "উক্ত অঞ্চলটি সাম্প্রতিককালের প্লাবন সমভূমি নামে পরিচিত। বাংলাদেশের এই অঞ্চলগুলোর মাটি খুব উর্বর বলে কৃষিজাত দ্রব্য উৎপাদনে তা উল্লেখযোগ্য ভূমিকা পালন করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775766,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের ভূমি ব্যবহারে জনবসতি বিস্তারের দুটি নেতিবাচক প্রভাব লেখো।",
+        "solution": "বাংলাদেশে জনসংখ্যা বৃদ্ধির ফলে জনবসতিও বৃদ্ধি পাচ্ছে। ফলে- ১. জনসংখ্যা ক্রমবর্ধমানহারে বৃদ্ধি পাওয়ায় কৃষিজমির ওপর অব্যাহত চাপ পড়ছে। ২. খাল-বিল ভরাট করে, বনজঙ্গল কেটে মানুষ এখন বসতি গড়ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775724,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনাব 'X' একটি নতুন বাড়ি তৈরি করার সিদ্ধান্ত নিয়েছেন।\u003Cbr\u003E\ni. ন্যাশনাল বিল্ডিং কোড' অনুসরণ করতে হবে\u003Cbr\u003E\nii.দক্ষ প্রকৌশলীর দ্বারা তদারকি করাতে হবে\u003Cbr\u003E\niii. ভালো মানের নির্মাণসামগ্রী ব্যবহার করতে হবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 775724,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775710,
+      "value": {
+        "options": {
+          "ক": "মোদক মুয়াল",
+          "খ": "তাজিওডং",
+          "গ": "পিরামিড",
+          "ঘ": "কিওক্রাডং"
+        },
+        "question": "নিচের কোন পাহাড়টির চূড়ার উচ্চতা সবচেয়ে কম?",
+        "solution": "গ. পিরামিড",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4802,
+          "full_name": "য. বো.'২০১৯;ব. বো.'২০২৩;কু. বো.'২০২৩",
+          "short_name": "য. বো.'২০১৯;ব. বো.'২০২৩;কু. বো.'২০২৩",
+          "slug": "z-bo2019b-bo2023ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775710,
+            "tag_id": 4802,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775711,
+      "value": {
+        "options": {
+          "ক": "ভারত",
+          "খ": "বাংলাদেশ",
+          "গ": "মিয়ানমার",
+          "ঘ": "নেপাল"
+        },
+        "question": "পৃথিবীর অন্যতম বৃহৎ বদ্বীপ কোনটি?",
+        "solution": "খ. বাংলাদেশ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4803,
+          "full_name": "রা. বো.'২০১৯;কু. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৯;কু. বো.'২০১৭",
+          "slug": "ra-bo2019ku-bo2017",
+          "pivot": {
+            "question_bank_id": 775711,
+            "tag_id": 4803,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775712,
+      "value": {
+        "options": {
+          "ক": "বরেন্দ্র ভূমি",
+          "খ": "মধুপুর ও ভাওয়ালের সোপানভূমি",
+          "গ": "দক্ষিণ-পূর্বাঞ্চলের পাহাড়সমূহ",
+          "ঘ": "উত্তর ও উত্তর-পূর্বাঞ্চলের পাহাড়সমূহ"
+        },
+        "question": "টাঙ্গাইলের শালবনের বনভূমি কোন ভূপ্রাকৃতিক অঞ্চলের অন্তর্গত?",
+        "solution": "খ. মধুপুর ও ভাওয়ালের সোপানভূমি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3787,
+          "full_name": "দি. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৯",
+          "slug": "di-bo2019",
+          "pivot": {
+            "question_bank_id": 775712,
+            "tag_id": 3787,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775713,
+      "value": {
+        "options": {
+          "ক": "খাগড়াছড়ি",
+          "খ": "কক্সবাজার",
+          "গ": "চট্টগ্রাম",
+          "ঘ": "বান্দরবান"
+        },
+        "question": "'তাজিওডং' কোথায় অবস্থিত?",
+        "solution": "ঘ. বান্দরবান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 775713,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775714,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "টারশিয়ারি যুগের পাহাড়সমূহের অন্তর্গত-\u003Cbr\u003E\ni. দক্ষিণ-পূর্বাঞ্চলের পাহাড়সমূহ\u003Cbr\u003E\nii. উত্তর-পশ্চিমাঞ্চলের পাহাড়সমূহ\u003Cbr\u003E\niii. উত্তর ও উত্তর-পূর্বাঞ্চলের পাহাড়সমূহ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 775714,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775715,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ভূমিকম্পের কারণ নয় কোনগুলো?\u003Cbr\u003E\ni. বায়ুর তাপমাত্রা বৃদ্ধি\u003Cbr\u003E\nii. অগ্ন্যুৎপাত\u003Cbr\u003E\niii. সুনামি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775715,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775716,
+      "value": {
+        "options": {
+          "ক": "২০&deg;৩৪&prime;-২৬&deg;৩৮&prime;&nbsp;",
+          "খ": "২০&deg;৪৩&prime;-২৬০৮৩&prime;&nbsp;",
+          "গ": "৮৮&deg;০১&prime;-৯২&deg;৪১&prime;",
+          "ঘ": "৮৮&deg;০৫&prime;-৯২&deg;৪৫&prime;"
+        },
+        "question": "বাংলাদেশ কত ডিগ্রি দ্রাঘিমায় অবস্থিত?",
+        "solution": "গ. ৮৮&deg;০১&prime;-৯২&deg;৪১&prime;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 775716,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775717,
+      "value": {
+        "options": {
+          "ক": "দুটি",
+          "খ": "তিনটি",
+          "গ": "চারটি",
+          "ঘ": "পাঁচটি"
+        },
+        "question": "ভূ-প্রকৃতির ভিত্তিতে বাংলাদেশকে প্রধানত কয়টি শ্রেণিতে ভাগ করা&nbsp; বাংলাদেে যায়?",
+        "solution": "খ. তিনটি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 775717,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775718,
+      "value": {
+        "options": {
+          "ক": "প্রযুক্তির অভাব",
+          "খ": "প্রযুক্তির অভাব",
+          "গ": "দক্ষ কৃষকের অভাব",
+          "ঘ": "প্রায়োগিক শিক্ষার অভাব"
+        },
+        "question": "বাংলাদেশে বৈজ্ঞানিক পদ্ধতিতে চাষাবাদ করা যায় না কেন?",
+        "solution": "খ. প্রযুক্তির অভাব",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775718,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775719,
+      "value": {
+        "options": {
+          "ক": "মেঘালয়",
+          "খ": "মিজোরাম",
+          "গ": "বিহার",
+          "ঘ": "পশ্চিমবঙ্গ"
+        },
+        "question": "বাংলাদেশের পূর্বে অবস্থিত কোনটি?",
+        "solution": "খ. মিজোরাম",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 775719,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775720,
+      "value": {
+        "options": {
+          "ক": "মিজোরাম",
+          "খ": "বঙ্গোপসাগর",
+          "গ": "মেঘালয়",
+          "ঘ": "ত্রিপুরা"
+        },
+        "question": "বাংলাদেশের দক্ষিণে কী অবস্থিত?",
+        "solution": "খ. বঙ্গোপসাগর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 775720,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775721,
+      "value": {
+        "options": {
+          "ক": "১০.৯২ কোটি",
+          "খ": "১১.৯০ কোটি",
+          "গ": "১২.৯৩ কোটি",
+          "ঘ": "১৪.৯০ কোটি"
+        },
+        "question": "২০০১ সালের আদমশুমারি অনুযায়ী বাংলাদেশের জনসংখ্যা কত ছিল?",
+        "solution": "গ. ১২.৯৩ কোটি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 775721,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775722,
+      "value": {
+        "options": {
+          "ক": "৮৭৬ জন",
+          "খ": "৯১৫ জন",
+          "গ": "১০১৫ জন",
+          "ঘ": "১১১৫ জন"
+        },
+        "question": "বর্তমানে বাংলাদেশে প্রতি বর্গকিলোমিটারে জনসংখ্যার ঘনত্ব হলো-",
+        "solution": "গ. ১০১৫ জন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 775722,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775723,
+      "value": {
+        "options": {
+          "ক": "প্লাবন সমভূমি",
+          "খ": "স্রোতজ সমভূমি",
+          "গ": "র-দ্বীপ সমভূমি",
+          "ঘ": "উপকূলীয় সমভূমি"
+        },
+        "question": "খুলনা, পটুয়াখালী ও বরিশাল জেলার কিয়দংশ নিয়ে গঠিত হয়-",
+        "solution": "গ. র-দ্বীপ সমভূমি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775709,
+      "value": {
+        "options": {
+          "ক": "৬০",
+          "খ": "৭০",
+          "গ": "৮০",
+          "ঘ": "৯০"
+        },
+        "question": "বাংলাদেশের প্রায় কত ভাগ ভূমি নদীবিধৌত বিস্তীর্ণ সমভূমি?",
+        "solution": "গ. ৮০",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 775709,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775725,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "ভূমিকম্পের ফলে যেটি হয়-\u003Cbr\u003E\ni. সুনামি\u003Cbr\u003E\nii. জলোচ্ছ্বাস\u003Cbr\u003E\niii. প্লাবন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i&nbsp;ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775726,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশে ভূমিকম্প বেশি অনুভূত হওয়ার কারণ-\u003Cbr\u003E\ni .ইন্ডিয়ান ও ইউরোপীয়ান প্লেটের নৈকট্য\u003Cbr\u003E\nii. অগ্ন্যুৎপাত ও সুনামি\u003Cbr\u003E\niii. এদেশের অভ্যন্তরে ফাটল/চ্যুতি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775726,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775727,
+      "value": {
+        "options": {
+          "ক": "বান্দরবান",
+          "খ": "খাগড়াছড়ি",
+          "গ": "চট্টগ্রাম",
+          "ঘ": "রাঙ্গামাটি"
+        },
+        "question": "বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ কোন জেলায় অবস্থিত?",
+        "solution": "ক. বান্দরবান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775727,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775728,
+      "value": {
+        "options": {
+          "ক": "তাজিংডং",
+          "খ": "মোদকমুয়াল",
+          "গ": "কেওক্রাডং",
+          "ঘ": "পিরামিড"
+        },
+        "question": "বাংলাদেশের পত্রিকায় ৯১৫ মিটার উচ্চতার পর্বত প্রতিযোগিতার বিজ্ঞাপন দেওয়া হলো। শীঘ্রই প্রতিযোগীদের নাম জমা দিতে বলা হলো। পত্রিকার কোন পর্বতের কথা বোঝাচ্ছে?&nbsp;",
+        "solution": "ঘ. পিরামিড",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775728,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775729,
+      "value": {
+        "options": {
+          "ক": "কুষ্টিয়া, খুলনা",
+          "খ": "ঢাকা, কুমিল্লা",
+          "গ": "রংপুর, বরিশাল",
+          "ঘ": "খুলনা, সিলেট"
+        },
+        "question": "বাংলাদেশের বদ্বীপ সমভূমি অঞ্চল-",
+        "solution": "ক. কুষ্টিয়া, খুলনা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 775729,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775730,
+      "value": {
+        "options": {
+          "ক": "তাজিওডং",
+          "খ": "কিওক্রাডং",
+          "গ": "চিকনাগুল",
+          "ঘ": "মোদকমুয়াল"
+        },
+        "question": "কোন পাহাড়টি স্থানীয়ভাবে টিলা নামে পরিচিত?",
+        "solution": "গ. চিকনাগুল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 775730,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775731,
+      "value": {
+        "options": {
+          "ক": "কিওক্রাডং",
+          "খ": "পিরামিড",
+          "গ": "তাজিওডং",
+          "ঘ": "মোদক মুয়াল"
+        },
+        "question": "কোনটি বাংলাদেশের সর্বোচ্চ শৃঙ্গের নাম?",
+        "solution": "গ. তাজিওডং",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4804,
+          "full_name": "য. বো.'২০১৬;চ. বো.'২০১৭;দি. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৬;চ. বো.'২০১৭;দি. বো.'২০১৫",
+          "slug": "z-bo2016c-bo2017di-bo2015",
+          "pivot": {
+            "question_bank_id": 775731,
+            "tag_id": 4804,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775732,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সাম্প্রতিককালের প্লাবন সমভূমি-\u003Cbr\u003E\ni. লাল বর্ণের ধূসর মাটি দিয়ে গঠিত\u003Cbr\u003E\nii. মাটির স্তর খুব গভীর ও উর্বর\u003Cbr\u003E\niii. কৃষিজাত ফসল উৎপাদনে ভূমিকা রাখে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775732,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775733,
+      "value": {
+        "options": {
+          "ক": "খাদ্য সংকট",
+          "খ": "রাস্তাঘাট ধ্বংস",
+          "গ": "প্রাকৃতিক দুর্যোগ",
+          "ঘ": "ঘরবাড়ি ধ্বংস"
+        },
+        "question": "জনসংখ্যা বৃদ্ধির চরম পর্যায় কোনটি?",
+        "solution": "ক. খাদ্য সংকট",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 775733,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775734,
+      "value": {
+        "options": {
+          "ক": "আবহাওয়ার পরিবর্তন",
+          "খ": "জলবায়ুর পরিবর্তন",
+          "গ": "বায়ুপ্রবাহের পরিবর্তন",
+          "ঘ": "পরিবেশের পরিবর্তন"
+        },
+        "question": "কোন কারণে বর্ষাকাল দেরিতে আসছে এবং অধিক বৃষ্টিপাত হচ্ছে?",
+        "solution": "খ. জলবায়ুর পরিবর্তন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 775734,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775735,
+      "value": {
+        "options": {
+          "ক": "প্লাইস্টোসিন কালের সোপান",
+          "খ": "প্লাবন ভূমি",
+          "গ": "উত্তর পূর্বাঞ্চলের পাহাড়",
+          "ঘ": "দক্ষিণ পূর্বাঞ্চলের পাহাড়"
+        },
+        "question": "সাথী একটি পাহাড়ি অঞ্চলে গিয়ে দেখতে পায় সেখানকার মাটি বেলে পাথর ও শেল পাথর দিয়ে তৈরি। ভূমির রূপটি হলো-",
+        "solution": "ঘ. দক্ষিণ পূর্বাঞ্চলের পাহাড়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 775735,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775736,
+      "value": {
+        "options": {
+          "ক": "২০&deg;৩৪&prime;-২৬&deg;৩৮&prime;",
+          "খ": "২০&deg;৪৩&prime;-২৬০৮৩&prime;",
+          "গ": "২৬&deg;৩৪&prime;-৩৮&deg;২০&prime;",
+          "ঘ": "২৬&deg;৪৩&prime;-৩৮&deg;২৬&prime;"
+        },
+        "question": "বাংলাদেশ কত ডিগ্রি উত্তর অক্ষাংশে অবস্থিত?",
+        "solution": "ক. ২০&deg;৩৪&prime;-২৬&deg;৩৮&prime;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 775736,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775737,
+      "value": {
+        "options": {
+          "ক": "বিজয়",
+          "খ": "হিমালয়",
+          "গ": "চিকনাগুল",
+          "ঘ": "আরাকান"
+        },
+        "question": "৮ম শ্রেণির শিক্ষার্থী হামজা দেশের উত্তর-পূর্বাঞ্চলে বেড়াতে গিয়ে কোন পাহাড়টি দেখতে পাবে?",
+        "solution": "গ. চিকনাগুল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:32:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775737,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:32:01.000000Z",
+            "updated_at": "2025-12-01T15:32:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8064&grade=5&lesson=14653&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8064&grade=5&lesson=14653&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8064&grade=5&lesson=14653&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 58,
+  "total": 58
+}

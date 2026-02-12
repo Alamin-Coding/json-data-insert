@@ -1,0 +1,2468 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775651,
+      "value": {
+        "options": [],
+        "question": "ভূত্বক বলতে তুমি কী বোঝ?",
+        "solution": "অশ্বমণ্ডলের উপরিভাগকে ভূত্বক বলে। ভূত্বকই পৃথিবীর কঠিন বহিরাবরণ। এর গভীরতা ৩ কি. মি. (সমুদ্রের তলদেশ) থেকে ৪০ কি.মি. (পর্বতের তলদেশ)। তবে গড় গভীরতা ১৭ কি. মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775637,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "ক্লাসে রাজীবকে সফিউল স্যার সৌরজগতের তার পরিবারের কয়েকটি সদস্যের নাম বলতে বললেন। উত্তরে সে চন্দ্র, ডিমোস, ওবেরন এর নাম বলল।\u003Cbr\u003E\nরাজীবের উল্লিখিত নামগুলোর সাথে যে গ্রহগুলোর সম্পর্ক রয়েছে সেগুলো হলো-\u003Cbr\u003E\ni. পৃথিবী\u003Cbr\u003E\nii. মঙ্গল\u003Cbr\u003E\niii. ইউরেনাস\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775638,
+      "value": {
+        "options": [],
+        "question": "বিশ্বজগৎ কীভাবে সৃষ্টি হয়েছে?",
+        "solution": "পৃথিবীর চারদিকে অসীম মহাকাশ বিস্তৃত। মহাকাশে রয়েছে নক্ষত্র, ছায়াপথ, নীহারিকা, ধূমকেতু, গ্রহ, উপগ্রহ, উল্কা ও অন্যান্য জ্যোতিষ্ক। মহাকাশের এই অসংখ্য জ্যোতিষ্ক নিয়ে সৃষ্টি হয়েছে বিশ্বজগৎ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775639,
+      "value": {
+        "options": [],
+        "question": "সূর্য কোন কোন উপাদানের সমন্বয়ে গঠিত?",
+        "solution": "সকল গ্রহ, উপগ্রহগুলোর তাপ ও আলোর উৎস হলো সূর্য। সূর্যের কোনো কঠিন বা তরল পদার্থ নেই। শতকরা ৫৫ ভাগ হাইড্রোজেন, ৪৪ ভাগ হিলিয়াম এবং ১ ভাগ অন্যান্য গ্যাসের সমন্বয়ে সূর্য গঠিত হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775640,
+      "value": {
+        "options": [],
+        "question": "গ্রহ বলতে তুমি কী বোঝ?",
+        "solution": "মহাকর্ষ বলের প্রভাবে কতোগুলো জ্যোতিষ্ক সূর্যের চারদিকে নির্দিষ্ট সময়ে নির্দিষ্ট কক্ষপথে পরিক্রমণ করছে। এদের গ্রহ বলা হয়। গ্রহের নিজস্ব আলো ও তাপ নেই। সৌরজগতে গ্রহের সংখ্যা ৮টি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775641,
+      "value": {
+        "options": [],
+        "question": "'ক' গ্রহের একমাত্র উপগ্রহ হলো চাঁদ। গ্রহটি সম্পর্কে তুমি কী জানো?",
+        "solution": "পৃথিবীর একমাত্র উপগ্রহ হলো চাঁদ। পৃথিবী সূর্যের তৃতীয় নিকটতম গ্রহ। এর আয়তন ৫১০, ১০০, ৪২২ বর্গকিলোমিটার। পৃথিবী ৩৬৫ দিন ৫ ঘণ্টা ৪৮ মিনিট ৪৭ সেকেন্ডে সূর্যকে একবার প্রদক্ষিণ করে। এ গ্রহে জীবনের জন্য প্রয়োজনীয় অক্সিজেন ও নাইট্রোজেন রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775642,
+      "value": {
+        "options": [],
+        "question": "'প' গ্রহের উপরিভাগে গিরিখাত ও অগ্নেয়গিরি রয়েছে। গ্রহটির নাম কী? এটি লালচে বর্ণ ধারণ করেছে কেন?",
+        "solution": "মঙ্গল গ্রহের উপরিভাগে গিরিখাত ও আগ্নেয়গিরি রয়েছে। এ গ্রহের পাথরগুলোতে মরিচা পড়েছে। এর ফলে গ্রহটি লালচে বর্ণ ধারণ করেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775643,
+      "value": {
+        "options": [],
+        "question": "সূর্য থেকে দূরত্বের দিক দিয়ে পৃথিবীর পরেই একটি নির্দিষ্ট গ্রহের অবস্থান। গ্রহটির পরিচয় দাও।",
+        "solution": "সূর্য থেকে দূরত্বের দিক দিয়ে পৃথিবীর পরেই মঙ্গল গ্রহের অবস্থান। সূর্য থেকে এর গড় দূরত্ব ২২.৮ কোটি কিলোমিটার এবং পৃথিবী থেকে ৭.৮ কোটি কিলোমিটার। এর আয়তন ১৪৪,৭৯৮,৫০০ বর্গ কি.মি.। ডিমোস ও ফেবোস নামে মঙ্গল গ্রহের দুটি উপগ্রহ রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775644,
+      "value": {
+        "options": [],
+        "question": "ইউরেনাস গ্রহ সম্পর্কে ধারণা দাও।",
+        "solution": "ইউরেনাস সৌরজগতের তৃতীয় বৃহত্তম গ্রহ। সূর্য থেকে এর গড় দূরত্ব ২৮৭ কোটি কিলোমিটার। ৮৪ বছরে এটি একবার সূর্যকে প্রদক্ষিণ করে। এর ২৭টি উপগ্রহ রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775645,
+      "value": {
+        "options": [],
+        "question": "'X' বায়ুমণ্ডলের সর্বনিম্ন স্তর। 'X' স্তরটি কী নামে পরিচিত? এ স্তর প্রয়োজনীয় কেন?",
+        "solution": "&#39;X&#39; স্তরটি ট্রপোমণ্ডল নামে পরিচিত। আর্দ্রতা, কুয়াশা, মেঘ, বৃষ্টি, বায়ুপ্রবাহ প্রভৃতি এ স্তরে লক্ষ করা যায়। আবহাওয়া প্রক্রিয়ার বেশিরভাগই বায়ুমণ্ডলের এ স্তরে ঘটে থাকে। তাই এটি মানুষের জন্য সবচেয়ে প্রয়োজনীয় স্তর।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775646,
+      "value": {
+        "options": [],
+        "question": "তানিয়া পাঠ্যবই থেকে সৌরজগতের ক্ষুদ্রতম গ্রহ সম্পর্কে জেনেছে। সে কোন গ্রহ সম্পর্কে জেনেছে? এটি সম্পর্কে তুমি যা জানো লেখো।",
+        "solution": "তানিয়া বুধ গ্রহ সম্পর্কে জেনেছে। বুধ সৌরজগতের ক্ষুদ্রতম এবং সূর্যের নিকটতম গ্রহ। এর ব্যাস ৪৮৫০ কিলোমিটার এবং ওজন পৃথিবীর ৫০ ভাগের ৩ ভাগের সমান। সূর্যের চারদিকে পরিক্রমণ করতে এর ৮৮ দিন সময় লাগে। সূর্য থেকে এর গড় দূরত্ব ৫.৮ কোটি কিলোমিটার।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775647,
+      "value": {
+        "options": [],
+        "question": "গ্রহাণুপুঞ্জ বলতে কী বোঝ?",
+        "solution": "মঙ্গল ও বৃহস্পতির মাঝের পরিসরে অসংখ্য ক্ষুদ্র ক্ষুদ্র গ্রহাণু একত্রে পুঞ্জীভূত হয়ে পরিক্রমণ করছে। এই পরিসরের মধ্যে আর কোনো গ্রহ নেই। ১.৬ কিলোমিটার থেকে ৮০৫ কিলোমিটার ব্যাসসম্পন্ন গ্রহাণুগুলোকে একত্রে গ্রহাণুপুঞ্জ বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775648,
+      "value": {
+        "options": [],
+        "question": "সৌরজগতের একটি গ্রহ অনেকটা নীলাভ বর্ণের। গ্রহটির নাম কী? একে শীতল গ্রহ বলা হয় কেন?",
+        "solution": "সৌরজগতের আটটি গ্রহের মধ্যে নেপচুন অনেকটা নীলাভ বর্ণের। সূর্য থেকে গ্রহটি অনেক দূরে অবস্থিত। এ কারণে গ্রহটি শীতল।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775649,
+      "value": {
+        "options": [],
+        "question": "কী কারণে তুমি পৃথিবীকে জীবজন্তুর বসবাস উপযোগী বলে মনে কর?",
+        "solution": "জীবজন্তুর বেঁচে থাকার জন্য প্রচুর আলো, বাতাস ও পানি প্রয়োজন। পৃথিবীর ভূত্বকে প্রয়োজনীয় পানি রয়েছে। এছাড়া পৃথিবী পৃষ্ঠের গড় তাপমাত্রা ১৩.৯০&deg; সেলসিয়াস যা জীবজন্তুর জন্য উপযোগী ও প্রয়োজনীয়। আবার সূর্য থেকে যে তাপ ও আলো পৃথিবীতে পৌঁছায় তাও জীবজন্তুর জন্য সহনীয়। এসব কারণে পৃথিবীতে জীবজন্তু বসবাস করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775650,
+      "value": {
+        "options": [],
+        "question": "ভূ-অভ্যন্তরের একটি স্তর নাইফ নামে পরিচিত। স্তরটির নাম কী? এটি কেন নাইফ নামে পরিচিত?",
+        "solution": "ভূ-অভ্যন্তরের কেন্দ্রমণ্ডল স্তরটি সংক্ষেপে নাইফ নামে পরিচিত। এ স্তরে নিকেল (Nickel) ও লৌহের (Ferus) পরিমাণ বেশি থাকায় একে নাইফ (Nife) বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775636,
+      "value": {
+        "options": {
+          "ক": "বুধ",
+          "খ": "শুক্র",
+          "গ": "মঙ্গল",
+          "ঘ": "বৃহস্পতি"
+        },
+        "question": "পৃথিবীর নিকটতম গ্রহ কোনটি?",
+        "solution": "খ. শুক্র",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4801,
+          "full_name": "রা. বো.'২০২৪;কু. বো.'২০১৫",
+          "short_name": "রা. বো.'২০২৪;কু. বো.'২০১৫",
+          "slug": "ra-bo2024ku-bo2015",
+          "pivot": {
+            "question_bank_id": 775636,
+            "tag_id": 4801,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775652,
+      "value": {
+        "options": [],
+        "question": "'ক' এর প্রাণকেন্দ্র হলো সূর্য। 'ক' এর নাম কী? এটি সম্পর্কে তুমি কী জানো?",
+        "solution": "ক&#39; এর নাম সৌরজগৎ। সূর্য এবং এর গ্রহ, উপগ্রহ, গ্রহাণুপুঞ্জ, ধূমকেতু, উল্কা প্রভৃতি নিয়ে যে পরিবার তাকে বলা হয় সৌরজগৎ। সৌরজগতের প্রাণকেন্দ্র হলো সূর্য। সৌরজগতে ৮টি গ্রহ, শতাধিক উপগ্রহ, হাজার হাজার গ্রহাণুপুঞ্জ ও লক্ষ লক্ষ ধূমকেতু রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775653,
+      "value": {
+        "options": [],
+        "question": "শিক্ষক পৃথিবীর সঙ্গে ঘনিষ্ঠ সম্পর্কযুক্ত একটি উজ্জ্বল নক্ষত্র সম্পর্কে আলোচনা করলেন। শিক্ষকের আলোচিত নক্ষত্রটি সম্পর্কে তুমি কী জানো?",
+        "solution": "শিক্ষকের আলোচিত নক্ষত্রটি হলো সূর্য। সূর্য পৃথিবী অপেক্ষা প্রায় ১৩ লক্ষ গুণ বড়ো। এর ব্যাস প্রায় ১৩ লক্ষ ৮৪ হাজার কিলোমিটার। পৃথিবী থেকে এটি প্রায় ১৫ কোটি কিলোমিটার দূরে অবস্থিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775654,
+      "value": {
+        "options": [],
+        "question": "বায়ুমণ্ডল সম্পর্কে ধারণা দাও।",
+        "solution": "পৃথিবীর চারদিক নানা প্রকার গ্যাসীয় উপাদান দ্বারা বেষ্টিত। পৃথিবীকে বেষ্টন করে থাকা অদৃশ্য এ গ্যাসীয় আবরণকে বায়ুমণ্ডল বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775655,
+      "value": {
+        "options": [],
+        "question": "ট্রপোপস সম্পর্কে তুমি কী জানো?",
+        "solution": "ট্রপোমণ্ডলের উর্ধ্বসীমাকে ট্রপোপস বলে। ট্রপোপসের গভীরতা সরু এবং এখানে বায়ু স্থির। ঝড় বৃষ্টির প্রাদুর্ভাব না থাকায় এর স্তর দিয়ে নির্বিঘ্নে বিমান চলাচল করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775656,
+      "value": {
+        "options": [],
+        "question": "ওজোন স্তর সম্পর্কে ধারণা দাও।",
+        "solution": "বায়ুমণ্ডলে ওজোন গ্যাসের স্তরটি ওজোন স্তর নামে পরিচিত। এর গভীরতা প্রায় ১২-১৬ কি. মি.। সূর্যের অতিবেগুনি রশ্মি শোষণ করায় এর তাপমাত্রা ধীরে ধীরে প্রায় ৪০ চল্লিশ ডিগ্রি সেলসিয়াস পর্যন্ত হয়। এ স্তরটি পৃথিবীকে প্রাণিজগতের বাস উপযোগী করেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775657,
+      "value": {
+        "options": [],
+        "question": "আদনান সিলিকন, ম্যাগনেশিয়াম প্রভৃতি ভারী ধাতুর সংমিশ্রণে গঠিত ভূ-অভ্যন্তরের একটি স্তর সম্পর্কে জানতে পারল। স্তরটির নাম কী? একে সিমা বলা হয় কেন?",
+        "solution": "স্তরটির নাম গুরুমণ্ডল। গুরুমণ্ডল সিলিকন ও ম্যাগনেশিয়াম প্রভৃতি ভারী ধাতুগুলোর সংমিশ্রণে গঠিত হওয়ার কারণে একে সিমা বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775658,
+      "value": {
+        "options": [],
+        "question": "সৌরকলঙ্ক সম্পর্কে তুমি কী জানো?",
+        "solution": "সূর্যের মধ্যে মাঝে মাঝে যে কালো দাগ দেখা যায় তাকে সৌরকলঙ্ক বলে। সূর্যের অন্যান্য অংশের চেয়ে সৌরকলঙ্কের উত্তাপ কিছুটা কম থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775659,
+      "value": {
+        "options": [],
+        "question": "সূর্য থেকে দূরত্বের দিক দিয়ে দ্বিতীয় অবস্থানে রয়েছে সৌরজগতের একটি নির্দিষ্ট গ্রহ। গ্রহটির নাম কী? এখানে অ্যাসিড বৃষ্টি হয় কেন?",
+        "solution": "সূর্য থেকে দূরত্বের দিক দিয়ে দ্বিতীয় অবস্থানে রয়েছে শুক্র গ্রহ। এই গ্রহে কার্বন ডাই-অক্সাইড গ্যাসের পরিমাণ প্রায় শতকরা ৯৬ ভাগ। আর এই গ্যাসের ঘন মেঘের কারণেই শুক্র গ্রহে অ্যাসিড বৃষ্টি হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775660,
+      "value": {
+        "options": [],
+        "question": "রবিন সৌরজগতের সর্ববৃহৎ গ্রহ সম্পর্কে জেনেছে। রবিন কোন গ্রহ সম্পর্কে জেনেছে? সংক্ষেপে গ্রহটির বর্ণনা দাও।",
+        "solution": "রবিন বৃহস্পতি গ্রহ সম্পর্কে জেনেছে। কেননা বৃহস্পতি সৌরজগতের সর্ববৃহৎ গ্রহ। সূর্য থেকে দূরত্বের দিক দিয়ে বৃহস্পতির অবস্থান পঞ্চম। এর আয়তন পৃথিবীর প্রায় ১,৩০০ গুণ। গ্রহটিতে পৃথিবীর একদিনে দুইবার সূর্য ওঠে ও দুইবার অস্ত যায়। এর ৬৭টি উপগ্রহ রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775661,
+      "value": {
+        "options": [],
+        "question": "তিনটি উজ্জ্বল বলয় সৌরজগতের একটি গ্রহকে বেষ্টন করে আছে। এটি কোন গ্রহ? গ্রহটির ব্যাখ্যা দাও।",
+        "solution": "তিনটি উজ্জ্বল বলয় শনি গ্রহকে বেষ্টন করে আছে। শনি সৌরজগতের দ্বিতীয় বৃহত্তম গ্রহ। এর আয়তন ৪২,৭০০,০০০,০০০ বর্গ কি.মি. এবং ব্যাস ১১৬, ৪৬৪ বর্গ কি.মি.। শনির ৬২টি উপগ্রহ রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775662,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীতে জীবের অস্তিত্ব রক্ষার জন্য বায়ুমণ্ডলের গুরুত্ব কেমন বলে তুমি কর?",
+        "solution": "পৃথিবীতে জীবের অস্তিত্ব রক্ষার জন্য বায়ুমণ্ডলের গুরুত্ব অপরিসীম বলে আমি মনে করি। কেননা বায়ুমণ্ডলে অক্সিজেনের প্রাধান্য রয়েছে। আর সকল জীবের জন্য অক্সিজেন অত্যাবশ্যক। এছাড়া বায়ুমণ্ডল সূর্যের ক্ষতিকর রশ্মি থেকে প্রাণিকূলকে রক্ষা করে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775663,
+      "value": {
+        "options": [],
+        "question": "ভূ-অভ্যন্তরের 'ক' স্তরটি নানা ধরনের শিলা ও খনিজ উপাদান দ্বারা গঠিত। 'ক' স্তরটির নাম কী? এটিকে কেন সিয়াল স্তর বলে?",
+        "solution": "নানা ধরনের শিলা ও খনিজ উপাদান দ্বারা গঠিত &#39;ক&#39; স্তরটির নাম অশ্মমণ্ডল। এ স্তরে সিলিকন ও অ্যালুমিনিয়ামের পরিমাণ বেশি থাকার কারণে এটিকে সিয়াল স্তর বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775664,
+      "value": {
+        "options": [],
+        "question": "কী কারণে তুমি পৃথিবীকে জীবজন্তুর বসবাস উপযোগী বলে মনে কর?",
+        "solution": "জীবজন্তুর বেঁচে থাকার জন্য প্রচুর আলো, বাতাস ও পানি প্রয়োজন। পৃথিবীর ভূত্বকে প্রয়োজনীয় পানি রয়েছে। এছাড়া পৃথিবী পৃষ্ঠের গড় তাপমাত্রা ১৩.৯০&deg; সেলসিয়াস যা জীবজন্তুর জন্য উপযোগী ও প্রয়োজনীয়। আবার সূর্য থেকে যে তাপ ও আলো পৃথিবীতে পৌঁছায় তাও জীবজন্তুর জন্য সহনীয়। এসব কারণে পৃথিবীতে জীবজন্তু বসবাস করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775622,
+      "value": {
+        "options": {
+          "ক": "Sima",
+          "খ": "Sial",
+          "গ": "Nial",
+          "ঘ": "Nife"
+        },
+        "question": "ভূঅভ্যন্তরের গঠন উপাদানের ভিত্তিতে কেন্দ্রমন্ডল কী নামে পরিচিত?",
+        "solution": "ঘ. Nife",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 775622,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775608,
+      "value": {
+        "options": {
+          "ক": "০ ডিগ্রি",
+          "খ": "৬০ ডিগ্রি পূর্ব",
+          "গ": "৯০ ডিগ্রি পূর্ব&nbsp;",
+          "ঘ": "১৮০ ডিগ্রি পশ্চিম&nbsp;"
+        },
+        "question": "গ্রীনিচের দ্রাঘিমা কত ডিগ্রি?",
+        "solution": "ক. ০ ডিগ্রি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 775608,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775609,
+      "value": {
+        "options": {
+          "ক": "ক্যাপিটাস",
+          "খ": "এরিয়েল",
+          "গ": "নেরাইড",
+          "ঘ": "গ্যানিমেড"
+        },
+        "question": "কোনটি বৃহস্পতির উপগ্রহ?",
+        "solution": "ঘ. গ্যানিমেড",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4798,
+          "full_name": "দি. বো.'২০১৯;য. বো.'২০১৭;সি. বো.'২০১৮",
+          "short_name": "দি. বো.'২০১৯;য. বো.'২০১৭;সি. বো.'২০১৮",
+          "slug": "di-bo2019z-bo2017si-bo2018",
+          "pivot": {
+            "question_bank_id": 775609,
+            "tag_id": 4798,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775610,
+      "value": {
+        "options": {
+          "ক": "গ্রহ",
+          "খ": "উপগ্রহ",
+          "গ": "নক্ষত্র",
+          "ঘ": "ধূমকেতু"
+        },
+        "question": "'টাইটান' হলো-",
+        "solution": "খ. উপগ্রহ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 775610,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775611,
+      "value": {
+        "options": {
+          "ক": "শনি",
+          "খ": "পৃথিবী",
+          "গ": "মঙ্গল",
+          "ঘ": "বৃহস্পতি"
+        },
+        "question": "'ডিমোস' ও 'ফেবোস' কোন গ্রহের উপগ্রহ?",
+        "solution": "গ. মঙ্গল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4799,
+          "full_name": "চ. বো.'২০১৫;দি. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫;দি. বো.'২০১৫",
+          "slug": "c-bo2015di-bo2015",
+          "pivot": {
+            "question_bank_id": 775611,
+            "tag_id": 4799,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775612,
+      "value": {
+        "options": {
+          "ক": "১৫",
+          "খ": "২২.৮",
+          "গ": "৭৭.৮",
+          "ঘ": "১৪৩"
+        },
+        "question": "সূর্য থেকে বৃহস্পতি গ্রহের দূরত্ব কত কোটি কি. মি.?",
+        "solution": "গ. ৭৭.৮",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775613,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সৌরজগতের নিয়ন্ত্রক হিসেবে সূর্য-\u003Cbr\u003E\ni. গ্যাসীয় পদার্থ দ্বারা গঠিত\u003Cbr\u003E\nii. আণবিক শক্তি সৃষ্টির প্রক্রিয়ায় শক্তি তৈরি করে\u003Cbr\u003E\niii. সূর্যে কঠিন বা তরল পদার্থ আছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 775613,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775614,
+      "value": {
+        "options": {
+          "ক": "বুধ",
+          "খ": "শুক্র",
+          "গ": "মঙ্গল",
+          "ঘ": "বৃহস্পতি"
+        },
+        "question": "কোন গ্রহের উপরিভাগে গিরিখাত ও আগ্নেয়গিরি রয়েছে?",
+        "solution": "গ. মঙ্গল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775614,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775615,
+      "value": {
+        "options": {
+          "ক": "সূর্য",
+          "খ": "চন্দ্র",
+          "গ": "গ্রহাণুপুঞ্জ",
+          "ঘ": "পৃথিবী"
+        },
+        "question": "সৌরজগতের সকল গ্রহ ও উপগ্রহের নিয়ন্ত্রক হলো-",
+        "solution": "ক. সূর্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4316,
+          "full_name": "কু. বো.'২০১৭;ব. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭;ব. বো.'২০১৭",
+          "slug": "ku-bo2017b-bo2017",
+          "pivot": {
+            "question_bank_id": 775615,
+            "tag_id": 4316,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775616,
+      "value": {
+        "options": {
+          "ক": "শুক্র",
+          "খ": "মঙ্গল",
+          "গ": "বৃহস্পতি",
+          "ঘ": "শনি"
+        },
+        "question": "কোন গ্রহের আকাশে বছরে দুইবার সূর্য উদিত হয়?",
+        "solution": "ক. শুক্র",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 775616,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775617,
+      "value": {
+        "options": {
+          "ক": "নেরাইড",
+          "খ": "মিরিন্ডা",
+          "গ": "হুয়া",
+          "ঘ": "ইউরোপা"
+        },
+        "question": "&nbsp;নিচের কোনটি ইউরেনাসের উপগ্রহ?",
+        "solution": "খ. মিরিন্ডা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 775617,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775618,
+      "value": {
+        "options": {
+          "ক": "৪.৩",
+          "খ": "৫.৮",
+          "গ": "৬.৫",
+          "ঘ": "৭.৮"
+        },
+        "question": "সূর্য থেকে শুক্রের এবং পৃথিবী থেকে শুক্রের দূরত্বের পার্থক্য&nbsp;কত&nbsp;কোটি কিলোমিটার?",
+        "solution": "গ. ৬.৫",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 775618,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775619,
+      "value": {
+        "options": {
+          "ক": "ট্রপোমণ্ডলে",
+          "খ": "গুরুমন্ডলে",
+          "গ": "অশ্বমন্ডলে",
+          "ঘ": "কেন্দ্রমন্ডলে"
+        },
+        "question": "'নিফে' স্তরটি কোন মন্ডলে অবস্থিত?",
+        "solution": "ঘ. কেন্দ্রমন্ডলে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 775619,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775620,
+      "value": {
+        "options": {
+          "ক": "মঙ্গল",
+          "খ": "শুক্র",
+          "গ": "শনি",
+          "ঘ": "বৃহস্পতি&nbsp;"
+        },
+        "question": "সন্ধ্যায় পশ্চিমাকাশে কোনটি দেখা যায়?",
+        "solution": "খ. শুক্র",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 775620,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775621,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কোনটি মঙ্গলের উপগ্রহ?\u003Cbr\u003E\ni. ডিমোস\u003Cbr\u003E\nii. ক্যারন\u003Cbr\u003E\niii. ফেবোস\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 775621,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775607,
+      "value": {
+        "options": {
+          "ক": "ইউরেনাস",
+          "খ": "নেপচুন",
+          "গ": "শনি",
+          "ঘ": "মঙ্গল"
+        },
+        "question": "নীলাভ বর্ণের গ্রহ কোনটি?",
+        "solution": "খ. নেপচুন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 775607,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775623,
+      "value": {
+        "options": {
+          "ক": "শনি",
+          "খ": "নেপচুন",
+          "গ": "ইউরেনাস",
+          "ঘ": "বৃহস্পতি"
+        },
+        "question": "টাইটানিয়া কোন গ্রহের উপগ্রহ?",
+        "solution": "গ. ইউরেনাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 775623,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775624,
+      "value": {
+        "options": {
+          "ক": "স্ট্র্যাটোমণ্ডল",
+          "খ": "গুরুমণ্ডল",
+          "গ": "ট্রপোপস",
+          "ঘ": "ওজোন স্তর"
+        },
+        "question": "বায়ুমন্ডলের যে স্তর দিয়ে বিমান চলাচল করে সেটি কোন স্তর নামে পরিচিত?",
+        "solution": "গ. ট্রপোপস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 775624,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775625,
+      "value": {
+        "options": {
+          "ক": "একটি",
+          "খ": "দুটি",
+          "গ": "তিনটি",
+          "ঘ": "চারটি"
+        },
+        "question": "পৃথিবী গ্রহের কয়টি উপগ্রহ রয়েছে?&nbsp;",
+        "solution": "ক. একটি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3789,
+          "full_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "short_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "slug": "bgura-kzantnment-pablik-skul-end-klej",
+          "pivot": {
+            "question_bank_id": 775625,
+            "tag_id": 3789,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775626,
+      "value": {
+        "options": {
+          "ক": "কেন্দ্রমন্ডল",
+          "খ": "গুরুমণ্ডল",
+          "গ": "ভূত্বক",
+          "ঘ": "অশ্মমণ্ডল"
+        },
+        "question": "পৃথিবীর কেন্দ্রে কোন মন্ডল রয়েছে?",
+        "solution": "ক. কেন্দ্রমন্ডল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3831,
+          "full_name": "বরিশাল জিলা স্কুল",
+          "short_name": "বরিশাল জিলা স্কুল",
+          "slug": "brisal-jila-skul",
+          "pivot": {
+            "question_bank_id": 775626,
+            "tag_id": 3831,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775627,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "মঙ্গল গ্রহে জীবনধারণ অসম্ভব কেন?\u003Cbr\u003E\ni. পানির পরিমাণ খুবই কম\u003Cbr\u003E\nii. গড় উত্তাপ হিমাঙ্কের অনেক নিচে\u003Cbr\u003E\niii. আবহমণ্ডলে মিথেন গ্যাসের পরিমাণ অধিক\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775628,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "গ্রহের মূল বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. নিজস্ব আলো নেই\u003Cbr\u003E\nii. নিজস্ব তাপ নেই\u003Cbr\u003E\niii. মহাকর্ষ বল নেই\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3787,
+          "full_name": "দি. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৯",
+          "slug": "di-bo2019",
+          "pivot": {
+            "question_bank_id": 775628,
+            "tag_id": 3787,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775629,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "'শনি' সৌরজগতের দ্বিতীয় বৃহত্তম গ্রহ যেটি-\u003Cbr\u003E\ni.&nbsp;সূর্য থেকে ১৪৩ কোটি কিলোমিটার দূরে অবস্থিত\u003Cbr\u003E\nii. পৃথিবী থেকে বড়\u003Cbr\u003E\niii. উজ্জ্বল নক্ষত্র নামে পরিচিত\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 775629,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775630,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ক্লাসে রাজীবকে সফিউল স্যার সৌরজগতের তার পরিবারের কয়েকটি সদস্যের নাম বলতে বললেন। উত্তরে সে চন্দ্র, ডিমোস, ওবেরন এর নাম বলল।\u003Cbr\u003E\nরাজীবের উল্লিখিত নামগুলোর সাথে প্রকৃতিগত সাদৃশ্য রয়েছে-\u003Cbr\u003E\n&nbsp;i. টেথিসের সাথে&nbsp;\u003Cbr\u003E\nii. নেরাইডের সাথে\u003Cbr\u003E\niii. গ্যালাক্সির সাথে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775631,
+      "value": {
+        "options": {
+          "ক": "ইউরেনাস",
+          "খ": "নেপচুন&nbsp;",
+          "গ": "বৃহস্পতি&nbsp;",
+          "ঘ": "শনি"
+        },
+        "question": "মিরিন্ডা কোন গ্রহের উপগ্রহ?",
+        "solution": "ক. ইউরেনাস",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 775631,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775632,
+      "value": {
+        "options": {
+          "ক": "১-৪",
+          "খ": "৫-৮",
+          "গ": "৯-১১",
+          "ঘ": "১২-১৬"
+        },
+        "question": "বায়ুমন্ডলে ওজোন গ্যাসের স্তরের গভীরতা কত কি. মি.?",
+        "solution": "ঘ. ১২-১৬",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4800,
+          "full_name": "ঢা. বো.'২০২০;সি. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০২০;সি. বো.'২০১৬",
+          "slug": "dha-bo2020si-bo2016",
+          "pivot": {
+            "question_bank_id": 775632,
+            "tag_id": 4800,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775633,
+      "value": {
+        "options": {
+          "ক": "হিলিয়াম",
+          "খ": "হাইড্রোজেন",
+          "গ": "নাইট্রোজেন",
+          "ঘ": "কার্বন ডাইঅক্সাইড"
+        },
+        "question": "সৌরজগতের প্রাণকেন্দ্র নামক নক্ষত্রে কোন গ্যাসের পরিমাণ অপেক্ষাকৃত বেশি থাকে?",
+        "solution": "খ. হাইড্রোজেন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3968,
+          "full_name": "ব. বো.'২০১৯;ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৯;ব. বো.'২০১৫",
+          "slug": "b-bo2019b-bo2015",
+          "pivot": {
+            "question_bank_id": 775633,
+            "tag_id": 3968,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775634,
+      "value": {
+        "options": {
+          "ক": "আণবিক শক্তির",
+          "খ": "হিলিয়াম গ্যাসের",
+          "গ": "সূর্যের আলোর",
+          "ঘ": "মহাকর্ষ বলের"
+        },
+        "question": "কিসের প্রভাবে গ্রহগুলো সূর্যের চারদিকে ঘুরে?",
+        "solution": "ঘ. মহাকর্ষ বলের",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775635,
+      "value": {
+        "options": {
+          "ক": "বুধ",
+          "খ": "বৃহস্পতি",
+          "গ": "শুক্র",
+          "ঘ": "মঙ্গল"
+        },
+        "question": "সৌরজগতের সবচেয়ে বড় গ্রহ কোনটি",
+        "solution": "খ. বৃহস্পতি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8063,
+      "created_at": "2025-12-01T15:31:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 775635,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-01T15:31:02.000000Z",
+            "updated_at": "2025-12-01T15:31:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8063&grade=5&lesson=14651&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8063&grade=5&lesson=14651&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8063&grade=5&lesson=14651&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 58,
+  "total": 58
+}

@@ -1,0 +1,333 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776580,
+      "value": {
+        "options": {
+          "ক": "চূড়ান্ত",
+          "খ": "মাধ্যমিক",
+          "গ": "প্রাথমিক",
+          "ঘ": "প্রাক-প্রাথমিক"
+        },
+        "question": "উৎপাদন পদ্ধতিতে মোট জাতীয় উৎপাদন হিসাব করতে হলে কোন দ্রব্যটি হিসাব করা হয়?",
+        "solution": "ক. চূড়ান্ত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 776580,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:47:20.000000Z",
+            "updated_at": "2025-12-01T15:47:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776581,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি দেশের অর্থনৈতিক অবস্থা বুঝতে হলে জানতে হবে সে দেশের-\u003Cbr\u003E\nমোট জাতীয় উৎপাদন\u003Cbr\u003E\nii. মোট দেশজ উৎপাদন\u003Cbr\u003E\niii. জনগণের মাথাপিছু আয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776582,
+      "value": {
+        "options": {
+          "ক": "মূলধন",
+          "খ": "মোট সুদ",
+          "গ": "মুনাফা",
+          "ঘ": "মোট জাতীয় উৎপাদন"
+        },
+        "question": "উৎপাদিত দ্রব্যসামগ্রী ও দ্রব্যের আর্থিক মূল্যের সমষ্টিকে বলা হয়-",
+        "solution": "ঘ. মোট জাতীয় উৎপাদন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 776582,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:47:20.000000Z",
+            "updated_at": "2025-12-01T15:47:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776583,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "মোট জাতীয় উৎপাদনকে কয়টি দিক থেকে বিবেচনা করে পরিমাপ করা যায়?",
+        "solution": "খ. ৩",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 776583,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:47:20.000000Z",
+            "updated_at": "2025-12-01T15:47:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776584,
+      "value": {
+        "options": {
+          "ক": "মোট জাতীয় আয়",
+          "খ": "মোট জাতীয় উৎপাদন",
+          "গ": "মাথাপিছু আয়",
+          "ঘ": "মোট উৎপাদন"
+        },
+        "question": "উৎপাদিত উপাদানের মূল সমষ্টিকে বলা হয়-",
+        "solution": "খ. মোট জাতীয় উৎপাদন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 776584,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-01T15:47:20.000000Z",
+            "updated_at": "2025-12-01T15:47:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776585,
+      "value": {
+        "options": {
+          "ক": "৩০০ ইউএস ডলার",
+          "খ": "৪০০ ইউএস ডলার",
+          "গ": "৫০০ ইউএস ডলার",
+          "ঘ": "৮০০ ইউএস ডলার"
+        },
+        "question": "ধরি একটি দেশের জনসংখ্যা যখন ১৬ কোটি এবং উক্ত সময়ের&nbsp;দেশটির মোট জাতীয় আয় ৮০০০ কোটি ইউএস ডলার। তখন&nbsp;দেশটির মাথাপিছু আয় কত?",
+        "solution": "গ. ৫০০ ইউএস ডলার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776585,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:47:20.000000Z",
+            "updated_at": "2025-12-01T15:47:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14707&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14707&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14707&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

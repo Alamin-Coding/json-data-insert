@@ -1,0 +1,745 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776533,
+      "value": {
+        "options": {
+          "ক": "নিম্ন আয়",
+          "খ": "নিম্ন মধ্য আয়",
+          "গ": "উচ্চ মধ্য আয়",
+          "ঘ": "উচ্চ আয়"
+        },
+        "question": "'A' রাষ্ট্রের মাথাপিছু আয় যদি ১৭৮০ ইউএস ডলার হয় তাহলে আয়ের ভিত্তিতে রাষ্ট্রটি কোন শ্রেণির অন্তর্গত?",
+        "solution": "খ. নিম্ন মধ্য আয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 776533,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776534,
+      "value": {
+        "options": {
+          "ক": "১২",
+          "খ": "১৩",
+          "গ": "১৪",
+          "ঘ": "১৫"
+        },
+        "question": "বাংলাদেশের অর্থনীতিকে প্রধানত কতটি খাতে ভাগ করা যায়?",
+        "solution": "ঘ. ১৫",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776535,
+      "value": {
+        "options": {
+          "ক": "পাঁচটি",
+          "খ": "চারটি",
+          "গ": "তিনটি",
+          "ঘ": "দুটি"
+        },
+        "question": "বিশ্বের যে কোনো দেশের অর্থনীতিকে প্রধানত কয়টি খাতে ভাগ করা হয়?",
+        "solution": "গ. তিনটি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776536,
+      "value": {
+        "options": {
+          "ক": "শিল্প",
+          "খ": "প্রাকৃতিক",
+          "গ": "ব্যবসায়",
+          "ঘ": "কৃষি"
+        },
+        "question": "মৎস্য কোন খাতের অন্তর্ভুক্ত?",
+        "solution": "ঘ. কৃষি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776536,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776537,
+      "value": {
+        "options": {
+          "ক": "উন্নত",
+          "খ": "উন্নয়নশীল",
+          "গ": "অনুন্নত",
+          "ঘ": "দরিদ্র"
+        },
+        "question": "'ক' দেশটি কৃষির ওপর নির্ভরশীলতা কমালেও এ খাতে দিন দিন উৎপাদন বৃদ্ধি করছে। দেশটি ব্যাপক বেকারত্ব থাকলেও তা হ্রাসের প্রচেষ্টা চালাচ্ছে।\u003Cbr\u003E\nঅর্থনৈতিক উন্নয়নের ভিত্তিতে 'ক' দেশটি কোন পর্যায়ের অন্তর্ভুক্ত?",
+        "solution": "খ. উন্নয়নশীল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 776537,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776538,
+      "value": {
+        "options": {
+          "ক": "সুইডেন",
+          "খ": "চীন",
+          "গ": "মিশর",
+          "ঘ": "মালয়েশিয়া"
+        },
+        "question": "উচ্চ আয়ের দেশ কোনটি?",
+        "solution": "ক. সুইডেন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4845,
+          "full_name": "দি. বো.'২০১৯;য. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৯;য. বো.'২০১৭",
+          "slug": "di-bo2019z-bo2017",
+          "pivot": {
+            "question_bank_id": 776538,
+            "tag_id": 4845,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776539,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "মধ্য আয়ের দেশগুলোকে কয়ভাগে ভাগ করা যায়?",
+        "solution": "ক. ২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 776539,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776540,
+      "value": {
+        "options": {
+          "ক": "নিম্ন আয়",
+          "খ": "নিম্নমধ্য আয়",
+          "গ": "উচ্চমধ্য আয়",
+          "ঘ": "উচ্চ আয়"
+        },
+        "question": "'B' রাষ্ট্রের মাথাপিছু মোট জাতীয় আয় ১৩৪০ ইউএস ডলার। আয়ভিত্তিক শ্রেণি অনুযায়ী ঐ রাষ্ট্র কোন শ্রেণির অন্তর্ভুক্ত?",
+        "solution": "খ. নিম্নমধ্য আয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 776540,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776541,
+      "value": {
+        "options": {
+          "ক": "কেনিয়া",
+          "খ": "থাইল্যান্ড",
+          "গ": "মিসর",
+          "ঘ": "কম্বোডিয়া"
+        },
+        "question": "কোন দেশটি নিম্নমধ্য আয়ের দেশ নয়?",
+        "solution": "খ. থাইল্যান্ড",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 776541,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776542,
+      "value": {
+        "options": {
+          "ক": "উচ্চ",
+          "খ": "উচ্চ মধ্য",
+          "গ": "নিম্নমধ্য",
+          "ঘ": "নিম্ন"
+        },
+        "question": "জনাব লিটন দুবাই এ ব্যবসায় করেন। সেখানকার জনগণের মাথাপিছু আয় ৩০,০০০ ডলারের ঊর্ধ্বে। তিনি তার অর্জিত অর্থের একটা অংশ দেশে তার পরিবারের নিকট প্রেরণ করেন।\u003Cbr\u003E\nজনাব লিটনের বসবাসকারী দেশের অর্থনীতি আয়ের ভিত্তিতে কোন পর্যায়ের?",
+        "solution": "ক. উচ্চ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 776542,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776543,
+      "value": {
+        "options": {
+          "ক": "২০০ মার্কিন ডলার",
+          "খ": "২৫০ মার্কিন ডলার",
+          "গ": "৫০০ মার্কিন ডলার",
+          "ঘ": "৭৫০ মার্কিন ডলার"
+        },
+        "question": "২০২২ সালের মধ্য সময়ে একটি দেশের মোট জনসংখ্যা ২৮ কোটি ছিল এবং ওই সময়ে মোট জাতীয় আয় ১৪,০০০ কোটি মার্কিন ডলার। ওই সময়ে দেশটির মাথাপিছু আয় কত?",
+        "solution": "গ. ৫০০ মার্কিন ডলার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776543,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776544,
+      "value": {
+        "options": {
+          "ক": "১০০৫ ডলার বা তার কম",
+          "খ": "১০০৬ - ৩৯৭৫ ডলার",
+          "গ": "৩৯৭৬ - ১২২৭৫ ডলার",
+          "ঘ": "১২২৭৬ ডলার বা তার বেশি"
+        },
+        "question": "উচ্চ মধ্য আয়ের দেশের মাথাপিছু আয় কত?",
+        "solution": "গ. ৩৯৭৬ - ১২২৭৫ ডলার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 776544,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:46:32.000000Z",
+            "updated_at": "2025-12-01T15:46:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776545,
+      "value": {
+        "options": {
+          "ক": "৫",
+          "খ": "৪",
+          "গ": "৩",
+          "ঘ": "২"
+        },
+        "question": "বিশ্বব্যাংক মাথাপিছু মোট জাতীয় আয়ের ভিত্তিতে পৃথিবীর দেশগুলোকে কয় ভাগে ভাগ করেছে?",
+        "solution": "গ. ৩",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776546,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনাব লিটন দুবাই এ ব্যবসায় করেন। সেখানকার জনগণের মাথাপিছু আয় ৩০,০০০ ডলারের ঊর্ধ্বে। তিনি তার অর্জিত অর্থের একটা অংশ দেশে তার পরিবারের নিকট প্রেরণ করেন।\u003Cbr\u003E\nজনাব লিটনের প্রেরিত অর্থ আমাদের দেশে অন্তর্ভুক্ত হবে-\u003Cbr\u003E\ni. মোট জাতীয় আয়ে\u003Cbr\u003E\nii. মোট দেশজ উৎপাদনে\u003Cbr\u003E\niii. মোট জাতীয় উৎপাদনে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776547,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "iii",
+          "গ": "i ও ii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "'ক' দেশটি কৃষির ওপর নির্ভরশীলতা কমালেও এ খাতে দিন দিন উৎপাদন বৃদ্ধি করছে। দেশটি ব্যাপক বেকারত্ব থাকলেও তা হ্রাসের প্রচেষ্টা চালাচ্ছে।\u003Cbr\u003E\nঅর্থনৈতিক প্রেক্ষাপট বিশ্লেষণ করলে বলা যায়, দেশটি-\u003Cbr\u003E\ni. দারিদ্র্যের দুষ্টচক্র থেকে বেরিয়ে এসেছে\u003Cbr\u003E\nii. শিল্পখাতে অধিক গুরুত্ব দিচ্ছে\u003Cbr\u003E\niii. দারিদ্র্যের দুষ্টচক্রে আবর্তিত হচ্ছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. i ও ii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14704&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14704&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14704&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 15,
+  "total": 15
+}

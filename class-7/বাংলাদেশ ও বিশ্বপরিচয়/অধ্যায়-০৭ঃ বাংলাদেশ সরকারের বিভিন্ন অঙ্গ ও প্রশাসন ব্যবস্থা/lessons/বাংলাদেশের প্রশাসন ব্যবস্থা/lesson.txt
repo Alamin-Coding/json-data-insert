@@ -1,0 +1,2015 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776100,
+      "value": {
+        "options": [],
+        "question": "উপসচিব পদমর্যাদা সম্পন্ন আমজাদ সাহেব 'M' জেলার মধ্যমণি | হিসেবে পরিচিত। আমজাদ সাহেবের মাধ্যমে প্রশাসনের কোন ব্যক্তিকে নির্দেশ করা হয়েছে? ব্যাখ্যা করো।",
+        "solution": "আমজাদ সাহেবের মাধ্যমে জেলা প্রশাসককে নির্দেশ করা হয়েছে। জেলা প্রশাসক বা ডেপুটি কমিশনার হলেন জেলা প্রশাসনের মধ্যমণি। তিনি বাংলাদেশ সিভিল সার্ভিসের একজন অভিজ্ঞ সদস্য। তাকে কেন্দ্র করে জেলার সমগ্র শাসন আবর্তিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776090,
+      "value": {
+        "options": {
+          "ক": "১৮৭০",
+          "খ": "১৮৮৫",
+          "গ": "১৯১৯",
+          "ঘ": "১৯৪৫"
+        },
+        "question": "'চৌকিদাবি পঞ্চায়েত আইন' কত সালে প্রবর্তিত হয়?",
+        "solution": "ক. ১৮৭০",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4829,
+          "full_name": "কু. বো.'২০২০;য. বো.'২০১৫",
+          "short_name": "কু. বো.'২০২০;য. বো.'২০১৫",
+          "slug": "ku-bo2020z-bo2015",
+          "pivot": {
+            "question_bank_id": 776090,
+            "tag_id": 4829,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776091,
+      "value": {
+        "options": {
+          "ক": "যুগ্ম সচিব",
+          "খ": "অতিরিক্ত সচিব",
+          "গ": "সচিব",
+          "ঘ": "মন্ত্রী"
+        },
+        "question": "কেন্দ্রীয় প্রশাসনের পদ সোপান অনুযায়ী সর্বোচ্চ স্তরের প্রশাসনিক&nbsp;কর্মকর্তা কে?",
+        "solution": "গ. সচিব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 776091,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776092,
+      "value": {
+        "options": {
+          "ক": "মাদকদ্রব্যের প্রতিরোধ",
+          "খ": "আদর্শ কৃষিখামার স্থাপন",
+          "গ": "জাতীয় দিবস উদদ্যাপন",
+          "ঘ": "ব্রিজ নির্মাণ"
+        },
+        "question": "জেলা পরিষদের আবশ্যিক কাজ কোনটি?",
+        "solution": "ঘ. ব্রিজ নির্মাণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 776092,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776093,
+      "value": {
+        "options": {
+          "ক": "মাদকদ্রব্যের প্রতিরোধ",
+          "খ": "আদর্শ কৃষিখামার স্থাপন",
+          "গ": "জাতীয় দিবস উদদ্যাপন",
+          "ঘ": "ব্রিজ নির্মাণ"
+        },
+        "question": "জেলা পরিষদের আবশ্যিক কাজ কোনটি?",
+        "solution": "ঘ. ব্রিজ নির্মাণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 776093,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776094,
+      "value": {
+        "options": {
+          "ক": "বিভাগীয় প্রশাসন",
+          "খ": "জেলা প্রশাসন",
+          "গ": "জেলা পরিষদ",
+          "ঘ": "উপজেলা পরিষদ"
+        },
+        "question": "মাহি সরকারি কর্মকর্তা হিসেবে মুন্সিগঞ্জে কর্মরত। ব্যক্তিগত নিরাপত্তাজনিত অস্ত্র রাখার অনুমতি দেওয়া মাহির কাজ। মাহি কোন স্থানীয় প্রশাসনে কাজ করছে?",
+        "solution": "খ. জেলা প্রশাসন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 776094,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776095,
+      "value": {
+        "options": {
+          "ক": "সচিব",
+          "খ": "যুগ্ম সচিব",
+          "গ": "উপ-সচিব",
+          "ঘ": "সহকারী সচিব"
+        },
+        "question": "প্রশাসনিক কাঠামোতে অতিরিক্ত সচিবের উর্ধ্বতন কর্মকর্তার পদ কোনটি?",
+        "solution": "ক. সচিব",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776095,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776096,
+      "value": {
+        "options": {
+          "ক": "বিচার",
+          "খ": "শিক্ষা",
+          "গ": "প্রশাসন",
+          "ঘ": "আইন"
+        },
+        "question": "বাদল সাহেব একজন উপসচিব। তিনি তার অফিসের বিভিন্ন ধরনের কাজ দক্ষতার সাথে করেন। বাদল সাহেব কোন বিভাগে কাজ করেন?",
+        "solution": "গ. প্রশাসন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776097,
+      "value": {
+        "options": {
+          "ক": "পুলিশ সুপারের অফিসে",
+          "খ": "পৌরসভায়",
+          "গ": "জেলা প্রশাসনে",
+          "ঘ": "বিভাগীয় প্রশাসনে"
+        },
+        "question": "জনপ্রতিনিধিদের কর্তৃত্ব আছে কোন প্রতিষ্ঠানে?",
+        "solution": "খ. পৌরসভায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 776097,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776098,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "&nbsp;i ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "স্থানীয় সরকারের প্রয়োজন হয়-&nbsp;\u003Cbr\u003E\ni. নেতৃত্বের বিকাশে\u003Cbr\u003E\nii. স্থানীয় উন্নয়ন ত্বরান্বিতকরণে\u003Cbr\u003E\niii. গণতন্ত্র নিশ্চিতকরণে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 776098,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776099,
+      "value": {
+        "options": [],
+        "question": "স্থানীয় শাসন বলতে কী বোঝায়? এটি প্রতিষ্ঠার উদ্দেশ্য লেখো।",
+        "solution": "স্থানীয় শাসন বলতে সাধারণত স্থানীয় পর্যায়ের তথা বিভাগ, জেলা এবং উপজেলা শাসনব্যবস্থাকে বোঝায়। প্রশাসনের সুবিধার্থে এটি সৃষ্টি করা হয়েছে। কেন্দ্রীয় সরকারের পক্ষে আইনশৃঙ্খলা রক্ষা, রাজস্ব আদায়ও সরকারি সিদ্ধান্ত বাস্তবায়নই এর মুখ্য উদ্দেশ্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776089,
+      "value": {
+        "options": {
+          "ক": "গণভবন",
+          "খ": "বঙ্গভবন",
+          "গ": "সচিবালয়",
+          "ঘ": "সংসদ ভবন"
+        },
+        "question": "বাংলাদেশের শাসনব্যবস্থার স্নায়ুকেন্দ্র কোনটি?",
+        "solution": "গ. সচিবালয়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 776089,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776101,
+      "value": {
+        "options": [],
+        "question": "সিটি কর্পোরেশনের গঠন বর্ণনা করো।",
+        "solution": "শহর অঞ্চলের নাগরিক সমস্যা সমাধান এবং তাদের জীবনমান উন্নয়নের লক্ষ্যে দেশের প্রধান শহরগুলোকে কেন্দ্র করে যে স্থানীয় শাসনব্যবস্থা গড়ে তোলা হয় তাকে সিটি কর্পোরেশন বলে। দেশের সকল সিটি কর্পোরেশনের সদস্য সংখ্যা সমান নয়। সিটি কর্পোরশনের এলাকা ও কাজের ওপর এর সদস্য সংখ্যা নির্ভর করে। কর্পোরেশনের একজন মেয়র থাকেন। তিনিসহ সকল সদস্য জনগণের প্রত্যক্ষ ভোটে নির্বাচিত হন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776102,
+      "value": {
+        "options": [],
+        "question": "সিটি কর্পোরেশন গঠনের প্রয়োজনীয়তা ব্যাখ্যা করো।",
+        "solution": "শহরের নানাবিধ সমস্যা সমাধান, নাগরিক সুযোগ-সুবিধা বৃদ্ধি এবং তাদের জীবনমান উন্নয়নের লক্ষ্যে সিটি কর্পোরেশন গঠন করা হয়েছে। যেমন- শহরের পানীয় জলের ব্যবস্থা, পয়ঃনিষ্কাশন, ময়লা-আবর্জনা অপসারণ ও বর্জ্য ব্যবস্থাপনা, নাগরিক সুবিধা বৃদ্ধি এবং সার্বিক উন্নয়ন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776103,
+      "value": {
+        "options": [],
+        "question": "জেলা প্রশাসনের সঙ্গে কেন্দ্রীয় প্রশাসনের সম্পর্ক ব্যাখ্যা করো।",
+        "solution": "জেলা প্রশাসনের সঙ্গে কেন্দ্রীয় প্রশাসনের যোগসূত্র বিদ্যমান। কেন্দ্রীয় প্রশাসন তথা বাংলাদেশ সচিবালয়ে গৃহীত জেলা সংক্রান্ত যাবতীয় সিদ্ধান্ত সরাসরি জেলা প্রশাসকের নিকট প্রেরিত হয়। জেলা প্রশাসক উক্ত সিদ্ধান্ত মোতাবেক জেলা প্রশাসন পরিচালনা করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776104,
+      "value": {
+        "options": [],
+        "question": "মিজান সাহেব দেশের সবচেয়ে প্রাচীন স্থানীয় প্রতিষ্ঠানের প্রধান। এটি বাংলাদেশের কোন প্রতিষ্ঠানকে নির্দেশ করে? সেটির গঠন লেখো।",
+        "solution": "মিজান সাহেবের প্রতিষ্ঠানটি ইউনিয়ন পরিষদকে নির্দেশ করে। সাধারণত গড়ে ১০-১৫টি গ্রাম নিয়ে একটি ইউনিয়ন পরিষদ গঠিত। একটি ইউনিয়ন ৯টি ওয়ার্ডে বিভক্ত। ইউনিয়ন পরিষদে একজন নির্বাচিত চেয়ারম্যান, নয় জন নির্বাচিত সাধারণ সদস্য ও তিন জন্য নির্বাচিত মহিলা সদস্য (সংরক্ষিত আসনে) থাকেন। ইউনিয়ন পরিষদের কার্যকাল ৫ বছর।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776105,
+      "value": {
+        "options": [],
+        "question": "জেলা পরিষদের গঠন প্রণালি ব্যাখ্যা করো।",
+        "solution": "&#39;জেলা পরিষদ আইন ২০০০&#39; অনুযায়ী, একজন চেয়ারম্যান, পনেরো জন সদস্য এবং সংরক্ষিত আসনের পাঁচজন নারী সদস্য নিয়ে জেলা পরিষদ গঠিত হয়। জেলা পরিষদের মেয়াদ বা কার্যকাল ৫ বছর।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776106,
+      "value": {
+        "options": [],
+        "question": "শহর এলাকার স্থানীয় শাসন সংস্থার নাম কী? সেটির গঠন\u003Cbr\u003E\nলেখো।",
+        "solution": "শহর এলাকার স্থানীয় শাসন সংস্থা হলো পৌরসভা। প্রাপ্তবয়স্কদের &#39;প্রত্যক্ষ ভোটে নির্বাচিত একজন মেয়র এবং ওয়ার্ডভিত্তিক নির্বাচিত সদস্য নিয়ে পৌরসভা গঠিত হয়। সদস্যগণ কাউন্সিলর নামে পরিচিত। দেশের সকল পৌরসভার সদস্য সংখ্যা সমান নয়। পৌর এলাকার। আয়তন ও জনসংখ্যার ভিত্তিতে সদস্য সংখ্যা কমবেশি হতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776107,
+      "value": {
+        "options": [],
+        "question": "'ক' বাংলাদেশের শাসনব্যবস্থার স্নায়ুকেন্দ্র স্বরূপ। 'ক' কীসের প্রতিনিধিত্ব করে? ব্যাখ্যা করো।",
+        "solution": "&#39;ক&#39; সেক্রেটারিয়েট বা সচিবালয়কে প্রতিনিধিত্ব করে। সাধারণত বিভিন্ন মন্ত্রণালয় ও তার বিভাগসমূহের অফিসগুলোকে যৌথভাবে সচিবালয় বলে। একটি মন্ত্রণালয়ের প্রধান হলেন একজন মন্ত্রী। আর সচিব হলেন এর প্রধান প্রশাসনিক কর্মকর্তা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776108,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে কয়টি বিভাগীয় প্রশাসন রয়েছে? সেগুলোর নাম লেখো।",
+        "solution": "বাংলাদেশের প্রশাসনিক ব্যবস্থাকে সুষ্ঠুভাবে পরিচালনার জন্য সমগ্র দেশকে ৮টি বিভাগে বিভক্ত করা হয়েছে। এগুলো হলো- ঢাকা, চট্টগ্রাম, রাজশাহী, খুলনা, বরিশাল, সিলেট, রংপুর ও ময়মনসিংহ বিভাগ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776109,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশ সরকারের রাজস্ব বিষয়ক কর্মকর্তা জামিল সাহেব জেলা প্রশাসকদের কার্যাবলি তদারকি করেন। জামিল সাহেব স্থানীয় প্রশাসনে কার প্রতিনিধিত্ব করেন? ব্যাখ্যা করো।",
+        "solution": "জামিল সাহেব বিভাগীয় কমিশনারের প্রতিনিধিত্ব করেন। বিভাগীয় কমিশনার মূলত বাংলাদেশ সরকারের রাজস্ব বিষয়ক কর্মকর্তা এবং তিনি জেলা প্রশাসকদের কার্যাবলি তদারকি করেন। তিনি বিভাগীয় প্রশাসন ও জেলা প্রশাসনের মধ্যে সংযোগ স্থাপন করেন। বিভাগের জনকল্যাণমূলক কাজের পরিকল্পনা গ্রহণ ও বাস্তবায়নের দায়িত্বও তিনি পালন করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776110,
+      "value": {
+        "options": [],
+        "question": "সামিয়া জামান একটি উপজেলার প্রশাসনিক কর্মকর্তা। তার পদবি এবং কার্যাবলি লেখো।",
+        "solution": "সামিয়া জামানের পদবি হলো উপজেলা নির্বাহী অফিসার। একজন উপজেলা নির্বাহী অফিসার জেলা প্রশাসকের আদেশ বাস্তবায়ন এবং উপজেলার অন্যান্য কাজের সমন্বয় করে থাকেন। উপজেলার সকল উন্নয়ন কর্মসূচি বাস্তবায়ন করার দায়িত্ব তার ওপর ন্যস্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776079,
+      "value": {
+        "options": {
+          "ক": "সহকারী সচিব",
+          "খ": "উপসচিব&nbsp;",
+          "গ": "যুগ্মসচিব",
+          "ঘ": "অতিরিক্ত সচিব"
+        },
+        "question": "নিচের প্রশাসনিক কর্মকর্তাদের মধ্যে কনিষ্ঠতম কে?",
+        "solution": "ক. সহকারী সচিব",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 776079,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776069,
+      "value": {
+        "options": {
+          "ক": "অতিরিক্ত কমিশনার",
+          "খ": "জেলা প্রশাসক",
+          "গ": "যুগ্মসচিব",
+          "ঘ": "বিভাগীয় কমিশনার"
+        },
+        "question": "নিচের কোন ব্যক্তি বাংলাদেশ সরকারের এজেন্ট হিসেবে কাজ করেন?",
+        "solution": "ঘ. বিভাগীয় কমিশনার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 776069,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776070,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "&nbsp;i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ইউনিয়ন পরিষদের প্রধান কার্যাবলির মধ্যে পড়ে-\u003Cbr\u003E\ni. বিরোধ নিরসন\u003Cbr\u003E\nii. গ্রাম পুলিশ নিয়োগ\u003Cbr\u003E\niii. উন্নত বীজ ও চারা বিতরণ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 776070,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776071,
+      "value": {
+        "options": {
+          "ক": "১৯৮৩",
+          "খ": "১৯৮৫",
+          "গ": "২০০৭",
+          "ঘ": "২০০৯"
+        },
+        "question": "উপজেলা ব্যবস্থা প্রথম প্রবর্তন হয় কত সালে?",
+        "solution": "ক. ১৯৮৩",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4827,
+          "full_name": "দি. বো.'২০২০;ঢা. বো.'২০১৯",
+          "short_name": "দি. বো.'২০২০;ঢা. বো.'২০১৯",
+          "slug": "di-bo2020dha-bo2019",
+          "pivot": {
+            "question_bank_id": 776071,
+            "tag_id": 4827,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776072,
+      "value": {
+        "options": {
+          "ক": "পয়ঃনিষ্কাশন করা",
+          "খ": "রাস্তার পাশে বৃক্ষরোপণ করা",
+          "গ": "বিনামূল্যে বই বিতরণ",
+          "ঘ": "ভেজাল খাদ্য নিষিদ্ধকরণ"
+        },
+        "question": "জেলা পরিষদের কাজ কোনটি?",
+        "solution": "খ. রাস্তার পাশে বৃক্ষরোপণ করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 776072,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776073,
+      "value": {
+        "options": {
+          "ক": "যুগ্ম সচিব",
+          "খ": "অতিরিক্ত সচিব",
+          "গ": "সচিব",
+          "ঘ": "মন্ত্রী"
+        },
+        "question": "কেন্দ্রীয় প্রশাসনের পদ সোপান অনুযায়ী সর্বোচ্চ স্তরের প্রশাসনিক কর্মকর্তা কে?",
+        "solution": "গ. সচিব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 776073,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776074,
+      "value": {
+        "options": {
+          "ক": "সচিবালয়",
+          "খ": "বিভাগীয় প্রশাসন",
+          "গ": "জেলা প্রশাসন",
+          "ঘ": "&nbsp;উপজেলা প্রশাসন"
+        },
+        "question": "বাংলাদেশের প্রশাসনিক কাঠামোর দ্বিতীয় স্তর কোনটি?",
+        "solution": "খ. বিভাগীয় প্রশাসন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776074,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776075,
+      "value": {
+        "options": {
+          "ক": "৫ জন",
+          "খ": "৯ জন",
+          "গ": "১৩ জন",
+          "ঘ": "২১ জন"
+        },
+        "question": "জেলা পরিষদের সদস্যসংখ্যা কত?",
+        "solution": "ঘ. ২১ জন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776075,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776076,
+      "value": {
+        "options": {
+          "ক": "সমাজকল্যাণ সংক্রান্ত",
+          "খ": "জননিরাপত্তামূলক",
+          "গ": "বাসস্থান সংক্রান্ত",
+          "ঘ": "শিক্ষাসংক্রান্ত"
+        },
+        "question": "হোস্টেল নির্মাণ পৌরসভার কোন ধরনের কাজ?",
+        "solution": "ঘ. শিক্ষাসংক্রান্ত",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 776076,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776077,
+      "value": {
+        "options": {
+          "ক": "ইউনিয়ন",
+          "খ": "উপজেলা",
+          "গ": "জেলা",
+          "ঘ": "বিভাগ"
+        },
+        "question": "বাংলাদেশের সর্বাপেক্ষা প্রাচীন স্থানীয় প্রতিষ্ঠানের নাম কী",
+        "solution": "ক. ইউনিয়ন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 776077,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776078,
+      "value": {
+        "options": {
+          "ক": "মন্ত্রী",
+          "খ": "উপসচিব",
+          "গ": "সচিব",
+          "ঘ": "বিভাগীয় কমিশনার"
+        },
+        "question": "মন্ত্রণালয়ের প্রধান নির্বাহী কর্মকর্তা কে?",
+        "solution": "গ. সচিব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776078,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776068,
+      "value": {
+        "options": {
+          "ক": "সচিব",
+          "খ": "মন্ত্রী",
+          "গ": "সহকারী সচিব",
+          "ঘ": "উপমন্ত্রী"
+        },
+        "question": "মন্ত্রণালয়ের প্রধান নির্বাহী কর্মকর্তা কে?",
+        "solution": "ক. সচিব",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 776068,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776080,
+      "value": {
+        "options": {
+          "ক": "মন্ত্রী",
+          "খ": "সচিব",
+          "গ": "মহাপরিচালক",
+          "ঘ": "পরিচালক"
+        },
+        "question": "অধিদপ্তরের প্রধান কে?",
+        "solution": "গ. মহাপরিচালক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 776080,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776081,
+      "value": {
+        "options": {
+          "ক": "সচিবালয়",
+          "খ": "বিভাগীয় প্রশাসন",
+          "গ": "জেলা প্রশাসন",
+          "ঘ": "উপজেলা প্রশাসন"
+        },
+        "question": "বাংলাদেশের প্রশাসনিক কাঠামোর দ্বিতীয় স্তর কোনটি?",
+        "solution": "খ. বিভাগীয় প্রশাসন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776081,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776082,
+      "value": {
+        "options": {
+          "ক": "জেলা প্রশাসক",
+          "খ": "উপজেলা চেয়ারম্যান",
+          "গ": "উপজেলা নির্বাহী অফিসার",
+          "ঘ": "বিভাগীয় কমিশনার"
+        },
+        "question": "জনাব মনির সরকারের ঊর্ধ্বতন কর্মকর্তা হিসেবে আগ্নেয়াস্ত্র ও বিষ প্রভৃতির লাইসেন্স দেন। তার পদবি হলো-",
+        "solution": "ক. জেলা প্রশাসক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4828,
+          "full_name": "রা. বো.'২০১৬;য. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৬;য. বো.'২০১৭",
+          "slug": "ra-bo2016z-bo2017",
+          "pivot": {
+            "question_bank_id": 776082,
+            "tag_id": 4828,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776083,
+      "value": {
+        "options": {
+          "ক": "৬২",
+          "খ": "৬৩",
+          "গ": "৬৪",
+          "ঘ": "৬৫"
+        },
+        "question": "বর্তমানে বাংলাদেশে কতটি জেলা আছে?",
+        "solution": "গ. ৬৪",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4741,
+          "full_name": "য. বো.'২০১৭;রা. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৭;রা. বো.'২০১৬",
+          "slug": "z-bo2017ra-bo2016",
+          "pivot": {
+            "question_bank_id": 776083,
+            "tag_id": 4741,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776084,
+      "value": {
+        "options": {
+          "ক": "সচিব",
+          "খ": "উপসচিব",
+          "গ": "বিভাগীয় কমিশনার",
+          "ঘ": "উপজেলা নির্বাহী অফিসার"
+        },
+        "question": "বিভাগ ও জেলা প্রশাসনের মাঝে সেতুবন্ধনে কাজ করে কে?",
+        "solution": "গ. বিভাগীয় কমিশনার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 776084,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776085,
+      "value": {
+        "options": {
+          "ক": "ইউনিয়ন পরিষদ",
+          "খ": "উপজেলা পরিষদ",
+          "গ": "পৌরসভা",
+          "ঘ": "জেলা পরিষদ"
+        },
+        "question": "শহর এলাকায় স্থানীয় সংস্থাটি হলো-",
+        "solution": "গ. পৌরসভা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 776085,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776086,
+      "value": {
+        "options": {
+          "ক": "তত্ত্বাবধায়ক সরকার",
+          "খ": "বিভাগীয় সরকার",
+          "গ": "স্থানীয় সরকার",
+          "ঘ": "কেন্দ্রীয় সরকার"
+        },
+        "question": "স্থানীয় পর্যায়ের সমস্যা সমাধানের জন্য তৃণমূল পর্যায়ে কোন ধরনের সরকার গড়ে ওঠে?",
+        "solution": "গ. স্থানীয় সরকার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776087,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "&nbsp;i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের কোন বিষয়গুলো ইউনিয়ন পরিষদের সঙ্গে সম্পৃক্ত?&nbsp;\u003Cbr\u003E\ni. ওয়ার্ডের সংখ্যা ৯টি\u003Cbr\u003E\nii. দফাদার নিয়োগ করা\u003Cbr\u003E\niii. সদস্যরা জনগণের প্রত্যক্ষ ভোটে নির্বাচিত\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3830,
+          "full_name": "ঢা. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৫",
+          "slug": "dha-bo2015",
+          "pivot": {
+            "question_bank_id": 776087,
+            "tag_id": 3830,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776088,
+      "value": {
+        "options": {
+          "ক": "বিভাগীয়",
+          "খ": "জেলা",
+          "গ": "উপজেলা",
+          "ঘ": "থানা"
+        },
+        "question": "মি. আজাদ একজন যুগ্ম-সচিব পদমর্যাদাসম্পন্ন কর্মকর্তা। তিনি কোন স্থানীয় শাসন ব্যবস্থার প্রধান?",
+        "solution": "ক. বিভাগীয়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 776088,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:35:09.000000Z",
+            "updated_at": "2025-12-01T15:35:09.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8067&grade=5&lesson=14662&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8067&grade=5&lesson=14662&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8067&grade=5&lesson=14662&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 43,
+  "total": 43
+}

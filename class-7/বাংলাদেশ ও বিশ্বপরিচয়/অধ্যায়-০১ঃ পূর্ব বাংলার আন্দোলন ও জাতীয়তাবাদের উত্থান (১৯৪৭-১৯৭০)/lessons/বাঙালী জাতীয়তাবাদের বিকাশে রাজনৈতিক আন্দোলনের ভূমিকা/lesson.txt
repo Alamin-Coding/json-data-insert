@@ -1,0 +1,900 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775372,
+      "value": {
+        "options": {
+          "ক": "মওলানা আব্দুল হামিদ খান ভাসানী",
+          "খ": "এ কে ফজলুল হক",
+          "গ": "হোসেন শহীদ সোহরাওয়ার্দী",
+          "ঘ": "বঙ্গবন্ধু শেখ মুজিবুর রহমান"
+        },
+        "question": "পূর্বপাকিস্তান আওয়ামী-মুসলিম লীগের প্রতিষ্ঠাতা সভাপতি কে ছিলেন?",
+        "solution": "ক. মওলানা আব্দুল হামিদ খান ভাসানী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775372,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775381,
+      "value": {
+        "options": [],
+        "question": "১৯৪৯ সালের ২৩শে জুন পূর্ববাংলার প্রগতিশীল ও গণমানুষের নেতৃত্বে বাঙালিদের অধিকার আদায়ে একটি রাজনৈতিক দল গঠিত হয়। দলটির নাম কী? এর প্রতিষ্ঠাকালীন সভাপতি ও সাধারণ সম্পাদকের নাম লেখো।",
+        "solution": "পূর্ববাংলার প্রগতিশীল ও গণমানুষের নেতৃত্বে বাঙালিদের অধিকার আদায়ের উদ্দেশ্যে ১৯৪৯ সালের ২৩শে জুন গঠিত দলটি হলো &#39;পূর্ব পাকিস্তান আওয়ামী মুসলিম লীগ&#39;। এ সংগঠনের প্রতিষ্ঠাকালীন সভাপতির দায়িত্ব গ্রহণ করেন মওলানা আবদুল হামিদ খান ভাসানী এবং সাধারণ সম্পাদক হিসেবে দায়িত্ব নেন শামসুল হক।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775380,
+      "value": {
+        "options": [],
+        "question": "পাকিস্তান শাসনামলে পূর্ববাংলার জনগণের অধিকার আদায়ে একটি রাজনৈতিক জোট ২১ দফা দাবির ভিত্তিতে নির্বাচনি ইশতেহার দেয়।\u003Cbr\u003E\nএই জোটটির নাম কী? তাদের প্রথম দফাটি লেখো।",
+        "solution": "পাকিস্তান শাসনামলে পূর্ববাংলার জনগণের অধিকার আদায়ে গঠিত রাজনৈতিক জোটটির নাম হলো, যুক্তফ্রন্ট। তাদের প্রথম দফাটি ছিল বাংলাকে অন্যতম রাষ্ট্রভাষা করা হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775379,
+      "value": {
+        "options": [],
+        "question": "পাকিস্তানের মোট জনসংখ্যার বেশিরভাগ হওয়ার পরও বাঙালিরা সকল ক্ষেত্রে বঞ্চিত হতে থাকে। তৎকালীন পাকিস্তানের মোট জনসংখ্যার কত শতাংশ বাঙালি ছিল? তারা কোন কোন ক্ষেত্রে বঞ্চনার শিকার হয়?",
+        "solution": "পাকিস্তানের মোট জনসংখ্যার ৫৬ শতাংশ বাঙালি ছিলো। তারা প্রশাসনিক দায়িত্ব পালন, অর্থনৈতিক ও রাজনৈতিক অধিকারসহ রাষ্ট্রের সকল ক্ষেত্রে বঞ্চনার শিকার হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775378,
+      "value": {
+        "options": [],
+        "question": "পাকিস্তানি শাসকগোষ্ঠীর ষড়যন্ত্রের শিকার হয়ে জনাব 'ক' এর সরকার মাত্র ৫৬ দিন পর ক্ষমতা হারায়। জনাব 'ক' কাকে নির্দেশ করছে? তার নেতৃত্বাধীন সরকার বরখাস্ত হওয়ার প্রেক্ষাপট লেখো।",
+        "solution": "জনাব &#39;ক&#39; এ. কে. ফজলুল হককে নির্দেশ করছে। ১৯৫৪ সালের প্রাদেশিক নির্বাচনে জয়লাভের পর যুক্তফ্রন্টের নেতা হিসেবে এ. কে. ফজলুল হক মুখ্যমন্ত্রী পদে শপথ নেন। কিন্তু পাকিস্তান সরকার পূর্ববাংলার যুক্তফ্রন্ট সরকারকে মনেপ্রাণে মেনে নিতে পারেনি। আদমজী পাটকল ও কর্ণফুলি কাগজের কলে বাঙালি-অবাঙালি দাঙাকে অজুহাত হিসেবে দাঁড় করিয়ে ১৯৫৪ সালের ৩০শে মে যুক্তফ্রন্ট সরকারকে বরখাস্ত করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775377,
+      "value": {
+        "options": [],
+        "question": "যুক্তফ্রন্ট কী? ব্যাখ্যা করো।",
+        "solution": "যুক্তফ্রন্ট একটি রাজনৈতিক জোট। পূর্ববাংলার প্রাদেশিক পরিষদের নির্বাচনে শাসক দল মুসলিম লীগের শোচনীয় পরাজয় ঘটানোর লক্ষ্যে ১৯৫৩ সালের ১৪ই নভেম্বর যুক্তফ্রন্ট গঠিত হয়। যুক্তফ্রন্টে আওয়ামী মুসলিম লীগ, কৃষক-শ্রমিক পার্টি, নেজামে ইসলাম, খেলাফতে রাব্বানী এবং গণতন্ত্রী দল- মোট পাঁচটি দল ছিল। যুক্তফ্রন্টের নির্বাচনী প্রতীক ছিল নৌকা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775376,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "যুক্তফ্রন্টের দলগুলো-&nbsp;\u003Cbr\u003E\ni. আওয়ামী লীগ\u003Cbr\u003E\nii. বাংলাদেশ জাতীয়তাবাদী দল\u003Cbr\u003E\niii. কৃষক শ্রমিক দল\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 775376,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775375,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "ii ও iii",
+          "ঘ": "i ,ii ও iii"
+        },
+        "question": "যুক্তফ্রন্টের ২১ দফার অন্যতম দফাগুলো হলো-\u003Cbr\u003E\ni. বিনা ক্ষতিপূরণে জমিদারি প্রথা উচ্ছেদ\u003Cbr\u003E\nii. বাংলাকে শিক্ষার অন্যতম মাধ্যম হিসেবে\u003Cbr\u003E\niii. রাজবন্দিদের মুক্তিদান\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i ,ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 775375,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775374,
+      "value": {
+        "options": {
+          "ক": "অবাধ নির্বাচনের ব্যবস্থা করা",
+          "খ": "পূর্ব বাংলাকে যথাযথভাবে শিল্পায়িত করা",
+          "গ": "অবৈতনিক বাধ্যতামূলক প্রাথমিক শিক্ষা প্রবর্তন করা",
+          "ঘ": "বাংলাকে পাকিস্তানের অন্যতম রাষ্ট্রভাষা করা"
+        },
+        "question": "২১ দফার প্রথম দফা কোনটি?",
+        "solution": "ঘ. বাংলাকে পাকিস্তানের অন্যতম রাষ্ট্রভাষা করা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 775374,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775373,
+      "value": {
+        "options": {
+          "ক": "২টি",
+          "খ": "৪টি",
+          "গ": "৬টি",
+          "ঘ": "৮টি"
+        },
+        "question": "কয়টি সংগঠন নিয়ে যুক্তফ্রন্ট গঠন করা হয়?",
+        "solution": "খ. ৪টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3831,
+          "full_name": "বরিশাল জিলা স্কুল",
+          "short_name": "বরিশাল জিলা স্কুল",
+          "slug": "brisal-jila-skul",
+          "pivot": {
+            "question_bank_id": 775373,
+            "tag_id": 3831,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775363,
+      "value": {
+        "options": {
+          "ক": "আগরতলা মামলায়",
+          "খ": "৬-দফা আন্দোলনে মৌলিক গণতন্ত্র প্রতিষ্ঠায়",
+          "গ": "মৌলিক গণতন্ত্র প্রতিষ্ঠায়",
+          "ঘ": "১৯৫৪-এর প্রাদেশিক নির্বাচনে"
+        },
+        "question": "জনগণ সকল ক্ষমতার উৎস- এটি প্রমাণ হয়-",
+        "solution": "ঘ. ১৯৫৪-এর প্রাদেশিক নির্বাচনে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775363,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775371,
+      "value": {
+        "options": {
+          "ক": "সংবাদপত্রের ওপর নিষেধাজ্ঞা প্রত্যাহার",
+          "খ": "শাসন বিভাগ থেকে বিচার বিভাগ পৃথক করা",
+          "গ": "ভাষার প্রশ্নে গ্রেফতারকৃতদের মুক্তিদান",
+          "ঘ": "অত্যাচারের বিরুদ্ধে প্রধানমন্ত্রীর বিবৃতি প্রদান"
+        },
+        "question": "যুক্তফ্রন্টের ২১ দফার অন্তর্ভুক্ত দফা কোনটি?",
+        "solution": "খ. শাসন বিভাগ থেকে বিচার বিভাগ পৃথক করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 775371,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775370,
+      "value": {
+        "options": {
+          "ক": "গোলাম মোহাম্মদ",
+          "খ": "আইয়ুব খান",
+          "গ": "ইস্কান্দার মীর্জা",
+          "ঘ": "ইয়াহিয়া খান"
+        },
+        "question": "যুক্তফ্রন্ট সরকারকে বরখাস্ত করেন কে?",
+        "solution": "ক. গোলাম মোহাম্মদ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 775370,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775369,
+      "value": {
+        "options": {
+          "ক": "১৬৭",
+          "খ": "১৬৯",
+          "গ": "২২৩",
+          "ঘ": "২৩৭"
+        },
+        "question": "১৯৫৪ সালের প্রাদেশিক নির্বাচনে যুক্তফ্রন্ট কতটি আসন লাভ করে?",
+        "solution": "ঘ. ২৩৭",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 775369,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775368,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "যুক্তফ্রন্টের ঘোষিত বিষয়-\u003Cbr\u003E\ni. পূর্ব বাংলার স্বায়ত্তশাসন&nbsp;\u003Cbr\u003E\nii. ২১ ফেব্রুয়ারি সরকারি ছুটি\u003Cbr\u003E\niii. বাংলাকে অন্যতম রাষ্ট্রভাষা হিসেবে গ্রহণ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 775368,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775367,
+      "value": {
+        "options": {
+          "ক": "ন্যাপ",
+          "খ": "কৃষক-শ্রমিক পার্টি",
+          "গ": "মুসলিম লীগ",
+          "ঘ": "আওয়ামী লীগ"
+        },
+        "question": "যুক্তফ্রন্ট গঠনের মূল উদ্যোগ ছিল কোন দলের?",
+        "solution": "ঘ. আওয়ামী লীগ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775366,
+      "value": {
+        "options": {
+          "ক": "২০ জুন",
+          "খ": "২১ জুন",
+          "গ": "২২ জুন",
+          "ঘ": "২৩ জুন"
+        },
+        "question": "কত তারিখে পূর্ব পাকিস্তান আওয়ামী মুসলিম লীগ প্রতিষ্ঠিত হয় ?",
+        "solution": "ঘ. ২৩ জুন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775365,
+      "value": {
+        "options": {
+          "ক": "শেখ মুজিবুর রহমান",
+          "খ": "শামসুল হক",
+          "গ": "আব্দুল হামিদ খান ভাসানী",
+          "ঘ": "এম. মনসুর আলী"
+        },
+        "question": "পূর্ব পাকিস্তান আওয়ামী মুসলিম লীগের সাধারণ সম্পাদক কে ছিলেন?",
+        "solution": "খ. শামসুল হক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 775365,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775364,
+      "value": {
+        "options": {
+          "ক": "১৯৪৭",
+          "খ": "১৯৪৮",
+          "গ": "১৯৪৯",
+          "ঘ": "১৯৫২"
+        },
+        "question": "'পূর্ব পাকিস্তান আওয়ামী মুসলিম লীগ' গঠিত হয় কত সালে?",
+        "solution": "গ. ১৯৪৯",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8061,
+      "created_at": "2025-12-01T15:27:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4777,
+          "full_name": "কু. বো.'২০১৬;দি. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬;দি. বো.'২০১৬",
+          "slug": "ku-bo2016di-bo2016",
+          "pivot": {
+            "question_bank_id": 775364,
+            "tag_id": 4777,
+            "year": null,
+            "created_at": "2025-12-01T15:27:17.000000Z",
+            "updated_at": "2025-12-01T15:27:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8061&grade=5&lesson=14642&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8061&grade=5&lesson=14642&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8061&grade=5&lesson=14642&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 19,
+  "total": 19
+}

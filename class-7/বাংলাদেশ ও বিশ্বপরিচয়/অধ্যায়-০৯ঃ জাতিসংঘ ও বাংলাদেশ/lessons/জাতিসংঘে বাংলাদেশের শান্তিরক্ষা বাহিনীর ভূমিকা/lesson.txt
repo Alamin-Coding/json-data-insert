@@ -1,0 +1,451 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776201,
+      "value": {
+        "options": {
+          "ক": "শান্তিরক্ষা মিশন",
+          "খ": "নারী অধিকার রক্ষা",
+          "গ": "শ্রমিক অধিকার রক্ষা",
+          "ঘ": "বাধ্যতামূলক প্রাথমিক শিক্ষা"
+        },
+        "question": "বাংলাদেশ কোন ক্ষেত্রে অবদানের জন্য বিশ্বব্যাপী সমাদৃত?",
+        "solution": "ক. শান্তিরক্ষা মিশন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776202,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "&nbsp;ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশের শান্তিরক্ষী বাহিনী জাতিসংঘের শান্তিরক্ষা মিশনে অংশগ্রহণের মাধ্যমে প্রমাণ করেছে-\u003Cbr\u003E\ni. শান্তির জন্য তারা জীবন দিতে পারে\u003Cbr\u003E\nii. দেশের গৌরব অক্ষুণ্ণ রাখতে প্রাণ দিতে পারে\u003Cbr\u003E\niii. দেশের জন্য অর্থনৈতিক অবদান রাখতে পারে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 776202,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-01T15:41:59.000000Z",
+            "updated_at": "2025-12-01T15:41:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776203,
+      "value": {
+        "options": {
+          "ক": "আইভরি কোস্ট",
+          "খ": "সিয়েরালিওন",
+          "গ": "ইংল্যান্ড",
+          "ঘ": "কিউবা"
+        },
+        "question": "কোন দেশের ব্যস্ততম সড়কের নাম 'বাংলাদেশ সড়ক'?",
+        "solution": "ক. আইভরি কোস্ট",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4434,
+          "full_name": "দি. বো.'২০১৬;কু. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৬;কু. বো.'২০১৫",
+          "slug": "di-bo2016ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776203,
+            "tag_id": 4434,
+            "year": null,
+            "created_at": "2025-12-01T15:41:59.000000Z",
+            "updated_at": "2025-12-01T15:41:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776204,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জাতিসংঘের বিভিন্ন দেশে শান্তিরক্ষী বাহিনী পাঠানোর উদ্দেশ্য-\u003Cbr\u003E\ni. মানবাধিকার রক্ষা\u003Cbr\u003E\nii. সরকার গঠন করা\u003Cbr\u003E\niii. বিশ্বশান্তি প্রতিষ্ঠা করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776205,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "&nbsp;ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "জাতিসংঘে বাংলাদেশের অবস্থান দৃঢ় হয়েছে যে কারণে-\u003Cbr\u003E\ni. বিশ্বশান্তি রক্ষায় আর্থিক অনুদান দিয়ে\u003Cbr\u003E\nii. বিশ্বশান্তি রক্ষায় প্রশিক্ষিত বাহিনী দিয়ে\u003Cbr\u003E\niii. বিশ্বশান্তি রক্ষায় অস্ত্র বিরতিতে ভূমিকা রেখা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 776205,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:41:59.000000Z",
+            "updated_at": "2025-12-01T15:41:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776206,
+      "value": {
+        "options": {
+          "ক": "৯",
+          "খ": "১০",
+          "গ": "১১",
+          "ঘ": "১৭"
+        },
+        "question": "জাতিসংঘের অধীনে বিশ্বের কতটি দেশে বাংলাদেশি সৈন্য শান্তি প্রতিষ্ঠায় কাজ করছে?",
+        "solution": "গ. ১১",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776206,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:41:59.000000Z",
+            "updated_at": "2025-12-01T15:41:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776207,
+      "value": {
+        "options": [],
+        "question": "জাতিসংঘে বাংলাদেশের শান্তিরক্ষী বাহিনীর ভূমিকা লেখো।",
+        "solution": "জাতিসংঘের শান্তিরক্ষা মিশনগুলোতে বাংলাদেশের অবদান ঈর্ষনীয়। ১৯৮৮ সাল থেকে শুরু করে ২০২৪ সাল পর্যন্ত ৪০টি দেশে/ অবস্থানে জাতিসংঘের ৬৩টি মিশনে বাংলাদেশের প্রায় ১ লক্ষ ৯৪ হাজার ৮৫৬ জন শান্তিরক্ষী কাজ করেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776208,
+      "value": {
+        "options": [],
+        "question": "বর্তমানে বিশ্বের কোন কোন দেশে বাংলাদেশের শান্তিরক্ষীরা কাজ করছে?",
+        "solution": "বর্তমানে সেন্ট্রাল আফ্রিকান রিপাবলিক, মালি, দক্ষিণ সুদান, লেবানন, ডি আর কঙ্গো, ওয়েস্টার্ন সাহারা ও আবেই (সুদান) প্রভৃতি দেশে জাতিসংঘ পরিচালিত শান্তি মিশনে বাংলাদেশের শান্তিরক্ষীরা কাজ করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776209,
+      "value": {
+        "options": [],
+        "question": "আফ্রিকার দেশগুলোতে শান্তিরক্ষা মিশনে বাংলাদেশি সৈন্যদের সাফল্য ব্যাখ্যা করো।",
+        "solution": "আফ্রিকার দেশগুলোতে শান্তিরক্ষা মিশনে বাংলাদেশে সৈন্যদের কর্মকাণ্ডের স্বীকৃতিস্বরূপ সিয়েরালিওনে বাংলা ভাষা দ্বিতীয় রাষ্ট্রভাষার মর্যাদা পেয়েছে। আইভরিকোস্টের অন্যতম ব্যস্ত সড়কের নাম হয়েছে &#39;বাংলাদেশ সড়ক&#39;। এই দেশটিতে একটি গ্রামের নাম রাখা হয়েছে &#39;রূপসি বাংলা&#39;।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776210,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশ কীভাবে জাতিসংঘে নিজের মর্যাদা ও গৌরব বৃদ্ধি করছে?",
+        "solution": "বাংলাদেশের বিশাল জনগোষ্ঠীর প্রশিক্ষিত সামরিক-বেসামরিক বাহিনী জাতিসংঘের বিশ্ব শান্তিরক্ষা মিশনে অবদান রাখছে। উন্নত দেশগুলো অর্থ দিয়ে জাতিসংঘে অবদান রাখছে। বাংলাদেশ তার সেনাবাহিনী ও পুলিশ বাহিনীর মাধ্যমে বিশ্বশান্তি রক্ষায় অবদান রেখে নিজেদের মর্যাদা ও গৌরব বৃদ্ধি করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8069,
+      "created_at": "2025-12-01T15:41:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8069&grade=5&lesson=14668&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8069&grade=5&lesson=14668&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8069&grade=5&lesson=14668&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 10,
+  "total": 10
+}

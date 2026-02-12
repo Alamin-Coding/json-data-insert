@@ -1,0 +1,2884 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776052,
+      "value": {
+        "options": [],
+        "question": "কে এবং কীভাবে সংবিধান রক্ষা করে?",
+        "solution": "বিচার বিভাগ সংবিধানের অভিভাবক হিসেবে কাজ করে। বিচার বিভাগ সংবিধানের চূড়ান্ত ব্যাখ্যা দেয়। যেমন- মার্কিন যুক্তরাষ্ট্রের শাসনব্যবস্থায় বিচার বিভাগীয় পর্যালোচনার গুরুত্ব অপরিসীম। সেখানে সুপ্রিম কোর্ট প্রভূত ক্ষমতার অধিকারী।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776037,
+      "value": {
+        "options": {
+          "ক": "আইন সংশোধন করা",
+          "খ": "রাষ্ট্রপতিকে অভিশংসন করা",
+          "গ": "অধ্যাদেশ জারি করা",
+          "ঘ": "আইন সংযোজন করা"
+        },
+        "question": "বিচার বিভাগের কাজ কোনটি?",
+        "solution": "ঘ. আইন সংযোজন করা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 776037,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776038,
+      "value": {
+        "options": {
+          "ক": "বিচারপতি",
+          "খ": "আইনমন্ত্রী",
+          "গ": "প্রধানমন্ত্রী",
+          "ঘ": "রাষ্ট্রপতি"
+        },
+        "question": "এটর্নি জেনারেলের নিয়োগ দান করেন কে?",
+        "solution": "ঘ. রাষ্ট্রপতি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4826,
+          "full_name": "চ. বো.'২০২৪;সি. বো.'২০১৭",
+          "short_name": "চ. বো.'২০২৪;সি. বো.'২০১৭",
+          "slug": "c-bo2024si-bo2017",
+          "pivot": {
+            "question_bank_id": 776038,
+            "tag_id": 4826,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776039,
+      "value": {
+        "options": {
+          "ক": "বিচারকের",
+          "খ": "জনগণের",
+          "গ": "প্রশাসনের",
+          "ঘ": "উন্নয়নের"
+        },
+        "question": "আইনসভা কিসের উপর লক্ষ রেখে আইন সংশোধন করে থাকে?",
+        "solution": "খ. জনগণের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776039,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776040,
+      "value": {
+        "options": {
+          "ক": "বাজেট পাস",
+          "খ": "নিন্দা প্রস্তাব",
+          "গ": "রাষ্ট্রপতি নিয়োগ",
+          "ঘ": "প্রধানমন্ত্রী নিয়োগ"
+        },
+        "question": "কোন কাজটি দ্বারা বোঝা যায় জাতীয় সংসদ শাসন বিভাগকে নিয়ন্ত্রণ করে?",
+        "solution": "খ. নিন্দা প্রস্তাব",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776040,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776041,
+      "value": {
+        "options": {
+          "ক": "শাসন বিভাগকে নিয়ন্ত্রণ করা",
+          "খ": "আইন প্রণয়ন করা",
+          "গ": "মৌলিক অধিকার সংরক্ষণ করা",
+          "ঘ": "সংবিধান সংশোধন করা"
+        },
+        "question": "বিচার বিভাগের কার্যাবলি কোনটি?",
+        "solution": "গ. মৌলিক অধিকার সংরক্ষণ করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 776041,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776042,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রপতি",
+          "খ": "প্রধানমন্ত্রী",
+          "গ": "প্রধান বিচারপতি",
+          "ঘ": "স্পিকার"
+        },
+        "question": "আদালত কর্তৃক প্রদত্ত দণ্ড কে মওকুফ করতে পারেন?",
+        "solution": "ক. রাষ্ট্রপতি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3830,
+          "full_name": "ঢা. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৫",
+          "slug": "dha-bo2015",
+          "pivot": {
+            "question_bank_id": 776042,
+            "tag_id": 3830,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776043,
+      "value": {
+        "options": {
+          "ক": "পরাধীন",
+          "খ": "স্বতন্ত্র ও স্বাধীন",
+          "গ": "জাতীয় সংসদের নির্দেশে চলে",
+          "ঘ": "মন্ত্রি পরিষদের নির্দেশে চলে"
+        },
+        "question": "বাংলাদেশের বিচার বিভাগ-",
+        "solution": "খ. স্বতন্ত্র ও স্বাধীন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776043,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776044,
+      "value": {
+        "options": {
+          "ক": "আইনসভা",
+          "খ": "বিচার বিভাগ",
+          "গ": "সরকারি কর্মচারী",
+          "ঘ": "রাজনৈতিক দল"
+        },
+        "question": "শাসন বিভাগের কাজকর্মে স্বচ্ছতা ও জবাবাদিহিতা নিশ্চিত করে কোন বিভাগ?",
+        "solution": "ক. আইনসভা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776044,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776045,
+      "value": {
+        "options": [],
+        "question": "জনাব রাকিব সরকারের যে প্রতিষ্ঠানে কর্মরত সেটি আইন প্রণয়নের কাজ করে। তিনি সরকারের কোন বিভাগে কর্মরত? সেটির গঠন পদ্ধতি লেখো।",
+        "solution": "জনাব রাকিব সরকারের আইনবিভাগে কর্মরত। এটি মূলত জনগণের প্রত্যক্ষ ভোটে নির্বাচিত জনপ্রতিনিধিদের নিয়ে গঠিত হয়। তবে কোনো কোনো ক্ষেত্রে মনোনীত সদস্যদের নিয়েও গঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776046,
+      "value": {
+        "options": [],
+        "question": "'ক' সংবিধান অনুযায়ী একটি রাষ্ট্রের প্রধান। তিনি কে? বাংলাদেশের সরকারব্যবস্থায় তার পদমর্যাদা ব্যাখ্যা করো।",
+        "solution": "ক&#39; হলেন রাষ্ট্রপতি। বাংলাদেশের সংসদীয় সরকারব্যবস্থায় রাষ্ট্রপতি পদমর্যাদায় সবার উপরে। সংবিধান অনুযায়ী তিনি রাষ্ট্রের প্রধান। সবার ঊর্ধ্বে তিনি স্থান লাভ করেন। সংবিধান ও আইন অনুযায়ী প্রদত্ত সকল দায়িত্ব ও ক্ষমতা তিনি প্রয়োগ করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776047,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের প্রধানমন্ত্রীর পরামর্শ অনুযায়ী রাষ্ট্রপতি প্রশাসনিক ব্যয় নির্বাহের জন্য অর্থ মঞ্জুরি প্রদান করেন। এটি প্রধানমন্ত্রীর কোন ধরনের ক্ষমতা? ব্যাখ্যা করো।",
+        "solution": "এটি প্রধানমন্ত্রীর অর্থবিষয়ক ক্ষমতা। বাংলাদেশের প্রধানমন্ত্রী আর্থিক বিষয়ে গুরুত্বপূর্ণ ক্ষমতার অধিকারী। তার পরামর্শ ও নির্দেশক্রমে অর্থমন্ত্রী বাজেট প্রণয়ন ও সংসদে তা উপস্থাপন করেন। বাজেটে প্রধানমন্ত্রীর অর্থনৈতিক নীতির প্রতিফলন ঘটে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776048,
+      "value": {
+        "options": [],
+        "question": "জাতির মুখপাত্র হিসেবে বাংলাদেশের প্রধানমন্ত্রীর ভূমিকা লেখো।",
+        "solution": "বাংলাদেশের প্রধানমন্ত্রী জাতির মুখপাত্র হিসেবে কাজ করেন। তিনি বাংলাদেশকে বিশ্ব দরবারে উপস্থাপন এবং দেশের প্রতিনিধিত্ব করেন। যেকোনো জাতীয় সংকট সম্পর্কে তিনি দেশবাসীকে অবহিত করেন। দেশের হয়ে তিনি বিবৃতি ও বক্তৃতা প্রদান করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776049,
+      "value": {
+        "options": [],
+        "question": "জাতীয় সংসদের আইন প্রণয়ন ক্ষমতা ব্যাখ্যা করো।",
+        "solution": "সংবিধানের ৬৫ অনুচ্ছেদে বলা হয়েছে, বাংলাদেশে জাতীয় সংসদ নামে একটি আইনসভা থাকবে এবং এর ওপর প্রজাতন্ত্রের আইন প্রণয়ন ক্ষমতা ন্যস্ত হবে। সংবিধান অনুযায়ী সংসদ যে কোনো নতুন আইন প্রণয়ন ও প্রচলিত আইন পরিবর্তন, পরিবর্ধন ও সংশোধন করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776050,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে সরকার গঠনে জাতীয় সংসদের ভূমিকা কীরূপ? ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশে সংসদীয় পদ্ধতির প্রচলন থাকায় সরকার গঠনে জাতীয় সংসদ গুরুত্বপূর্ণ ভূমিকা পালন করে। সংসদের আস্থাভাজন ব্যক্তিই প্রধানমন্ত্রী নিযুক্ত হন এবং মন্ত্রিসভা গঠন করেন। প্রধানমন্ত্রী সংসদের আস্থা হারালে সরকারের পতন হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776051,
+      "value": {
+        "options": [],
+        "question": "জাতীয় সংসদের অর্থসংক্রান্ত দুটি ক্ষমতা উল্লেখ করো।",
+        "solution": "জাতীয় সংসদের অর্থসংক্রান্ত দুটি ক্ষমতা হলো- ১. সংসদের অনুমোদন ও কর্তৃত্ব ব্যতীত কোনো প্রকার ব্যয় করা যায় না। ২. কোনো কর আরোপ বা কর সংগ্রহ করতেও সংসদের অনুমতি নিতে হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776036,
+      "value": {
+        "options": {
+          "ক": "প্রধানমন্ত্রী",
+          "খ": "রাষ্ট্রপতি",
+          "গ": "প্রধান বিচারপতি",
+          "ঘ": "অ্যাটর্নি জেনারেল"
+        },
+        "question": "রেহানার বাবা জাতীয় নির্বাচন পরিচালনার প্রধান কর্মকর্তা। রেহেনার বাবাকে নিয়োগ কে দেন?",
+        "solution": "খ. রাষ্ট্রপতি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 776036,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776053,
+      "value": {
+        "options": [],
+        "question": "নির্বাহী বা শাসনবিভাগ কাকে বলে? এর গঠন লেখো।",
+        "solution": "রাষ্ট্রের যে অংশ শাসনকার্য তথা নিত্যদিনকার প্রশাসনিক ও দাপ্তরিক কাজ পরিচালনা, আইন-শৃঙ্খলা রক্ষা এবং রাষ্ট্রের সার্বিক সিদ্ধান্ত এবং সুবিধাসমূহ বাস্তবায়ন করে তাকে নির্বাহী বা শাসনবিভাগ বলে। রাষ্ট্রপ্রধান থেকে শুরু করে মন্ত্রিসভা, আমলা, নিরাপত্তা ও আইন-শৃঙ্খলা রক্ষাকারী বাহিনী, কূটনৈতিক, দাপ্তরিক কর্মকর্তা এমনকি চৌকিদারসহ সকল প্রশাসনিক কর্মচারীদের নিয়ে নির্বাহী বা শাসনবিভাগ গঠিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776054,
+      "value": {
+        "options": [],
+        "question": "সরকারের একটি বিভাগ আইন অনুসারে বিচার কাজ পরিচালনা করে। বিভাগটির নাম কী? এ বিভাগ কীভাবে অপরাধীকে শাস্তি দেয়?",
+        "solution": "উল্লেখিত বিভাগটি হলো বিচারবিভাগ। এ বিভাগ দেওয়ানি ও ফৌজদারি মামলায় সত্য ঘটনা অনুসন্ধানের মাধ্যমে অপরাধীকে শাস্তি দেয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776055,
+      "value": {
+        "options": [],
+        "question": "'X' দেশে 'ক' ব্যক্তি অধ্যাদেশ জারি করতে পারেন। 'ক' ব্যক্তি কোন পদের অধিকারী? সংসদীয় সরকারব্যবস্থায় তার অধ্যাদেশ জারির ক্ষমতা ব্যাখ্যা করো।",
+        "solution": "&#39;ক&#39; রাষ্ট্রপতি পদের অধিকারী। রাষ্ট্রের জরুরি প্রয়োজনে রাষ্ট্রপতি নিজের একক ক্ষমতাবলে যে আইন জারি করেন তাকে অধ্যাদেশ বলে। সংসদীয় সরকারব্যবস্থায় সংসদ ভেঙে গেলে বা অধিবেশন না থাকলে কোনো বিষয়ে দ্রুত ব্যবস্থা গ্রহণের প্রয়োজন হলে রাষ্ট্রপতি অধ্যাদেশ জারি করতে পারেন। এ অধ্যাদেশ সংসদ প্রণীত আইনের মতো ক্ষমতাসম্পন্ন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776056,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের 'Y' পদে আসীন ব্যক্তি আদালত কর্তৃক দণ্ডপ্রাপ্ত একজন আসামির দন্ড মওকুফ করে দিলেন। 'Y' কোন পদকে নির্দেশ করছে? এটি তার কোন ধরনের ক্ষমতার অন্তর্ভুক্ত?",
+        "solution": "&#39;Y&#39; রাষ্ট্রপতি পদকে নির্দেশ করছে। আদালত কর্তৃক দণ্ডপ্রাপ্ত আসামির দন্ড মওকুফ করা বাংলাদেশের রাষ্ট্রপতির ক্ষমা প্রদর্শনের ক্ষমতার অন্তর্ভুক্ত। যেকোনো দণ্ড মওকুফ, স্থগিত বা হ্রাস করার ক্ষমতা তাঁর রয়েছে। কোনো বিশেষ ট্রাইব্যুনাল বা অন্য কোনো কর্তৃপক্ষ প্রদত্ত যেকোনো দণ্ড তিনি মার্জনা করতে পারেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776057,
+      "value": {
+        "options": [],
+        "question": "জনাব 'ক' বাংলাদেশর সরকারের প্রধান নির্বাহী কর্মকর্তা। জনাব 'ক' এর পদবি কী? তার ক্ষমতা লেখো।",
+        "solution": "জনাব &#39;ক&#39; এর পদবি হলো প্রধানমন্ত্রী। তিনি সংসদ নেতা ও মন্ত্রিসভার প্রধান। তিনি মন্ত্রিসভা গঠন করেন। প্রধানমন্ত্রী পদত্যাগ করলে বা সংসদের আস্থা হারালে সরকারের পতন ঘটে। প্রধানমন্ত্রীকে কেন্দ্র করে দেশের শাসনব্যবস্থা পরিচালিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776058,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের আইনসভার নাম কী? সেটির গঠন লেখো।",
+        "solution": "বাংলাদেশের আইনসভার নাম জাতীয় সংসদ। সংবিধানের পঞ্চদশ সংশোধনী অনুসারে জাতীয় সংসদ মোট ৩৫০ জন সদস্য নিয়ে গঠিত হয়। এদের মধ্যে ৩০০ জন জনগণের প্রত্যক্ষ ভোটে নির্বাচিত হবেন। ৫০টি আসন নারীদের জন্য সংরক্ষিত। সংসদের মেয়াদ ৫ বছর।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776059,
+      "value": {
+        "options": [],
+        "question": "জাতীয় সংসদের বিচারসংক্রান্ত ক্ষমতা ব্যাখ্যা করো।",
+        "solution": "জাতীয় সংসদ বিভিন্ন গুরুত্বপূর্ণ বিচার সংক্রান্ত কাজ পরিচালনা করে। যেমন- সংসদ সংবিধান অনুযায়ী রাষ্ট্রপতিকে অভিশংসন করতে পারে। সংবিধান লঙ্ঘন, গুরুতর অপরাধ, দৈহিক ও মানসিক অসুস্থতা ও অক্ষমতার জন্য সংসদ রাষ্ট্রপতিকে অপসারণ করতে পারে। প্রয়োজনে স্পিকার, ডেপুটি স্পিকার ও ন্যায়পালকে অপসারণ করার ক্ষমতাও সংসদের রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776060,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে জাতীয় সংসদ অধিবেশন কে আহ্বান করেন? তার সংসদবিষয়ক ক্ষমতা ব্যাখ্যা করো।",
+        "solution": "রাষ্ট্রপতি জাতীয় সংসদ অধিবেশন আহ্বান করেন। সংসদের প্রথম অধিবেশনের সূচনায় রাষ্ট্রপতি সংসদে ভাষণ দেন। তিনি সময়ে&nbsp;সময়ে সংসদে বাণী প্রেরণ করেন। তিনি সংসদ মুলতবি রাখতে পারেন এবং প্রধানমন্ত্রীর লিখিত পরামর্শে সংসদ ভেঙে দিতে পারেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776061,
+      "value": {
+        "options": [],
+        "question": "জনাব 'B' হলেন সংসদ নেতা। তার সাথে বাংলাদেশ সরকারের কোন পদের মিল আছে? তার আইনসংক্রান্ত ক্ষমতা ব্যাখ্যা করো।",
+        "solution": "জনাব &#39;B&#39; এর সাথে বাংলাদেশ সরকারের প্রধানমন্ত্রী পদের মিল আছে। আইন প্রণয়নে বাংলাদেশের প্রধানমন্ত্রী গুরুত্বপূর্ণ ভূমিকা পালন করেন। তিনি জাতীয় সংসদে সরকারি বিলের পৃষ্ঠপোষকতা করেন। প্রধানমন্ত্রীকে কেন্দ্র করে সংসদের আইন প্রণয়ন বিষয়ক কার্যাবলি পরিচালিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776062,
+      "value": {
+        "options": [],
+        "question": "মিসেস শারমিন পদাধিকারবলে অপরাধীকে শাস্তি দিতে পারেন। তিনি কোন বিভাগে কর্মরত? সেটির মূল কাজ লেখো।",
+        "solution": "মিসেস শারমিন বিচারবিভাগে কর্মরত। এ বিভাগের মূল কাজ প্রচলিত আইন অনুযায়ী অপরাধের জন্য অভিযুক্ত ব্যক্তি এবং আইন অমান্যকারীর বিচার করা। এক্ষেত্রে বিচারকরা স্বাধীন ও নিরপেক্ষভাবে আইন অনুযায়ী ন্যায়নীতির ভিত্তিতে বিচারকার্য সম্পন্ন করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776063,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের রাষ্ট্রপতির অর্থসংক্রান্ত ক্ষমতা ও কাজ উল্লেখ করো।",
+        "solution": "বাংলাদেশের সরকারব্যবস্থায় সরকারি ব্যয়সংক্রান্ত কোনো বিল সংসদে উত্থাপন করতে হলে তাতে রাষ্ট্রপতির সুপারিশ লাগে। প্রয়োজনে তিনি সংযুক্ত তহবিল থেকে ব্যয় নির্বাহের ব্যবস্থা করতে পারেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776064,
+      "value": {
+        "options": [],
+        "question": "কোনো দেশ বাংলাদেশকে আক্রমণ করলে কে প্রতিরক্ষা ব্যবস্থা গ্রহণ করতে পারবেন এবং কেন?",
+        "solution": "কোনো দেশ বাংলাদেশকে আক্রমণ করলে রাষ্ট্রপতি প্রয়োজনীয় ব্যবস্থা গ্রহণ করতে পারবেন। কারণ বাংলাদেশের প্রতিরক্ষা বিভাগসমূহের সর্বাধিনায়কত্ব রাষ্ট্রপতির উপর ন্যস্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776065,
+      "value": {
+        "options": [],
+        "question": "বিচারবিভাগের মৌলিক অধিকার সংরক্ষণ সংক্রান্ত কাজটি ব্যাখ্যা করো।",
+        "solution": "জনগণের মৌলিক অধিকার সংবিধানে লিপিবদ্ধ থাকে। এ অধিকার সংরক্ষণের দায়িত্ব বহুলাংশে আদালতের ওপরই ন্যস্ত হয়। রাষ্ট্র বা ব্যক্তি কর্তৃক দেশের কোনো নাগরিকের মৌলিক অধিকার হরণ করা হলে নাগরিক এ ব্যাপারে আদালতের দ্বারস্থ হতে পারেন। আদালত সংবিধান ও দেশের প্রচলিত আইনের মাধ্যমে উক্ত নাগরিকের মৌলিক অধিকার ফিরিয়ে দিয়ে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776066,
+      "value": {
+        "options": [],
+        "question": "'ক' ও 'খ' এর মধ্যে জমিজমা সংক্রান্ত বিরোধ দেখা দিলে বিচারবিভাগ তা মীমাংসা করে। এটি বিচারবিভাগের কোন ধরনের কাজ? ব্যাখ্যা করো।",
+        "solution": "জমিজমা সংক্রান্ত বিরোধ মীমাংসা করা বিচারবিভাগের বিরোধ নিষ্পত্তি সংক্রান্ত কাজ। রাষ্ট্রের বিভিন্ন সংস্থা, প্রতিষ্ঠান এবং ব্যক্তিবর্গের মধ্যে&#39; বিভিন্ন সময় বিরোধ দেখা দেয়। বিচারবিভাগ এ ধরনের বিরোধের মীমাংসা করে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776067,
+      "value": {
+        "options": [],
+        "question": "ব্যক্তির মৌলিক অধিকার যাতে ক্ষুন্ন না হয় সেজন্য সরকারের একটি বিভাগ প্রয়োজনীয় সকল ব্যবস্থা গ্রহণ করতে পারে। বিভাগটির নাম কী? এটি কীভাবে ব্যক্তি স্বাধীনতার রক্ষাকবচ হিসেবে কাজ করে?",
+        "solution": "বিভাগটির নাম বিচারবিভাগ। নাগরিক অধিকার ও সংবিধানে স্বীকৃত মৌলিক অধিকার রক্ষা করার মাধ্যমে এ বিভাগ ব্যক্তি স্বাধীনতার রক্ষাকবচ হিসেবে কাজ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776020,
+      "value": {
+        "options": {
+          "ক": "আইন বিভাগ",
+          "খ": "শাসন বিভাগ",
+          "গ": "বিচার বিভাগ",
+          "ঘ": "নির্বাহী বিভাগ"
+        },
+        "question": "রাষ্ট্রীয় সংবিধানের অভিভাবক হিসেবে কাজ করে কোন বিভাগ?",
+        "solution": "গ. বিচার বিভাগ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776005,
+      "value": {
+        "options": {
+          "ক": "আইনের বাস্তবায়ন করা",
+          "খ": "মৌলিক অধিকার সংরক্ষণ করা",
+          "গ": "সরকারের আয়-ব্যয় নিয়ন্ত্রণ করা",
+          "ঘ": "আইনের ব্যাখ্যা প্রদান করা"
+        },
+        "question": "বাংলাদেশের জাতীয় সংসদের ক্ষেত্রে কোনটি প্রযোজ্য?",
+        "solution": "গ. সরকারের আয়-ব্যয় নিয়ন্ত্রণ করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 776005,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776006,
+      "value": {
+        "options": {
+          "ক": "মজলিস",
+          "খ": "জাতীয় সংসদ",
+          "গ": "পার্লামেন্ট",
+          "ঘ": "কংগ্রেস"
+        },
+        "question": "মুসলিম দেশের আইনসভাকে সাধারণত কী বলে?",
+        "solution": "ক. মজলিস",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4822,
+          "full_name": "ব. বো.'২০২০;চ. বো.'২০১৭",
+          "short_name": "ব. বো.'২০২০;চ. বো.'২০১৭",
+          "slug": "b-bo2020c-bo2017",
+          "pivot": {
+            "question_bank_id": 776006,
+            "tag_id": 4822,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776007,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রপতি",
+          "খ": "স্পিকার",
+          "গ": "প্রধানমন্ত্রী",
+          "ঘ": "রাজনৈতিক দল"
+        },
+        "question": "কার পরামর্শ ও নির্দেশক্রমে অর্থমন্ত্রী বাজেট প্রণয়ন করেন?",
+        "solution": "গ. প্রধানমন্ত্রী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776007,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776008,
+      "value": {
+        "options": {
+          "ক": "ভারত",
+          "খ": "ব্রিটেন",
+          "গ": "নেপাল",
+          "ঘ": "মার্কিন যুক্তরাষ্ট্র"
+        },
+        "question": "কংগ্রেস কোন দেশের আইনসভা?",
+        "solution": "ঘ. মার্কিন যুক্তরাষ্ট্র",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 776008,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776009,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রপতি",
+          "খ": "প্রধানমন্ত্রী",
+          "গ": "স্পিকার",
+          "ঘ": "প্রধান বিচারপতি"
+        },
+        "question": "জাতির মুখপাত্র কে?",
+        "solution": "খ. প্রধানমন্ত্রী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4823,
+          "full_name": "ঢা. বো.'২০২০;য. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০;য. বো.'২০২০",
+          "slug": "dha-bo2020z-bo2020",
+          "pivot": {
+            "question_bank_id": 776009,
+            "tag_id": 4823,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776010,
+      "value": {
+        "options": {
+          "ক": "প্রধানমন্ত্রী",
+          "খ": "রাষ্ট্রপতি",
+          "গ": "সংসদ উপনেতা",
+          "ঘ": "স্পিকার"
+        },
+        "question": "সংসদীয় সরকারব্যবস্থায় রাষ্ট্রের নিয়মতান্ত্রিক প্রধান কে?",
+        "solution": "খ. রাষ্ট্রপতি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4824,
+          "full_name": "রা. বো.'২০২০;ব. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২০;ব. বো.'২০২৪",
+          "slug": "ra-bo2020b-bo2024",
+          "pivot": {
+            "question_bank_id": 776010,
+            "tag_id": 4824,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776011,
+      "value": {
+        "options": {
+          "ক": "প্রচলিত আইনের ব্যাখ্যা দেওয়ার জন্য",
+          "খ": "আইন তৈরি করার জন্য",
+          "গ": "জবাবদিহিমূলক সরকার পরিচালনার জন্য",
+          "ঘ": "বাজেট পাস করার জন্য"
+        },
+        "question": "সংসদীয় ব্যবস্থা গুরুত্বপূর্ণ কেন?",
+        "solution": "গ. জবাবদিহিমূলক সরকার পরিচালনার জন্য",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776011,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776012,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রপতি",
+          "খ": "স্পিকার",
+          "গ": "ডেপুটি স্পিকার",
+          "ঘ": "প্রধানমন্ত্রী"
+        },
+        "question": "বাংলাদেশ সরকারের নির্বাহী প্রধান কে?",
+        "solution": "ঘ. প্রধানমন্ত্রী",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776013,
+      "value": {
+        "options": {
+          "ক": "১০",
+          "খ": "১২",
+          "গ": "১৫",
+          "ঘ": "১৭"
+        },
+        "question": "সংসদ প্রণীত আইনে রাষ্ট্রপতি কত দিনের মধ্যে সম্মতি দান করবেন?",
+        "solution": "গ. ১৫",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776013,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776014,
+      "value": {
+        "options": {
+          "ক": "প্রধানমন্ত্রীর",
+          "খ": "স্পিকারের",
+          "গ": "প্রধান বিচারপতির",
+          "ঘ": "রাষ্ট্রপতির"
+        },
+        "question": "সুপ্রিম কোর্টে আপীল নিষ্পত্তির পরও বকুলের ফাঁসির রায় বহাল রয়েছে। তাকে বাঁচতে চাইলে কার কাছে প্রাণভিক্ষার আবেদন করতে হবে?",
+        "solution": "ঘ. রাষ্ট্রপতির",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 776014,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776015,
+      "value": {
+        "options": {
+          "ক": "৩টি",
+          "খ": "৪টি",
+          "গ": "৫টি",
+          "ঘ": "৬টি"
+        },
+        "question": "সামগ্রিকভাবে সরকারের কয়টি বিভাগ রয়েছে?",
+        "solution": "ক. ৩টি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 776015,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776016,
+      "value": {
+        "options": {
+          "ক": "বিচার বিভাগ",
+          "খ": "পুলিশ বিভাগ",
+          "গ": "র&zwj;্যাব",
+          "ঘ": "জাতীয় সংসদ"
+        },
+        "question": "বাংলাদেশে শাসন বিভাগ নিয়ন্ত্রিত হয় কোনটি দ্বারা?",
+        "solution": "ঘ. জাতীয় সংসদ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776017,
+      "value": {
+        "options": {
+          "ক": "জনসাধারণের ওপর",
+          "খ": "আইনসভার ওপর",
+          "গ": "শাসন বিভাগের ওপর",
+          "ঘ": "বিচার বিভাগের ওপর"
+        },
+        "question": "প্রধান বিচারপতি ও উচ্চ আদালতের বিচারপতিগণের নিয়োগ সাধারণত কোন বিভাগের ওপর ন্যস্ত থাকে?",
+        "solution": "গ. শাসন বিভাগের ওপর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 776017,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776018,
+      "value": {
+        "options": {
+          "ক": "নির্বাহী ক্ষমতা",
+          "খ": "আইনসংক্রান্ত ক্ষমতা",
+          "গ": "অর্থবিষয়ক ক্ষমতা",
+          "ঘ": "ঘরাষ্ট্রীয় কাজের সমন্বয়"
+        },
+        "question": "বিচার, অর্থ, পররাষ্ট্র বিষয়ক সকল কাজ প্রধানমন্ত্রীর পরামর্শ ও মতামত অনুযায়ী পরিচালিত হয়। এটি প্রধানমন্ত্রীর কোন ক্ষমতা ও কার্যাবলিকে নির্দেশ করে?",
+        "solution": "ক. নির্বাহী ক্ষমতা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 776018,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776019,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রপতি",
+          "খ": "প্রধানমন্ত্রী",
+          "গ": "স্পিকার",
+          "ঘ": "বিরোধীদলীয় নেতা"
+        },
+        "question": "সংসদের নেতা কে?",
+        "solution": "খ. প্রধানমন্ত্রী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 776019,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776004,
+      "value": {
+        "options": {
+          "ক": "দেশের স্বাধীনতা ও সার্বভৌমত্ব রক্ষা",
+          "খ": "নাগরিকদের ব্যক্তি স্বাধীনতা ও অধিকার সংরক্ষণ",
+          "গ": "রাজনৈতিক আদর্শকে প্রতিষ্ঠা করা",
+          "ঘ": "রাষ্ট্রের সকল নাগরিকদের শিক্ষার ব্যবস্থা করা"
+        },
+        "question": "বিচার বিভাগের মূল লক্ষ্য কী?",
+        "solution": "খ. নাগরিকদের ব্যক্তি স্বাধীনতা ও অধিকার সংরক্ষণ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 776004,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776021,
+      "value": {
+        "options": {
+          "ক": "১৪০-এর ক(১)",
+          "খ": "১৪১-এর ক (১)",
+          "গ": "১৪২-এর ক (১)",
+          "ঘ": "১৪৩-এর ক(১)"
+        },
+        "question": "দেশে জরুরি অবস্থা ঘোষণা করতে রাষ্ট্রপতি সংবিধানের কোন অনুচ্ছেদটি অনুসরণ করেন?",
+        "solution": "খ. ১৪১-এর ক (১)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776021,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776022,
+      "value": {
+        "options": {
+          "ক": "প্রধানমন্ত্রী",
+          "খ": "বিচারপতি",
+          "গ": "রাষ্ট্রপতি",
+          "ঘ": "আইনমন্ত্রী"
+        },
+        "question": "পদমর্যাদায় কে সবার ওপরে?",
+        "solution": "গ. রাষ্ট্রপতি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 776022,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776023,
+      "value": {
+        "options": {
+          "ক": "সংসদের হুইপ",
+          "খ": "স্পিকার",
+          "গ": "প্রধান বিচারপতি",
+          "ঘ": "রাষ্ট্রপতি"
+        },
+        "question": "প্রধানমন্ত্রীর পরামর্শে কে সংসদ ভেঙে দিতে পারেন?",
+        "solution": "ঘ. রাষ্ট্রপতি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 776023,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776024,
+      "value": {
+        "options": {
+          "ক": "প্রধানমন্ত্রী&nbsp;",
+          "খ": "রাষ্ট্রপতি&nbsp;",
+          "গ": "প্রধান বিচারপতি&nbsp;",
+          "ঘ": "স্পিকার&nbsp;"
+        },
+        "question": "একজন গ্রাম্য চৌকিদার সরকারের যে বিভাগে কর্মরত সে বিভাগের&nbsp;প্রধান কে?",
+        "solution": "ক. প্রধানমন্ত্রী&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 776024,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776025,
+      "value": {
+        "options": {
+          "ক": "৬২",
+          "খ": "৬৩",
+          "গ": "৬৪",
+          "ঘ": "৬৫&nbsp;"
+        },
+        "question": "বাংলাদেশ সংবিধানের কত অনুচ্ছেদে জাতীয় সংসদ প্রতিষ্ঠার কথা বলা হয়েছে?",
+        "solution": "ঘ. ৬৫&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4825,
+          "full_name": "ব. বো.'২০২৪;ঢা. বো.'২০১৯",
+          "short_name": "ব. বো.'২০২৪;ঢা. বো.'২০১৯",
+          "slug": "b-bo2024dha-bo2019",
+          "pivot": {
+            "question_bank_id": 776025,
+            "tag_id": 4825,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776026,
+      "value": {
+        "options": {
+          "ক": "শাসন",
+          "খ": "আইন",
+          "গ": "বিচার",
+          "ঘ": "অর্থ বিভাগ"
+        },
+        "question": "সরকারের কোন বিভাগ রাষ্ট্রীয় সংবিধানের অভিভাবক হিসাবে কাজ করে?",
+        "solution": "গ. বিচার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776026,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776027,
+      "value": {
+        "options": {
+          "ক": "২৫০টি",
+          "খ": "২৭০টি",
+          "গ": "২৯০টি",
+          "ঘ": "৩০০টি"
+        },
+        "question": "বাংলাদেশকে জাতীয় নির্বাচনের জন্য কয়টি এলাকায় ভাগ করা হয়েছে?",
+        "solution": "ঘ. ৩০০টি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3811,
+          "full_name": "য. বো.'২০১৭",
+          "short_name": "য. বো.'২০১৭",
+          "slug": "z-bo2017",
+          "pivot": {
+            "question_bank_id": 776027,
+            "tag_id": 3811,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776028,
+      "value": {
+        "options": {
+          "ক": "বাজেট পাস",
+          "খ": "নিন্দা প্রস্তাব",
+          "গ": "রাষ্ট্রপতি নিয়োগ",
+          "ঘ": "প্রধানমন্ত্রী নিয়োগ"
+        },
+        "question": "কোন কাজটি দ্বারা বোঝা যায় জাতীয় সংসদ শাসন বিভাগকে নিয়ন্ত্রণ করে?",
+        "solution": "খ. নিন্দা প্রস্তাব",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776028,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776029,
+      "value": {
+        "options": {
+          "ক": "বিচারকের",
+          "খ": "জনগণের",
+          "গ": "প্রশাসনের",
+          "ঘ": "উন্নয়নের"
+        },
+        "question": "আইনসভা কিসের উপর লক্ষ রেখে আইন সংশোধন করে থাকে?",
+        "solution": "খ. জনগণের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776029,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776030,
+      "value": {
+        "options": {
+          "ক": "প্রধানমন্ত্রী",
+          "খ": "স্পিকার",
+          "গ": "ডেপুটি স্পিকার",
+          "ঘ": "প্রেসিডেন্ট"
+        },
+        "question": "রাষ্ট্রে জরুরি অবস্থা কে জারি করতে পারেন?",
+        "solution": "ঘ. প্রেসিডেন্ট",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 776030,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776031,
+      "value": {
+        "options": {
+          "ক": "৩ বছর",
+          "খ": "৪ বছর",
+          "গ": "৫ বছর",
+          "ঘ": "৬ বছর"
+        },
+        "question": "জাতীয় সংসদের মেয়াদ কত?",
+        "solution": "গ. ৫ বছর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 776031,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776032,
+      "value": {
+        "options": {
+          "ক": "আইন বিভাগ",
+          "খ": "বিচার বিভাগ",
+          "গ": "শাসন বিভাগ",
+          "ঘ": "নির্বাহী বিভাগ"
+        },
+        "question": "ব্যক্তি স্বাধীনতা রক্ষা হয় কোন বিভাগের মাধ্যমে?",
+        "solution": "খ. বিচার বিভাগ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 776032,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776033,
+      "value": {
+        "options": {
+          "ক": "৩০ জন",
+          "খ": "৫০ জন",
+          "গ": "৩০০ জন",
+          "ঘ": "৩৫০ জন"
+        },
+        "question": "জাতীয় সংসদে সংরক্ষিত নারী সদস্য কত?",
+        "solution": "খ. ৫০ জন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776033,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776034,
+      "value": {
+        "options": {
+          "ক": "স্বাধীন",
+          "খ": "পরাধীন",
+          "গ": "সচিবদের অধীন",
+          "ঘ": "এম.পিদের অধীন"
+        },
+        "question": "বাংলাদেশের বিচার বিভাগ কেমনভাবে কাজ করে?",
+        "solution": "ক. স্বাধীন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 776034,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776035,
+      "value": {
+        "options": {
+          "ক": "আইন তৈরি করা",
+          "খ": "সংবিধান রক্ষা করা",
+          "গ": "ন্যায়বিচার করা",
+          "ঘ": "মৌলিক অধিকার সংরক্ষণ করা"
+        },
+        "question": "বিচার বিভাগের প্রধান কাজ কোনটি?",
+        "solution": "গ. ন্যায়বিচার করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8067,
+      "created_at": "2025-12-01T15:35:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 776035,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:35:00.000000Z",
+            "updated_at": "2025-12-01T15:35:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8067&grade=5&lesson=14661&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8067&grade=5&lesson=14661&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8067&grade=5&lesson=14661&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 64,
+  "total": 64
+}

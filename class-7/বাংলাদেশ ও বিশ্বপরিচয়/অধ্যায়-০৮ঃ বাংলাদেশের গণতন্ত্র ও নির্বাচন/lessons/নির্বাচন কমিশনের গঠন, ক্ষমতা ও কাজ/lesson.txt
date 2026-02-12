@@ -1,0 +1,649 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776131,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "&nbsp;নির্বাচন কমিশন-&nbsp;\u003Cbr\u003E\ni. প্রধান নির্বাচন কমিশনার ও কয়েকজন নির্বাচন কমিশনার নিয়ে গঠিত\u003Cbr\u003E\nii. নিরপেক্ষ প্রতিষ্ঠান হিসাবে সকল নির্বাচন পরিচালনা করে\u003Cbr\u003E\niii. ৫ বছর মেয়াদি একটি প্রতিষ্ঠান\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 776131,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:40:48.000000Z",
+            "updated_at": "2025-12-01T15:40:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776132,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নির্বাচন কমিশনের কাজ হলো-\u003Cbr\u003E\ni. নির্বাচনি এলাকার সীমানা নির্ধারণ\u003Cbr\u003E\nii. জাতীয় নিরাপত্তা রক্ষা\u003Cbr\u003E\niii. মনোনয়ন পত্র বাছাই\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 776132,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-01T15:40:48.000000Z",
+            "updated_at": "2025-12-01T15:40:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776133,
+      "value": {
+        "options": {
+          "ক": "নির্বাচনি এলাকার সীমানা নির্ধারণ",
+          "খ": "মনোনয়নপত্র বাছাই",
+          "গ": "নির্বাচন পরিচালনা",
+          "ঘ": "ভোটার তালিকা প্রণয়ন"
+        },
+        "question": "রিটার্নিং অফিসারের কাজ কী?",
+        "solution": "গ. নির্বাচন পরিচালনা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776134,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "নির্বাচন কমিশনের মেয়াদ কত বছর?",
+        "solution": "ঘ. ৫",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776134,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:40:48.000000Z",
+            "updated_at": "2025-12-01T15:40:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776135,
+      "value": {
+        "options": {
+          "ক": "সুপ্রিমকোর্ট",
+          "খ": "নির্বাচন কমিশন",
+          "গ": "জাতীয় সংসদ",
+          "ঘ": "রাজনৈতিক দল"
+        },
+        "question": "ভোটার তালিকা তত্ত্বাবধান করা কার কাজ?",
+        "solution": "খ. নির্বাচন কমিশন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776135,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:40:48.000000Z",
+            "updated_at": "2025-12-01T15:40:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776136,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রপতি",
+          "খ": "প্রধানমন্ত্রী",
+          "গ": "স্পিকার",
+          "ঘ": "প্রধান নির্বাচন কমিশনার"
+        },
+        "question": "নির্বাচন কমিশনের কমিশনারগণ কার নিকট পদত্যাগপত্র পেশ করতে পারেন?",
+        "solution": "ক. রাষ্ট্রপতি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4835,
+          "full_name": "সি. বো.'২০২০;ঢা. বো.'২০১৭",
+          "short_name": "সি. বো.'২০২০;ঢা. বো.'২০১৭",
+          "slug": "si-bo2020dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776136,
+            "tag_id": 4835,
+            "year": null,
+            "created_at": "2025-12-01T15:40:48.000000Z",
+            "updated_at": "2025-12-01T15:40:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776137,
+      "value": {
+        "options": {
+          "ক": "নির্বাচনি এলাকা নির্ধারণ",
+          "খ": "ভোটার তালিকা প্রণয়ন",
+          "গ": "মনোয়নপত্র বিতরণ",
+          "ঘ": "নির্বাচনি তফসিল ঘোষণা"
+        },
+        "question": "কোনটির মাধ্যমে নির্বাচন প্রক্রিয়া শুরু হয়?",
+        "solution": "ঘ. নির্বাচনি তফসিল ঘোষণা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776137,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:40:48.000000Z",
+            "updated_at": "2025-12-01T15:40:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776138,
+      "value": {
+        "options": [],
+        "question": "'খ' গণতন্ত্রের একটি মৌলিক বিষয় হিসেবে স্বীকৃত। 'খ' কোনটিকে প্রতিনিধিত্ব করে? এটি কেন অনুষ্ঠিত হয়?",
+        "solution": "&#39;খ&#39; নির্বাচনকে প্রতিনিধিত্ব করে। কেননা গণতন্ত্রের একটি মৌলিক বিষয় হলো নির্বাচন। রাষ্ট্র ও সরকারের বিভিন্ন স্তরে জনপ্রতিনিধি বাছাইয়ের জন্য নির্বাচন অনুষ্ঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776139,
+      "value": {
+        "options": [],
+        "question": "কীসের মাধ্যমে জনগণ পূর্ববর্তী সরকার ও দলকে প্রত্যাখ্যান করতে পারে? ব্যাখ্যা করো।",
+        "solution": "নির্বাচনের মাধ্যমে জনগণ পূর্ববর্তী সরকার ও দলকে প্রত্যাখ্যান করতে পারে। যে সরকার বা দল জনগণের স্বার্থ বা জনমতের বিরোধিতা করে তার বা তাদের প্রতি জনগণের আস্থা থাকে না। তাই নির্বাচনের মাধ্যমে জনগণ তাদের প্রত্যাখ্যান করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776140,
+      "value": {
+        "options": [],
+        "question": "নির্বাচন বলতে তুমি কী বোঝ?",
+        "solution": "যে প্রক্রিয়ায় বা পদ্ধতির মাধ্যমে রাষ্ট্রের প্রাপ্তবয়স্ক ব্যক্তিরা সর্বজনীন ভোটাধিকার প্রয়োগ করে পছন্দ অনুযায়ী প্রতিনিধি বাছাই করে তাকে নির্বাচন বলে। প্রায় সকল রাষ্ট্রেই গোপন ব&zwj;্যালটে ভোট দেওয়ার মাধ্যমে নির্বাচন অনুষ্ঠিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776141,
+      "value": {
+        "options": [],
+        "question": "নির্বাচকমণ্ডলী সম্পর্কে তোমার ধারণা ব্যাখ্যা করো।",
+        "solution": "যারা প্রতিনিধি নির্বাচনের ক্ষমতা অর্থাৎ ভোটদানের অধিকার ভোগ করেন তাদের ভোটার বা নির্বাচক বলে। আর সকল ভোটারকে একত্রিতভাবে নির্বাচকমণ্ডলী বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776142,
+      "value": {
+        "options": [],
+        "question": "প্রত্যক্ষ নির্বাচন পদ্ধতি বলতে তুমি কী বোঝ?",
+        "solution": "যে নির্বাচন প্রক্রিয়ায় ভোটারগণ সরাসরি ভোট প্রদানের মাধ্যমে তাদের প্রতিনিধি নির্বাচন করে তাকে প্রত্যক্ষ নির্বাচন পদ্ধতি বলা হয়। বাংলাদেশে প্রত্যক্ষ নির্বাচন পদ্ধতি চালু রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776143,
+      "value": {
+        "options": [],
+        "question": "পরোক্ষ নির্বাচন পদ্ধতি সম্পর্কে তুমি কী জানো?",
+        "solution": "যে নির্বাচন পদ্ধতিতে ভোটারগণ সরাসরি ভোট দিয়ে প্রতিনিধি নির্বাচন করে একটি মধ্যবর্তী নির্বাচনি সংস্থা গঠন করে এবং ওই নির্বাচনি সংস্থা চূড়ান্তভাবে প্রতিনিধি বা রাষ্ট্রপ্রধান নির্বাচন করে তাকে পরোক্ষ নির্বাচন পদ্ধতি বলে। বাংলাদেশ ও আমেরিকা যুক্তরাষ্ট্রের রাষ্ট্রপতি এ পদ্ধতিতে নির্বাচিত হন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776144,
+      "value": {
+        "options": [],
+        "question": "শোয়েব জামান বাংলাদেশের একটি সাংবিধানিক প্রতিষ্ঠানের প্রধান। উক্ত প্রতিষ্ঠান জনপ্রতিনিধি বাছাই প্রক্রিয়া পরিচালনা করে। প্রতিষ্ঠানটির নাম কী? এর গঠন লেখো।",
+        "solution": "প্রতিষ্ঠানটির নাম বাংলাদেশ নির্বাচন কমিশন। কেননা বাংলাদেশ নির্বাচন কমিশন একটি সাংবিধানিক প্রতিষ্ঠান। প্রধান নির্বাচন কমিশনার এবং অনধিক চারজন নির্বাচন কমিশনার নিয়ে এ কমিশন গঠিত হয়। কমিশনের মেয়াদ পাঁচ বছর।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776145,
+      "value": {
+        "options": [],
+        "question": "নির্বাচনি অপরাধের দণ্ড সম্পর্কে তুমি কী জানো?",
+        "solution": "যেকোনো নির্বাচনি অপরাধের জন্য জরিমানাসহ ক্ষেত্র বিশেষে সর্বোচ্চ ১০ বছর এবং কমপক্ষে ২ বছর সশ্রম কারাদণ্ড হতে পারে। নির্বাচন সংক্রান্ত অপরাধের জন্য উপযুক্ত আদালতে মামলা করা যায়। তবে নির্বাচন কমিশনের লিখিত অনুমোদন ব্যতীত নির্বাচনি দায়িত্বপ্রাপ্ত কর্মকর্তা-কর্মচারীদের বিরুদ্ধে আদালতে মামলা করা যাবে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8068,
+      "created_at": "2025-12-01T15:40:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8068&grade=5&lesson=14664&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8068&grade=5&lesson=14664&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8068&grade=5&lesson=14664&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 15,
+  "total": 15
+}

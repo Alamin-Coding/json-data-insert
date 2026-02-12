@@ -1,0 +1,1064 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776566,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের মানুষের জীবনযাত্রার মান নিম্ন কেন? ব্যাখ্যা করো।",
+        "solution": "মজুরির নিম্নহার, ব্যাপক বেকারত্ব ও অর্ধ বেকারত্বের ফলে বাংলাদেশের মাথাপিছু আয় কম। আর নিম্ন মাথাপিছু আয়ের কারণে বাংলাদেশের মানুষের জীবনযাত্রার মানু নিম্ন। বর্তমানে দেশের মোট জনসংখ্যার এক-পঞ্চমাংশ জনগণের অবস্থান দারিদ্র্যসীমার নিচে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776579,
+      "value": {
+        "options": [],
+        "question": "সম্প্রতি শেরপুর জেলায় স্মরণকালের ভয়াবহ বন্যায় হাজার হাজার মানুষ ব্যাপক ক্ষতিগ্রস্ত হয়েছে। এটি কোন আর্থসামাজিক প্রতিবন্ধকতাকে নির্দেশ করে? ব্যাখ্যা করো।",
+        "solution": "এটি প্রকৃতিসৃষ্ট আর্থসামাজিক প্রতিবন্ধকতাকে নির্দেশ করে। বাংলাদেশ একটি দুর্যোগ কবলিত দেশ। বন্যা, খরা, জলোচ্ছ্বাস, ঘূর্ণিঝড়, টর্নেডোর মতো দুর্যোগগুলো কৃষিখাতকে ক্ষতিগ্রস্ত করে। এছাড়া মানুষের প্রাণহানি, বাড়িঘর, পথঘাট ও গাছপালাসহ বিভিন্ন সম্পদ ক্ষতির শিকার হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776578,
+      "value": {
+        "options": [],
+        "question": "বেকারত্ব সমস্যার সামাজিক প্রভাব ব্যাখ্যা করো।",
+        "solution": "বেকারত্ব সমস্যা অনেক সামাজিক সমস্যার সৃষ্টি করে। বেকার কিশোর ও তরুণেরা সামাজিক অপরাধে জড়িয়ে পড়ে। এর ফলে সমাজজীবন পর্যুদস্ত হয় এবং আইনশৃঙ্খলা পরিস্থিতির অবনতি ঘটে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776577,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের নারীদের আর্থসামাজিক অবস্থান ব্যাখ্যা করো।",
+        "solution": "সমাজের সকল ক্ষেত্রে পুরুষদের তুলনায় নারীরা এখনও অনগ্রসর। দেশের অর্ধেক জনসংখ্যা নারী হলেও কর্মক্ষেত্রে তারা এখনো পিছিয়ে রয়েছে। পারিবারিক সিদ্ধান্ত গ্রহণের ক্ষেত্রেও নারীদের মূল্যায়ন প্রতিষ্ঠিত হয়নি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776576,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের শিক্ষাব্যবস্থার দুর্বলতাগুলো উল্লেখ করো।",
+        "solution": "বাংলাদেশের শিক্ষা অনেকটাই পুঁথিগত ও জ্ঞানভিত্তিক। অর্জিত জ্ঞানের প্রয়োগের জন্য পর্যাপ্ত দক্ষতা শিক্ষার্থীরা অর্জন করতে পারে না। শিক্ষিত জনগোষ্ঠীর বিশাল অংশের কারিগরি ও প্রযুক্তিগত দক্ষতার অভাব রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776575,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের শিল্পক্ষেত্রের প্রতিবন্ধকতাসমূহ লেখো।",
+        "solution": "বাংলাদেশের শিল্পখাতে মৌলিক ও ভিত্তিমূলক শিল্প নেই। অর্থনৈতিক অবকাঠামোর দুর্বলতাও শিল্পক্ষেত্রের অগ্রগতির একটি বড় বাধা। প্রয়োজনীয় সংখ্যক স্থল, নৌ, ও বিমানবন্দরের অভাব, বিদ্যুৎ, জ্বালানি ও গ্যাসের উচ্চমূল্য, পরিবহন সংকট এবং রাজনৈতিক অস্থিতিশীলতা বাংলাদেশের শিল্পক্ষেত্রের বড়ো ধরনের প্রতিবন্ধকতা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776574,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের কৃষিক্ষেত্রের প্রতিবন্ধকতাগুলো লেখো।",
+        "solution": "বাংলাদেশের কৃষিক্ষেত্রে অগ্রসরতার সবচেয়ে বড় প্রতিবন্ধক অবকাঠামোর দুর্বলতা। এছাড়াও সেচ সুবিধা, বীজ ও সারের অপর্যাপ্ততা এবং যথাসময়ে প্রাপ্তির অনিশ্চয়তা, বিদ্যুতের অভাব, উৎপাদিত পণ্য বাজারজাত করার ক্ষেত্রে পরিবহনের উচ্চ ব্যয় প্রভৃতি বাংলাদেশের কৃষিক্ষেত্রের প্রতিবন্ধকতা সৃষ্টি করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776573,
+      "value": {
+        "options": [],
+        "question": "পলাশীর যুদ্ধের পর বাংলার কৃষি ও কৃষকসমাজ কীভাবে ক্ষতিগ্রস্ত হয়?",
+        "solution": "১৭৫৭ সালে পলাশীর যুদ্ধের পর বাংলায় ইংরেজদের শাসন প্রতিষ্ঠিত হয়। এ সময় কৃষিক্ষেত্রে চিরস্থায়ী বন্দোবস্তের মাধ্যমে জমিদারি প্রথা ও বাধ্যতামূলক নীলচাষ প্রবর্তনের ফলে কৃষি ও কৃষকসমাজ বিপুলভারে ক্ষতিগ্রস্ত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776572,
+      "value": {
+        "options": [],
+        "question": "ফাতিন তার পাঠ্যবই থেকে বাংলার অর্থনৈতিক ইতিহাসের স্বর্ণযুগ সম্পর্কে জানলো। সে বাংলার কোন শাসনামল সম্পর্কে জেনেছে? এ শাসনামলকে কেন বাংলার স্বর্ণযুগ বলা হয়?",
+        "solution": "ফাতিন বাংলার মুসলিম শাসনামল সম্পর্কে জেনেছে। এ সময়ে কৃষি, শিল্প, আন্তর্জাতিক বাণিজ্য সকল ক্ষেত্রে বাংলাদেশ সমৃদ্ধির শিখরে আরোহণ করেছিল। পাশাপাশি বাংলার শিল্পজাত পণ্য বিশেষত বস্ত্র পৃথিবীর বিভিন্ন দেশে সমাদৃত ছিল। তাই এই শাসনামলকে বাংলার স্বর্ণযুগ বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776571,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের অর্থনৈতিক অনগ্রসরতার মূল কারণ কী ছিল? স্বাধীনতা-পূর্ব বাংলাদেশের অর্থনীতির ইতিহাসকে কয়টি পর্বে ভাগ করা হয়েছিল?",
+        "solution": "বাংলাদেশের অর্থনৈতিক অনগ্রসরতার মূল কারণ প্রায় দুইশ বছরের ঔপনিবেশিক শাসন ও শোষণ। স্বাধীনতা-পূর্ব বাংলাদেশের অর্থনীতির ইতিহাসকে চারটি পর্বে ভাগ করা যায়- প্রাচীন বাংলা, মুসলিম শাসনামল, ব্রিটিশ শাসনামল, পাকিস্তানি আমল।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776570,
+      "value": {
+        "options": [],
+        "question": "বিভিন্ন কারণে বাংলাদেশের জনগণের বৃহত্তর অংশকে মানবসম্পদে রূপান্তর করা সম্ভব হয়নি। উক্ত কারণগুলো লেখো।",
+        "solution": "প্রধানত শিক্ষা, কারিগরি প্রশিক্ষণ ও প্রযুক্তিগত জ্ঞান, দক্ষতা ও সুস্বাস্থ্য নিশ্চিত করার মাধ্যমে একটি জনগোষ্ঠী মানবসম্পদে পরিণত হয়। কাঙ্খিত মাত্রায় এ সকল সুবিধা বাংলাদেশের জনগণের কাছে পৌঁছানো যায়নি বিধায় বৃহত্তর অংশকে মানবসম্পদে রূপান্তর করা সম্ভব হয়নি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776569,
+      "value": {
+        "options": [],
+        "question": "নেত্রকোণার বিজয়পুরে সাদা মাটির পাহাড় একটি দর্শনীয় স্থান। 'সাদা মাটি' কী ধরনের সম্পদ? এ ধরনের উল্লেখযোগ্য কয়েকটি সম্পদের উদাহরণ দাও।",
+        "solution": "সাদা মাটি খনিজ সম্পদের অন্তর্ভুক্ত। কয়লা, প্রাকৃতিক গ্যাস, চুনাপাথর, সিলিকা বালু, চীনা মাটি, কঠিন শিলা ইত্যাদি খনিজ সম্পদের উদাহরণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776568,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের অর্থনীতিতে বৈদেশিক সাহায্যের নির্ভরতা সম্পর্কে লেখো।",
+        "solution": "আর্থসামাজিক উন্নয়নের জন্য বাংলাদেশ বৈদেশিক ঋণ ও অনুদানের ওপর অতিমাত্রায় নির্ভরশীল ছিল। তবে গত এক দশক ধরে দেশের অভ্যন্তরীণ উৎস থেকে ঋণের পরিমাণ ক্রমশ বৃদ্ধি পাচ্ছে। এছাড়া বৈশ্বিক বিভিন্ন পূরিবর্তনজনিত কারণে বৈদেশিক উৎস থেকে ঋণ ও অনুদান প্রাপ্তি ক্রমশ ক্রমে আসছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776567,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশ কীভাবে দারিদ্র্যের চক্রের মধ্যে আবদ্ধ হয়ে পড়েছে? ব্যাখ্যা করো।",
+        "solution": "মাথাপিছু আয় কম হওয়ায় বাংলাদেশের জনগণের সঞ্চয়ের হার কম। তাই মূলধন বা পুঁজি গঠনের এবং উৎপাদনের জন্য বিনিয়োগের হারও কম। বিনিয়োগের নিম্নহারের কারণে শিল্প স্থাপনের গতি এবং কর্মসংস্থানের হার কম। এভাবেই বাংলাদেশ দারিদ্র্যের চক্রের মধ্যে আবদ্ধ হয়ে পড়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776552,
+      "value": {
+        "options": {
+          "ক": "উৎপাদন বৃদ্ধি করতে",
+          "খ": "বৈদেশিক সম্পর্ক সৃষ্টিতে",
+          "গ": "কর্মসংস্থান তৈরিতে",
+          "ঘ": "দেশের ঐতিহ্য তুলে ধরতে"
+        },
+        "question": "বাংলাদেশ সরকার শিল্পকারখানা স্থাপনে উৎসাহ প্রদান করেন যে কারণে তা হলো-",
+        "solution": "গ. কর্মসংস্থান তৈরিতে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776552,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:47:10.000000Z",
+            "updated_at": "2025-12-01T15:47:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776565,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের জনসংখ্যা কেন সমস্যা হিসেবে বিবেচিত হয়? ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশের জনসংখ্যার ঘনত্ব ও জনসংখ্যা বৃদ্ধির হার প্রতিবেশী দেশগুলোর চেয়ে অনেক বেশি। এখনো এদেশের ২২.১% জনগণ নিরক্ষর। এই বিপুল জনগোষ্ঠীকে সাক্ষর করা, প্রয়োজনীয় শিক্ষা ও প্রশিক্ষণ দেওয়া, কর্মসংস্থানের ব্যবস্থা করা ইত্যাদি রাষ্ট্রের জন্য চাপ সৃষ্টি করছে। এ কারণেই বাংলাদেশের জনসংখ্যা সমস্যা হিসেবে বিবেচিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776564,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের অর্থনীতিতে কোন খাতের গুরুত্ব ও অবদান ক্রমশ বৃদ্ধি পাচ্ছে? ২০২২-২৩ অর্থবছরে এর অবদান কত শতাংশ?",
+        "solution": "বাংলাদেশের অর্থনীতিতে শিল্পখাতের গুরুত্ব ও অবদান ক্রমশ বৃদ্ধি পাচ্ছে। ২০২২-২০২৩ অর্থবছরে এ খাতের অবদান ৩৭.৬৫% এর বেশি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776563,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের শিল্পখাতে কোন ধরনের শিল্পের অস্তিত্ব নেই? আমাদের প্রধান প্রধান শিল্প কোনগুলো? উল্লেখ করো।",
+        "solution": "বাংলাদেশের শিল্পখাতে মৌলিক ও ভারী শিল্পের অস্তিত্ব নেই। আমাদের প্রধান প্রধান শিল্পের অর্ন্তভুক্ত হলো- সার কারখানা, চিনি ও খাদ্যশিল্প, বস্ত্রশিল্প, পাটশিল্প, চামড়াশিল্প, তৈরি পোশাক শিল্প প্রভৃতি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776562,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের কৃষিজমির উৎপাদনশীলতা কম কেন? ব্যাখ্যা করো।",
+        "solution": "কৃষিখাত বাংলাদেশের অর্থনীতিতে গুরুত্বপূর্ণ খাত হলেও কৃষি উৎপাদন প্রণালি এখনও সম্পূর্ণ আধুনিক হয়ে ওঠেনি। তাছাড়া চাষাবাদের আওতাধীন জমির বৃহদাংশে এখনও পর্যন্ত সনাতন পদ্ধতির চাষাবাদ চলছে। এর ফলে কৃষিজমির উৎপাদনশীলতা কম।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776561,
+      "value": {
+        "options": [],
+        "question": "দেশের অর্থনীতির সমন্বিত ৩টি বৃহত্তর খাত হলো কৃষি, শিল্প ও সেবাখাত। মোট দেশজ উৎপাদনে এ খাতগুলোর কোনটি কত শতাংশ অবদান রাখে?",
+        "solution": "মোট দেশজ উৎপাদনে কৃষির অবদান ১১.৩০ শতাংশ, শিল্পের ৩৭.৬৫ শতাংশ এবং সেবাখাতের ৫১.০৫ শতাংশ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776560,
+      "value": {
+        "options": [],
+        "question": "কানিজের বাবা মাছ চাষ করেন। এটি অর্থনীতির কোন খাতের অন্তর্ভুক্ত? বাংলাদেশের অর্থনীতিকে খাতওয়ারী এরকম কয়টি ভাগে ভাগ করা হয়?",
+        "solution": "মাছ চাষ কৃষিখাতের অর্ন্তভুক্ত। বাংলাদেশের অর্থনীতিকে খাতওয়ারী এরকম ১৯টি ভাগে ভাগ করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776559,
+      "value": {
+        "options": [],
+        "question": "অর্থনীতির খাত বলতে কী বোঝায়? বিশ্বের যেকোনো অর্থনীতিকে প্রধান কয়টি খাতে ভাগ করা হয়?",
+        "solution": "অর্থনীতির খাত বলতে অর্থনীতির বিভিন্ন অংশ, বিভাগ বা শাখাকে বোঝায়। বিশ্বের যেকোনো অর্থনীতিকে প্রধান তিনটি খাতে ভাগ করা হয়। খাতগুলো হলো- কৃষি, শিল্প ও সেবাখাত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776558,
+      "value": {
+        "options": {
+          "ক": "১.৩৭%",
+          "খ": "১.৪৮%",
+          "গ": "১.৮০%",
+          "ঘ": "২.১৭%"
+        },
+        "question": "আদমশুমারি রিপোর্ট ২০১১ অনুযায়ী বাংলাদেশের জনসংখ্যা বৃদ্ধির হার কত ছিল?",
+        "solution": "ক. ১.৩৭%",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 776558,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:47:10.000000Z",
+            "updated_at": "2025-12-01T15:47:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776557,
+      "value": {
+        "options": {
+          "ক": "শিল্পখাতের",
+          "খ": "কৃষিখাতের",
+          "গ": "শিক্ষাখাতের",
+          "ঘ": "নির্মাণ খাতের"
+        },
+        "question": "সাম্প্রতিক বছরগুলোতে বাংলাদেশের অর্থনীতিতে কোন খাতের গুরুত্ব ও অবদান ক্রমশ বৃদ্ধি পাচ্ছে?",
+        "solution": "ক. শিল্পখাতের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 776557,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:47:10.000000Z",
+            "updated_at": "2025-12-01T15:47:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776556,
+      "value": {
+        "options": {
+          "ক": "সেচ ব্যবস্থা",
+          "খ": "ব্যাংক",
+          "গ": "হাসপাতাল",
+          "ঘ": "মোবাইল ফোন"
+        },
+        "question": "নিচের কোনটি সামাজিক অবকাঠামো?",
+        "solution": "গ. হাসপাতাল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776555,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনসংখ্যা বৃদ্ধির ফলে বিভিন্নমুখী সমস্যা সৃষ্টি হচ্ছে-\u003Cbr\u003E\ni. বেকারত্বে\u003Cbr\u003E\nii. সামাজিক নীতিতে\u003Cbr\u003E\niii. শিশুশ্রমে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776554,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশের অর্থনীতির বৈশিষ্ট্য-\u003Cbr\u003E\ni. কৃষিপ্রধান\u003Cbr\u003E\nii. শিল্পনির্ভর\u003Cbr\u003E\niii. প্রাকৃতিক ও মানবসম্পদের অপূর্ণ ব্যবহার\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776554,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:47:10.000000Z",
+            "updated_at": "2025-12-01T15:47:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776553,
+      "value": {
+        "options": {
+          "ক": "লোহা ও ইস্পাত",
+          "খ": "বিদ্যুৎ ও সার",
+          "গ": "পোশাক ও ইস্পাত",
+          "ঘ": "লোহা ও পাট"
+        },
+        "question": "ভারী শিল্পের অন্তর্ভুক্ত কোনটি?",
+        "solution": "ক. লোহা ও ইস্পাত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 776553,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:47:10.000000Z",
+            "updated_at": "2025-12-01T15:47:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14706&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14706&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14706&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 28,
+  "total": 28
+}

@@ -1,0 +1,772 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776823,
+      "value": {
+        "options": {
+          "ক": "প্রশাসনে চাকরি",
+          "খ": "পোশাক শিল্পে চাকরি",
+          "গ": "ওষুধ কোম্পানিতে চাকরি",
+          "ঘ": "হাঁস-মুরগি লালন-পালন"
+        },
+        "question": "আত্মনিয়োজিত পেশা কোনটি?",
+        "solution": "ঘ. হাঁস-মুরগি লালন-পালন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776823,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:52:51.000000Z",
+            "updated_at": "2025-12-01T15:52:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776824,
+      "value": {
+        "options": {
+          "ক": "নারী শিক্ষার সম্প্রসারণ",
+          "খ": "সামাজিক উন্নয়ন বৃদ্ধি",
+          "গ": "দরিদ্রতা দূরীকরণ",
+          "ঘ": "মহিলাদের সামাজিক মর্যাদা বৃদ্ধি"
+        },
+        "question": "উপবৃত্তি প্রকল্প চালু করার কারণ কী?",
+        "solution": "ক. নারী শিক্ষার সম্প্রসারণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 776824,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-01T15:52:51.000000Z",
+            "updated_at": "2025-12-01T15:52:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776825,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশে শিক্ষাক্ষেত্রে আমূল পরিবর্তন এসেছে নিচের কোন কারণে-\u003Cbr\u003E\ni. সৃজনশীল পদ্ধতির মূল্যায়ন ব্যবস্থার ফলে\u003Cbr\u003E\nii. নতুন পাঠ্যপুস্তক প্রণয়নের ফলে\u003Cbr\u003E\niii. শিক্ষক প্রশিক্ষণের ফলে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776825,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:52:51.000000Z",
+            "updated_at": "2025-12-01T15:52:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776826,
+      "value": {
+        "options": [],
+        "question": "শিল্পায়ন কীভাবে বাংলাদেশের সামাজিক পরিবর্তন ঘটিয়েছে?",
+        "solution": "শিল্পায়ন নানাভাবে বাংলাদেশের সামাজিক পরিবর্তন ঘটিয়েছে। শিল্পায়নের ফলে আমাদের সমাজ জীবনে উচ্চবিত্ত, মধ্যবিত্ত ও নিম্নবিত্ত শ্রেণির উদ্ভব হয়েছে। এদেশের কর্মসংস্থান বৃদ্ধি, অধিকহারে উৎপাদন বৃদ্ধি, মাথাপিছু আয় ও জাতীয় আয় বৃদ্ধির মূলে রয়েছে শিল্পায়ন। শিল্পায়ন নগরায়ণের সৃষ্টি করেছে। এসবের ফলে সামাজিক ব্যবস্থায় পরিবর্তন এসেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776827,
+      "value": {
+        "options": [],
+        "question": "বিশ্ববিদ্যালয়ের শিক্ষা শেষ করে দীপা একটি বেসরকারি সংস্থায় চাকরি করছে, যেখানে যৌতুকের বিরুদ্ধে নারীদের সচেতন করা হয়। দীপার কর্মকান্ডে সামাজিক পরিবর্তনের কোন উপাদানের প্রভাব লক্ষণীয়? ব্যাখ্যা করো।",
+        "solution": "দীপার কর্মকান্ডে সামাজিক পরিবর্তনের বিশেষ উপাদান শিক্ষার প্রভাব লক্ষণীয়। সমাজের সদস্যদের মধ্যে শিক্ষার প্রসার সামাজিক পরিবর্তন ঘটায়। উদাহরণ হিসেবে বলা যায়- বাংলাদেশের সমাজে নারী শিক্ষার প্রসার নারীদের অধিকার সচেতন করেছে। যৌতুক আইন, পারিবারিক আইন, নারী উন্নয়ন নীতি প্রভৃতি শিক্ষার ফসল। নারী শিক্ষা নারীকে কর্মমুখী করেছে। এভাবে বিজ্ঞান শিক্ষা, বাণিজ্য শিক্ষা প্রভৃতি সমাজে পরিবর্তন এনেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776828,
+      "value": {
+        "options": [],
+        "question": "সামাজিক পরিবর্তনে নারীর ভূমিকা ব্যাখ্যা করো।",
+        "solution": "সমাজ ক্রমাগত পরিবর্তনশীল। আর সমাজের এ পরিবর্তনের ধারায় নারীরা গুরুত্বপূর্ণ ভূমিকা পালন করে। একসময় নারী শুধু গৃহস্থালি কাজের মধ্যেই সীমাবদ্ধ ছিল। কিন্তু এখন নারী শিক্ষার পাশাপাশি বিভিন্ন কর্মক্ষেত্রে নিয়োজিত হচ্ছে। শিক্ষিত নারীরা বিভিন্ন পেশা, যেমন- চিকিৎসা, আইন, শিক্ষকতা, পুলিশসহ বিভিন্ন সরকারি ও বেসরকারি প্রতিষ্ঠানে কাজ করছে। গ্রাম পর্যায়ে নারীরা সরকারি কিংবা বেসরকারি সংস্থা থেকে ঋণ নিয়ে আত্মকর্মসংস্থান সৃষ্টি করছে। নারীদের এসব কার্যক্রম সমাজকে পরিবর্তন করছে। এভাবে সামাজিক পরিবর্তনে নারীরা গুরুত্বপূর্ণ ভূমিকা পালন করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776829,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে শিল্পের ক্রমোন্নতি নারীদের ওপর কীরূপ প্রভাব ফেলছে?",
+        "solution": "বাংলাদেশে শিল্পের ক্রমোন্নতি নারীর সমাজিক জীবন ও মর্যাদার ক্ষেত্রে প্রভূত পরিবর্তন সাধন করেছে।\u003Cbr /\u003E\nশিল্পের প্রসার আজ নারীকে গৃহের সীমিত পরিবেশ থেকে বাইরের কর্মমুখর জগতে টেনে এনেছে। তাছাড়া নারী সমাজের চাকরি, বাড়তি অর্থ উপার্জনের সুযোগ সম্প্রসারিত করেছে। শিক্ষাক্ষেত্রে নারী আগের তুলনায় অনেক বেশি অগ্রসর হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776830,
+      "value": {
+        "options": [],
+        "question": "শিল্পায়ন কীভাবে নারীর সামাজিক মর্যাদার পরিবর্তন এনেছে? ব্যাখ্যা করো।",
+        "solution": "শিল্পায়ন নারীকে আত্মনির্ভরশীল ও শিক্ষিত হওয়ার সুযোগ করে দেওয়ার মাধ্যমে সামাজিক মর্যাদায় পরিবর্তন এনেছে।\u003Cbr /\u003E\nএকসময় বিশ্বের সব সমাজেই নারীর ভূমিকা শুধু গৃহস্থালি কাজের মধ্যেই সীমাবদ্ধ ছিল। কিন্তু শিল্পের প্রসার নারীকে গৃহের সীমিত পরিবেশ থেকে বাইরের কর্মমুখর জগতে টেনে এনেছে। নারীর শিক্ষা, চাকরি ও বাড়তি উপার্জনের সুযোগ সম্প্রসারিত হয়েছে। শিল্পায়ন নারীর জন্য পুরুষের ওপর নির্ভরশীলতা কমিয়ে আত্মনির্ভরশীল হওয়ার সুযোগ সৃষ্টি করেছে। এভাবে নারীর সামাজিক মর্যাদায় পরিবর্তন এসেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:51.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776815,
+      "value": {
+        "options": {
+          "ক": "সমাজের উন্নতি",
+          "খ": "শিক্ষার প্রসার",
+          "গ": "কর্মসংস্থানের সুযোগ সৃষ্টি",
+          "ঘ": "নারীর ক্ষমতায়ন"
+        },
+        "question": "রাহেলা বেগম মাধ্যমিক পরীক্ষায় উত্তীর্ণ। গত মাসে সে একটি স্কুলে পিওনের চাকরিতে যোগদান করেন। রাহেলার এ পরিবর্তনকে কী বলে?",
+        "solution": "ঘ. নারীর ক্ষমতায়ন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4601,
+          "full_name": "ঢা. বো.'২০১৫;সি. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০১৫;সি. বো.'২০২০",
+          "slug": "dha-bo2015si-bo2020",
+          "pivot": {
+            "question_bank_id": 776815,
+            "tag_id": 4601,
+            "year": null,
+            "created_at": "2025-12-01T15:52:50.000000Z",
+            "updated_at": "2025-12-01T15:52:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776816,
+      "value": {
+        "options": {
+          "ক": "২১%",
+          "খ": "২৫%",
+          "গ": "২৭%",
+          "ঘ": "২৯%"
+        },
+        "question": "মেডিকেল কলেজসমূহে নারী শিক্ষার্থীর শতকরা হার কত?",
+        "solution": "ঘ. ২৯%",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 776816,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:52:50.000000Z",
+            "updated_at": "2025-12-01T15:52:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776817,
+      "value": {
+        "options": {
+          "ক": "সংস্কৃতির প্রসার",
+          "খ": "শিল্পের প্রসার",
+          "গ": "সামাজিক প্রতিষ্ঠান",
+          "ঘ": "ধর্মের প্রভাব"
+        },
+        "question": "কিসের ফলে নারীরা আজ গৃহের সীমিত পরিবেশ থেকে বাহিরের কর্মমুখর জগতে এসেছে?",
+        "solution": "খ. শিল্পের প্রসার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 776817,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-01T15:52:50.000000Z",
+            "updated_at": "2025-12-01T15:52:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776818,
+      "value": {
+        "options": {
+          "ক": "কর্মক্ষেত্রে নারীর সংখ্যা বেড়েছে",
+          "খ": "গ্রামের মেয়েদের শিক্ষার হার বেড়েছে",
+          "গ": "নারীরা পোশাক কারখানার কাজ করতে পারছে",
+          "ঘ": "সমাজে বিদ্যালয়ের সংখ্যা বেড়েছে"
+        },
+        "question": "সরকারের উপবৃত্তি প্রকল্প চালুর ফলে-",
+        "solution": "খ. গ্রামের মেয়েদের শিক্ষার হার বেড়েছে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776818,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:52:50.000000Z",
+            "updated_at": "2025-12-01T15:52:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776819,
+      "value": {
+        "options": {
+          "ক": "শিক্ষা",
+          "খ": "প্রযুক্তি",
+          "গ": "যোগাযোগ",
+          "ঘ": "জৈবিক"
+        },
+        "question": "সামাজিক পরিবর্তনের কোন উপাদানটির প্রভাবে 'নারীর ক্ষমতায়ন' ত্বরান্বিত হচ্ছে?",
+        "solution": "ক. শিক্ষা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 776819,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:52:50.000000Z",
+            "updated_at": "2025-12-01T15:52:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776820,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নারীরা পূর্বের তুলনায় সামাজিক ক্ষেত্রে এগিয়ে যাওয়ার কারণ হলো-\u003Cbr\u003E\ni. নারীর শিক্ষার প্রসার\u003Cbr\u003E\nii. সমাজ হঠাৎ নারীদের সুবিধা দিয়েছে\u003Cbr\u003E\niii. কর্মমুখী শিক্ষার প্রসার\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 776820,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:52:50.000000Z",
+            "updated_at": "2025-12-01T15:52:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776821,
+      "value": {
+        "options": {
+          "ক": "সচেতনতা",
+          "খ": "মূল্যবোধ",
+          "গ": "নৈতিকতা",
+          "ঘ": "আত্মবিশ্বাস"
+        },
+        "question": "নারী শিক্ষার প্রসার জনগণের মধ্যে কী সৃষ্টি করেছে?",
+        "solution": "ক. সচেতনতা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776821,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:52:50.000000Z",
+            "updated_at": "2025-12-01T15:52:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776822,
+      "value": {
+        "options": {
+          "ক": "পরিবার গঠন",
+          "খ": "বেকারত্ব দূর",
+          "গ": "প্রতিষ্ঠা লাভ",
+          "ঘ": "নারীর ক্ষমতায়ন"
+        },
+        "question": "হালিমা এম.এসসি পাসের পর বিসিএস পরীক্ষার মাধ্যমে স্থানীয় সরকার মন্ত্রণালয়ের একজন কর্মকর্তা হিসাবে চাকরিতে যোগদান করেন। সামাজিক পরিবর্তনের ক্ষেত্রে হালিমার জন্য প্রযোজ্য হলো-",
+        "solution": "ঘ. নারীর ক্ষমতায়ন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8075,
+      "created_at": "2025-12-01T15:52:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776822,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:52:51.000000Z",
+            "updated_at": "2025-12-01T15:52:51.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8075&grade=5&lesson=14715&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8075&grade=5&lesson=14715&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8075&grade=5&lesson=14715&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 16
+}

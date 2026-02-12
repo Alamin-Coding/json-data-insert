@@ -1,0 +1,243 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776625,
+      "value": {
+        "options": {
+          "ক": "অপ্রত্যাশিত",
+          "খ": "সমাজকল্যাণমূলক",
+          "গ": "বেসামরিক প্রশাসন&nbsp;",
+          "ঘ": "অন্যান্য খাত"
+        },
+        "question": "সম্প্রতি 'তিতলি' ঝড়ে ক্ষতিগ্রস্তদের মাঝে সরকার নগদ টাকা ও খাদ্যসামগ্রী বিতরণ করে। এটি সরকারের কোন ধরনের ব্যয়ের অন্তর্ভুক্ত?",
+        "solution": "ক. অপ্রত্যাশিত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 776625,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:48:10.000000Z",
+            "updated_at": "2025-12-01T15:48:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776626,
+      "value": {
+        "options": {
+          "ক": "স্বাস্থ্য ও পরিবার কল্যাণমূলক",
+          "খ": "সমাজকল্যাণমূলক",
+          "গ": "অপ্রত্যাশিত",
+          "ঘ": "অন্যান্য খাতভুক্ত"
+        },
+        "question": "বন্যা, খরা, ঘূর্ণিঝড় ইত্যাদির মতো দুর্যোগ মোকাবিলায় সরকারকে কোন ধরনের ব্যয় করতে হয়?",
+        "solution": "গ. অপ্রত্যাশিত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4854,
+          "full_name": "য. বো.'২০২০;কু. বো.'২০১৯;চ. বো.'২০১৫",
+          "short_name": "য. বো.'২০২০;কু. বো.'২০১৯;চ. বো.'২০১৫",
+          "slug": "z-bo2020ku-bo2019c-bo2015",
+          "pivot": {
+            "question_bank_id": 776626,
+            "tag_id": 4854,
+            "year": null,
+            "created_at": "2025-12-01T15:48:10.000000Z",
+            "updated_at": "2025-12-01T15:48:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776627,
+      "value": {
+        "options": {
+          "ক": "প্রতিরক্ষা",
+          "খ": "কৃষি",
+          "গ": "বেসামরিক প্রশাসন",
+          "ঘ": "শিক্ষা"
+        },
+        "question": "বাংলাদেশ সরকারের ব্যয়ের গুরুত্বপূর্ণ খাত কোনটি?",
+        "solution": "ঘ. শিক্ষা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4855,
+          "full_name": "চ. বো.'২০২০;ব. বো.'২০১৬",
+          "short_name": "চ. বো.'২০২০;ব. বো.'২০১৬",
+          "slug": "c-bo2020b-bo2016",
+          "pivot": {
+            "question_bank_id": 776627,
+            "tag_id": 4855,
+            "year": null,
+            "created_at": "2025-12-01T15:48:10.000000Z",
+            "updated_at": "2025-12-01T15:48:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776628,
+      "value": {
+        "options": {
+          "ক": "প্রতিরক্ষা",
+          "খ": "শিক্ষা",
+          "গ": "বেসরকারি প্রশাসন",
+          "ঘ": "বৈদেশিক বিষয়াবলি"
+        },
+        "question": "বাংলাদেশ সরকারের ব্যয়ের প্রধান খাত কোনটি?",
+        "solution": "ক. প্রতিরক্ষা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8073,
+      "created_at": "2025-12-01T15:48:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 776628,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-01T15:48:10.000000Z",
+            "updated_at": "2025-12-01T15:48:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8073&grade=5&lesson=14710&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8073&grade=5&lesson=14710&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8073&grade=5&lesson=14710&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 4,
+  "total": 4
+}

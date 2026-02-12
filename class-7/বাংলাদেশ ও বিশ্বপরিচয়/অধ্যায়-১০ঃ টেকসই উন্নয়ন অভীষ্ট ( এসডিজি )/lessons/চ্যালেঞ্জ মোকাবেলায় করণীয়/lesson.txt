@@ -1,0 +1,827 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776295,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "গ্রামীণ অর্থনীতির বিকাশে প্রয়োজন-\u003Cbr\u003E\ni. অ-কৃষিখাতের প্রাধান্য\u003Cbr\u003E\nii. পিছিয়ে পড়া জনগোষ্ঠীকে সক্রিয় করা\u003Cbr\u003E\niii. দুর্গম অঞ্চলের অধিবাসীদের উন্নয়নে পরিকল্পনা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776304,
+      "value": {
+        "options": {
+          "ক": "ii ও iii",
+          "খ": "ii ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "রাইসুল মিয়া তার এলাকার মূল সড়কের দু'পাশে অনেকগুলো গাছ লাগিয়েছিলেন। এখন গাছগুলো বড় হয়ে পথচারীদের ছায়া দিচ্ছে এবং চারদিকে শীতল আবহাওয়া বজায় রাখতে ভূমিকা রাখছে।",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776303,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "ভারী বর্ষণের কারণে ঢাকা শহরের বিভিন্ন এলাকায় পানি জমে গেছে।&nbsp;এক্ষেত্রে. যেসব সমস্যা হতে পারে-\u003Cbr\u003E\ni. যান চলাচল ব্যাহত হয়\u003Cbr\u003E\nii. স্বল্প আয়ের লোকেরা ক্ষতিগ্রস্ত হয়\u003Cbr\u003E\niii. পরিবহন মালিকরা জনগণকে দুর্দশায় নিপতিত করে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776302,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "টেকসই উন্নয়ন অভীষ্ট অর্জনে প্রয়োজন-\u003Cbr\u003E\ni. সমগ্র জাতিকে নিয়ে একত্রে কাজ করা\u003Cbr\u003E\nii. বৈশ্বিক সম্পর্ক উন্নয়ন করা\u003Cbr\u003E\niii. বিক্ষিপ্তভাবে পরিচালিত কর্ম তৎপরতা সমন্বয় করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776301,
+      "value": {
+        "options": {
+          "ক": "আন্তর্জাতিক সহযোগিতা বৃদ্ধি",
+          "খ": "করের হার বৃদ্ধি",
+          "গ": "উন্নয়নের ধারা টেকসইকরণ",
+          "ঘ": "মনিটরিং হ্রাস"
+        },
+        "question": "টেকসই উন্নয়ন নিশ্চিতের জন্য কী করতে হবে?",
+        "solution": "গ. উন্নয়নের ধারা টেকসইকরণ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776300,
+      "value": {
+        "options": {
+          "ক": "দেশের উন্নতি বিধান",
+          "খ": "গ্যাসের প্রাপ্যতা নিশ্চিতকরণ",
+          "গ": "সম্পদ অনুসন্ধানও ব্যবহার",
+          "ঘ": "উন্নত দেশের সাথে প্রতিযোগিতামূলক মনোভাব"
+        },
+        "question": "বাংলাদেশ সরকার স্থলভাগ ও সমুদ্র অনুসন্ধানে পদক্ষেপ নিতে আগ্রহী। এর কারণ কী?",
+        "solution": "খ. গ্যাসের প্রাপ্যতা নিশ্চিতকরণ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776299,
+      "value": {
+        "options": {
+          "ক": "কৃষিখাত",
+          "খ": "অ-কৃষিখাত",
+          "গ": "বনজ খাত",
+          "ঘ": "শিল্প খাত"
+        },
+        "question": "গ্রামীণ অর্থনীতির বিকাশে কোন খাতকে প্রাধান্য দিতে হবে?",
+        "solution": "খ. অ-কৃষিখাত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776298,
+      "value": {
+        "options": {
+          "ক": "দারিদ্র্যের হার শূন্যতে নামিয়ে আনা",
+          "খ": "বৈষম্য সহনীয় পর্যায়ে নামিয়ে আনা",
+          "গ": "জলাবদ্ধতা কমিয়ে আনা",
+          "ঘ": "শিল্পায়ন ও নগরায়ণ ব্যাহত করা"
+        },
+        "question": "এসডিজি বাস্তবায়নে জরুরি হলো-",
+        "solution": "খ. বৈষম্য সহনীয় পর্যায়ে নামিয়ে আনা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776297,
+      "value": {
+        "options": {
+          "ক": "সমাজ ও প্রশাসন",
+          "খ": "জলাবদ্ধতা ও উন্নয়ন",
+          "গ": "সমাজ ও পরিবেশ",
+          "ঘ": "নাগরিক ও উন্নয়ন"
+        },
+        "question": "টেকসই উন্নয়নের মৌলিক বিবেচ্য বিষয় হলো-&nbsp;",
+        "solution": "গ. সমাজ ও পরিবেশ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 776297,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:42:59.000000Z",
+            "updated_at": "2025-12-01T15:42:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776296,
+      "value": {
+        "options": {
+          "ক": "উন্নয়নশীল",
+          "খ": "মধ্য আয়ের",
+          "গ": "উচ্চ আয়ের",
+          "ঘ": "উন্নত দেশের"
+        },
+        "question": "২০৪১ সালের মধ্যে আমরা কোন দেশে উন্নীত হওয়ার স্বপ্ন দেখছি?",
+        "solution": "ঘ. উন্নত দেশের",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 776296,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:42:59.000000Z",
+            "updated_at": "2025-12-01T15:42:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776286,
+      "value": {
+        "options": {
+          "ক": "উন্নত ও উচ্চ আয়ের দেশ",
+          "খ": "ডিজিটাল বাংলাদেশ ও মধ্যম আয়ের দেশ",
+          "গ": "এমডিজি",
+          "ঘ": "এসডিজি"
+        },
+        "question": "২০২১ সাল নাগাদ বাংলাদেশ নিচের কোনটিতে প্রতিশ্রুতিবদ্ধ?&nbsp;",
+        "solution": "খ. ডিজিটাল বাংলাদেশ ও মধ্যম আয়ের দেশ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 776286,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:42:59.000000Z",
+            "updated_at": "2025-12-01T15:42:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776294,
+      "value": {
+        "options": {
+          "ক": "আর্থসামাজিক অগ্রগতি সুবণ্টিত হলে",
+          "খ": "দুর্গম অঞ্চলের অধিবাসীরা অগ্রসর হলে",
+          "গ": "রাজনৈতিক অঙ্গীকার বাস্তবায়িত হলে",
+          "ঘ": "বিদেশে সম্পদ পাচার বন্ধ হলে"
+        },
+        "question": "অর্থনৈতিক নীতিকাঠামো কার্যকর হবে কীরূপে?",
+        "solution": "ক. আর্থসামাজিক অগ্রগতি সুবণ্টিত হলে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776293,
+      "value": {
+        "options": {
+          "ক": "কৃষি উন্নয়ন",
+          "খ": "পরিবেশ সংরক্ষণ",
+          "গ": "নিরক্ষরতা দূরীকরণ",
+          "ঘ": "নবায়নযোগ্য জ্বালানি ব্যবহার"
+        },
+        "question": "টেকসই উন্নয়নের মৌলিক বিবেচ্য বিষয় কোনটি?",
+        "solution": "খ. পরিবেশ সংরক্ষণ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 776293,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:42:59.000000Z",
+            "updated_at": "2025-12-01T15:42:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776292,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "এস ডি জি বাস্তবায়নে আমাদেরকে-\u003Cbr\u003E\ni. পরিবেশ দূষণ কমাতে হবে\u003Cbr\u003E\nii. সকল ক্ষেত্রে বৈষম্য কমাতে হবে\u003Cbr\u003E\niii. কার্যকর অর্থনৈতিক নীতি তৈরি করতে হবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 776292,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:42:59.000000Z",
+            "updated_at": "2025-12-01T15:42:59.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776291,
+      "value": {
+        "options": {
+          "ক": "সমাজ",
+          "খ": "অর্থনৈতিক বিবেচনা",
+          "গ": "পরিবেশ সংরক্ষণ",
+          "ঘ": "পরিবেশের অগ্রগতি"
+        },
+        "question": "রাইসুল মিয়া তার এলাকার মূল সড়কের দু'পাশে অনেকগুলো গাছ লাগিয়েছিলেন। এখন গাছগুলো বড় হয়ে পথচারীদের ছায়া দিচ্ছে এবং চারদিকে শীতল আবহাওয়া বজায় রাখতে ভূমিকা রাখছে।\u003Cbr\u003E\nউদ্দীপকটি টেকসই উন্নয়নের কোন ক্ষেত্রকে নির্দেশ করছে?",
+        "solution": "গ. পরিবেশ সংরক্ষণ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776290,
+      "value": {
+        "options": {
+          "ক": "ii",
+          "খ": "i ও ii",
+          "গ": "ii ও iii&nbsp;&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;&nbsp;"
+        },
+        "question": "টেকসই উন্নয়নের প্রধান ক্ষেত্র হলো-\u003Cbr\u003E\ni. সমাজ\u003Cbr\u003E\nii. অর্থনৈতিক বিবেচনা\u003Cbr\u003E\niii. পরিবেশ সংরক্ষণ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776289,
+      "value": {
+        "options": {
+          "ক": "অগ্রগতিকে গতিশীল ও দ্রুততর করা",
+          "খ": "অগ্রগতির ধারা ব্যাহত করা",
+          "গ": "অগ্রগতিকে সুসংহত করা",
+          "ঘ": "উত্তরোত্তর আয় বৃদ্ধি করা"
+        },
+        "question": "বর্তমান সময়ে গুরুত্বপূর্ণ কাজ কোনটি?",
+        "solution": "গ. অগ্রগতিকে সুসংহত করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776288,
+      "value": {
+        "options": {
+          "ক": "উন্নয়নের প্রভাব",
+          "খ": "তথ্যপ্রযুক্তির অপব্যবহার",
+          "গ": "সাংস্কৃতিক অগ্রগতি",
+          "ঘ": "সামাজিক পরিবর্তন"
+        },
+        "question": "এসএসসি পরীক্ষা সামনে হলেও মিজান সারাক্ষণ মোবাইল নিয়ে ব্যস্ত থাকে এবং লেখাপড়ায় অনাগ্রহ দেখায়। এখানে কোনটি প্রকাশ পায়?",
+        "solution": "খ. তথ্যপ্রযুক্তির অপব্যবহার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776287,
+      "value": {
+        "options": {
+          "ক": "দুটি",
+          "খ": "তিনটি",
+          "গ": "চারটি",
+          "ঘ": "ছয়টি"
+        },
+        "question": "টেকসই উন্নয়ন কয়টি বিষয়কে কেন্দ্র করে পরিকল্পিত হয়?",
+        "solution": "খ. তিনটি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:42:59.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8070&grade=5&lesson=14692&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8070&grade=5&lesson=14692&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8070&grade=5&lesson=14692&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 19,
+  "total": 19
+}

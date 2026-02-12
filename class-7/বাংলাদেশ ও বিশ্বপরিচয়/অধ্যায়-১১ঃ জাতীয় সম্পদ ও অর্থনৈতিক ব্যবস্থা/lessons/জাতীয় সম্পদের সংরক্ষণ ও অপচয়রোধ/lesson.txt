@@ -1,0 +1,1137 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776431,
+      "value": {
+        "options": {
+          "ক": "দুটি",
+          "খ": "তিনটি",
+          "গ": "চারটি",
+          "ঘ": "পাঁচটি"
+        },
+        "question": "প্রকৃত অর্থে কোনো বস্তু বা দ্রব্যকে সম্পদ বলতে হলে, তার কয়টি বৈশিষ্ট্য থাকতে হবে?",
+        "solution": "গ. চারটি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 776431,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776441,
+      "value": {
+        "options": {
+          "ক": "প্রথম বন্ধু",
+          "খ": "দ্বিতীয় বন্ধু",
+          "গ": "তৃতীয় বন্ধু",
+          "ঘ": "কবির"
+        },
+        "question": "কবির তিন জন বন্ধু নিয়ে একটি কোম্পানি খোলার উদ্যোগ নেয়। প্রথম বন্ধু ভূমি, দ্বিতীয় বন্ধু শ্রম ও তৃতীয় বন্ধু মূলধনের দায়িত্ব&nbsp;নেয়।\u003Cbr\u003E\nউদ্দীপকের আলোকে উৎপাদন প্রক্রিয়ায় সবচেয়ে গুরুত্বপূর্ণ ভূমিকা পালন করে-",
+        "solution": "ঘ. কবির",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 776441,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776440,
+      "value": {
+        "options": {
+          "ক": "সামাজিক সম্পদ",
+          "খ": "ব্যক্তিগত সম্পদ",
+          "গ": "জাতীয় সম্পদ",
+          "ঘ": "আন্তর্জাতিক সম্পদ"
+        },
+        "question": "সিয়াম আইডিয়াল স্কুলে পড়ে। সিয়ামের স্কুলটি কোন ধরনের সম্পদ?",
+        "solution": "গ. জাতীয় সম্পদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776440,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776439,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "উৎপাদনের জন্য কয়টি উপাদান আবশ্যক?",
+        "solution": "গ. ৪",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 776439,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776438,
+      "value": {
+        "options": {
+          "ক": "সাত প্রকার",
+          "খ": "ছয় প্রকার",
+          "গ": "পাঁচ প্রকার",
+          "ঘ": "চার প্রকার"
+        },
+        "question": "বর্তমান বিশ্বে কত প্রকার অর্থনৈতিক ব্যবস্থা কার্যকর আছে?",
+        "solution": "ঘ. চার প্রকার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 776438,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776437,
+      "value": {
+        "options": {
+          "ক": "মানুষের মোট চাহিদা",
+          "খ": "দ্রব্যের অভাব পূরণের ক্ষমতা",
+          "গ": "অভাবের মোট পরিমাণ",
+          "ঘ": "চাহিদা ও যোগানের সমষ্টি"
+        },
+        "question": "উপযোগ বলতে বোঝায়-",
+        "solution": "খ. দ্রব্যের অভাব পূরণের ক্ষমতা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776436,
+      "value": {
+        "options": {
+          "ক": "ব্যক্তিগত",
+          "খ": "সমষ্টিগত&nbsp;",
+          "গ": "আন্তর্জাতিক",
+          "ঘ": "জাতীয়"
+        },
+        "question": "সাগর-মহাসাগর কোন ধরনের সম্পদ?",
+        "solution": "গ. আন্তর্জাতিক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 776436,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776435,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ঢাকার রমিজ সাহেব তার পোশাক কারখানার জন্য প্রায় দশ লক্ষ&nbsp;টাকার নতুন কিছু মেশিন কিনলেন। ফলে তার কারখানায় আরও কিছু শ্রমিক নিয়োগ দিতে হয় এবং তার মুনাফা আগের চেয়েও বেড়ে যায়।\u003Cbr\u003E\nরমিজ সাহেবের এ ধরনের ব্যয়ের ফলে-\u003Cbr\u003E\ni. দেশের মোট জাতীয় ব্যয় বৃদ্ধি পাবে\u003Cbr\u003E\nii. শ্রমিক শোষণ বেড়ে যাবে\u003Cbr\u003E\niii. জনগণের জীবনযাত্রার মান বাড়বে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776435,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776434,
+      "value": {
+        "options": {
+          "ক": "বিনিয়োগ",
+          "খ": "মূলধন",
+          "গ": "ভূমি",
+          "ঘ": "ভোগব্যয়"
+        },
+        "question": "ঢাকার রমিজ সাহেব তার পোশাক কারখানার জন্য প্রায় দশ লক্ষ&nbsp;টাকার নতুন কিছু মেশিন কিনলেন। ফলে তার কারখানায় আরও কিছু শ্রমিক নিয়োগ দিতে হয় এবং তার মুনাফা আগের চেয়েও বেড়ে যায়।\u003Cbr\u003E\nরমিজ সাহেবের দশ লক্ষ টাকা ব্যয়কে অর্থনীতির ভাষায় কী বলে?",
+        "solution": "ক. বিনিয়োগ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 776434,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776433,
+      "value": {
+        "options": {
+          "ক": "সুদ",
+          "খ": "খাজনা",
+          "গ": "মজুরি",
+          "ঘ": "মুনাফা"
+        },
+        "question": "কবির তিন জন বন্ধু নিয়ে একটি কোম্পানি খোলার উদ্যোগ নেয়। প্রথম বন্ধু ভূমি, দ্বিতীয় বন্ধু শ্রম ও তৃতীয় বন্ধু মূলধনের দায়িত্ব&nbsp;নেয়।\u003Cbr\u003E\nপ্রথম বন্ধু উৎপাদন প্রক্রিয়ায় অংশ নেওয়ার জন্য কোনটি লাভ করবে?",
+        "solution": "খ. খাজনা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 776433,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776432,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii&nbsp;",
+          "গ": "i ও iiiবিনিয়োগ",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "গনি মিয়া একজন কাঠুরে। তিনি বন থেকে কাঠ কেটে এনে চেযার- টেবিলসহ বিভিন্ন প্রকার ফার্নিচার তৈরি করে বাজারে বিক্রি করেন।\u003Cbr\u003E\nউদ্দীপকের তথ্য অনুসারে গনি মিয়া একজন-\u003Cbr\u003E\ni. শ্রমিক\u003Cbr\u003E\nii. উদ্যোক্তা\u003Cbr\u003E\niii. মূলধন বিনিয়োগকারী\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. i ও iiiবিনিয়োগ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776432,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776420,
+      "value": {
+        "options": {
+          "ক": "জাতীয়",
+          "খ": "সমষ্টিগত",
+          "গ": "মজুরিএকান্ত ব্যক্তিত্ব",
+          "ঘ": "ব্যক্তিগত"
+        },
+        "question": "কোন ধরনের সম্পদ ব্যবহারের ক্ষেত্রে মিতব্যয়িতা অবলম্বন করা উচিত?",
+        "solution": "ক. জাতীয়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776420,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776430,
+      "value": {
+        "options": {
+          "ক": "মূলধন",
+          "খ": "বিনিয়োগ",
+          "গ": "সঞ্চয়",
+          "ঘ": "মুনাফা"
+        },
+        "question": "উৎপাদন কাজে নিয়োজিত অর্থকে কী বলে?",
+        "solution": "ক. মূলধন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776430,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776429,
+      "value": {
+        "options": {
+          "ক": "পুঁজিবাদী",
+          "খ": "সমাজতান্ত্রিক",
+          "গ": "ইসলামি",
+          "ঘ": "মিশ্র"
+        },
+        "question": "উৎপাদন, বিনিয়োগ, বণ্টন ও ভোগের স্বাধীনতা কোন ধরনের অর্থনীতির বৈশিষ্ট্য?",
+        "solution": "ক. পুঁজিবাদী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 776429,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776428,
+      "value": {
+        "options": {
+          "ক": "খাজনা",
+          "খ": "মুনাফা",
+          "গ": "মজুরি",
+          "ঘ": "সুদ"
+        },
+        "question": "উদোক্তার আয় কোনটি?",
+        "solution": "খ. মুনাফা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776428,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776427,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii&nbsp;",
+          "গ": "iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "চট্টগ্রাম পেপার মিলে আখের ছোবড়া কাজে লাগিয়ে কাগজ তৈরি করা হয়। মিলে তৈরিকৃত কাগজ বাংলাদেশের চাহিদা অনেকাংশে পূরণ করে।\u003Cbr\u003E\nউপরিউক্ত কারখানায় নিয়োজিত শ্রমিকেরা কাজ করার মাধ্যমে পায়-\u003Cbr\u003E\ni. মজুরি\u003Cbr\u003E\nii. শিল্পদ্রব্য\u003Cbr\u003E\niii. মূলধন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776427,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776426,
+      "value": {
+        "options": {
+          "ক": "বণ্টন",
+          "খ": "উৎপাদন",
+          "গ": "ভোগ",
+          "ঘ": "সংগঠন"
+        },
+        "question": "চট্টগ্রাম পেপার মিলে আখের ছোবড়া কাজে লাগিয়ে কাগজ তৈরি করা হয়। মিলে তৈরিকৃত কাগজ বাংলাদেশের চাহিদা অনেকাংশে পূরণ করে।\u003Cbr\u003E\nঅর্থনীতির ভাষায় উপরিউক্ত পেপার মিলে কাগজ তৈরির প্রক্রিয়াকে কী বলে?",
+        "solution": "খ. উৎপাদন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776426,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776425,
+      "value": {
+        "options": {
+          "ক": "ভূমি",
+          "খ": "শ্রম",
+          "গ": "মূলধন",
+          "ঘ": "সংগঠন"
+        },
+        "question": "শাকিল একটি গার্মেন্টস ফ্যাক্টরির মালিক। তার এ ফ্যাক্টরির যন্ত্রপাতি উৎপাদনের কোন ধরনের উপাদান?",
+        "solution": "গ. মূলধন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776425,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776424,
+      "value": {
+        "options": {
+          "ক": "ভোগ",
+          "খ": "বণ্টন",
+          "গ": "বিনিয়োগ",
+          "ঘ": "উৎপাদন"
+        },
+        "question": "গনি মিয়া একজন কাঠুরে। তিনি বন থেকে কাঠ কেটে এনে চেযার- টেবিলসহ বিভিন্ন প্রকার ফার্নিচার তৈরি করে বাজারে বিক্রি করেন।\u003Cbr\u003E\nউদ্দীপকের গনি মিয়ার চেয়ার-টেবিল তৈরি করাকে কী বলে?",
+        "solution": "ঘ. উৎপাদন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776424,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776423,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii&nbsp;",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "উৎপাদনের ক্ষেত্রে যেসব পারিতোষিক দেওয়া হয় সেগুলো হলো-&nbsp;\u003Cbr\u003E\ni. খাজনা ও মজুরি\u003Cbr\u003E\nii. সুদ ও মুনাফা\u003Cbr\u003E\niii. সম্পদ ও ব্যবহার\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 776423,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:44:39.000000Z",
+            "updated_at": "2025-12-01T15:44:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776422,
+      "value": {
+        "options": {
+          "ক": "বনজ",
+          "খ": "খনিজ",
+          "গ": "পানি",
+          "ঘ": "মৎস্য"
+        },
+        "question": "বাংলাদেশে এমন একটি সম্পদ রয়েছে যার অপব্যবহারে রাসায়নিকীকরণসহ নানা কারণে পরিবেশ ও জীবজগতের অস্তিত্ব বিপন্ন হতে পারে। সম্পদটি হলো-",
+        "solution": "গ. পানি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776421,
+      "value": {
+        "options": {
+          "ক": "চাহিদা",
+          "খ": "চাহিদা",
+          "গ": "প্রচেষ্টা",
+          "ঘ": "উপযোগ"
+        },
+        "question": "'?' চিহ্নিত স্থানে কোনটি বসবে?",
+        "solution": "গ. প্রচেষ্টা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8071&grade=5&lesson=14698&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8071&grade=5&lesson=14698&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8071&grade=5&lesson=14698&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

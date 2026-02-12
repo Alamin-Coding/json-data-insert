@@ -1,0 +1,243 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776548,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক দুর্যোগ",
+          "খ": "অবকাঠামোগত দুর্বলতা",
+          "গ": "অর্থনৈতিক অনগ্রসরতা",
+          "ঘ": "ঔপনিবেশিক শাসন"
+        },
+        "question": "কৃষিক্ষেত্রের উন্নয়নে একটা বড় বাধা কোনটি?",
+        "solution": "ক. প্রাকৃতিক দুর্যোগ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 776548,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:46:50.000000Z",
+            "updated_at": "2025-12-01T15:46:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776549,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশে শিল্পায়নের জন্য প্রয়োজন-\u003Cbr\u003E\ni. মূলধন গঠনের মানসিকতা\u003Cbr\u003E\nii. রাজনৈতিক স্থিতিশীলতা\u003Cbr\u003E\niii. শিল্পঋণের পরিমাণ বৃদ্ধি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3787,
+          "full_name": "দি. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৯",
+          "slug": "di-bo2019",
+          "pivot": {
+            "question_bank_id": 776549,
+            "tag_id": 3787,
+            "year": null,
+            "created_at": "2025-12-01T15:46:50.000000Z",
+            "updated_at": "2025-12-01T15:46:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776550,
+      "value": {
+        "options": {
+          "ক": "প্রাচীন কাল",
+          "খ": "মুসলিম শাসনামল",
+          "গ": "ব্রিটিশ শাসনামল",
+          "ঘ": "পাকিস্তান আমল"
+        },
+        "question": "স্বাধীনতা-পূর্ব বাংলাদেশের অর্থনীতির কোন ধাপটিকে বলা হয় 'বাংলার স্বর্ণযুগ'?",
+        "solution": "খ. মুসলিম শাসনামল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3830,
+          "full_name": "ঢা. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৫",
+          "slug": "dha-bo2015",
+          "pivot": {
+            "question_bank_id": 776550,
+            "tag_id": 3830,
+            "year": null,
+            "created_at": "2025-12-01T15:46:50.000000Z",
+            "updated_at": "2025-12-01T15:46:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776551,
+      "value": {
+        "options": {
+          "ক": "পাকিস্তানের লুণ্ঠন",
+          "খ": "ঔপনিবেশিক শাসন",
+          "গ": "প্রযুক্তি জ্ঞানের অভাব",
+          "ঘ": "অনুন্নত অবকাঠামো"
+        },
+        "question": "বাংলাদেশের অর্থনৈতিক পশ্চাৎ প্রবণতার প্রধান কারণ কী?",
+        "solution": "খ. ঔপনিবেশিক শাসন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:46:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776551,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:46:50.000000Z",
+            "updated_at": "2025-12-01T15:46:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14705&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14705&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14705&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 4,
+  "total": 4
+}

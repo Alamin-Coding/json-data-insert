@@ -1,0 +1,333 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775942,
+      "value": {
+        "options": {
+          "ক": "আদেশবিজ্ঞপ্তি",
+          "খ": "অঙ্কিত চিত্র",
+          "গ": "হিসাব বিবরণী",
+          "ঘ": "নোট শিটের প্রতিলিপি"
+        },
+        "question": "তথ্য অধিকার আইনে তথ্যের অন্তর্ভুক্ত নয় কোনটি?",
+        "solution": "ঘ. নোট শিটের প্রতিলিপি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 775942,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:34:18.000000Z",
+            "updated_at": "2025-12-01T15:34:18.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775943,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তথ্য অধিকার আইন নিশ্চিত করে-\u003Cbr\u003E\ni. কার্যক্রমের স্বচ্ছতা আনা\u003Cbr\u003E\nii. আইনের শাসন প্রতিষ্ঠা\u003Cbr\u003E\niii. দক্ষতা বৃদ্ধিতে সহায়তা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 775943,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:34:18.000000Z",
+            "updated_at": "2025-12-01T15:34:18.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775944,
+      "value": {
+        "options": {
+          "ক": "সবাই সব তথ্য পাবে",
+          "খ": "প্রশাসনিক স্বচ্ছতা বৃদ্ধি পাবে",
+          "গ": "তথ্য ও যোগাযোগ প্রযুক্তির ব্যবহার বাড়বে",
+          "ঘ": "যেকোনো সময় প্রয়োজনীয় তথ্য পাওয়া যাবে"
+        },
+        "question": "তথ্য কমিশন গঠনের ফলে-",
+        "solution": "ঘ. যেকোনো সময় প্রয়োজনীয় তথ্য পাওয়া যাবে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 775944,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T15:34:18.000000Z",
+            "updated_at": "2025-12-01T15:34:18.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775945,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "তথ্য অধিকার আইনের দ্বারা-\u003Cbr\u003E\ni. সঠিক তথ্য পাবে\u003Cbr\u003E\nii. ভোগান্তি বাড়বে\u003Cbr\u003E\niii. গণতন্ত্রের ভিত মজবুত হবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775946,
+      "value": {
+        "options": {
+          "ক": "তথ্য অধিকার আইন",
+          "খ": "তথ্যপ্রাপ্তি আইন",
+          "গ": "তথ্য মন্ত্রণালয়",
+          "ঘ": "তথ্য কমিশন"
+        },
+        "question": "তথ্য অধিকার আইনে কোন স্বাধীন প্রতিষ্ঠানের সৃষ্টি হয়েছে?",
+        "solution": "ঘ. তথ্য কমিশন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3847,
+          "full_name": "ব. বো.'২০১৬",
+          "short_name": "ব. বো.'২০১৬",
+          "slug": "b-bo2016",
+          "pivot": {
+            "question_bank_id": 775946,
+            "tag_id": 3847,
+            "year": null,
+            "created_at": "2025-12-01T15:34:18.000000Z",
+            "updated_at": "2025-12-01T15:34:18.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775947,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তথ্য অধিকার আইনের দ্বারা মানুষ-\u003Cbr\u003E\ni. সঠিক তথ্য পাবে\u003Cbr\u003E\nii. ভোগান্তি বাড়বে\u003Cbr\u003E\niii. গণতন্ত্রের ভিত মজবুত হবে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8066,
+      "created_at": "2025-12-01T15:34:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775947,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:34:18.000000Z",
+            "updated_at": "2025-12-01T15:34:18.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8066&grade=5&lesson=14658&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8066&grade=5&lesson=14658&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8066&grade=5&lesson=14658&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

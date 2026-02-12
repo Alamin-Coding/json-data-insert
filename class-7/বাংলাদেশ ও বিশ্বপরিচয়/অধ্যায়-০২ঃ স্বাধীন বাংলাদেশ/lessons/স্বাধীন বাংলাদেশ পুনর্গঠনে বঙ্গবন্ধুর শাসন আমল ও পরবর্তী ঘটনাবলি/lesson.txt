@@ -1,0 +1,1515 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775533,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii",
+          "খ": "i&nbsp;ও iii",
+          "গ": "ii&nbsp;ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনাব হাসান সদ্য স্বাধীন 'ক' দেশের প্রেসিডেন্ট নির্বাচিত হন। তিনি সঠিকভাবে দেশ পুনর্গঠনের জন্য অনেকগুলো পদক্ষেপ গ্রহণ করেন। কিন্তু একটি স্বার্থান্বেষী মহল তাকে গ্রহণ করতে না পেরে হত্যা করে। এরপর এই মহলটি জনাব 'গ' কে প্রেসিডেন্ট নির্বাচিত করে।\u003Cbr\u003E\nজনাব হাসানের পদক্ষেপগুলো গুরুত্বপূর্ণ ছিল-\u003Cbr\u003E\ni. উন্নত অর্থনীতির জন্য\u003Cbr\u003E\nii. দেশের নিরাপত্তার জন্য\u003Cbr\u003E\niii. আইনের শাসন প্রতিষ্ঠার জন্য\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775532,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii&nbsp;",
+          "খ": "i&nbsp;ও iii&nbsp;",
+          "গ": "ii&nbsp;ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "আমাদের দেশ পরিচালনার মূল দলিলের বৈশিষ্ট্য-\u003Cbr\u003E\ni. এটি লিখিত ও দুষ্পরিবর্তনীয়\u003Cbr\u003E\nii. মৌলিক অধিকার স্বীকৃত\u003Cbr\u003E\niii. স্বস্ব ধর্ম অনুশীলনের অধিকার\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 775532,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:30:02.000000Z",
+            "updated_at": "2025-12-01T15:30:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775531,
+      "value": {
+        "options": {
+          "ক": "১৯৭২ সালের ১০ এপ্রিল",
+          "খ": "১৯৭২ সালের ২৩ মার্চ",
+          "গ": "১৯৭২ সালের ১১ জানুয়ারি",
+          "ঘ": "১৯৭২ সালের ১০ জানুয়ারি"
+        },
+        "question": "বঙ্গবন্ধু শেখ মুজিবুর রহমান কখন 'বাংলাদেশ গণপরিষদ' আদেশ জারি করেন?",
+        "solution": "খ. ১৯৭২ সালের ২৩ মার্চ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 775531,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:30:02.000000Z",
+            "updated_at": "2025-12-01T15:30:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775530,
+      "value": {
+        "options": {
+          "ক": "৫০ শতাংশ",
+          "খ": "৬০ শতাংশ",
+          "গ": "৭০ শতাংশ",
+          "ঘ": "৮০ শতাংশ"
+        },
+        "question": "১৯৭২ সালে বাংলাদেশে দারিদ্র্যের হার কত ছিল?",
+        "solution": "গ. ৭০ শতাংশ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 775530,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:30:02.000000Z",
+            "updated_at": "2025-12-01T15:30:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775529,
+      "value": {
+        "options": {
+          "ক": "ড. কুদরাত-এ খুদা",
+          "খ": "ড. কামাল হোসেন",
+          "গ": "ড. মুনীর চৌধুরী",
+          "ঘ": "ড. মুহাম্মদ শহিদুল্লাহ"
+        },
+        "question": "বাংলাদেশের প্রথম শিক্ষা কমিশনের প্রধান কে ছিলেন?",
+        "solution": "ক. ড. কুদরাত-এ খুদা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 775529,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:30:02.000000Z",
+            "updated_at": "2025-12-01T15:30:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775528,
+      "value": {
+        "options": {
+          "ক": "১৯৭২ সালের ১১ অক্টোবর",
+          "খ": "১৯৭২ সালের ১২ অক্টোবর",
+          "গ": "১৯৭৩ সালের ১২ অক্টোবর",
+          "ঘ": "১৯৭৪ সালের ১২ অক্টোবর"
+        },
+        "question": "বাংলাদেশের গণপরিষদের দ্বিতীয় অধিবেশন বসে-",
+        "solution": "খ. ১৯৭২ সালের ১২ অক্টোবর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775528,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:30:02.000000Z",
+            "updated_at": "2025-12-01T15:30:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775519,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii",
+          "খ": "i&nbsp;ও iii",
+          "গ": "ii&nbsp;ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বঙ্গবন্ধু শেখ মুজিবুর রহমান ছিলেন-\u003Cbr\u003E\ni. প্রথম রাষ্ট্রপতি\u003Cbr\u003E\nii. ছয় দফার প্রবক্তা\u003Cbr\u003E\niii. বাংলাদেশের স্থপতি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 775519,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775527,
+      "value": {
+        "options": {
+          "ক": "৪ নভেম্বর ১৯৭২",
+          "খ": "১৭ এপ্রিল ১৯৭২",
+          "গ": "১০ এপ্রিল ১৯৭২",
+          "ঘ": "২৫ মার্চ ১৯৭২"
+        },
+        "question": "বাংলাদেশের সংবিধান গণপরিষদে কখন গৃহীত হয়?",
+        "solution": "ক. ৪ নভেম্বর ১৯৭২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 775527,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:30:02.000000Z",
+            "updated_at": "2025-12-01T15:30:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775526,
+      "value": {
+        "options": {
+          "ক": "জিয়াউর রহমান",
+          "খ": "আহসান উদ্দিন",
+          "গ": "খন্দকার মোশতাক",
+          "ঘ": "এ.এস.এম. সায়েম"
+        },
+        "question": "জনাব হাসান সদ্য স্বাধীন 'ক' দেশের প্রেসিডেন্ট নির্বাচিত হন। তিনি সঠিকভাবে দেশ পুনর্গঠনের জন্য অনেকগুলো পদক্ষেপ গ্রহণ করেন। কিন্তু একটি স্বার্থান্বেষী মহল তাকে গ্রহণ করতে না পেরে হত্যা করে। এরপর এই মহলটি জনাব 'গ' কে প্রেসিডেন্ট নির্বাচিত করে।\u003Cbr\u003E\nতোমার পাঠ্যবইয়ের কোন ব্যক্তিটির সাথে জনাব 'গ' এর মিল আছে?",
+        "solution": "গ. খন্দকার মোশতাক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775525,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii",
+          "খ": "i&nbsp;ও iii",
+          "গ": "ii&nbsp;ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "গণপরিষদের ৩৪ সদস্যবিশিষ্ট কমিটির কাজ হলো-\u003Cbr\u003E\ni. শিক্ষা কমিশন গঠন করা\u003Cbr\u003E\nii. জনসংখ্যা গণনা করা\u003Cbr\u003E\niii. সংবিধান প্রণয়ন করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii&nbsp;ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 775525,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775524,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii",
+          "খ": "i&nbsp;ও iii",
+          "গ": "ii&nbsp;ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশের সংবিধান একটি উত্তম সংবিধান বলে বিবেচিত, কেননা এতে রয়েছে-\u003Cbr\u003E\ni. জনগণের মৌলিক অধিকারের স্বীকৃতি\u003Cbr\u003E\nii. জনগণের সার্বভৌমত্ব\u003Cbr\u003E\niii. ভোটাধিকারের স্বীকৃতি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 775524,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775523,
+      "value": {
+        "options": {
+          "ক": "জাতিসংঘ",
+          "খ": "বিশ্ব স্বাস্থ্য সংস্থা",
+          "গ": "ব্রিটিশ কমনওয়েলথ",
+          "ঘ": "খাদ্য ও কৃষি সংস্থা"
+        },
+        "question": "বাংলাদেশ সর্বপ্রথম কোন সংস্থার সদস্যপদ লাভ করে?",
+        "solution": "গ. ব্রিটিশ কমনওয়েলথ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4538,
+          "full_name": "য. বো.'২০১৭;কু. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৭;কু. বো.'২০১৫",
+          "slug": "z-bo2017ku-bo2015",
+          "pivot": {
+            "question_bank_id": 775523,
+            "tag_id": 4538,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775522,
+      "value": {
+        "options": {
+          "ক": "এককেন্দ্রিক সরকার প্রতিষ্ঠা",
+          "খ": "এক দলীয় শাসন কায়েম",
+          "গ": "শোষণমুক্ত রাষ্ট্র গঠন",
+          "ঘ": "পঞ্চবার্ষিক পরিকল্পনা বাস্তবায়ন"
+        },
+        "question": "বঙ্গবন্ধুর বাকশাল গঠনের উদ্দেশ্য কী ছিল?",
+        "solution": "গ. শোষণমুক্ত রাষ্ট্র গঠন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 775522,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775521,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii&nbsp;",
+          "গ": "iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "গণপরিষদের ৩৪ সদস্যবিশিষ্ট কমিটির কাজ হলো-\u003Cbr\u003E\ni. শিক্ষা কমিশন গঠন করা\u003Cbr\u003E\nii. জনসংখ্যা গণনা করা\u003Cbr\u003E\niii. সংবিধান প্রণয়ন করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 775521,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775520,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii&nbsp;",
+          "খ": "i&nbsp;ও iii&nbsp;",
+          "গ": "ii&nbsp;ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "পাঁচসালা পরিকল্পনার জন্য বঙ্গবন্ধু সরকার-&nbsp;\u003Cbr\u003E\ni. পঞ্চম বার্ষিক পরিকল্পনা কমিশন গঠন করেন\u003Cbr\u003E\nii. বিভিন্ন দল নিয়ে বাকশাল গঠন\u003Cbr\u003E\niii. সুদসহ কৃষি জমির খাজনা মওকুফ করেন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i&nbsp;ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775520,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775505,
+      "value": {
+        "options": {
+          "ক": "১১ জানুয়ারি",
+          "খ": "১০ এপ্রিল",
+          "গ": "১২ অক্টোবর",
+          "ঘ": "৪ নভেম্বর"
+        },
+        "question": "বাংলাদেশের সংবিধান ১৯৭২ সালের কত তারিখে গণপরিষদে গৃহীত হয়েছিল?",
+        "solution": "ঘ. ৪ নভেম্বর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 775505,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775518,
+      "value": {
+        "options": {
+          "ক": "৫ম, ৬ষ্ঠ, ৭ম",
+          "খ": "৪র্থ, ৫ম, ১০ম",
+          "গ": "৬ষ্ঠ, ৭ম, ১৩শ",
+          "ঘ": "৫ম, ৭ম, ১৩শ"
+        },
+        "question": "বাংলাদেশের সংবিধানের কততম সংশোধনীসমূহ সুপ্রিম কোর্ট কর্তৃক বাতিল ঘোষিত হয়েছে?",
+        "solution": "ঘ. ৫ম, ৭ম, ১৩শ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 775518,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775517,
+      "value": {
+        "options": {
+          "ক": "বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+          "খ": "তাজউদ্দীন আহমদ",
+          "গ": "সৈয়দ নজরুল ইসলাম",
+          "ঘ": "এ. এইচ. এম. কামারুজ্জামান"
+        },
+        "question": "\"বাংলাদেশ শান্তিতে বিশ্বাস করে, কারও প্রতি বৈরী আচরণ সমর্থন&nbsp;করবে না\"- উক্তিটি কার?",
+        "solution": "ক. বঙ্গবন্ধু শেখ মুজিবুর রহমান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3830,
+          "full_name": "ঢা. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৫",
+          "slug": "dha-bo2015",
+          "pivot": {
+            "question_bank_id": 775517,
+            "tag_id": 3830,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775516,
+      "value": {
+        "options": {
+          "ক": "১৯৭৫ সালের ১০ জানুয়ারি",
+          "খ": "১৯৭৫ সালের ১২ ফেব্রুয়ারি",
+          "গ": "১৯৭৫ সালের ১৭ জুলাই",
+          "ঘ": "১৯৭৫ সালের ১৫ আগস্ট"
+        },
+        "question": "জাতির জনক বঙ্গবন্ধু শেখ মুজিবুর রহমান নৃশংস হত্যাকান্ডের। শিকার হন-",
+        "solution": "ঘ. ১৯৭৫ সালের ১৫ আগস্ট",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775516,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775515,
+      "value": {
+        "options": {
+          "ক": "৭৪",
+          "খ": "৭৫",
+          "গ": "৭৬",
+          "ঘ": "৭৭"
+        },
+        "question": "ন্যায়পাল পদ সৃষ্টির কথা বলা হয়েছে বাংলাদেশের সংবিধানের কত নং অনুচ্ছেদে?",
+        "solution": "ঘ. ৭৭",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4794,
+          "full_name": "ব. বো.'২০২০;দি. বো.'২০১৬",
+          "short_name": "ব. বো.'২০২০;দি. বো.'২০১৬",
+          "slug": "b-bo2020di-bo2016",
+          "pivot": {
+            "question_bank_id": 775515,
+            "tag_id": 4794,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775514,
+      "value": {
+        "options": {
+          "ক": "১৯৭২ সালের ১১ জানুয়ারি",
+          "খ": "১৯৭২ সালের ১৫ জানুয়ারি",
+          "গ": "১৯৭২ সালের ২৬ জানুয়ারি",
+          "ঘ": "১৯৭২ সালের ১৬ জানুয়ারি"
+        },
+        "question": "বঙ্গবন্ধু শেখ মুজিবুর রহমান কত সালে অস্থায়ী সংবিধান আদেশ জারি করেন?&nbsp;",
+        "solution": "ক. ১৯৭২ সালের ১১ জানুয়ারি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 775514,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775513,
+      "value": {
+        "options": {
+          "ক": "১৯৭২",
+          "খ": "১৯৭৩",
+          "গ": "১৯৭৪",
+          "ঘ": "১৯৭৬"
+        },
+        "question": "বাংলাদেশ কত সালে কমনওয়েলথ-এর সদস্যপদ লাভ করে?",
+        "solution": "ক. ১৯৭২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 775513,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775512,
+      "value": {
+        "options": {
+          "ক": "রিলিফ প্রদান",
+          "খ": "শিক্ষা জাতীয়করণ",
+          "গ": "সংবিধান প্রণয়ন",
+          "ঘ": "বাকশাল গঠন"
+        },
+        "question": "বাংলাদেশের স্বাধীনতা পরবর্তী খাদ্য সংকট, দুর্নীতি এবং ষড়যন্ত্ররোধে বঙ্গবন্ধু সরকার কোন কর্মসূচি গ্রহণ করেছিলেন?",
+        "solution": "ঘ. বাকশাল গঠন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 775512,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775511,
+      "value": {
+        "options": {
+          "ক": "দেশ পুনর্গঠন",
+          "খ": "দ্বিতীয় বিপ্লব",
+          "গ": "পাঁচসালা পরিকল্পনা",
+          "ঘ": "অবকাঠামোগত উন্নতি"
+        },
+        "question": "অতি অল্প সময়ে মিত্র বাহিনীকে ভারতে ফেরত, শিক্ষা কমিশন গঠন এবং সংবিধান প্রণয়নসহ অন্যান্য কাজকে বঙ্গবন্ধুর কোন কাজের সাথে তুলনা করা যায়?",
+        "solution": "ক. দেশ পুনর্গঠন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775511,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775510,
+      "value": {
+        "options": {
+          "ক": "মুক্তিযুদ্ধ পরিচালনার জন্য",
+          "খ": "মুজিবনগর সরকার গঠনের জন্য",
+          "গ": "সংবিধান রচনা করার জন্য",
+          "ঘ": "দেশ পুনর্গঠনের জন্য"
+        },
+        "question": "বাংলাদেশে গণপরিষদ আদেশ জারি করা হয়েছিল কেন?",
+        "solution": "গ. সংবিধান রচনা করার জন্য",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4793,
+          "full_name": "কু. বো.'২০২৪;ব. বো.'২০২০",
+          "short_name": "কু. বো.'২০২৪;ব. বো.'২০২০",
+          "slug": "ku-bo2024b-bo2020",
+          "pivot": {
+            "question_bank_id": 775510,
+            "tag_id": 4793,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775509,
+      "value": {
+        "options": {
+          "ক": "একদলীয় শাসন কায়েম",
+          "খ": "পণ্যবার্ষিক পরিকল্পনা বাস্তবায়ন",
+          "গ": "শোষণমুক্ত সমাজ গঠন",
+          "ঘ": "প্রাকৃতিক দুর্যোগ মোকাবিলা"
+        },
+        "question": "বঙ্গবন্ধুর বাকশাল গঠনের উদ্দেশ্য কী ছিল?",
+        "solution": "গ. শোষণমুক্ত সমাজ গঠন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775509,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775508,
+      "value": {
+        "options": {
+          "ক": "মুক্তিযুদ্ধ পরিচালনার জন্য",
+          "খ": "মুজিবনগর সরকার গঠনের জন্য",
+          "গ": "সংবিধান রচনা করার জন্য",
+          "ঘ": "দেশ পুনর্গঠনের জন্য"
+        },
+        "question": "বাংলাদেশে গণপরিষদ আদেশ জারি করা হয়েছিল কেন?",
+        "solution": "গ. সংবিধান রচনা করার জন্য",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4792,
+          "full_name": "কু. বো.'২০২৩;ঢা. বো.'২০২০",
+          "short_name": "কু. বো.'২০২৩;ঢা. বো.'২০২০",
+          "slug": "ku-bo2023dha-bo2020",
+          "pivot": {
+            "question_bank_id": 775508,
+            "tag_id": 4792,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775507,
+      "value": {
+        "options": {
+          "ক": "জীবনধারণের অধিকার",
+          "খ": "ধর্মচর্চার অধিকার",
+          "গ": "বাকস্বাধীনতার অধিকার",
+          "ঘ": "মৌলিক অধিকার সংরক্ষণ"
+        },
+        "question": "সংবিধানের প্রধান বৈশিষ্ট্য কোনটি?",
+        "solution": "ঘ. মৌলিক অধিকার সংরক্ষণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775507,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775506,
+      "value": {
+        "options": {
+          "ক": "৩৬",
+          "খ": "৩৭",
+          "গ": "৩৮",
+          "ঘ": "৩৯"
+        },
+        "question": "বঙ্গবন্ধু প্রায় কত হাজার প্রাথমিক বিদ্যালয়কে জাতীয়করণ করেন?",
+        "solution": "গ. ৩৮",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8062,
+      "created_at": "2025-12-01T15:30:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 775506,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:30:01.000000Z",
+            "updated_at": "2025-12-01T15:30:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8062&grade=5&lesson=14647&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8062&grade=5&lesson=14647&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8062&grade=5&lesson=14647&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 29,
+  "total": 29
+}

@@ -1,0 +1,1075 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 777009,
+      "value": {
+        "options": {
+          "ক": "সামাজিক বিশৃঙ্খলা",
+          "খ": "সামাজিকীকরণ",
+          "গ": "সামাজিক পরিবর্তন",
+          "ঘ": "সামাজিক প্রথা"
+        },
+        "question": "কোনটি হতে সামাজিক সমস্যার সৃষ্টি হয়?",
+        "solution": "ক. সামাজিক বিশৃঙ্খলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 777009,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777020,
+      "value": {
+        "options": [],
+        "question": "সামাজিক নৈরাজ্য প্রতিরোধে দুটি করণীয় উল্লেখ করো।",
+        "solution": "সামাজিক নৈরাজ্য ও মূল্যবোধের অবক্ষয় রোধে ব্যাপক সামাজিক আন্দোলন ও সচেতনতা কার্যক্রম গ্রহণ করতে হবে। পাশাপাশি আইনশৃঙ্খলা বাহিনীর কার্যক্রমে স্বচ্ছতা ও জবাবদিহিতা আনতে হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777019,
+      "value": {
+        "options": [],
+        "question": "আর্থসামাজিক ক্ষেত্রে সামাজিক নৈরাজ্য ও মূল্যবোধের অবক্ষয়ের নেতিবাচক প্রভাব বর্ণনা করো।",
+        "solution": "সমাজে মূল্যবোধের অবক্ষয় ও নৈরাজ্যপূর্ণ পরিস্থিতির সৃষ্টি হলে মানুষের অধিকারের বঞ্চনা বেড়ে যায়। অপরাধীদের দৌরাত্ম্য বেড়ে যায়। এমন পরিস্থিতিতে বেশিরভাগ অপরাধী শাস্তি পায় না, ফলে সমাজে ভীতিকর পরিস্থিতির সৃষ্টি হয়। দেশের সকল সেবা খাতের মান নিম্নগামী হয়। সর্বোপরি, সমাজে বিভিন্ন সামাজিক সমস্যা আশঙ্কাজনক হারে বৃদ্ধি পায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777018,
+      "value": {
+        "options": [],
+        "question": "সামাজিক মূল্যবোধের অবক্ষয়ের ধারণা ব্যাখ্যা করো।",
+        "solution": "যেসব ধ্যানধারণা, বিশ্বাস, লক্ষ্য ও উদ্দেশ্য, সংকল্প মানুষের আচার-আচরণ এবং কার্যাবলিকে পরোক্ষভাবে নিয়ন্ত্রণ করে সেগুলোকে&nbsp;মূল্যবোধ বলা হয়। বড়দের প্রতি শ্রদ্ধা, অতিথির প্রতি সম্মান প্রদর্শন, ছোটদের প্রতি স্নেহ, মায়া-মমতা প্রভৃতি সামাজিক মূল্যবোধের উদাহরণ। এসব মূল্যবোধের অবনতিই সামাজিক মূল্যবোধের অবক্ষয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777017,
+      "value": {
+        "options": [],
+        "question": "সামাজিক নৈরাজ্যের ধারণা ব্যাখ্যা করো।",
+        "solution": "সামাজিক বিশৃঙ্খলার চরম রূপ হচ্ছে সামাজিক নৈরাজ্য। রাষ্ট্রের শ্বাসনযন্ত্র যখন আর কাজ করে না এবং শাসনযন্ত্র ব্যক্তি বা গোষ্ঠীর আচরণকে নিয়ন্ত্রণ করতে পারে না তখন সমাজে নৈরাজ্য দেখা দেয়। উদাহরণস্বরূপ ঘুষ, নারী নির্যাতন, অপহরণ, যৌন আচরণ ইত্যাদির কথা উল্লেখ করা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777016,
+      "value": {
+        "options": [],
+        "question": "সমাজে কীভাবে সামাজিক সমস্যার সৃষ্টি হয়? ব্যাখ্যা করো।",
+        "solution": "সামাজিক বৈষম্য ও বিশৃঙ্খলা থেকে সামাজিক সমস্যার সৃষ্টি হয়। সমাজের প্রচলিত আচার-আচরণ, রীতি-নীতি, প্রথা প্রভৃতি নিয়ন্ত্রণের ব্যতিক্রমই সামাজিক বিশৃঙ্খলা। সমাজের রীতিনীতি যখন ব্যক্তির আচরণকে নিয়ন্ত্রণ করতে ব্যর্থ হয় তখন মানুষের নৈতিক অবনতি শুরু হয়। নৈতিক অবনতি ব্যাপক আকার ধারণ করলে সামাজিক প্রতিষ্ঠানের ভাঙন ঘটে, ফলে সমাজে বিশৃঙ্খলা ও নৈরাজ্য দেখা দেয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777015,
+      "value": {
+        "options": [],
+        "question": "সামাজিক সমস্যা বলতে কী বোঝ? বাংলাদেশের কয়েকটি সামাজিক সমস্যার নাম লেখো।",
+        "solution": "সামাজিক সমস্যা হলো সমাজের এমন একটি অস্বাভাবিক অবস্থা যা অধিকাংশ লোককে প্রভাবিত করে এবং এ অবস্থা থেকে উত্তরণের জন্য সকলকে একযোগে কাজ করতে হয়। বাংলাদেশে প্রচলিত সামাজিক সমস্যাগুলো হলো- সামাজিক নৈরাজ্য, মূল্যবোধের অবক্ষয়, নারীর প্রতি সহিংসতা, সড়ক দুর্ঘটনা এবং দুর্নীতি।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777014,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মি. সুজিত বিশ্ববিদ্যালয়ে ভর্তি হতে ব্যর্থ হয়। অতঃপর অবৈধ উপায়ে একটি ব্রীজ নির্মাণের কাজ পায়। অল্প কয়েক বছরের মধ্যে সে শহরে বহুতল ভবন ও দামি গাড়ির মালিক হয়। মি. বাদল প্রভাবশালী মানুষ। তার লোকেরা গরিব সাধারণ মানুষের ঘরবাড়ি দখল করে এবং মারধর করে। আইনশৃঙ্খলা বাহিনী নির্বিকার থাকে বরং প্রভাবশালীকে সহযোগিতা করে।\u003Cbr\u003E\nমি. সুজিতের মতো লোকদের উপরিউক্ত পরিস্থিতি থেকে সরিয়ে নিতে যে পদক্ষেপ গ্রহণ করা জরুরি তা হলো-\u003Cbr\u003E\ni. সম্পদের নিরীক্ষা\u003Cbr\u003E\nii. সম্পদের জবাবদিহিতা\u003Cbr\u003E\niii. আইনের শাসন প্রতিষ্ঠা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 777014,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777013,
+      "value": {
+        "options": {
+          "ক": "বৈষম্যরোধ দ্বারা",
+          "খ": "গতিশীলতা সৃষ্টির দ্বারা",
+          "গ": "স্বচ্ছতা সৃষ্টির দ্বারা",
+          "ঘ": "সচেতনতা সৃষ্টির দ্বারা"
+        },
+        "question": "কোনটির মাধ্যমে সমাজে হিংসাত্মক কার্যক্রম রোধ করা যায়?",
+        "solution": "ঘ. সচেতনতা সৃষ্টির দ্বারা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 777013,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777012,
+      "value": {
+        "options": {
+          "ক": "সামাজিক বিশৃঙ্খলা",
+          "খ": "শিশুশ্রম",
+          "গ": "নারী নির্যাতন",
+          "ঘ": "কিশোর অপরাধ"
+        },
+        "question": "ব্যক্তির ওপর সামাজিক আদর্শ এবং নিয়মনীতির প্রভাব কমতে থাকলে সমাজে কোনটি দেখা দেয়?",
+        "solution": "ক. সামাজিক বিশৃঙ্খলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 777012,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777011,
+      "value": {
+        "options": {
+          "ক": "কিশোর অপরাধ",
+          "খ": "নারীর প্রতি সহিংসতা",
+          "গ": "জঙ্গিবাদ",
+          "ঘ": "সামাজিক মূল্যবোধের অবক্ষয়"
+        },
+        "question": "জনাব রায়হান পাঠদানকালে শিক্ষার্থীদের উদ্দেশ্যে বলেন, \"ইদানিং শহর এলাকায় বড়দের প্রতি শ্রদ্ধাবোধ এবং ছোটদের প্রতি স্নেহ-মমতা প্রদর্শন হ্রাস পাচ্ছে।\" এর ফলে আইনের শাসন প্রতিষ্ঠা হবে না।\u003Cbr\u003E\nজনাব রায়হান বাংলাদেশের কোন সামাজিক সমস্যাকে ইঙ্গিত করেছেন?",
+        "solution": "ঘ. সামাজিক মূল্যবোধের অবক্ষয়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777010,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সমাজে নৈরাজ্য সৃষ্টির জন্য দায়ী-\u003Cbr\u003E\ni. সংস্কৃতি পরিপন্থী কর্মকাণ্ড\u003Cbr\u003E\nii. অপসংস্কৃতির অনুপ্রবেশ\u003Cbr\u003E\niii. রাজনৈতিক অস্থিতিশীলতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776998,
+      "value": {
+        "options": {
+          "ক": "সামাজিক আইন",
+          "খ": "সামাজিক মূল্যবোধ",
+          "গ": "সামাজিক সংস্কৃতি",
+          "ঘ": "সামাজিক পরিবর্তন"
+        },
+        "question": "মানুষের আচার-আচরণকে পরোক্ষভাবে নিয়ন্ত্রণ করে কোনটি?",
+        "solution": "খ. সামাজিক মূল্যবোধ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 776998,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777008,
+      "value": {
+        "options": {
+          "ক": "মূল্যবোধের অবক্ষয়",
+          "খ": "আইন-শৃঙ্খলার অবনতি",
+          "গ": "রাজনৈতিক বিশৃঙ্খলা",
+          "ঘ": "স্বজনপ্রীতি"
+        },
+        "question": "নৈরাজ্যের মূল কারণ কোনটি?",
+        "solution": "ক. মূল্যবোধের অবক্ষয়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4886,
+          "full_name": "সি. বো.'২০২৪;রা. বো.'২০১৭",
+          "short_name": "সি. বো.'২০২৪;রা. বো.'২০১৭",
+          "slug": "si-bo2024ra-bo2017",
+          "pivot": {
+            "question_bank_id": 777008,
+            "tag_id": 4886,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777007,
+      "value": {
+        "options": {
+          "ক": "বিরোধী দলের কারণে",
+          "খ": "বিদেশিদের চাপে",
+          "গ": "মূল্যবোধের অবক্ষয়ের কারণে",
+          "ঘ": "মানুষের মধ্যে শত্রুতা হলে"
+        },
+        "question": "সামাজিক অসংগতির সৃষ্টি হয় কেন?",
+        "solution": "গ. মূল্যবোধের অবক্ষয়ের কারণে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 777007,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777006,
+      "value": {
+        "options": {
+          "ক": "সামাজিক মূল্যবোধের অভাব",
+          "খ": "শিক্ষকের উদাসীনতা",
+          "গ": "রাজনৈতিক দলগুলোর প্রতি অন্ধ সমর্থন",
+          "ঘ": "সরকারের উদাসীনতা"
+        },
+        "question": "বাংলাদেশের শিক্ষা প্রতিষ্ঠানে সন্ত্রাস শিক্ষার পরিবেশ নষ্ট করেছে- এ ধরনের সন্ত্রাস সৃষ্টির বড় কারণ কোনটি?",
+        "solution": "ক. সামাজিক মূল্যবোধের অভাব",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 777006,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777005,
+      "value": {
+        "options": {
+          "ক": "বিশৃঙ্খলা",
+          "খ": "নৈরাজ্য",
+          "গ": "মারামারি",
+          "ঘ": "শৃঙ্খলাহীনতা"
+        },
+        "question": "মি. সুজিত বিশ্ববিদ্যালয়ে ভর্তি হতে ব্যর্থ হয়। অতঃপর অবৈধ উপায়ে একটি ব্রীজ নির্মাণের কাজ পায়। অল্প কয়েক বছরের মধ্যে সে শহরে বহুতল ভবন ও দামি গাড়ির মালিক হয়। মি. বাদল প্রভাবশালী মানুষ। তার লোকেরা গরিব সাধারণ মানুষের ঘরবাড়ি দখল করে এবং মারধর করে। আইনশৃঙ্খলা বাহিনী নির্বিকার থাকে বরং প্রভাবশালীকে সহযোগিতা করে।\u003Cbr\u003E\nউদ্দীপকের দ্বিতীয় অংশে কী ইঙ্গিত করা হয়েছে?",
+        "solution": "খ. নৈরাজ্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 777005,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777004,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনসংখ্যা বৃদ্ধির ফলে বিভিন্নমুখী সমস্যা সৃষ্টি হয়েছে-\u003Cbr\u003E\ni. বেকারত্বে\u003Cbr\u003E\nii. সামাজিক নীতিতে\u003Cbr\u003E\niii. শিশুশ্রমে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777003,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "সামাজিক জীবনে দুর্নীতির প্রভাব হলো-\u003Cbr\u003E\ni. অধিকার হতে বঞ্চিত হওয়া\u003Cbr\u003E\nii. আইন শৃঙ্খলার প্রতি সম্মান হারানো\u003Cbr\u003E\niii. সততা ও নৈতিকতা ঘাটতি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 777003,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777002,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "সামাজিক মূল্যবোধের অবক্ষয়ের কারণ হলো-\u003Cbr\u003E\ni. অর্থনৈতিক বৈষম্য বৃদ্ধি পাওয়া\u003Cbr\u003E\nii. ন্যায়বিচার প্রতিষ্ঠার অনিশ্চয়তা\u003Cbr\u003E\niii. মনগড়া ধর্মীয় ব্যাখ্যা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 777002,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777001,
+      "value": {
+        "options": {
+          "ক": "অপরাধ",
+          "খ": "রাজনৈতিক অস্থিতিশীলতা",
+          "গ": "নৈতিক অবনতি",
+          "ঘ": "সামাজিক নৈরাজ্য"
+        },
+        "question": "সামাজিক বিশৃঙ্খলার চরম রূপ হচ্ছে-",
+        "solution": "ঘ. সামাজিক নৈরাজ্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 777001,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 777000,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনাব রায়হান পাঠদানকালে শিক্ষার্থীদের উদ্দেশ্যে বলেন, \"ইদানিং শহর এলাকায় বড়দের প্রতি শ্রদ্ধাবোধ এবং ছোটদের প্রতি স্নেহ-মমতা প্রদর্শন হ্রাস পাচ্ছে।\" এর ফলে আইনের শাসন প্রতিষ্ঠা হবে না।\u003Cbr\u003E\nউক্ত সমস্যার প্রভাবে-\u003Cbr\u003E\ni. মানুষ অধিকার বঞ্চিত হয়\u003Cbr\u003E\nii. অপরাধীদের দৌরাত্ম্য বেড়ে যায়\u003Cbr\u003E\niii. দুর্নীতি বৃদ্ধি পায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 777000,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776999,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সামাজিক নৈরাজ্য ও মূল্যবোধের অবক্ষয় প্রতিরোধে গৃহীত পদক্ষেপ&nbsp;হতে পারে-\u003Cbr\u003E\ni. আইনের শাসন প্রতিষ্ঠা\u003Cbr\u003E\nii. সমাজের হিংসাত্নক কার্যক্রম রোধে সচেতনতা বৃদ্ধি&nbsp;\u003Cbr\u003E\niii. ন্যায় বিচার প্রতিষ্ঠায় প্রাতিষ্ঠানিক কার্যক্রমে অস্বচ্ছতা সৃষ্টি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:55:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 776999,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:55:01.000000Z",
+            "updated_at": "2025-12-01T15:55:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14722&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14722&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14722&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 23,
+  "total": 23
+}

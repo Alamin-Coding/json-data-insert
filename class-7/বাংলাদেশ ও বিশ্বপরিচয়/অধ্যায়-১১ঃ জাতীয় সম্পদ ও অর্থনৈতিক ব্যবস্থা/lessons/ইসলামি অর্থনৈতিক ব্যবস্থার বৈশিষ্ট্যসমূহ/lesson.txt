@@ -1,0 +1,229 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776380,
+      "value": {
+        "options": {
+          "ক": "ধনতান্ত্রিক",
+          "খ": "সমাজতান্ত্রিক",
+          "গ": "মিশ্র",
+          "ঘ": "ইসলামি"
+        },
+        "question": "কোন অর্থব্যবস্থায় শোষণহীন উৎপাদন প্রক্রিয়া অনুসরণ করা হয়?",
+        "solution": "ঘ. ইসলামি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 776380,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:44:11.000000Z",
+            "updated_at": "2025-12-01T15:44:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776381,
+      "value": {
+        "options": {
+          "ক": "সমাজতান্ত্রিক",
+          "খ": "ধনতান্ত্রিক",
+          "গ": "মিশ্র&nbsp;",
+          "ঘ": "ইসলামি&nbsp;"
+        },
+        "question": "জনাব কামাল একটি পোশাক শিল্পের মালিক। তিনি প্রতিবছর যাকাত দেন। জনাব কামালের ক্ষেত্রে কোন ধরনের অর্থনীতির ইঙ্গিত রয়েছে?",
+        "solution": "ঘ. ইসলামি&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 776381,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:44:11.000000Z",
+            "updated_at": "2025-12-01T15:44:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776382,
+      "value": {
+        "options": {
+          "ক": "সর্বাধিক মুনাফা অর্জন",
+          "খ": "শোষণহীন উৎপাদন প্রক্রিয়া",
+          "গ": "সামগ্রিকভাবে মুনাফা অর্জন",
+          "ঘ": "ইসলামি&nbsp;"
+        },
+        "question": "ইসলামিক অর্থব্যবস্থায় কোন বৈশিষ্ট্যটি অনুসরণ করা হয়?",
+        "solution": "খ. শোষণহীন উৎপাদন প্রক্রিয়া",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 776382,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:44:11.000000Z",
+            "updated_at": "2025-12-01T15:44:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776383,
+      "value": {
+        "options": {
+          "ক": "ধনতান্ত্রিক",
+          "খ": "সমাজতান্ত্রিক",
+          "গ": "মিশ্র&nbsp;",
+          "ঘ": "ইসলামি"
+        },
+        "question": "কোন অর্থনৈতিক ব্যবস্থায় ব্যক্তির নিকট নির্দিষ্ট সময়ব্যাপী নির্ধারিত পরিমাণ অর্থ/সম্পদ থাকলে তার একটি নির্ধারিত অংশ দরিদ্র জনগণের মধ্যে বণ্টনের ব্যবস্থা রয়েছে?",
+        "solution": "ঘ. ইসলামি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8071,
+      "created_at": "2025-12-01T15:44:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8071&grade=5&lesson=14696&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8071&grade=5&lesson=14696&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8071&grade=5&lesson=14696&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 4,
+  "total": 4
+}

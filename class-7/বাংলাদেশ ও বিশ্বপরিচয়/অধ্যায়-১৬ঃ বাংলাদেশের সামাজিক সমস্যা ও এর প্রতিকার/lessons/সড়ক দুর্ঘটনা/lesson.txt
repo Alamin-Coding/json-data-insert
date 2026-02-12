@@ -1,0 +1,531 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776987,
+      "value": {
+        "options": {
+          "ক": "২০%",
+          "খ": "২৪%",
+          "গ": "২৮%",
+          "ঘ": "৩২%"
+        },
+        "question": "\u003Cp\u003Eহাইওয়ে পুলিশ বিভাগের প্রকাশিত প্রতিবেদনে, দুর্ঘটনায় পতিত কত ভাগ ব্যক্তিদের বয়স ১৫ বছরের নিচে?\u003C/p\u003E",
+        "solution": "খ. ২৪%",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776987,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:54:32.000000Z",
+            "updated_at": "2025-12-01T15:54:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776988,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003Eবাংলাদেশে মাত্রাতিরিক্ত সড়ক দুর্ঘটনার কারণ-\u003Cbr\u003E\ni. ট্রাফিক আইন মেনে চলা\u003Cbr\u003E\nii. প্রশিক্ষণপ্রাপ্ত চালকের অভাব\u003Cbr\u003E\niii. রাস্তার আইন অমান্য করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 776988,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:54:32.000000Z",
+            "updated_at": "2025-12-01T15:54:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776989,
+      "value": {
+        "options": {
+          "ক": "নৌ",
+          "খ": "সড়ক",
+          "গ": "বিমান",
+          "ঘ": "রেলওয়ে"
+        },
+        "question": "\u003Cp\u003E২০০২ সাল থেকে ২০০৪ সাল পর্যন্ত মারা যায় ৫০.৫৮%, গুরুতর আহত হয় ৩৮.১০% এবং সামান্য আহত হয় ১১.৩২%।\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003Cbr\u003E\nউপরিউক্ত তথ্যে কোন দুর্ঘটনা দেখা যায়?\u003C/p\u003E",
+        "solution": "খ. সড়ক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 776989,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:54:32.000000Z",
+            "updated_at": "2025-12-01T15:54:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776990,
+      "value": {
+        "options": {
+          "ক": "অদক্ষ চালক",
+          "খ": "অতিরিক্ত মাল বোঝাই",
+          "গ": "ত্রুটিপূর্ণ গাড়ি",
+          "ঘ": "ওভারটেকিং"
+        },
+        "question": "\u003Cp\u003Eসড়ক দুর্ঘটনার প্রধান কারণ কোনটি?\u003C/p\u003E",
+        "solution": "ক. অদক্ষ চালক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 776990,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:54:32.000000Z",
+            "updated_at": "2025-12-01T15:54:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776991,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cp\u003Eসড়ক দুর্ঘটনার প্রভাবে-\u003Cbr\u003E\ni. চাকরিজীবীর কর্মঘণ্টা নষ্ট হয়\u003Cbr\u003E\nii. কাঁচামাল নষ্ট হয়\u003Cbr\u003E\niii. চিকিৎসাসেবা বাধাগ্রস্ত হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 776991,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:54:32.000000Z",
+            "updated_at": "2025-12-01T15:54:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776992,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "\u003Cp\u003E২০০২ সাল থেকে ২০০৪ সাল পর্যন্ত মারা যায় ৫০.৫৮%, গুরুতর আহত হয় ৩৮.১০% এবং সামান্য আহত হয় ১১.৩২%।\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003Cbr\u003E\nউক্ত সমস্যা থেকে আমরা কীভাবে পরিত্রাণ পেতে পারি-\u003Cbr\u003E\ni. সবাই সচেতন থেকে\u003Cbr\u003E\nii. চালকদের প্রশিক্ষণ বাধ্যতামূলক করে\u003Cbr\u003E\niii. নিয়ম মেনে চলে\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 776992,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-12-01T15:54:32.000000Z",
+            "updated_at": "2025-12-01T15:54:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776993,
+      "value": {
+        "options": {
+          "ক": "৪,০৯১টি",
+          "খ": "৪,০৯২টি",
+          "গ": "৪,০৯৩টি",
+          "ঘ": "৪,০৯৪টি"
+        },
+        "question": "\u003Cp\u003E২০০১ সালে মোট কতটি সড়ক দুর্ঘটনা ঘটে?\u003C/p\u003E",
+        "solution": "ক. ৪,০৯১টি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 776993,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:54:32.000000Z",
+            "updated_at": "2025-12-01T15:54:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776994,
+      "value": {
+        "options": [],
+        "question": "কী কী কারণে সড়ক দুর্ঘটনা ঘটতে পারে?",
+        "solution": "অদক্ষ ও প্রশিক্ষণবিহীন চালক দিয়ে গাড়ি চালানো, ট্রাফিক নিয়মকানুন না জানা, মাত্রাতিরিক্ত গতিতে গাড়ি চালানো, অতিরিক্ত পণ্য বোঝাই, ঝুঁকিপূর্ণ ওভারটেক সড়ক দুর্ঘটনার প্রধান কারণ। এছাড়া পথচারীদের অন্যমনস্কতা এবং অসর্তকতা, রাস্তা পারাপারে অজ্ঞতার কারণেও সড়ক দুর্ঘটনা ঘটে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776995,
+      "value": {
+        "options": [],
+        "question": "সড়ক দুর্ঘটনার প্রভাব ব্যাখ্যা করো।",
+        "solution": "সড়ক দুর্ঘটনার প্রভাব পারিবারিক, সামাজিক এবং অর্থনৈতিক জীবনে খুবই মারাত্মক। এটি বিভিন্ন সমস্যার জন্ম দেয়। উপার্জনক্ষম ব্যক্তি দুর্ঘটনায় আহত কিংবা নিহত হলে পরিবারের সদস্যদের দুর্বিষহ জীবনযাপন করতে হয়। পরিবারটি আর্থিকভাবে ক্ষতির সম্মুখীন হয়। ফলে শিশুদের শিক্ষাজীবন ব্যাহত হয়। দুর্ঘটনাকবলিত ব্যক্তি পঙ্গু হলে ভিক্ষাবৃত্তিতে যুক্ত হয় যা পরিবারের সামাজিক মর্যাদাকে ক্ষুণ্ণ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776996,
+      "value": {
+        "options": [],
+        "question": "সড়ক দুর্ঘটনা প্রতিরোধের দুটি উপায় বর্ণনা করো।",
+        "solution": "সড়ক দুর্ঘটনা প্রতিরোধে প্রথমত, চালক নিয়োগের জন্য শিক্ষা প্রশিক্ষণসহ যোগ্যতা নির্ধারণসাপেক্ষে নিয়োগ দিতে হবে। দ্বিতীয়ত, গাড়ির চালককে ট্রাফিক আইন-কানুন ও নিয়মশৃঙ্খলা মেনে গাড়ি চালাতে উদ্বুদ্ধ করা, সাইড, সিগন্যাল ও গতি মেনে সতর্কভাবে গাড়ি চালাতে গাড়ির চালককে উৎসাহিত করতে হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776997,
+      "value": {
+        "options": [],
+        "question": "নিরাপদ চলাচল নিশ্চিত করতে কোন বিষয়গুলো খেয়াল রাখতে হবে?",
+        "solution": "নিরাপদ চলাচল নিশ্চিত করতে ফুটপাত দিয়ে চলাচল করা, দৌড়ে রাস্তা পার না হওয়া, চলন্ত গাড়িতে ওঠা-নামা না করা, চলন্ত অবস্থায় গাড়ি চালকের সাথে কথা না বলা, জেব্রাক্রসিং, ওভারব্রিজ ও মাটির নিচের সংযোগ পথ তথা আন্ডার পাস দিয়ে রাস্তা পার হতে হবে। শিশু-কিশোরদের দুর্ঘটনা প্রতিরোধে তাদের মহাসড়ক, সংযোগ সড়ক ও আধাপাকা সড়ক সম্পর্কে পরিচিতি করাতে হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14721&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14721&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14721&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 11,
+  "total": 11
+}

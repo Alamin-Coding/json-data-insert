@@ -1,0 +1,1760 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776805,
+      "value": {
+        "options": [],
+        "question": "সামাজিকীকরণের মাধ্যমে হিসেবে পরিবারের ভূমিকা ব্যাখ্যা করো।",
+        "solution": "পরিবার সামাজিকীকরণের সবচেয়ে গুরুত্বপূর্ণ মাধ্যম। যে ধরনের পরিবারেই আমরা বেড়ে উঠি না কেন, পারিবারিক জীবনের মধ্যেই আমাদের শৈশব কাটে। ফলে পরিবারের মাধ্যমেই একজন মানুষের সামাজিক নীতিবোধ ও নাগরিক চেতনার বিকাশ ঘটে। সহযোগিতা, সহিষ্ণুতা, সম্প্রীতি, ভ্রাতৃত্ববোধ, ত্যাগ, ভালোবাসা ইত্যাদি গুণগুলো শিশু তার পরিবার থেকেই অর্জন করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776796,
+      "value": {
+        "options": {
+          "ক": "পরিবার",
+          "খ": "বিবাহ",
+          "গ": "সামাজিকীকরণ",
+          "ঘ": "সংঘবদ্ধ জীবন"
+        },
+        "question": "কোনটির মাধ্যমে মানুষ বিকশিত হয়?",
+        "solution": "গ. সামাজিকীকরণ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776796,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776797,
+      "value": {
+        "options": {
+          "ক": "অভিজ্ঞতা অর্জন",
+          "খ": "আচরণ সংশোধন",
+          "গ": "\u003Csup\u003Eসামাজিক মেলামেশা\u003C/sup\u003E",
+          "ঘ": "জীবনব্যাপী প্রক্রিয়া"
+        },
+        "question": "সামাজিকীকরণ হচ্ছে-",
+        "solution": "ঘ. জীবনব্যাপী প্রক্রিয়া",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776798,
+      "value": {
+        "options": {
+          "ক": "পরিবারের গঠন",
+          "খ": "পরিবারের গরুত্ব",
+          "গ": "সামাজিকীকরণ",
+          "ঘ": "সামাজিক পরিবর্তন"
+        },
+        "question": "পরিবার হচ্ছে সমাজ কাঠামোর মৌল সংগঠন। পরিবারের গঠন, কার্যাবলি ও কাঠামোতে অনেক পরিবর্তন হলেও পরিবারের সাথে মানুষের সম্পর্ক সুগভীর। বাবা-মায়ের বিচ্ছেদের কাবণে লাভলু শৈশব থেকে তার চাচার বাসায় বাস করে। সে নিয়মিত স্কুলে যায় না এবং বন্ধুদের সঙ্গে খারাপ আচরণ করে।\u003Cbr\u003E\nউদ্দীপকের প্রথম অংশে পরিবারের কোন দিকটির ইঙ্গিত আছে?",
+        "solution": "খ. পরিবারের গরুত্ব",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 776798,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776799,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "রহিমের মায়ের মৃত্যুর পর তার বাবা ২য় বিয়ে করেন। রহিম ক্লাসে অমনোযোগী থাকে। বন্ধুদের সাথে মেলামেশা করে না। পরবর্তীতে সে অসুস্থ হয়ে পড়ে।\u003Cbr\u003E\nরহিমকে সুস্থজীবনে ফিরিয়ে আনতে গুরুত্বপূর্ণ ভূমিকা পালন করতে পারে-\u003Cbr\u003E\ni. শিক্ষক\u003Cbr\u003E\nii. সাংবাদিক\u003Cbr\u003E\niii. বন্ধুবান্ধব\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776799,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776800,
+      "value": {
+        "options": [],
+        "question": "মিথস্ক্রিয়া বলতে কী বোঝ? ব্যাখ্যা করো।",
+        "solution": "একজন মানুষ অপর একজন মানুষের আচরণকে প্রভাবিত করে এবং নিজে প্রভাবিত হয়। আচরণগত এই পারস্পরিক প্রভাবের প্রক্রিয়াকে মিথস্ক্রিয়া বলে। ব্যক্তির সামাজিকীকরণে সামাজিক পরিবেশ, সমাজ জীবন ও সামাজিক মূল্যবোধের পারস্পরিক ক্রিয়া-প্রতিক্রিয়ার মাধ্যমে ঘটে থাকে। এটিই মিথস্ক্রিয়ার মূল বিষয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776801,
+      "value": {
+        "options": [],
+        "question": "ব্যক্তির সামাজিকীকরণে কয়টি উপাদানের প্রভাব লক্ষ করা যায়? উপাদানগুলোর নাম লেখো।",
+        "solution": "ব্যক্তির সামাজিকীকরণে তিনটি উপাদানের প্রভাব লক্ষ করা যায়। উপাদানগুলো হলো- ১. সামাজিক পরিবেশ, ২. সমাজ জীবন ও ৩. সামাজিক মূল্যবোধ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776802,
+      "value": {
+        "options": [],
+        "question": "সামাজিক পরিবেশ বলতে কী বোঝায়? বিষয়টি ব্যাখ্যা করো।",
+        "solution": "যে বিশেষ সমাজব্যবস্থার মধ্যে মানুষ বাস করে তাকে সামাজিক পরিবেশ বলে। সামাজিক পরিবেশের মধ্যেই মানুষ বিকশিত হয়। সমাজের প্রচলিত রীতি-নীতি, প্রথা-প্রতিষ্ঠান, বিধিব্যবস্থা, সকল প্রকার প্রবণতা সমস্যা প্রভৃতি বিষয়গুলো সামাজিক পরিবেশের অন্তর্গত। অর্থনৈতিক, সাংস্কৃতিক, মনস্তাত্ত্বিক ও প্রযুক্তিগত পরিবেশ নিয়েই আমাদের সামাজিক পরিবেশ গড়ে ওঠে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776803,
+      "value": {
+        "options": [],
+        "question": "সমাজ জীবনে কীভাবে সামাজিকীকরণ প্রভাব ফেলে?",
+        "solution": "মানুষ যে সমাজে বাস করে, সে সমাজের জীবনধারা অর্থাৎ আচার-আচরণের সমষ্টি হলো সমাজ জীবন। মানুষ সমাজের নানা কর্মকাণ্ড ও অনুষ্ঠানে অংশগ্রহণ করে। এসব কর্মকাণ্ড ও অনুষ্ঠান সংশ্লিষ্ট আচরণের সাথে মানুষ ক্রিয়া-প্রতিক্রিয়ার মাধ্যমে খাপ খাওয়ানের চেষ্টা করে। এ চেষ্টা ব্যক্তির সামাজিকীকরণে প্রভাব ফেলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776804,
+      "value": {
+        "options": [],
+        "question": "সাব্বির সমাজে বড়দের সম্মান করে, ছোটদের স্নেহ করে। সাব্বিরের আচরণে কোন ধরনের মূল্যবোধ প্রকাশ পেয়েছে? ব্যাখ্যা করো।",
+        "solution": "সাব্বিরের আচরণে সামাজিক মূল্যবোধ প্রকাশ পেয়েছে। মানুষ বড় হওয়ার সাথে সাথে সমাজ থেকে সামাজিক মূল্যবোধ অর্জন করে। সামাজিক মূল্যবোধের দ্বারা সমাজের মানুষের মনোভাব, প্রয়োজন ও ভালো-মন্দের নীতিগত দিক যাচাই করা যায়। সমাজের মানুষের জীবন ধারার মান পরিমাপ করা যায় সামাজিক মূল্যবোধের মাধ্যমে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776795,
+      "value": {
+        "options": {
+          "ক": "মানব আচরণ",
+          "খ": "আচরণের প্রভাব",
+          "গ": "স্বাভাবিক ক্রিয়া",
+          "ঘ": "স্বাভাবিক ক্রিয়া"
+        },
+        "question": "'মিথস্ক্রিয়া' বলতে কী বোঝায়?",
+        "solution": "গ. স্বাভাবিক ক্রিয়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776806,
+      "value": {
+        "options": [],
+        "question": "শিশুর সামাজিকীকরণে জ্ঞাতি-গোষ্ঠী ও প্রতিবেশীর ভূমিকা ব্যাখ্যা করো।",
+        "solution": "শৈশব থেকে ব্যক্তি জ্ঞাতি-গোষ্ঠী ও প্রতিবেশীদের সংস্পর্শে বড়ো হতে থাকে। তাই শিশুর জীবনের সুষ্ঠু বিকাশে জ্ঞাতি-গোষ্ঠী ও প্রতিবেশীর ভূমিকা গুরুত্বপূর্ণ। প্রতিবেশী দল থেকে শিশু সহযোগিতা, সহমর্মিতা, ঐক্য, নেতৃত্ব প্রভৃতি গুণাবলি অর্জন করে। প্রতিবেশীদের বিভিন্ন অনুষ্ঠান যেমন-বিয়ে, জন্মদিন, ঈদ, পূজা, বড়দিন প্রভৃতি অনুষ্ঠানে শিশুরা অংশগ্রহণ করে স্ফূর্তিতে মেতে ওঠে। এর মাধ্যমে তারা সহিষ্ণুতা, সহনশীলতা, সম্প্রীতি প্রভৃতি গুণাবলি অর্জন করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776807,
+      "value": {
+        "options": [],
+        "question": "'X' হলো শিশুর সামাজিকীকরণের আনুষ্ঠানিক মাধ্যম। শিশুর সামাজিকীকরণে এর গুরুত্ব ব্যাখ্যা করো।",
+        "solution": "&#39;X&#39; তথা বিদ্যালয় শিশুর সামাজিকীকরণের আনুষ্ঠানিক মাধ্যম। জ্ঞানার্জনের পাশাপাশি শৃঙ্খলাবোধ, নিয়মানুবর্তিতা, শ্রদ্ধাবোধ, সহযোগিতার মতো সামাজিক আদর্শগুলোর শিক্ষা শিশুরা বিদ্যালয় থেকে পায়। শিশুমনে নেতৃত্ব, অন্যের মতের প্রতি শ্রদ্ধাবোধ, ঐক্য, দেশপ্রেম, সহমর্মিতা, সম্প্রীতিবোধ প্রভৃতি বিদ্যালয় থেকেই জাগ্রত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776808,
+      "value": {
+        "options": [],
+        "question": "শিশুর সুষ্ঠু সামাজিকীকরণে সমবয়সী বন্ধুদলের ২টি ভূমিকা উল্লেখ করো।",
+        "solution": "শিশুর সুষ্ঠু সামাজিকীকরণে সমবয়সীদের ২টি ভূমিকা হলো-\u003Cbr /\u003E\n১. সমবয়সীদের মাধ্যমেই সহযোগিতা ও সহনশীলতার মতো গুণাবলি বিকশিত হয়; ২. সমবয়সীদের মাধ্যমে শিশু নিজের আচরণের ভালো-মন্দের প্রশংসা বা সমালোচনা শুনে কাঙ্ক্ষিত আচরণের শিক্ষা পায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776809,
+      "value": {
+        "options": [],
+        "question": "রানা 'A' নামক একটি সাংস্কৃতিক ক্লাবের সদস্য। এটি সামাজিকীকরণের কোন প্রতিষ্ঠানকে নির্দেশ করে? উক্ত প্রতিষ্ঠানটির ভূমিকা লেখো।",
+        "solution": "&#39;A&#39; নামক সাংস্কৃতিক ক্লাবটি সামাজিকীকরণের প্রতিষ্ঠান স্থানীয় গোষ্ঠীকে নির্দেশ করে। স্থানীয়ভাবে গড়ে ওঠা গোষ্ঠী বা সংঘ ব্যক্তির সামাজিকীরণে প্রভাব বিস্তার করে। গোষ্ঠীগুলো স্থায়ীভাবে ক্রীড়া, সাহিত্য, সংস্কৃতি, বিজ্ঞান প্রভৃতি ক্ষেত্রে ভূমিকা রাখে। শৈশব হতেই শিশু এসব গোষ্ঠীভুক্ত সংগঠনের সদস্যদের সাথে আমোদ-প্রমোদ, খেলাধুলা ও সাংস্কৃতিক কর্মকাণ্ডে মেতে ওঠে; যা তাদের সুষ্ঠু সামাজিকীকরণে প্রভাব ফেলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776810,
+      "value": {
+        "options": [],
+        "question": "শিশুর সামাজিকীকরণে ধর্মীয় অনুষ্ঠানের ভূমিকা ব্যাখ্যা করো।",
+        "solution": "শিশু তার পরিবারে পিতা-মাতা ও আত্মীয়স্বজনকে বিভিন্ন প্রকার ধর্মীয় আচার-অনুষ্ঠান ও উৎসব পালন করতে দেখে। এসব কার্যক্রম শিশুর মনে ধর্মীয় অনুভূতির পাশাপাশি ঐক্য, সংহতি ও সম্প্রীতির শিক্ষা দেয়। মানুষের মধ্যে ভেদাভেদ কমিয়ে দেয়। ধর্মীয় অনুষ্ঠানে অংশগ্রহণের মাধ্যমে শিশু-কিশোরদের সামাজিক মূল্যবোধ ও ব্যক্তিত্ব বিকশিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776811,
+      "value": {
+        "options": [],
+        "question": "শিশুর সামাজিকীকরণে ধর্মীয় প্রতিষ্ঠানের ভূমিকা মূল্যায়ন করো।",
+        "solution": "হিন্দু, মুসলিম, বৌদ্ধ ও খ্রিষ্টধর্মের বিভিন্ন ধর্মীয় প্রতিষ্ঠান রয়েছে। এসব ধর্মীয় প্রতিষ্ঠান ব্যক্তির বিবেকবোধ ও চেতনাকে জাগ্রত করে, পারস্পরিক বন্ধন সুদৃঢ় করে। সৌহার্দ্য ও সম্প্রীতি বাড়িয়ে তোলে। শিশু-কিশোরদের নৈতিকতা বিকাশে সহায়তা করে। এসব ধর্মীয় প্রতিষ্ঠানের সম্প্রীতির শিক্ষা মনের সংকীর্ণতাকে দূরীভূত করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776812,
+      "value": {
+        "options": [],
+        "question": "গণমাধ্যম বলতে তুমি কী বোঝ?",
+        "solution": "বৃহৎ জনগোষ্ঠীর নিকট সংবাদ, দেশের ইতিহাস, ঐতিহ্য, সংস্কৃতির বিষয়বস্তু বিশেষ ধ্যান-ধারণা, বিনোদন প্রভৃতি পরিবেশন করার মাধ্যমই গণমাধ্যম। আধুনিক যুগের সংস্কৃতি গড়ে উঠেছে গণমাধ্যমকে কেন্দ্র করে। এগুলোর মধ্যে রয়েছে- সংবাদপত্র, বেতার, চলচ্চিত্র, টেলিভিশন প্রভৃতি। গণমাধ্যম সমাজের মানুষকে নিজস্ব সংস্কৃতির সাথে খাপ খাইয়ে চলতে সাহায্য করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776813,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের গ্রামীণ সমাজ কাঠামোর বৈশিষ্ট্যগুলো বর্ণনা করো।",
+        "solution": "বাংলাদেশের গ্রামীণ সমাজ কাঠামোর বৈশিষ্ট্য হলো একক ও যৌথ পরিবার কাঠামো, কৃষিভিত্তিক অর্থনীতি, পরিবারের সদস্যদের মধ্যে ঘনিষ্ঠতা, সহজ-সরল জীবনযাপন, জীবনযাত্রায় সামাজিক প্রথা ও লোকাচারের প্রভাব বিদ্যমান। তাছাড়া এ সমাজ কাঠামোতে প্রতিবেশীসুলভআচরণ, ধর্মীয় অনুশাসনের প্রতি মনোযোগ লক্ষণীয়। গ্রামীণ সমাজ কাঠামোর বিশেষ বৈশিষ্ট্য হলো দারিদ্র্য, শিক্ষা ও রক্ষণশীলতা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776814,
+      "value": {
+        "options": [],
+        "question": "গ্রাম ও শহরের সামাজিকীকরণে প্রতিবেশীর ভূমিকা উল্লেখ করো।",
+        "solution": "গ্রামের শিশু-কিশোর বয়োজ্যেষ্ঠ প্রতিবেশীদের সাথে ঘনিষ্ঠ বন্ধনে আবদ্ধ থাকে, যা তাদের সামাজিকীকরণে বিশেষ প্রভাব ফেলে। তবে শহরের পরিবেশে প্রতিবেশীর সাথে এরূপ ঘনিষ্ঠ সম্পর্ক দেখা যায় না।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776785,
+      "value": {
+        "options": {
+          "ক": "বাবা",
+          "খ": "মা",
+          "গ": "ভাই-বোন",
+          "ঘ": "বন্ধুবান্ধর"
+        },
+        "question": "শিশুর খাদ্যাভ্যাস গঠন ও. ভাষা শিক্ষায় প্রথম মাধ্যম-",
+        "solution": "খ. মা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776776,
+      "value": {
+        "options": {
+          "ক": "সমাজ কাঠামো",
+          "খ": "সামাজিকীকরণ&nbsp;",
+          "গ": "সংস্কৃতি",
+          "ঘ": "সভ্যতা"
+        },
+        "question": "যে পদ্ধতিতে একটি শিশু ক্রমান্বয়ে ব্যক্তিত্বসম্পন্ন সামাজিক মানুষে&nbsp;পরিণত হয় তাকে বলে-",
+        "solution": "খ. সামাজিকীকরণ&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 776776,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776777,
+      "value": {
+        "options": {
+          "ক": "ব্যক্তি",
+          "খ": "পরিবার",
+          "গ": "গোষ্ঠী",
+          "ঘ": "দল"
+        },
+        "question": "ক্ষুদ্রতম সামাজিক সংগঠন কোনটি?",
+        "solution": "খ. পরিবার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776778,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "সামাজিকীকরণের ফলে শিশুর-\u003Cbr\u003E\ni. ব্যক্তিত্বের বিকাশ ঘটে\u003Cbr\u003E\nii. সামাজিক গুণাবলি বৃদ্ধি পায়\u003Cbr\u003E\niii. অভিযোজন বৃদ্ধি পায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 776778,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776779,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বর্তমান পরিবার শিশুর-\u003Cbr\u003E\ni. উল্লেখযোগ্য শিক্ষাকেন্দ্র\u003Cbr\u003E\nii. বিনোদন কেন্দ্র\u003Cbr\u003E\niii. নৈতিক শিক্ষালয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776780,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "রাকিব মা-বাবার একমাত্র সন্তান। মা-বাবার যত্নে সে পড়ালেখায় ভালো। প্রতিবেশী, সহপাঠী এবং বন্ধুদের সাথেও সে প্রত্যাশিত আচরণ করে।\u003Cbr\u003E\nরাকিবের অর্জিত হবে-\u003Cbr\u003E\ni. সামাজিক গুণাবলি\u003Cbr\u003E\nii. মানুষের সাথে মেলামেশার দক্ষতা\u003Cbr\u003E\nlii. পরমতসহিষ্ণুতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776780,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776781,
+      "value": {
+        "options": {
+          "ক": "পারিবারিক আদর্শ",
+          "খ": "সামাজিক পরিবর্তন",
+          "গ": "সামাজিক রীতিনীতি",
+          "ঘ": "সামাজিকীকরণ"
+        },
+        "question": "হাফেজা দশম শ্রেণির শিক্ষার্থী। সে নিয়মিত বিদ্যালয়ে যায় ও&nbsp;পড়াশুনা করে। বাবা-মা ও তার প্রতি যত্নবান। হাফেজা সবার সাথে&nbsp;ভালো ব্যবহার করে।\u003Cbr\u003E\nউদ্দীপকটি কোন প্রক্রিয়াকে নির্দেশ করছে?",
+        "solution": "ঘ. সামাজিকীকরণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 776781,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776782,
+      "value": {
+        "options": {
+          "ক": "মূল্যবোধ",
+          "খ": "সংস্কৃতি",
+          "গ": "\u003Csup\u003Eমিথস্ক্রিয়া\u003C/sup\u003E",
+          "ঘ": "নৈতিকতা"
+        },
+        "question": "মানুষের আচরণের পারস্পরিক প্রভাবের প্রতিক্রিয়াকে কী বলে?",
+        "solution": "গ. \u003Csup\u003Eমিথস্ক্রিয়া\u003C/sup\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 776782,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776783,
+      "value": {
+        "options": {
+          "ক": "বিদ্যালয়",
+          "খ": "পরিবার",
+          "গ": "ধর্মীয় প্রতিষ্ঠান",
+          "ঘ": "বাল্যবন্ধু"
+        },
+        "question": "শিশুর সামাজিকীকরণে সবচেয়ে গুরুত্বপূর্ণ মাধ্যম কোনটি?",
+        "solution": "খ. পরিবার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4831,
+          "full_name": "কু. বো.'২০১৯;দি. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৯;দি. বো.'২০১৫",
+          "slug": "ku-bo2019di-bo2015",
+          "pivot": {
+            "question_bank_id": 776783,
+            "tag_id": 4831,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776784,
+      "value": {
+        "options": {
+          "ক": "বিবাহ",
+          "খ": "মূল্যবোধ",
+          "গ": "আচরণ",
+          "ঘ": "মিথস্ক্রিয়া"
+        },
+        "question": "কোনটি মানুষের সমাজ জীবনের মূল বিষয়?",
+        "solution": "ঘ. মিথস্ক্রিয়া",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4873,
+          "full_name": "ঢা. বো.'২০১৬;চ. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৬;চ. বো.'২০১৭",
+          "slug": "dha-bo2016c-bo2017",
+          "pivot": {
+            "question_bank_id": 776784,
+            "tag_id": 4873,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776775,
+      "value": {
+        "options": {
+          "ক": "পরিবার",
+          "খ": "সমাজ কাঠামো",
+          "গ": "\u003Csup\u003Eখাদ্যাভ্যাস\u003C/sup\u003E",
+          "ঘ": "প্রথাপ্রতিষ্ঠান"
+        },
+        "question": "গ্রাম ও শহর উভয় সমাজে সামাজিকীকরণে সাদৃশ্যপূর্ণ উপাদান কোনটি?",
+        "solution": "ক. পরিবার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 776775,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776786,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শিশুর ব্যক্তিত্বের সুষ্ঠু বিকাশের জন্য প্রয়োজন-\u003Cbr\u003E\ni. মা-বাবার সাথে সুসম্পর্ক\u003Cbr\u003E\nii. খেলার সাথীদের সাথে সুসম্পর্ক\u003Cbr\u003E\niii. নিকট আত্মীয়দের সাথে সুসম্পর্ক\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 776786,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776787,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "অন্তর্গোত্র বিবাহভিত্তিক পরিবার গঠনের ক্ষেত্রে যে যুক্তিটি কার্যকর ভূমিকা রাখে, তা হলো-\u003Cbr\u003E\ni. রক্তের বন্ধন রক্ষা করা\u003Cbr\u003E\nii. অজাচার রোধ করা\u003Cbr\u003E\niii. রক্তের বিশুদ্ধতা রক্ষা করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 776787,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776788,
+      "value": {
+        "options": {
+          "ক": "সামাজিকীকরণ",
+          "খ": "পারিবারিক আদর্শ",
+          "গ": "সামাজিক প্রগতি",
+          "ঘ": "সামাজিক আদর্শ"
+        },
+        "question": "রাকিব মা-বাবার একমাত্র সন্তান। মা-বাবার যত্নে সে পড়ালেখায় ভালো। প্রতিবেশী, সহপাঠী এবং বন্ধুদের সাথেও সে প্রত্যাশিত আচরণ করে।\u003Cbr\u003E\nউদ্দীপকে রাকিবের বেড়ে ওঠা নিচের কোন প্রক্রিয়াটি নির্দেশ করে?",
+        "solution": "ক. সামাজিকীকরণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776788,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776789,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "পরিবার হচ্ছে সমাজ কাঠামোর মৌল সংগঠন। পরিবারের গঠন, কার্যাবলি ও কাঠামোতে অনেক পরিবর্তন হলেও পরিবারের সাথে মানুষের সম্পর্ক সুগভীর। বাবা-মায়ের বিচ্ছেদের কাবণে লাভলু শৈশব থেকে তার চাচার বাসায় বাস করে। সে নিয়মিত স্কুলে যায় না এবং বন্ধুদের সঙ্গে খারাপ আচরণ করে।\u003Cbr\u003E\nলাভলুর সামাজিকীকরণের ক্ষেত্রে ঘাটতি আছে-\u003Cbr\u003E\ni. পরিবারের যথাযথ পরিবেশের\u003Cbr\u003E\nii. বাবা-মায়ের সুসম্পর্কের\u003Cbr\u003E\niii. সামাজিক পরিবেশের\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 776789,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776790,
+      "value": {
+        "options": {
+          "ক": "বিদ্যালয়",
+          "খ": "খেলার সাথী",
+          "গ": "গণমাধ্যম",
+          "ঘ": "পরিবার"
+        },
+        "question": "রহিমের মায়ের মৃত্যুর পর তার বাবা ২য় বিয়ে করেন। রহিম ক্লাসে অমনোযোগী থাকে। বন্ধুদের সাথে মেলামেশা করে না। পরবর্তীতে সে অসুস্থ হয়ে পড়ে।\u003Cbr\u003E\nরহিমের এ পরিণতির জন্য সামাজিকীকরণের কোন মাধ্যমটি দায়ী?",
+        "solution": "ঘ. পরিবার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776790,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776791,
+      "value": {
+        "options": {
+          "ক": "ধর্ম",
+          "খ": "পড়ালেখা",
+          "গ": "\u003Csup\u003Eরীতিনীতি\u003C/sup\u003E",
+          "ঘ": "কথা বলা"
+        },
+        "question": "শিশু সমাজ থেকে কী শেখে?",
+        "solution": "গ. \u003Csup\u003Eরীতিনীতি\u003C/sup\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776791,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776792,
+      "value": {
+        "options": {
+          "ক": "খেলার সাথী",
+          "খ": "চলচ্চিত্র",
+          "গ": "বিদ্যালয়",
+          "ঘ": "পরিবার"
+        },
+        "question": "সামাজিকীকরণে মুখ্য ভূমিকা পালন করে কোন মাধ্যম?",
+        "solution": "ঘ. পরিবার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 776792,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776793,
+      "value": {
+        "options": {
+          "ক": "বন্ধু-বান্ধব",
+          "খ": "মা-বাবা",
+          "গ": "শিক্ষক",
+          "ঘ": "সহপাঠী"
+        },
+        "question": "শিশুর সবচেয়ে কাছের মানুষ হলেন-",
+        "solution": "খ. মা-বাবা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 776793,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776794,
+      "value": {
+        "options": {
+          "ক": "বৈষয়িক উন্নতির মাধ্যমে",
+          "খ": "আর্থিক সচ্ছলতার মাধ্যমে",
+          "গ": "সমৃদ্ধি লাভের মাধ্যমে",
+          "ঘ": "জীবনধারার মাধ্যমে"
+        },
+        "question": "গোষ্ঠীবদ্ধ মানুষের মূল্যবোধের পরিচয় পাওয়া যায়-",
+        "solution": "ঘ. জীবনধারার মাধ্যমে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8074,
+      "created_at": "2025-12-01T15:52:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 776794,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:52:20.000000Z",
+            "updated_at": "2025-12-01T15:52:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8074&grade=5&lesson=14714&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8074&grade=5&lesson=14714&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8074&grade=5&lesson=14714&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 40,
+  "total": 40
+}

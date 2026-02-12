@@ -1,0 +1,2937 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776971,
+      "value": {
+        "options": [],
+        "question": "অনীতা প্রতিদিন স্কুলে আসা-যাওয়ার পথে একদল ছেলে তাকে বিভিন্নভাবে উত্ত্যক্ত করে। সে কীসের শিকার হচ্ছে? এ ধরনের ঘটনা কোথায় ঘটতে পারে?",
+        "solution": "অনীতা ইভটিজিং এর শিকার হচ্ছে। এ ধরনের ঘটনা গৃহঅভ্যন্তরে, কর্মক্ষেত্রে অথবা যাতায়াতের পথে, কখনো নিরিবিলি স্থানে ঘটতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776956,
+      "value": {
+        "options": {
+          "ক": "সামাজিক নৈরাজ্য",
+          "খ": "সামাজিক অসমতা",
+          "গ": "নারীর প্রতি সহিংসতা",
+          "ঘ": "মূল্যবোধের অবক্ষয়"
+        },
+        "question": "মি. কবীর তার ক্লাসে মাল্টিমিডিয়া ব্যবহার করে নারী পাচারের সচিত্র প্রতিবেদন প্রদর্শন করেন। শিক্ষার্থীরা ক্লাসে প্রদর্শিত চিত্র দেখে মর্মাহত হয়। মি. কবীরের উপস্থাপনকৃত বিষয়টি কোন সামাজিক সমস্যা নির্দেশ করে?",
+        "solution": "গ. নারীর প্রতি সহিংসতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 776956,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776957,
+      "value": {
+        "options": {
+          "ক": "২০০৯",
+          "খ": "২০১০",
+          "গ": "২০১১",
+          "ঘ": "২০১২"
+        },
+        "question": "কত সালে মানব পাচার আইন পাস হয়?",
+        "solution": "গ. ২০১১",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 776957,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776958,
+      "value": {
+        "options": {
+          "ক": "পারিবারিক দৃষ্টিভঙ্গি",
+          "খ": "দারিদ্র্য",
+          "গ": "সামাজিক বিশৃঙ্খলা",
+          "ঘ": "অশিক্ষা"
+        },
+        "question": "নারীর প্রতি সহিংসতার অন্যতম গুরুত্বপূর্ণ কারণ কোনটি?",
+        "solution": "খ. দারিদ্র্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4885,
+          "full_name": "ঢা. বো.'২০২৩;চ. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০২৩;চ. বো.'২০১৭",
+          "slug": "dha-bo2023c-bo2017",
+          "pivot": {
+            "question_bank_id": 776958,
+            "tag_id": 4885,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776959,
+      "value": {
+        "options": {
+          "ক": "১৪ ঘণ্টা",
+          "খ": "১২ ঘণ্টা",
+          "গ": "১০ ঘণ্টা",
+          "ঘ": "৮ ঘণ্টা"
+        },
+        "question": "কতটুকু সময় শিশুরা কাজ করবে না?",
+        "solution": "খ. ১২ ঘণ্টা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 776959,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776960,
+      "value": {
+        "options": {
+          "ক": "যৌন হয়রানি",
+          "খ": "সন্ত্রাস",
+          "গ": "কিশোর অপরাধ",
+          "ঘ": "ছিনতাই"
+        },
+        "question": "স্কুলে যাওয়ার পথে একটি ছেলে রাবেয়াকে দেখে প্রায়ই শিস দেয়, ব্যাগ ধরে টান দেয়। রিকশা থামিয়ে তার সাথে কথা বলার চেষ্টা করে। রাবেয়া তার বাবা-মাকে বিষয়টি জানালে তারা থানায় জিডি করেন। রাবেয়া কোন সামাজিক সমস্যার শিকার?",
+        "solution": "ক. যৌন হয়রানি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 776960,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776961,
+      "value": {
+        "options": {
+          "ক": "সকাল ৮টায়",
+          "খ": "সন্ধ্যা ৭টায়",
+          "গ": "রাত ৯টায়",
+          "ঘ": "রাত ১০টায়"
+        },
+        "question": "তুবা ৫ম শ্রেণির শিক্ষার্থী। দরিদ্রতার কারণে সে প্রতিবেশীর বাড়িতে বিকাল ৪টায় কাজ করার জন্য গেলে শ্রম আইন ২০০৬ অনুযায়ী কয়টার সময় সে ছুটি পাবে?",
+        "solution": "খ. সন্ধ্যা ৭টায়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 776961,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776962,
+      "value": {
+        "options": {
+          "ক": "২০১০",
+          "খ": "২০১১",
+          "গ": "২০১২",
+          "ঘ": "২০১৩"
+        },
+        "question": "জাতীয় শিশুশ্রম নিরসন নীতি কত সালে হয়?",
+        "solution": "ক. ২০১০",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776963,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "নারী ও শিশুর প্রতি নির্যাতনের জন্য সর্বনিম্ন শাস্তি কত বছর?",
+        "solution": "ক. ২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776963,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776964,
+      "value": {
+        "options": {
+          "ক": "দারিদ্র্য",
+          "খ": "নিরক্ষরতা",
+          "গ": "বেকারত্ব",
+          "ঘ": "অপরাধ"
+        },
+        "question": "যৌতুক দাবির অন্যতম প্রধান কারণ কী?",
+        "solution": "ক. দারিদ্র্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 776964,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776965,
+      "value": {
+        "options": {
+          "ক": "এসিড অপরাধ দমন আইন-২০০২",
+          "খ": "এসিড নিয়ন্ত্রণ (সংশোধন) আইন-২০১০",
+          "গ": "নারী নির্যাতন দমন আইন-২০০০",
+          "ঘ": "মানবপাচার প্রতিরোধ ও দমন আইন-২০১১"
+        },
+        "question": "কোন আইনে অভিযুক্ত ব্যক্তিদের সর্বোচ্চ শাস্তি মৃত্যুদণ্ডসহ পাঁচ লক্ষ টাকা অর্থদন্ডের বিধান রয়েছে?",
+        "solution": "ঘ. মানবপাচার প্রতিরোধ ও দমন আইন-২০১১",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776966,
+      "value": {
+        "options": {
+          "ক": "সামাজিক অপরাধ",
+          "খ": "ধর্মীয় অপরাধ",
+          "গ": "রাজনৈতিক অপরাধ",
+          "ঘ": "কিশোর অপরাধ"
+        },
+        "question": "\"A\" নিয়মিত স্কুলে যায় না। বাবার পকেটের টাকা চুরি করে এবং রাস্তায় স্কুলগামী মেয়েদের উত্যক্ত করে।\u003Cbr\u003E\n\"A\"-এর আচরণে কোন ধরনের অপরাধের ইঙ্গিত পাওয়া যায়?",
+        "solution": "ঘ. কিশোর অপরাধ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776966,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776967,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মিসেস জারা রহমান একটি সরকারি অফিসের কর্মকর্তা। তিনি বাংলাদেশ সরকারের ১১ জানুয়ারি, ২০১১ সালের প্রকাশিত গেজেটের ভিত্তিতে ৬ মাসের ছুটি ভোগ করছেন।\u003Cbr\u003E\nসরকারের উক্ত ছুটি মঞ্জুরের মূল উদ্দেশ্য হলো-\u003Cbr\u003E\ni. নিরাপদ প্রসূতি সেবা নিশ্চিত করা\u003Cbr\u003E\nii. শিশুকে অপুষ্টির হাত থেকে রক্ষা করা\u003Cbr\u003E\niii. শিশুদের জন্য মাতৃদুগ্ধ নিশ্চিত করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 776967,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776968,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "জুলেখা অর্থের অভাবে লেখাপড়া ছেড়ে দিয়ে ঢাকায় চাকরির খোঁজে আসে। একদিন সে বখাটেদের নির্যাতনের শিকার হয়।\u003Cbr\u003E\nজুলেখার প্রতি সহিংসতা প্রতিরোধে সমাজে করণীয়গুলো হলো-\u003Cbr\u003E\ni. নারীর জন্য ঋণদান কর্মসূচি গ্রহণ\u003Cbr\u003E\nii. আইন প্রণয়ন\u003Cbr\u003E\niii. নারী নির্যাতনকারীদের শাস্তি প্রদান\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3830,
+          "full_name": "ঢা. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৫",
+          "slug": "dha-bo2015",
+          "pivot": {
+            "question_bank_id": 776968,
+            "tag_id": 3830,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776969,
+      "value": {
+        "options": [],
+        "question": "বিয়ের ৬ মাস পরেই আলেয়ার স্বামী যৌতুকের জন্য তাকে মারধর শুরু করে। এটি কোন সামাজিক সমস্যাকে নির্দেশ করে? এ ধরনের সহিংস আচরণ কোথায় ঘটতে দেখা যায়?",
+        "solution": "এটি নারীর প্রতি সহিংসতাকে নির্দেশ করছে। কোনো ব্যক্তি বা ব্যক্তি সমষ্টি নামা অজুহাতে নারীর আর্থ-সামাজিক, প্রান্তিকতার সুযোগ নিয়ে নারীর প্রতি সহিংসতা ঘটিয়ে থাকে। নারীর ইচ্ছার বিরুদ্ধে শারীরিক বা মানসিকভাবে এই নির্যাতন চালানো হয়। এ সহিংস আচরণ বাড়ি-ঘর, রাস্তাঘাট, স্কুল-কলেজ, কর্মক্ষেত্র, হাট-বাজার থেকে শুরু করে যে কোনো স্থানে ঘটতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776970,
+      "value": {
+        "options": [],
+        "question": "সোমার দাদা মারা যাওয়ার পর তার ফুপুকে সম্পত্তির ভাগ দেওয়া হয়নি। এ ধরনের আচরণকে কী বলা হয়? উদাহরণসহ ব্যাখ্যা করো।",
+        "solution": "সোমার ফুপুর প্রতি এ ধরনের আচরণকে পারিবারিক সহিংসতা বলে। নারীরা বাড়িতে শারীরিক ও মানসিক যেসব নির্যাতনের শিকার হয় তাকে বলে পারিবারিক সহিংসতা। এ ধরনের সহিংসতার উদাহরণগুলো হলো- খোঁটা দেওয়া, প্রহার, যৌতুক সম্পর্কিত নির্যাতন, শিক্ষা ও সম্পত্তির অধিকারের বঞ্চনা, সামর্থ্যের অধিক কাজ দেওয়া, কন্যা শিশুকে মারধর ও নিপীড়ন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776955,
+      "value": {
+        "options": {
+          "ক": "মাতৃত্বকালীন ছুটি",
+          "খ": "নৈমিত্তিক ছুটি",
+          "গ": "অর্জিত ছুটি",
+          "ঘ": "বিনোদন ছুটি"
+        },
+        "question": "মিসেস জারা রহমান একটি সরকারি অফিসের কর্মকর্তা। তিনি বাংলাদেশ সরকারের ১১ জানুয়ারি, ২০১১ সালের প্রকাশিত গেজেটের ভিত্তিতে ৬ মাসের ছুটি ভোগ করছেন।\u003Cbr\u003E\nমিসেস জারা রহমান কোন ধরনের ছুটি ভোগ করছেন?",
+        "solution": "ক. মাতৃত্বকালীন ছুটি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 776955,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776972,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের নারীরা কী ধরনের সহিংসতার শিকার হয়? ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশের নারীরা যৌন হয়রানি, নির্যাতন ও ধর্ষণ, মনগড়া ফতোয়া, এসিড নিক্ষেপ, নারী ও শিশুপাচারের মতো সহিংসতার শিকার হয়। গ্রামাঞ্চলে ফতোয়ার মাধ্যমে নারীর প্রতি সহিংসতার ঘটনা ঘটানো হয়। নানা কারণে অ্যাসিড নিক্ষেপের মতো জঘন্য ঘটনাও ঘটে। এছাড়া বাংলাদেশসহ দক্ষিণ এশিয়ায় নারী ও শিশু পাচার পরিস্থিতি ভয়াবহ।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776973,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে নারীর প্রতি সহিংসতা কেন হয়? বর্ণনা করো।",
+        "solution": "আমাদের সমাজে নারীর প্রতি সহিংসতার বিভিন্ন কারণ রয়েছে। আমাদের সমাজ ব্যবস্থায় বিভিন্ন কাজে নারীদের অবহেলা করা হয়। ঘরের বাইরে বিভিন্ন সামাজিক ও ধর্মীয় আচার-অনুষ্ঠান থেকে বঞ্চিত রাখা, যৌতুক, বাল্যবিবাহ, বহুবিবাহ, কন্যাসন্তানের চেয়ে পুত্রসন্তানের প্রতি আগ্রহী হয়ে ওঠা প্রভৃতি সামাজিক দৃষ্টিভঙ্গি নারীর প্রতি সহিংসতা বৃদ্ধিতে প্রভাব ফেলছে। তাছাড়া নারীকে শিক্ষা থেকে বঞ্চিত রাখা, উদ্দেশ্যমূলক ফতোয়া, বিভিন্ন সামাজিক প্রথা নারীর প্রতি সহিংসতায় উৎসাহিত করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776974,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের নারী সমাজ নির্যাতনের বিষয় বাইরে প্রকাশ করতে পারেনা কেন? এ সমস্যা প্রতিরোধে কারা কাজ করছে?",
+        "solution": "লোকলজ্জা, পারিবারিক ও সামাজিক মর্যাদার ভয়সহ বিভিন্ন কারণে বাংলাদেশের নারী সমাজ নির্যাতনের বিষয় বাইরে প্রকাশ করতে পারেনা। এ সমস্যা প্রতিরোধে শিক্ষা মন্ত্রণালয়, মহিলা ও শিশু বিষয়ক মন্ত্রণালয়, বিভিন্ন সাহায্যকারী সংস্থা, যেমন- আইন ও সালিশ কেন্দ্র, বাংলাদেশ পুলিশের &#39;ভিকটিম সাপোর্ট সেন্টার&#39;, ব্রেকিং দ্যা সাইলেন্স বিভিন্ন কার্যক্রম পরিচালনা করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776975,
+      "value": {
+        "options": [],
+        "question": "নারীর প্রতি সহিংসতার প্রভাব ব্যাখ্যা করো।",
+        "solution": "নারীর জীবনে সহিংসতার প্রভাব জটিল ও ভয়াবহ। নারীর প্রতি শারীরিক নির্যাতন কখনো কখনো তার অঙ্গহানি ঘটায়। সহিংস ঘটনায় নারীর শারীরিক ও মানসিক স্বাস্থ্য ক্ষতবিক্ষত হয়। নারীরা অনেক সময় আত্মহত্যার পথ বেছে নেয়। নারীর প্রতি এই সহিংসতা আমাদের অর্থনীতিতেও নেতিবাচক প্রভাব ফেলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776976,
+      "value": {
+        "options": [],
+        "question": "তোমার এলাকায় নারী ও শিশু নির্যাতন প্রতিরোধে কোন আইনের প্রয়োগ ঘটবে? এ আইনে উল্লিখিত শাস্তির বিধান ব্যাখ্যা করো।",
+        "solution": "আমার এলাকায় নারী ও শিশু নির্যাতন প্রতিরোধে &#39;নারী ও শিশু দমন আইন-২০০০ (২০০৩ সালে সংশোধিত)&#39; এর প্রয়োগ ঘটানো হবে। এ আইনে বলা হয়েছে- যদি কোনো পুরুষ অযাচিতভাবে তার যৌন লালসা চরিতার্থ করার জন্য নারী অবমাননা কিংবা অশ্লীল অঙ্গভঙ্গি বা ইঙ্গিতের মাধ্যমে যৌন হয়রানিমূলক আচরণ করে তবে উক্ত ব্যক্তি অনূর্ধ্ব সাত বছর এবং সর্বনিম্ন দুই বছর সশ্রম কারাদণ্ডে দণ্ডিত হবেন এবং অতিরিক্ত অর্থদণ্ডেও দণ্ডিত হবেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776977,
+      "value": {
+        "options": [],
+        "question": "অ্যাসিড নিক্ষেপের কারণে কারও মৃত্যু হলে আইনানুযায়ী অপরাধীর কী শাস্তি হবে? কত সালে অ্যাসিড নিয়ন্ত্রণ আইন সংশোধন করা হয়?",
+        "solution": "অ্যাসিড অপরাধ দমন আইন-২০০২ অনুযায়ী যদি কোনো ব্যক্তি অ্যাসিড দ্বারা অন্য কোনো ব্যক্তির মৃত্যু ঘটান তাহলে উক্ত ব্যক্তি মৃত্যুদণ্ড বা যাবজ্জীবন সশ্রম কারাদণ্ডে দণ্ডনীয় হবেন এবং এর অতিরিক্ত এক লক্ষ টাকা অর্থদণ্ডেও দণ্ডিত হবেন। ২০১০ সালে বাংলাদেশ জাতীয় সংসদ কর্তৃক অ্যাসিড নিয়ন্ত্রণ (সংশোধন) আইন-২০১০ পাস হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776978,
+      "value": {
+        "options": [],
+        "question": "বিজিবি সদস্যরা পার্শ্ববর্তী দেশে পাচারকালে একদল নারী ও শিশুকে উদ্ধার করে। এই অপরাধে অভিযুক্তদের কোন আইনে বিচার করা হবে? তাদের শাস্তির বিধান উল্লেখ করো।",
+        "solution": "মানবপাচার প্রতিরোধ ও দমন আইন-২০১২ এ অভিযুক্তদের বিচার করা হবে। এ আইনে মানবপাচারের সাথে সংশ্লিষ্ট ব্যক্তিদের সর্বোচ্চ শাস্তি মৃত্যুদণ্ডসহ পাঁচ লক্ষ টাকা অর্থদণ্ডে দণ্ডিত করার বিধান রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776979,
+      "value": {
+        "options": [],
+        "question": "নারীর প্রতি সহিংসতা রোধে সমাজের দুটি করণীয় উল্লেখ করো।",
+        "solution": "নারীর প্রতি সহিংসতা রোধে সমাজের দুটি করণীয় হলো- ১. নারীশিক্ষা কার্যক্রম গ্রহণ, বিধবা ভাতা প্রদান এবং নারীর জন্য ঋণদান কর্মসূচি গ্রহণের মাধ্যমে নারীর ক্ষমতা বৃদ্ধি; ২. নির্যাতন, সহিংসতার ধরন ও প্রকৃতির সাথে সামঞ্জস্য রেখে আইন প্রণয়ন এবং আইনের যথাযথ প্রয়োগ করতে হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776980,
+      "value": {
+        "options": [],
+        "question": "সাজ্জাদ সাহেব প্রতিদিন ১২ বছরের একটি ছেলেকে ঝালাই-এর দোকানে কাজ করতে দেখেন। এটি কোন সামাজিক সমস্যাকে ইঙ্গিত করে? এর প্রধান কারণ কী?",
+        "solution": "এ ঘটনা শিশুশ্রমকে ইঙ্গিত করছে। এর প্রধান কারণ অর্থনৈতিক দুরবস্থা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776981,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের সংবিধানের আলোকে শিশুদের অধিকার ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশের সংবিধানে শিশুসহ সকল নাগরিকের মৌলিক অধিকারকে স্বীকৃতি দেওয়া হয়েছে। সংবিধানে রাষ্ট্র পরিচালনার মূলনীতি অংশে শিশুদের জন্য বাধ্যতামূলক প্রাথমিক শিক্ষাসহ শারীরিক ও মানসিক প্রতিবন্ধীদের জন্য বিশেষ ব্যবস্থা গ্রহণের ওপর জোর দেওয়া হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776982,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশ শ্রম-আইন ২০০৬ অনুযায়ী শিশু-কিশোরদের বয়স কত নির্ধারণ করা হয়েছে? এ আইন অনুসারে শিশু-কিশোরদের কাজে নিয়োগ করার নিয়ম কী?",
+        "solution": "বাংলাদেশ শ্রম আইন ২০০৬ অনুযায়ী শিশুদের বয়স ১৪ বছর এবং কিশোরদের ১৪ থেকে ১৮ বছর নির্ধারণ করা হয়েছে। এ আইন অনুসারে, ১৪ বছরের কম বয়সী কোনো শিশুকে কাজে নিয়োগ করা যাবে না। কিশোর শ্রমিক নিযুক্ত করতে হলে রেজিস্টার্ড ডাক্তারের কাছে ফিটনেস সার্টিফিকেট সংগ্রহ করতে হবে। কিশোর শ্রমিকদের স্বাভাবিক কাজের সময়সীমা নির্ধারণ করা হয়েছে দৈনিক ৫ ঘণ্টা। তবে সন্ধ্যা ৭টা থেকে ভোর ৭টা পর্যন্ত কোনো কিশোর শ্রমিককে দিয়ে কোনো ঝুঁকিপূর্ণ বা বিপজ্জনক কাজ করানো যাবে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776983,
+      "value": {
+        "options": [],
+        "question": "কত সালে জাতিসংঘ শিশু অধিকার সনদ প্রণীত হয়েছে? বাংলাদেশ কত সালে এ সনদ অনুসমর্থন করেছে?",
+        "solution": "১৯৮৯ সালে জাতিসংঘ শিশু অধিকার সনদ প্রণীত হয়েছে। বাংলাদেশ এ সনদ ১৯৯০ সালে অনুসমর্থন করেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776984,
+      "value": {
+        "options": [],
+        "question": "একজন কিশোর কী কী কারণে অপরাধে জড়িয়ে পড়তে পারে? কীভাবে এগুলো মোকাবিলা করা যেতে পারে?",
+        "solution": "পারিবারিক অভাব-অনটন, শিক্ষার সুযোগ থেকে বঞ্চিত হওয়া, শহর জীবনের একাকিত্ব, বাবা-মায়ের কর্মব্যস্ততা, মোবাইলের মাধ্যমে অনিয়ন্ত্রিত যোগাযোগ ইত্যাদি নানা কারণে কিশোররা অপরাধমূলক কর্মকাণ্ডে জড়িত হয়। গঠনমূলক পারিবারিক পরিবেশ সৃষ্টি, পরিবার ও বিদ্যালয়ে ধর্মীয় ও নৈতিক শিক্ষা, চিত্তবিনোদনমূলক কার্যক্রম প্রভৃতি পদক্ষেপের মাধ্যমে কিশোর অপরাধ মোকাবিলা করা যেতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776985,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের শিশু আইন, ২০১৩ অনুযায়ী কারা শিশু হিসেবে গণ্য হবে? এ আইনে কিশোর অপরাধের বিচারের জন্য কোন ধরনের ব্যবস্থা গ্রহণের কথা বলা হয়েছে?",
+        "solution": "বাংলাদেশের শিশু আইন, ২০১৩ অনুযায়ী অনূর্ধ্ব ১৮ বছর বয়স পর্যন্ত সকল ব্যক্তি শিশু হিসেবে গণ্য হবে। এই আইনে কিশোর অপরাধের বিচারের জন্য পৃথক আদালত গঠন, পৃথক হাজত বা আবাসন এবং তাদের সংশোধনের জন্য যথাযথ ব্যবস্থা গ্রহণের কথা বলা হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776986,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের জাতীয় স্বাস্থ্যনীতির অন্যতম লক্ষ্য কী? এক্ষেত্রে সরকার কী ভূমিকা রাখছে?",
+        "solution": "বাংলাদেশের জাতীয় স্বাস্থ্যনীতির অন্যতম লক্ষ্য শিশু ও মাতৃমৃত্যুর হার হ্রাস করা। এক্ষেত্রে সরকার মা ও শিশু স্বাস্থ্যের উন্নতির জন্য সন্তোষজনক ব্যবস্থা গ্রহণ করেছে। যথাসম্ভব প্রতিটি গ্রামে নিরাপদ প্রসূতি সেবা নিশ্চিত করার জন্য বিভিন্ন উদ্যোগ গৃহীত হচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776939,
+      "value": {
+        "options": {
+          "ক": "দুর্নীতি",
+          "খ": "জঙ্গিবাদ",
+          "গ": "মাদকাসক্ত",
+          "ঘ": "কিশোর অপরাধ"
+        },
+        "question": "এসএসসি পরীক্ষার পর সজল ও তার বন্ধুরা পায়রা সমুদ্রবন্দরে বেড়াতে গেল। সেখানে পৌছানোর পর রাত হওয়ায় তারা যাত্রী ছাউনিতে অপেক্ষা করতে লাগল। এমন সময় তাদের বয়সী কিছু ছেলে এসে অস্ত্রের ভগ্ন দেখিয়ে তাদের কাছে থাকা মোবাইল, ল্যাপটপ, টাকা-পয়সা ঘড়িসহ সব ছিনতাই করে নিয়ে গেল।\u003Cbr\u003E\nউদ্দীপকে বর্ণিত ঘটনাটি দ্বারা কোন বিষয়টির প্রতি ইঙ্গিত করা হয়েছে?",
+        "solution": "ঘ. কিশোর অপরাধ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776924,
+      "value": {
+        "options": {
+          "ক": "শিশু মৃত্যুর হার হ্রাস",
+          "খ": "শিশুদের পুষ্টিহীনতা দূর করা",
+          "গ": "শিশুদের দ্বারা কাজ করানো বন্ধ করা",
+          "ঘ": "শিশুদের শিক্ষা গ্রহণের অধিকার নিশ্চিত করা"
+        },
+        "question": "জাতীয় শিশুশ্রম নিরসন আইনের লক্ষ্য কোনটি?",
+        "solution": "ঘ. শিশুদের শিক্ষা গ্রহণের অধিকার নিশ্চিত করা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 776924,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776925,
+      "value": {
+        "options": {
+          "ক": "সকাল ৭টা থেকে দুপুর ২টা",
+          "খ": "সন্ধ্যা ৭টা থেকে ভোর ৭টা",
+          "গ": "ভোর ৫টা থেকে বিকাল ৫টা",
+          "ঘ": "বিকাল ৫টা থেকে ভোর ৫টা"
+        },
+        "question": "বাংলাদেশের শ্রম আইন অনুযায়ী&nbsp;কোনো কিশোর শ্রমিককে দিয়ে&nbsp;কাজ করানো যাবে না কখন?",
+        "solution": "খ. সন্ধ্যা ৭টা থেকে ভোর ৭টা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 776925,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776926,
+      "value": {
+        "options": {
+          "ক": "১৫",
+          "খ": "১৬",
+          "গ": "১৭",
+          "ঘ": "১৮"
+        },
+        "question": "বাংলাদেশে শিশু আইন, ১৯৭৪-এ শিশু ধরা হয়েছে কত বছরের কম বয়স পর্যন্ত?",
+        "solution": "খ. ১৬",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 776926,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776927,
+      "value": {
+        "options": {
+          "ক": "২০০০",
+          "খ": "২০০১",
+          "গ": "২০০২",
+          "ঘ": "২০০৩"
+        },
+        "question": "নারী ও শিশু নির্যাতন দমন আইন প্রণীত হয় কত সালে?",
+        "solution": "ক. ২০০০",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3847,
+          "full_name": "ব. বো.'২০১৬",
+          "short_name": "ব. বো.'২০১৬",
+          "slug": "b-bo2016",
+          "pivot": {
+            "question_bank_id": 776927,
+            "tag_id": 3847,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776928,
+      "value": {
+        "options": {
+          "ক": "১৯৮৮",
+          "খ": "১৯৮৯",
+          "গ": "১৯৯০",
+          "ঘ": "১৯৯১"
+        },
+        "question": "জাতিসংঘ শিশু অধিকার আইন প্রণীত হয় কত সালে?",
+        "solution": "খ. ১৯৮৯",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 776928,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776929,
+      "value": {
+        "options": {
+          "ক": "২০০২",
+          "খ": "২০০৪",
+          "গ": "২০০৩",
+          "ঘ": "২০০৫"
+        },
+        "question": "এসিড অপরাধ দমন আইন প্রণীত হয় কত সালে?",
+        "solution": "ক. ২০০২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776930,
+      "value": {
+        "options": {
+          "ক": "ছিনতাই",
+          "খ": "কিশোর অপরাধ",
+          "গ": "ইভটিজিং&nbsp;",
+          "ঘ": "রাহাজানি"
+        },
+        "question": "কে. সি কলেজের বিজ্ঞান বিভাগের ২য় বর্ষের ছাত্রী শিলা মামার বাসায় বেড়াতে ঢাকায় আসে। পাশের বাসার একটি ছেলে শিলাকে দেখে বাজে ইঙ্গিত করে।\u003Cbr\u003E\nশিলা কোন সামাজিক সমস্যার শিকার?",
+        "solution": "গ. ইভটিজিং&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 776930,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776931,
+      "value": {
+        "options": {
+          "ক": "শিক্ষার অভাব",
+          "খ": "দারিদ্র্য",
+          "গ": "শিল্পায়ন",
+          "ঘ": "ঘনগরায়ণ"
+        },
+        "question": "জুলেখা অর্থের অভাবে লেখাপড়া ছেড়ে দিয়ে ঢাকায় চাকরির খোঁজে আসে। একদিন সে বখাটেদের নির্যাতনের শিকার হয়।\u003Cbr\u003E\nজুলেখার নির্যাতিত হওয়ার পিছনে কোন কারণটি ক্রিয়াশীল?",
+        "solution": "খ. দারিদ্র্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3830,
+          "full_name": "ঢা. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৫",
+          "slug": "dha-bo2015",
+          "pivot": {
+            "question_bank_id": 776931,
+            "tag_id": 3830,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776932,
+      "value": {
+        "options": {
+          "ক": "অনিরাপদ প্রসূতি সেবা",
+          "খ": "মা ও শিশুর স্বাস্থ্যের অনুন্নতি",
+          "গ": "পুষ্টিজনিত ঘাটতি",
+          "ঘ": "মৃত্যুহার বৃদ্ধি"
+        },
+        "question": "মাতৃত্বজনিত ছুটি বৃদ্ধির ফলে নবজাতক শিশুদের কোন সমস্যাটি দূর হবে",
+        "solution": "গ. পুষ্টিজনিত ঘাটতি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776932,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776933,
+      "value": {
+        "options": {
+          "ক": "নারীর প্রতি সহিংসতা",
+          "খ": "সামাজিক নৈরাজ্য&nbsp;",
+          "গ": "দুর্নীতি",
+          "ঘ": "কিশোর অপরাধ"
+        },
+        "question": "উদ্বেগজনক সামাজিক সমস্যা কোনটি?",
+        "solution": "ঘ. কিশোর অপরাধ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 776933,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776934,
+      "value": {
+        "options": {
+          "ক": "সন্ধ্যা ৭টায়",
+          "খ": "রাত ৮টায়",
+          "গ": "রাত ৯টায়",
+          "ঘ": "রাত ১০টায়"
+        },
+        "question": "সারফান ৯ম শ্রেণিতে পড়ে। দারিদ্র্যের কারণে সে একটি দোকানে কাজ করে। দুপুর ২টায় সে কাজে গেলে ২০০৬ সালের শ্রম আইন অনুযায়ী কয়টায় ছুটি পাবে?",
+        "solution": "ক. সন্ধ্যা ৭টায়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 776934,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776935,
+      "value": {
+        "options": {
+          "ক": "ত্রুটিপূর্ণ সামাজিকীকরণ",
+          "খ": "মূল্যবোধের অবক্ষয়",
+          "গ": "গোঁড়ামি",
+          "ঘ": "আধিপত্য"
+        },
+        "question": "শৈশবে নারীর প্রতি বঞ্চনার অভিজ্ঞতা একজন পুরুষকে সহিংস করে তোলে, এর মূল কারণ হলো-",
+        "solution": "ক. ত্রুটিপূর্ণ সামাজিকীকরণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4883,
+          "full_name": "কু. বো.'২০২৪;দি. বো.'২০২০",
+          "short_name": "কু. বো.'২০২৪;দি. বো.'২০২০",
+          "slug": "ku-bo2024di-bo2020",
+          "pivot": {
+            "question_bank_id": 776935,
+            "tag_id": 4883,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776936,
+      "value": {
+        "options": {
+          "ক": "নারী স্বাধীনতার অভাবে",
+          "খ": "শিক্ষার হার কম হওয়ায়",
+          "গ": "শ্রমিক হিসেবে সস্তা ও সহজলভ্য হওয়ায়",
+          "ঘ": "সামাজিক সচেতনতার অভাবে"
+        },
+        "question": "গ্রামীণ এলাকায় নারীর প্রতি সহিংসতা বেশি হয় কেন?",
+        "solution": "ঘ. সামাজিক সচেতনতার অভাবে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 776936,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776937,
+      "value": {
+        "options": {
+          "ক": "বাংলাদেশের শ্রম আইন, ২০০৬",
+          "খ": "জাতিসংঘের শিশু অধিকার সনদ, ১৯৮৯",
+          "গ": "বাংলাদেশের শিশু আইন, ১৯৭৪",
+          "ঘ": "জাতীয় শিশুনীতি, ২০১১"
+        },
+        "question": "১০ বছর বয়সী অরূপকে দিয়ে ঝালাইয়ের কাজ করাচ্ছেন দোকান মালিক রকিব উদ্দিন। তিনি কোনটির পরিপন্থী কাজ করছেন?",
+        "solution": "ক. বাংলাদেশের শ্রম আইন, ২০০৬",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 776937,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776938,
+      "value": {
+        "options": {
+          "ক": "এসিড নিক্ষেপ",
+          "খ": "নারী ও শিশু পাচার",
+          "গ": "যৌন হয়রানি",
+          "ঘ": "সড়ক দুর্ঘটনা"
+        },
+        "question": "সাম্প্রতিক সময়ে বাংলাদেশের অন্যতম সামাজিক সমস্যা কী?",
+        "solution": "গ. যৌন হয়রানি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 776938,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776923,
+      "value": {
+        "options": {
+          "ক": "সন্ধ্যা ৭টা থেকে সকাল ৭টা",
+          "খ": "সকাল ৭টা থেকে দুপুর ১২টা",
+          "গ": "দুপুর ১২টা থেকে বিকাল ৫টা",
+          "ঘ": "সকাল ৯টা থেকে দুপুর ২টা"
+        },
+        "question": "কিশোর শ্রমিক দ্বারা কাজ করানো যাবে না কখন?",
+        "solution": "ক. সন্ধ্যা ৭টা থেকে সকাল ৭টা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 776923,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776940,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "এসএসসি পরীক্ষার পর সজল ও তার বন্ধুরা পায়রা সমুদ্রবন্দরে বেড়াতে গেল। সেখানে পৌছানোর পর রাত হওয়ায় তারা যাত্রী ছাউনিতে অপেক্ষা করতে লাগল। এমন সময় তাদের বয়সী কিছু ছেলে এসে অস্ত্রের ভগ্ন দেখিয়ে তাদের কাছে থাকা মোবাইল, ল্যাপটপ, টাকা-পয়সা ঘড়িসহ সব ছিনতাই করে নিয়ে গেল।\u003Cbr\u003E\nউক্ত ঘটনার সাথে জড়িত-\u003Cbr\u003E\ni. বেকারত্ব\u003Cbr\u003E\nii. উপযুক্ত শিক্ষার অভাব\u003Cbr\u003E\niii. মূল্যবোধের অবক্ষয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776941,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জামাল সাহেব সামাজিক বিজ্ঞান বিষয়ের একজন শিক্ষক। তিনি ক্লাসে ডিজিটাল মাল্টিমিডিয়া ব্যবহার করে নারী ও শিশু পাচারের চিত্র দেখিয়ে পাঠদান করছেন।\u003Cbr\u003E\nডিজিটাল ক্লাসের ইতিবাচক দিক হলো-\u003Cbr\u003E\ni. পাঠ সহজে উপস্থাপন করা যায়\u003Cbr\u003E\nii. শিক্ষার্থীরা সহজে বুঝতে পারে এবং\u003Cbr\u003E\niii. পাঠ্যবই ও খাতাপত্রের প্রয়োজন\u003Cbr\u003E\nনেই নিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 776941,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776942,
+      "value": {
+        "options": {
+          "ক": "সামাজিক নৈরাজ্য",
+          "খ": "সামাজিক বিশৃঙ্খলা",
+          "গ": "নারীর প্রতি সহিংসতা",
+          "ঘ": "সামাজিক মূল্যবোধের অবক্ষয়"
+        },
+        "question": "জামাল সাহেব সামাজিক বিজ্ঞান বিষয়ের একজন শিক্ষক। তিনি ক্লাসে ডিজিটাল মাল্টিমিডিয়া ব্যবহার করে নারী ও শিশু পাচারের চিত্র দেখিয়ে পাঠদান করছেন।\u003Cbr\u003E\nজামাল সাহেবের উপস্থাপনকৃত বিষয়ের মাধ্যমে সমাজের কোন ধরনের সমস্যা ফুটে উঠেছে?",
+        "solution": "গ. নারীর প্রতি সহিংসতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776943,
+      "value": {
+        "options": {
+          "ক": "বৈবাহিক সহিংসতা",
+          "খ": "মানসিক সহিংসতা",
+          "গ": "সামাজিক সহিংসতা",
+          "ঘ": "পারিবারিক সহিংসতা"
+        },
+        "question": "অধিকাংশ মহিলা প্রায়শই সংসারে অত্যাচার ও অবহেলা মোকাবিলা করে থাকেন। এটিকে কী বলে?",
+        "solution": "ঘ. পারিবারিক সহিংসতা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 776943,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776944,
+      "value": {
+        "options": {
+          "ক": "সামাজিক নৈরাজ্য",
+          "খ": "নারীর প্রতি বৈষম্য",
+          "গ": "নারীর প্রতি সহিংসতা",
+          "ঘ": "মূল্যবোধের অবক্ষয়"
+        },
+        "question": "সদ্য বিবাহিত 'N' স্বামীর বাড়িতে বিভিন্ন প্রকার গৃহস্থালি কাজে নিয়োজিত থাকে। অতিরিক্ত কাজের জন্য তাকে প্রতিনিয়ত চাপ প্রয়োগ করা হয়। এতে সে সবসময় ভয়ে থাকে। 'N' এর সমস্যাটি কোন সামাজিক সমস্যাকে নির্দেশ করে?",
+        "solution": "গ. নারীর প্রতি সহিংসতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 776944,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776945,
+      "value": {
+        "options": {
+          "ক": "কিশোর অপরাধ",
+          "খ": "সামাজিক নৈরাজ্য",
+          "গ": "নারীর প্রতি সহিংসতা&nbsp;",
+          "ঘ": "সামাজিক বিশৃঙ্খলা"
+        },
+        "question": "রাফান 'ক' নামক ব্যক্তিকে এসিড নিক্ষেপ করেছে- এখানে রাফানের কোন সামাজিক সমস্যাটি চিহ্নিত হয়েছে?",
+        "solution": "গ. নারীর প্রতি সহিংসতা&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 776945,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776946,
+      "value": {
+        "options": {
+          "ক": "অনূর্ধ্ব ৭ বছর কারাদণ্ড",
+          "খ": "মৃত্যুদণ্ড বা যাবজ্জীবন কারাদণ্ড",
+          "গ": "চৌদ্দ বছর কারাদণ্ড",
+          "ঘ": "পাঁচ লক্ষ টাকা অর্থদণ্ড"
+        },
+        "question": "রুবেল আলেয়াকে বিয়ের প্রলোভন দেখালে আলেয়া তাতে রাজি হয় না। এতে রুবেল এসিড নিক্ষেপ করলে আলেয়ার মুখমন্ডল ঝলসে যায়। এ কারণে রুবেলের কী ধরনের শাস্তি হতে পারে।",
+        "solution": "খ. মৃত্যুদণ্ড বা যাবজ্জীবন কারাদণ্ড",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 776946,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776947,
+      "value": {
+        "options": {
+          "ক": "৭ বছরের কম বয়সীরা",
+          "খ": "৭-১৪ বছর বয়সীরা",
+          "গ": "১৬ বছরের কম বয়সীরা",
+          "ঘ": "১৮ বছরের কম বয়সীরা"
+        },
+        "question": "জাতিসংঘ শিশু অধিকার কনভেনশন অনুযায়ী শিশু কারা?",
+        "solution": "ঘ. ১৮ বছরের কম বয়সীরা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4884,
+          "full_name": "ঢা. বো.'২০১৬;রা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬;রা. বো.'২০১৬",
+          "slug": "dha-bo2016ra-bo2016",
+          "pivot": {
+            "question_bank_id": 776947,
+            "tag_id": 4884,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776948,
+      "value": {
+        "options": {
+          "ক": "১৯৮৯",
+          "খ": "১৯৯০",
+          "গ": "১৯৯১",
+          "ঘ": "১৯৯২"
+        },
+        "question": "বাংলাদেশ কত সালে 'জাতিসংঘ শিশু অধিকার সনদ' সমর্থন&nbsp;করেছে?",
+        "solution": "ক. ১৯৮৯",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 776948,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776949,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সমাজে নারীর প্রতি সহিংসতার কারণ হলো-\u003Cbr\u003E\ni. দারিদ্র্য\u003Cbr\u003E\nii. সামাজিক কুপ্রথা\u003Cbr\u003E\niii. সামাজিক বিশৃঙ্খলা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 776949,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776950,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "নারীর প্রতি এসিড নিক্ষেপের কারণ হলো-\u003Cbr\u003E\ni. প্রেম নিবেদন\u003Cbr\u003E\nii. অনৈতিক প্রস্তাব প্রত্যাখ্যান\u003Cbr\u003E\niii. সহানুভূতি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 776950,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776951,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ডাম্বেল আমেনাকে এসিড নিক্ষেপ করে। ফলে আমেনার মুখমণ্ডল বিকৃত হয়। এসিড নিক্ষেপের জন্য ডাম্বেলের শাস্তি হতে পারে-\u003Cbr\u003E\ni. মৃত্যুদণ্ড বা যাবজ্জীবন সশ্রম কারাদণ্ড\u003Cbr\u003E\nii. অনূর্ধ্ব এক লক্ষ টাকার অর্থদণ্ড\u003Cbr\u003E\niii. সাত বছর সশ্রম কারাদণ্ড\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3844,
+          "full_name": "কু. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৫",
+          "slug": "ku-bo2015",
+          "pivot": {
+            "question_bank_id": 776951,
+            "tag_id": 3844,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776952,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\"A\" নিয়মিত স্কুলে যায় না। বাবার পকেটের টাকা চুরি করে এবং রাস্তায় স্কুলগামী মেয়েদের উত্যক্ত করে।\u003Cbr\u003E\nএ ধরনের অপরাধ সৃষ্টির কারণ হলো-\u003Cbr\u003E\ni. পারিবারিক অভাব অনটন\u003Cbr\u003E\nii. বাবা-মায়ের কর্মব্যস্ততা\u003Cbr\u003E\niii. আকাশ সংস্কৃতির প্রভাব\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776952,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776953,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কে. সি কলেজের বিজ্ঞান বিভাগের ২য় বর্ষের ছাত্রী শিলা মামার বাসায় বেড়াতে ঢাকায় আসে। পাশের বাসার একটি ছেলে শিলাকে দেখে বাজে ইঙ্গিত করে।\u003Cbr\u003E\nউক্ত সমস্যা সমাধানে করণীয়-\u003Cbr\u003E\ni. ধর্মীয় মূল্যবোধ ও আদর্শ চর্চা করা\u003Cbr\u003E\nii. সামাজিক চাপ প্রয়োগকারী প্রতিষ্ঠানকে সক্রিয় করা\u003Cbr\u003E\niii. অপরাধীকে সামাজিকভাবে বয়কট করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 776953,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776954,
+      "value": {
+        "options": {
+          "ক": "কিশোর অপরাধ",
+          "খ": "শিশুশ্রম",
+          "গ": "জঙ্গিবাদ",
+          "ঘ": "সামাজিক নৈরাজ্য"
+        },
+        "question": "তুলুর বয়স ১৫ বছর। সে কাজ করতে চায় না এবং কাউকে পরোয়া করে না। মাঝে মাঝে সে অন্য ছেলেদের সাথে মারামারি করে বিশৃঙ্খল পরিস্থিতির সৃষ্টি করে।\u003Cbr\u003E\nতোমার পাঠ্যবইয়ের কোন বিষয়টি তুলুর মধ্যে প্রতিফলিত হয়েছে?",
+        "solution": "ক. কিশোর অপরাধ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 776954,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:54:21.000000Z",
+            "updated_at": "2025-12-01T15:54:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14720&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14720&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14720&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 64,
+  "total": 64
+}

@@ -1,0 +1,191 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776909,
+      "value": {
+        "options": {
+          "ক": "ইংরেজি",
+          "খ": "ল্যাটিন",
+          "গ": "গ্রিক",
+          "ঘ": "ফরাসি"
+        },
+        "question": "\u003Cp\u003E'Militant' শব্দটি কোন ভাষা থেকে এসেছে?\u003C/p\u003E",
+        "solution": "খ. ল্যাটিন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4882,
+          "full_name": "দি. বো.'২০১৯;ঢা. বো.'২০১৭;রা. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৯;ঢা. বো.'২০১৭;রা. বো.'২০১৬",
+          "slug": "di-bo2019dha-bo2017ra-bo2016",
+          "pivot": {
+            "question_bank_id": 776909,
+            "tag_id": 4882,
+            "year": null,
+            "created_at": "2025-12-01T15:54:01.000000Z",
+            "updated_at": "2025-12-01T15:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776910,
+      "value": {
+        "options": {
+          "ক": "সৈনিক হিসাবে কাজ করা",
+          "খ": "দেশের জন্য কাজ করা",
+          "গ": "গেরিলা",
+          "ঘ": "সাধারণ জনগণ"
+        },
+        "question": "\u003Cp\u003Eমিলিট্যারি-এর অর্থ কোনটি?\u003C/p\u003E",
+        "solution": "ক. সৈনিক হিসাবে কাজ করা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 776910,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-01T15:54:01.000000Z",
+            "updated_at": "2025-12-01T15:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776911,
+      "value": {
+        "options": {
+          "ক": "দুর্নীতি",
+          "খ": "জঙ্গিবাদ",
+          "গ": "সামাজিক বিশৃঙ্খলা",
+          "ঘ": "মূল্যবোধের অবক্ষয়"
+        },
+        "question": "\u003Cp\u003Eরমনার বটমূলে নববর্ষের অনুষ্ঠান চলাকালে কিছু ব্যক্তি ধর্ম রক্ষার নামে সেখানে বোমা হামলা চালায়। এ ঘটনাটি কোন সমস্যাকে ইঙ্গিত করে?\u003C/p\u003E",
+        "solution": "খ. জঙ্গিবাদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8076,
+      "created_at": "2025-12-01T15:54:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 776911,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:54:01.000000Z",
+            "updated_at": "2025-12-01T15:54:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14718&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14718&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8076&grade=5&lesson=14718&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 3,
+  "total": 3
+}

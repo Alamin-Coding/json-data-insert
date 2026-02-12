@@ -1,0 +1,1227 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776598,
+      "value": {
+        "options": {
+          "ক": "জিডিপি",
+          "খ": "জিএনপি",
+          "গ": "মোট মুনাফা",
+          "ঘ": "মাথাপিছু আয়"
+        },
+        "question": "কোনো দেশের অর্থনৈতিক উন্নয়নের প্রধান সূচক কোনটি?",
+        "solution": "ঘ. মাথাপিছু আয়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 776598,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776609,
+      "value": {
+        "options": {
+          "ক": "উচ্চ আয়ের দেশ",
+          "খ": "উচ্চমধ্য আয়ের দেশ",
+          "গ": "নিম্নমধ্য আয়ের দেশ",
+          "ঘ": "নিম্ন আয়ের দেশ"
+        },
+        "question": "২০১৮ সালে 'P' দেশের মোট জাতীয় আয় ছিল ৩২,০০০ কোটি মার্কিন ডলার। মোট জনসংখ্যা ছিল ৫ কোটি।\u003Cbr\u003E\nউক্ত দেশটি মাথাপিছু আয়ের ভিত্তিতে কোন পর্যায়ে পড়ে?",
+        "solution": "খ. উচ্চমধ্য আয়ের দেশ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 776609,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776608,
+      "value": {
+        "options": {
+          "ক": "১৩,০০০",
+          "খ": "১৩,৫০০",
+          "গ": "১৪,০০০",
+          "ঘ": "১৪,৫০০"
+        },
+        "question": "'ক' নামক রাষ্ট্রের জনসংখ্যা ৫ কোটি এবং ঐ সময়ে দেশটির জাতীয় আয় ৭০,০০০ কোটি মার্কিন ডলার।\u003Cbr\u003E\n'ক' দেশটির মাথাপিছু আয় কত ডলার?",
+        "solution": "গ. ১৪,০০০",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 776608,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776607,
+      "value": {
+        "options": {
+          "ক": "৮৫৭২ বিলিয়ন ডলার",
+          "খ": "৮৫৮২ বিলিয়ন ডলার",
+          "গ": "৮৫৯২ বিলিয়ন ডলার",
+          "ঘ": "৮৬০২ বিলিয়ন ডলার"
+        },
+        "question": "২০১৮ সালে 'X' নামক দেশে GNP ছিল ৮৫৮২ বিলিয়ন ডলার, যখন রপ্তানি ও আমদানি ছিল যথাক্রমে ৪৫ ও ৩৫ বিলিয়ন ডলার। উল্লেখ্য 'X' দেশে ২০১৭ সালে GNP ছিল ৭৫৭২ বিলিয়ন ডলার।\u003Cbr\u003E\n২০১৮ সালে 'X' নামক দেশের GDP কত ছিল?",
+        "solution": "গ. ৮৫৯২ বিলিয়ন ডলার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776606,
+      "value": {
+        "options": {
+          "ক": "নিম্ন আয়ের",
+          "খ": "উচ্চ আয়ের",
+          "গ": "নিম্ন মধ্য আয়ের",
+          "ঘ": "উচ্চ মধ্য আয়ের"
+        },
+        "question": "২০২০ সালে একটি দেশের মোট জাতীয় আয় ছিল ৪৮০০ কোটি ইউএস ডলার। দেশটির জনসংখ্যা ছিল ১৬ কোটি।\u003Cbr\u003E\nআয়ের ভিত্তিতে উক্ত দেশটি কোন ধরনের দেশ?",
+        "solution": "ক. নিম্ন আয়ের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 776606,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776605,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বিদেশ থেকে প্রেরিত অর্থ মোট দেশজ উৎপাদনের অন্তর্ভুক্ত নয় কারণ-\u003Cbr\u003E\ni. উপার্জিত আয় দেশটির সীমানার বাইরে হয়েছে\u003Cbr\u003E\nii. উপার্জিত ব্যক্তি দেশের বাইরে কর্মরত বলে\u003Cbr\u003E\niii. দু'দেশের অর্থের মান ভিন্ন বলে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 776605,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776604,
+      "value": {
+        "options": {
+          "ক": "GDP + (X + M)",
+          "খ": "GNP - (X-M)",
+          "গ": "GDP+ (X-M)",
+          "ঘ": "GNP+ (X-M)"
+        },
+        "question": "GNP = ?",
+        "solution": "গ. GDP+ (X-M)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 776604,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776603,
+      "value": {
+        "options": {
+          "ক": "মোট জাতীয় উৎপাদন",
+          "খ": "মোট দেশজ উৎপাদন",
+          "গ": "মাথাপিছু আয়",
+          "ঘ": "মোট জাতীয় আয়"
+        },
+        "question": "A দেশের অভ্যন্তরে X শিল্প প্রতিষ্ঠানটিতে দেশি ও বিদেশি লোক দ্বারা উৎপাদন পরিচালিত হয়। এখানে কোন অর্থনৈতিক নির্দেশকটি ধারণার সাথে সম্পর্কিত?",
+        "solution": "খ. মোট দেশজ উৎপাদন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 776603,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776602,
+      "value": {
+        "options": {
+          "ক": "মাথাপিছু আয়",
+          "খ": "শিল্পায়ন",
+          "গ": "চিকিৎসা",
+          "ঘ": "স্বাস্থ্যসেবা"
+        },
+        "question": "অর্থনৈতিক উন্নয়নের প্রধান সূচক কী?",
+        "solution": "ক. মাথাপিছু আয়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 776602,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776601,
+      "value": {
+        "options": {
+          "ক": "২৭",
+          "খ": "২৭০",
+          "গ": "২৭০০",
+          "ঘ": "২৭০০০"
+        },
+        "question": "২০১৪ সালে একটি দেশের মোট জাতীয় আয় ছিল ২৭০০ কোটি ইউ এস ডলার এবং দেশটির জনসংখ্যা ছিল ১০ কোটি।\u003Cbr\u003E\nউক্ত দেশটির মাথাপিছু আয় কত ডলার?",
+        "solution": "খ. ২৭০",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 776601,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776600,
+      "value": {
+        "options": {
+          "ক": "৪০০০",
+          "খ": "৪২০০",
+          "গ": "৪৫০০",
+          "ঘ": "৪৭০০"
+        },
+        "question": "২০০৮ সালে 'ক' দেশের মোট জাতীয় আয় ছিল ৩৬,০০০ কোটি মার্কিন ডলার। জনসংখ্যা ছিল ৮ কোটি।\u003Cbr\u003E\n২০০৮ সালে উক্ত দেশটির জনগণের মাথাপিছু আয় কত মার্কিন ডলার ছিল?",
+        "solution": "গ. ৪৫০০",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776600,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776599,
+      "value": {
+        "options": {
+          "ক": "ভারসাম্যপূর্ণ",
+          "খ": "সামঞ্জস্যপূর্ণ",
+          "গ": "অনুকূল",
+          "ঘ": "প্রতিকূল"
+        },
+        "question": "২০১৮ সালে 'X' নামক দেশে GNP ছিল ৮৫৮২ বিলিয়ন ডলার, যখন রপ্তানি ও আমদানি ছিল যথাক্রমে ৪৫ ও ৩৫ বিলিয়ন ডলার। উল্লেখ্য 'X' দেশে ২০১৭ সালে GNP ছিল ৭৫৭২ বিলিয়ন ডলার।\u003Cbr\u003E\n'X' দেশের বৈদেশিক বাণিজ্যের ক্ষেত্রে কোন অবস্থা বিদ্যমান?",
+        "solution": "গ. অনুকূল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776586,
+      "value": {
+        "options": {
+          "ক": "মোট উৎপাদন",
+          "খ": "মাথাপিছু আয়",
+          "গ": "মোট বিনিয়োগ",
+          "ঘ": "মোট রপ্তানি"
+        },
+        "question": "কোনো দেশের অর্থনৈতিক উন্নয়নের প্রধান সূচক কোনটি হতে পারে?&nbsp;",
+        "solution": "খ. মাথাপিছু আয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 776586,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776597,
+      "value": {
+        "options": {
+          "ক": "উৎপাদনের পরিমাণ",
+          "খ": "উৎপাদনের উপায়",
+          "গ": "দ্রব্যের মান",
+          "ঘ": "দ্রব্যমূল্য"
+        },
+        "question": "জীবনমান নির্ধারণের জন্য উচ্চ মাথাপিছু আয়ের সাথে কোন বিষয়টি বিবেচ্য?",
+        "solution": "ঘ. দ্রব্যমূল্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 776597,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776596,
+      "value": {
+        "options": {
+          "ক": "GNP",
+          "খ": "GNI",
+          "গ": "GND",
+          "ঘ": "GDP"
+        },
+        "question": "মোট দেশজ উৎপাদন বলতে নিচের কোনটি বোঝায়?",
+        "solution": "ঘ. GDP",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 776596,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776595,
+      "value": {
+        "options": {
+          "ক": "উচ্চ আয়ের",
+          "খ": "উচ্চমধ্য আয়ের",
+          "গ": "নিম্নমধ্য আয়ের",
+          "ঘ": "নিম্ন আয়ের"
+        },
+        "question": "২০১৪ সালে একটি দেশের মোট জাতীয় আয় ছিল ২৭০০ কোটি ইউ এস ডলার এবং দেশটির জনসংখ্যা ছিল ১০ কোটি।\u003Cbr\u003E\nআয়ের ভিত্তিতে উক্ত দেশটি কোন ধরনের?",
+        "solution": "ঘ. নিম্ন আয়ের",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 776595,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776594,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "'ক' নামক রাষ্ট্রের জনসংখ্যা ৫ কোটি এবং ঐ সময়ে দেশটির জাতীয় আয় ৭০,০০০ কোটি মার্কিন ডলার।\u003Cbr\u003E\n'ক' রাষ্ট্রের অর্থনীতিতে যে ধরনের বৈশিষ্ট্য দেখা যায়-\u003Cbr\u003E\ni. জনগণের মৌলিক চাহিদা নিশ্চিতকরণ\u003Cbr\u003E\nii. দেশব্যাপী বিনোদন ব্যবস্থা বিদ্যমান\u003Cbr\u003E\niii. অনুন্নত দেশের উন্নয়ন কার্যক্রমে সহায়তা দান\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3792,
+          "full_name": "কু. বো.'২০২০",
+          "short_name": "কু. বো.'২০২০",
+          "slug": "ku-bo2020",
+          "pivot": {
+            "question_bank_id": 776594,
+            "tag_id": 3792,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776593,
+      "value": {
+        "options": {
+          "ক": "ii",
+          "খ": "i ও ii",
+          "গ": "i ও iii",
+          "ঘ": "ii ও iii"
+        },
+        "question": "মোট জাতীয় আয় নির্ণয়ে হিসাবে ধরা হয়-\u003Cbr\u003E\ni. দেশের ভিতরে অবস্থানরত বিদেশিদের আয়\u003Cbr\u003E\nii. বিদেশে অবস্থানরত বাংলাদেশিদের আয়\u003Cbr\u003E\niii. দেশের ভেতরে অবস্থানরত বাংলাদেশিদের আয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 776593,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776592,
+      "value": {
+        "options": {
+          "ক": "মোট দেশজ উৎপাদন",
+          "খ": "মোট জাতীয় উৎপাদন",
+          "গ": "মোট মুনাফা",
+          "ঘ": "মাথাপিছু আয়"
+        },
+        "question": "নিচের কোনটি ব্যক্তির জীবনযাত্রার মান নির্ধারণ করে?",
+        "solution": "ঘ. মাথাপিছু আয়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776591,
+      "value": {
+        "options": {
+          "ক": "উচ্চ আয়ের দেশ",
+          "খ": "উচ্চমধ্য আয়ের দেশ",
+          "গ": "নিম্নমধ্য আয়ের দেশ",
+          "ঘ": "নিম্ন আয়ের দেশ"
+        },
+        "question": "২০০৮ সালে 'ক' দেশের মোট জাতীয় আয় ছিল ৩৬,০০০ কোটি মার্কিন ডলার। জনসংখ্যা ছিল ৮ কোটি।\u003Cbr\u003E\nউক্ত দেশটি মাথাপিছু আয়ের ভিত্তিতে নিচের কোন পর্যায়ে পড়ে?",
+        "solution": "খ. উচ্চমধ্য আয়ের দেশ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 776591,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776590,
+      "value": {
+        "options": {
+          "ক": "৬৪০০",
+          "খ": "৬২০০",
+          "গ": "৬০০০",
+          "ঘ": "৫৭০০"
+        },
+        "question": "২০১৮ সালে 'P' দেশের মোট জাতীয় আয় ছিল ৩২,০০০ কোটি মার্কিন ডলার। মোট জনসংখ্যা ছিল ৫ কোটি।\u003Cbr\u003E\n২০১৮ সালে P দেশটিতে জনগণের মাথাপিছু আয় কত মার্কিন ডলার ছিল?",
+        "solution": "ক. ৬৪০০",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 776590,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776589,
+      "value": {
+        "options": {
+          "ক": "৩০",
+          "খ": "৩০০",
+          "গ": "৩,০০০",
+          "ঘ": "৩০,০০০"
+        },
+        "question": "২০২০ সালে একটি দেশের মোট জাতীয় আয় ছিল ৪৮০০ কোটি ইউএস ডলার। দেশটির জনসংখ্যা ছিল ১৬ কোটি।\u003Cbr\u003E\nউক্ত দেশটির মাথাপিছু আয় কত ডলার?",
+        "solution": "খ. ৩০০",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 776589,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776588,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জাতীয় উৎপাদনের মধ্যে অন্তর্ভুক্ত হবে-\u003Cbr\u003E\ni. বিদেশে বসবাসকারী দেশি নাগরিকের আয়\u003Cbr\u003E\nii. দেশে কর্মরত বিদেশি নাগরিকের আয়\u003Cbr\u003E\niii. বিদেশে অবস্থানরত দেশি সংস্থার আয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. i ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 776588,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T15:47:30.000000Z",
+            "updated_at": "2025-12-01T15:47:30.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776587,
+      "value": {
+        "options": {
+          "ক": "৭২১৫০.১০",
+          "খ": "৬২১৫০.১০",
+          "গ": "৫২১৫০.১০",
+          "ঘ": "৩৮৪২৮.১০"
+        },
+        "question": "জাপানের মাথাপিছু মোট জাতীয় আয় কত ইউ এস ডলার?",
+        "solution": "ঘ. ৩৮৪২৮.১০",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8072,
+      "created_at": "2025-12-01T15:47:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14708&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14708&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8072&grade=5&lesson=14708&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 24
+}

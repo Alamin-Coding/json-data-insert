@@ -1,0 +1,1854 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775698,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের শীতলতম মাস কোনটি? উক্ত মাসের গড় তাপমাত্রা কত?",
+        "solution": "বাংলাদেশের শীতলতম মাস হচ্ছে জানুয়ারি। এ মাসের গড় তাপমাত্রা ১৭.৭ ডিগ্রি সে.।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775688,
+      "value": {
+        "options": [],
+        "question": "'ক' ঋতুতে ভারতের বাতাসে জলীয়বাষ্পের পরিমাণ কম থাকে। উক্ত ঋতুতে ভারতের আবহাওয়া কেমন থাকে?",
+        "solution": "শীতকালে ভারতের বাতাসে জলীয়বাষ্পের পরিমাণ কম থাকে। এসময় সমগ্র ভারতের আবহাওয়া মোটামুটি শুষ্ক, শীতল ও আরামদায়ক থাকে। আকাশ থাকে স্বচ্ছ, নির্মল ও মেঘমুক্ত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775689,
+      "value": {
+        "options": [],
+        "question": "গ্রীষ্মকালে 'X' দেশে মৌসুমি বায়ুপ্রবাহ শুরু হয়। এ সময় ভামোতে এবং মান্দালয়ে কত ডিগ্রি সে. তাপমাত্রা বিরাজ করে?",
+        "solution": "গ্রীষ্মকালে মিয়ানমারে মৌসুমি বায়ুপ্রবাহ শুরু হয়। এ সময় ভামোতে ১৯ ডিগ্রি সে. এবং মান্দালয়ে ৩২ ডিগ্রি সে. তাপমাত্রা বিরাজ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775690,
+      "value": {
+        "options": [],
+        "question": "ভূমিকম্পের দুইটি ফলাফল ব্যাখ্যা করো।",
+        "solution": "ভূমিকম্পের ফলে পৃথিবীতে বহু পরিবর্তন ও ক্ষয়ক্ষতি সাধিত হয়। যেমন- ১. ভূমিকম্পের ফলে ভূত্বকে অসংখ্য ফাটল এবং চ্যুতির সৃষ্টি হয়। ২. অনেক সময় নদীর গতি পরিবর্তিত হয় বা বন্ধ হয়ে যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775691,
+      "value": {
+        "options": [],
+        "question": "কোন কোন মাসকে বাংলাদেশে শীতকাল হিসেবে ধরা হয়? শীতকালে সর্বোচ্চ ও সর্বনিম্ন তাপমাত্রা কত?",
+        "solution": "বাংলাদেশে প্রতি বছর নভেম্বর থেকে ফেব্রুয়ারি পর্যন্ত শীতকাল। শীতকালীন সর্বোচ্চ ও সর্বনিম্ন তাপমাত্রা যথাক্রমে ২৯ ডিগ্রি সে. ও ১১ ডিগ্রি সে.।&nbsp;",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775692,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের বর্ষাকালের সময়সীমা কত? এ সময়কার গড় উষ্ণতা কত?",
+        "solution": "বাংলাদেশে জুন থেকে অক্টোবর মাস পর্যন্ত বর্ষাকাল। এ সময়কার গড় উষ্ণতা প্রায় ২৭ ডিগ্রি সে.।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775693,
+      "value": {
+        "options": [],
+        "question": "বর্ষাকালে বাংলাদেশের কোন দিকে বৃষ্টিপাত ক্রমেই বেশি হয়ে থাকে? এ সময়কার গড় সর্বোচ্চ ও সর্বনিম্ন বৃষ্টিপাতের পরিমাণ কত?",
+        "solution": "বর্ষাকালে বাংলাদেশের পশ্চিম থেকে পূর্বদিকে বৃষ্টিপাত ক্রমেই বেশি হয়ে থাকে। এ সময়কার গড় বৃষ্টিপাতের পরিমাণ সর্বনিম্ন ১১৯ সে.মি. এবং সর্বোচ্চ ৩৪০ সে.মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775694,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের অভিন্ন নদীগুলোর পানি প্রবাহ কমে যাওয়ার দুটি কারণ ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশের অভিন্ন নদীগুলোর পানি প্রবাহ কমে যাওয়ার দুটি কারণ হচ্ছে- ১. উজানে দেওয়া প্রতিবেশী দেশের বাধ। ২. নদী সংযোগ প্রকল্পগুলোর প্রভাব।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775695,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে ভূমিকম্পের ঝুঁকি মোকাবিলায় দুটি করণীয় ব্যাখ্যা করো?",
+        "solution": "ভূমিকম্পের ঝুঁকি মোকাবিলায় বাংলাদেশের দুটি করণীয় হচ্ছে-\u003Cbr /\u003E\n১. নতুন বাড়ি তৈরির সময় &quot;ন্যাশনাল বিল্ডিং কোড&quot; অনুসরণ করা। ২. ইটের তৈরি দেয়াল করলে চার তলার উপরে ভবন না করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775696,
+      "value": {
+        "options": [],
+        "question": "ভূমিকম্পের দুইটি ফলাফল ব্যাখ্যা করো।",
+        "solution": "ভূমিকম্পের ফলে পৃথিবীতে বহু পরিবর্তন ও ক্ষয়ক্ষতি সাধিত হয়। যেমন- ১. ভূমিকম্পের ফলে ভূত্বকে অসংখ্য ফাটল এবং চ্যুতির সৃষ্টি হয়। ২. অনেক সময় নদীর গতি পরিবর্তিত হয় বা বন্ধ হয়ে যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775697,
+      "value": {
+        "options": [],
+        "question": "'ক্রান্তীয় মৌসুমি জলবায়ু' বলতে কী বোঝ? ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশের জলবায়ু মোটামুটি উষ্ণ, আর্দ্র ও সমভাবাপন্ন। মৌসুমি জলবায়ুর প্রভাব এখানে এত অধিক যে, সামগ্রিকভাবে এ জলবায়ু &#39;ক্রান্তীয় মৌসুমি জলবায়ু&#39; নামে পরিচিত।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775687,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "জনাব কামাল সম্প্রতি একটি দেশে বেড়াতে যায়। সেখানে সে জানতে পারে দেশটিতে দুটি শাখায় মৌসুমি বায়ু প্রবেশ করে এবং সেপ্টেম্বর পর্যন্ত বর্ষাকাল।\u003Cbr\u003E\nকামালের নিজ দেশে ও বেড়াতে যাওয়া দেশের জলবায়ুতে-\u003Cbr\u003E\ni. মৌসুমি বায়ুর প্রভাব লক্ষণীয়\u003Cbr\u003E\nii. সূর্যরশ্মি লম্বভাবে কিরণ দেয়\u003Cbr\u003E\nii. সূর্যরশ্মি লম্বভাবে কিরণ দেয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i&nbsp;ও ii&nbsp;",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775699,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের উষ্ণতম ঋতু কোনটি? এ ঋতুতে সর্বোচ্চ ও সর্বনিম্ন তাপমাত্রা কত পর্যন্ত হয়ে থাকে?",
+        "solution": "বাংলাদেশের উষ্ণতম ঋতু হচ্ছে গ্রীষ্মকাল। এ ঋতুতে সর্বোচ্চ তাপমাত্রা ৩৮ ডিগ্রি সে. এবং সর্বনিম্ন ২১ ডিগ্রি সে. পর্যন্ত হয়ে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775700,
+      "value": {
+        "options": [],
+        "question": "মিয়ানমারের জলবায়ু 'X' উপমহাদেশের সাথে সামঞ্জস্যপূর্ণ। উক্ত জলবায়ুতে কয়টি ঋতুর উপস্থিতি লক্ষ করা যায়? সেগুলো উল্লেখ করো।",
+        "solution": "মিয়ানমারের জলবায়ু ভারতীয় উপমহাদেশের সাথে সামঞ্জস্যপূর্ণ এবং ক্রান্তীয় মৌসুমি ধরনের। উক্ত অঞ্চলের জলবায়ুতে ৩টি আলাদা ঋতুর উপস্থিতি লক্ষ করা যায়, যথা- শীত, গ্রীষ্ম ও বর্ষা।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775701,
+      "value": {
+        "options": [],
+        "question": "নেপালে শীতকাল হিসেবে কোন সময়কালকে বিবেচনা করা হয়? এ সময় কাঠমন্ডুর তাপমাত্রা কত থাকে?",
+        "solution": "নেপালে নভেম্বর থেকে জানুয়ারি পর্যন্ত সময়কালকে শীতকাল হিসেবে বিবেচনা করা হয়। এ সময় কাঠমন্ডুর তাপমাত্রা থাকে প্রায় ১০ ডিগ্রি সে.।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775702,
+      "value": {
+        "options": [],
+        "question": "'ক' দেশ উঁচু পার্বত্য এলাকা হওয়ায় কোনো অংশের তাপমাত্রা অতিরিক্ত বৃদ্ধি পায় না। উক্ত দেশটির জুলাই মাসের তাপমাত্রা কত থাকে?",
+        "solution": "উঁচু পার্বত্য এলাকা হওয়ায় নেপাল দেশটির কোনো অংশের তাপমাত্রা অতিরিক্ত বৃদ্ধি পায় না। জুলাই মাসে নেপালের তাপমাত্রা থাকে ২৪.৪ ডিগ্রি সে.।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775703,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে জলবায়ু পরিবর্তনের দুটি নেতিবাচক প্রভাব ব্যাখ্যা করো।",
+        "solution": "বাংলাদেশে জলবায়ু পরিবর্তনের দুটি নেতিবাচক প্রভাব নিম্নে দেওয়া হলো- ১. &#39;জলবায়ু পরিবর্তনজনিত ঘন ঘন প্রাকৃতিক দুর্যোগ, দীর্ঘস্থায়ী বন্যা, নদ-নদীর ভাঙন প্রভৃতি মানুষের জীবন-জীবিকায় পরিবর্তন আনছে। ২. জলবায়ু পরিবর্তনের কারণে দেশের সর্বত্র গড় তাপমাত্রা বৃদ্ধি পেয়েছে।&nbsp;",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775704,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে কোন কোন মাস গ্রীষ্মকাল হিসেবে পরিচিত? গড় হিসেবে উষ্ণতম মাস কোনটি?",
+        "solution": "মার্চ থেকে মে মাস পর্যন্ত বাংলাদেশে গ্রীষ্মকাল। গড় হিসেবে উষ্ণতম মাস এপ্রিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775705,
+      "value": {
+        "options": [],
+        "question": "বর্ষাকালে বাংলাদেশের তাপমাত্রা বৃদ্ধি পায় না কেন?",
+        "solution": "জুন হতে অক্টোবর মাসে সূর্য বাংলাদেশের ওপর লম্বভাবে কিরণ\u003Cbr /\u003E\nদেওয়ায় এখানে, অতিরিক্ত তাপ অনুভূত হওয়ার কথা। কিন্তু এ ঋতুতে অধিক বৃষ্টিপাত হয় বলে তাপমাত্রা যেরূপ বৃদ্ধি পাওয়ার কথা সেরূপ &#39;বৃদ্ধি পায় না।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775706,
+      "value": {
+        "options": [],
+        "question": "'X' দেশের শীতকাল ডিসেম্বর থেকে ফেব্রুয়ারি মাস পর্যন্ত স্থায়ী হয়। এ সময় এদেশের উপর দিয়ে কোন বায়ু প্রবাহিত হয় এবং এ বায়ু শুষ্ক ও শীতল থাকে কেন?",
+        "solution": "ভারতে শীতকাল ডিসেম্বর থেকে ফেব্রুয়ারি মাস পর্যন্ত স্থায়ী হয়। এ সময় এদেশের উপর দিয়ে পূর্ব মৌসুমি বায়ু প্রবাহিত হয়। হিমমণ্ডল থেকে নির্গত হওয়ায় এবং স্থলভাগের ওপর দিয়ে প্রবাহিত হওয়ায় বায়ু শুষ্ক ও শীতল হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775707,
+      "value": {
+        "options": [],
+        "question": "গ্রীষ্মকালে মিয়ানমারের গড় তাপমাত্রা কত? এ সময় মধ্য এশিয়ায় বিরাট নিম্নচাপের সৃষ্টি হয় কেন?",
+        "solution": "গ্রীষ্মকালে মিয়ানমারের গড় তাপমাত্রা প্রায় ২৯ ডিগ্রি সে. এর কাছাকাছি পৌছে। সূর্য উত্তর গোলার্ধে অবস্থান করে বিধায় এ সময় মধ্য এশিয়ায় বিরাট নিম্নচাপের সৃষ্টি হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775708,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের কৃষিতে উত্তর-পূর্ব মৌসুমি বায়ুর প্রভাব ব্যাখ্যা করো।",
+        "solution": "শীতকালে উত্তর-পূর্ব মৌসুমি বায়ুর প্রভাবে এদেশে স্বল্প পরিমাণ বৃষ্টিপাত হয়। ফলে ধান, গম, তামাক এবং নানা জাতের ডাল, তৈলবীজ, গোলআলু, পিঁয়াজ, রসুন, ধনিয়া ইত্যাদি বিভিন্ন রবিশস্য এবং নানান ধরনের শাকসবজি উৎপাদন করা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 7,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775676,
+      "value": {
+        "options": {
+          "ক": "প্রাথমিক চিকিৎসার সরঞ্জাম প্রস্তুত রাখা",
+          "খ": "পানি, গ্যাস ও বৈদ্যুতিক লাইন পরীক্ষা করা",
+          "গ": "কাচের জানালা থেকে দূরে থাকা",
+          "ঘ": "বাড়ির বাইরে থাকলে ঘরে প্রবেশ না করা"
+        },
+        "question": "ভূমিকম্পের পর একজন সচেতন ব্যক্তির করণীয় কোনটি?",
+        "solution": "খ. পানি, গ্যাস ও বৈদ্যুতিক লাইন পরীক্ষা করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3788,
+          "full_name": "ম. বো.'২০২০",
+          "short_name": "ম. বো.'২০২০",
+          "slug": "m-bo2020",
+          "pivot": {
+            "question_bank_id": 775676,
+            "tag_id": 3788,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775666,
+      "value": {
+        "options": {
+          "ক": "সিলেট",
+          "খ": "রাঙ্গামাটি",
+          "গ": "পটুয়াখালী",
+          "ঘ": "চট্টগ্রাম"
+        },
+        "question": "বাংলাদেশের কোন জেলায় তুলনামূলকভাবে বেশি বৃষ্টিপাত হয়?",
+        "solution": "ক. সিলেট",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 775666,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775667,
+      "value": {
+        "options": {
+          "ক": "ঢাকা",
+          "খ": "টাঙ্গাইল",
+          "গ": "রাঙ্গামাটি",
+          "ঘ": "চট্টগ্রাম"
+        },
+        "question": "কোন জেলাটি প্রলয়ংকরী বলয়ে অবস্থিত?",
+        "solution": "ঘ. চট্টগ্রাম",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 775667,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775668,
+      "value": {
+        "options": {
+          "ক": "৩৪০",
+          "খ": "৩৩০",
+          "গ": "৩২০",
+          "ঘ": "৩১০"
+        },
+        "question": "বাংলাদেশে বর্ষাকালে গড়ে সর্বোচ্চ কত সে. মি. বৃষ্টিপাত হয়?",
+        "solution": "ক. ৩৪০",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 775668,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775669,
+      "value": {
+        "options": {
+          "ক": "ভূমিকম্প",
+          "খ": "বন্যা",
+          "গ": "সমুদ্রস্রোত",
+          "ঘ": "আগ্নেয়গিরির অগ্ন্যুৎপাত"
+        },
+        "question": "সুনামির মূল কারণ কী",
+        "solution": "ক. ভূমিকম্প",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775670,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জলবায়ু পরিবর্তনের ফলে-\u003Cbr\u003E\ni. মানুষের পেশাগত পরিবর্তন ঘটেছে\u003Cbr\u003E\nii. সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি পেয়েছে\u003Cbr\u003E\niii. বিভিন্ন প্রজাতির প্রাণী বিপন্ন হচ্ছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 775670,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775671,
+      "value": {
+        "options": {
+          "ক": "৯০",
+          "খ": "৮০",
+          "গ": "৭০",
+          "ঘ": "৬০"
+        },
+        "question": "বাংলাদেশের মোট বৃষ্টিপাতের শতকরা কতভাগ বর্ষাকালে হয়?",
+        "solution": "খ. ৮০",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 775671,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775672,
+      "value": {
+        "options": {
+          "ক": "ঢাকা, চট্টগ্রাম ও সিলেট",
+          "খ": "চট্টগ্রাম, সিলেট ও কুমিল্লা",
+          "গ": "চট্টগ্রাম, সিলেট ও রংপুর",
+          "ঘ": "চট্টগ্রাম, রাঙামাটি ও বান্দরবান"
+        },
+        "question": "নিম্নের কোন জেলাগুলো ভূমিকম্পের প্রলয়ংকরী বলয়ে অবস্থিত?",
+        "solution": "গ. চট্টগ্রাম, সিলেট ও রংপুর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 775672,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775673,
+      "value": {
+        "options": {
+          "ক": "চট্টগ্রাম",
+          "খ": "রংপুর",
+          "গ": "ঢাকা",
+          "ঘ": "খুলনা"
+        },
+        "question": "ভূমিকম্পের বিপজ্জনক বলয়ে অবস্থিত নিচের কোনটি?",
+        "solution": "ক. চট্টগ্রাম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775674,
+      "value": {
+        "options": {
+          "ক": "মোটামুটি শীতল ও চরমভাবাপন্ন",
+          "খ": "মোটামুটি উষ্ণ ও চরমভাবাপন্ন",
+          "গ": "মোটামুটি উষ্ণ, আর্দ্র ও সমভাবাপন্ন",
+          "ঘ": "শীতল, আর্দ্র ও সমভাবাপন্ন"
+        },
+        "question": "বাংলাদেশের জলবায়ু কেমন?",
+        "solution": "গ. মোটামুটি উষ্ণ, আর্দ্র ও সমভাবাপন্ন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 775674,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775675,
+      "value": {
+        "options": {
+          "ক": "সমভাবাপন্ন",
+          "খ": "চরমভাবাপন্ন",
+          "গ": "নাতিশীতোষ্ণ",
+          "ঘ": "শীতল"
+        },
+        "question": "বাংলাদেশের জলবায়ু কেমন?",
+        "solution": "ক. সমভাবাপন্ন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775665,
+      "value": {
+        "options": {
+          "ক": "নেপাল",
+          "খ": "ভারত",
+          "গ": "মিয়ানমার",
+          "ঘ": "&nbsp;মালদ্বীপ"
+        },
+        "question": "মার্চ থেকে মে মাস পর্যন্ত কোন দেশে গ্রীষ্মকাল?",
+        "solution": "গ. মিয়ানমার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 775665,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775677,
+      "value": {
+        "options": {
+          "ক": "৭৭ বছর",
+          "খ": "৯৭ বছর",
+          "গ": "১০০ বছর",
+          "ঘ": "১২৫ বছর"
+        },
+        "question": "সাধারণত কত বছর পর একটা বড় ভূমিকম্প হয়?",
+        "solution": "গ. ১০০ বছর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 775677,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775678,
+      "value": {
+        "options": {
+          "ক": "নেপাল",
+          "খ": "ভারত",
+          "গ": "মিয়ানমার",
+          "ঘ": "ভুটান"
+        },
+        "question": "জনাব কামাল সম্প্রতি একটি দেশে বেড়াতে যায়। সেখানে সে জানতে পারে দেশটিতে দুটি শাখায় মৌসুমি বায়ু প্রবেশ করে এবং সেপ্টেম্বর পর্যন্ত বর্ষাকাল।\u003Cbr\u003E\nকামাল সাহেবের ভ্রমণকৃত দেশটি হলো-",
+        "solution": "ঘ. ভুটান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775678,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775679,
+      "value": {
+        "options": {
+          "ক": "আনুভূমিক ঊর্ধ্বচাপে",
+          "খ": "আনুভূমিক পার্শ্বচাপে",
+          "গ": "উলম্ব পার্শ্বচাপে",
+          "ঘ": "উলম্ব ঊর্ধ্বচাপে"
+        },
+        "question": "ভূমিকম্পের ফলে ভূ-পৃষ্ঠ কুঁচকে ভাঁজের সৃষ্টি হয় কেন?",
+        "solution": "খ. আনুভূমিক পার্শ্বচাপে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 775679,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775680,
+      "value": {
+        "options": {
+          "ক": "দক্ষিণ-পশ্চিম",
+          "খ": "উত্তর-পশ্চিম",
+          "গ": "দক্ষিণ-পূর্ব",
+          "ঘ": "উত্তর-পূর্ব"
+        },
+        "question": "কোন মৌসুমি বায়ুর প্রভাবে বাংলাদেশে বর্ষাকালে&nbsp;প্রচুর বৃষ্টিপাত&nbsp;হয়?",
+        "solution": "ক. দক্ষিণ-পশ্চিম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 775680,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775681,
+      "value": {
+        "options": {
+          "ক": "উপকূলীয়",
+          "খ": "পার্বত্য",
+          "গ": "উত্তরাঞ্চলীয়",
+          "ঘ": "পূর্বাঞ্চলীয়"
+        },
+        "question": "বাংলাদেশের কোন অঞ্চলের মানুষ কোনো না কোনোভাবে প্রাকৃতিক সম্পদের ওপর নির্ভরশীল?",
+        "solution": "খ. পার্বত্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 775681,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775682,
+      "value": {
+        "options": {
+          "ক": "দৌড়ে ঘরে যাওয়া",
+          "খ": "এদিক-ওদিক ছুটে যাওয়া",
+          "গ": "টেবিলের নিচে বসে পড়া",
+          "ঘ": "চিৎকার করা"
+        },
+        "question": "ভূমিকম্প চলাকালীন সময়ে জনসাধারণের করণীয় হলো-",
+        "solution": "গ. টেবিলের নিচে বসে পড়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 775682,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775683,
+      "value": {
+        "options": {
+          "ক": "বসন্তকাল",
+          "খ": "গ্রীষ্মকাল",
+          "গ": "বর্ষাকাল",
+          "ঘ": "শরৎকাল"
+        },
+        "question": "বাংলাদেশের কোন ঋতুতে কালবৈশাখী হয়?",
+        "solution": "খ. গ্রীষ্মকাল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 775683,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775684,
+      "value": {
+        "options": {
+          "ক": "সূর্য বিপরীত গোলার্ধে অবস্থান করায়",
+          "খ": "স্থলভাগের ওপর দিয়ে বায়ু প্রবাহিত হওয়ায়",
+          "গ": "দক্ষিণ-পশিম মৌসুমি বায়ুর প্রভাবে",
+          "ঘ": "আকাশ মেঘমুক্ত থাকার কারণে"
+        },
+        "question": "শীতকালে বাতাসে জলীয় বাষ্পের পরিমাণ কম থাকে কেন?",
+        "solution": "ক. সূর্য বিপরীত গোলার্ধে অবস্থান করায়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 775684,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775685,
+      "value": {
+        "options": {
+          "ক": "ক্ষতিকর",
+          "খ": "প্রলয়ঙ্করী",
+          "গ": "বিপজ্জনক",
+          "ঘ": "লঘু"
+        },
+        "question": "খুলনা, বরিশাল জেলা বাংলাদেশের ভূমিকম্পের কোন বলয়ে রয়েছে?",
+        "solution": "ঘ. লঘু",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 775685,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-12-01T15:31:48.000000Z",
+            "updated_at": "2025-12-01T15:31:48.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775686,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;ও ii",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "ভূমিকম্পের ক্ষয়ক্ষতি হ্রাসে-\u003Cbr\u003E\ni. বহুতল ভবনে জরুরি সিঁড়ি রাখা নিচের\u003Cbr\u003E\nii. বাড়িতে প্রতি সদস্যের জন্য হেলমেট রাখা&nbsp;\u003Cbr\u003E\niii. ন্যাশনাল বিল্ডিং কোড মেনে চলা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8064,
+      "created_at": "2025-12-01T15:31:48.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8064&grade=5&lesson=14652&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8064&grade=5&lesson=14652&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8064&grade=5&lesson=14652&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 44,
+  "total": 44
+}

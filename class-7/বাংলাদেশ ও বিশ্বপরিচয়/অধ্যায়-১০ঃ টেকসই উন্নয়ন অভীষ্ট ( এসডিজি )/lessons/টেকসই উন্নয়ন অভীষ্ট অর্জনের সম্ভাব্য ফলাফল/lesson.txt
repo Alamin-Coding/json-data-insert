@@ -1,0 +1,747 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 776371,
+      "value": {
+        "options": {
+          "ক": "নারী নির্যাতন হ্রাস",
+          "খ": "দারিদ্র্য বিমোচন-",
+          "গ": "নারীর ক্ষমতায়ন",
+          "ঘ": "রাজনৈতিক স্থিতিশীলতা"
+        },
+        "question": "বাংলাদেশে এসডিজি বাস্তবায়নের প্রধান সুফল কী হতে পারে?",
+        "solution": "খ. দারিদ্র্য বিমোচন-",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776379,
+      "value": {
+        "options": {
+          "ক": "জলবায়ু পরিবর্তন",
+          "খ": "মাটি দূষণ",
+          "গ": "বৃক্ষ নিধন",
+          "ঘ": "কীটনাশক ব্যবহার"
+        },
+        "question": "পরিবেশবিজ্ঞানী মোজাফফর আহমেদ তার গবেষণায় দেখান যে, দক্ষিণ- পশ্চিম যশোরে শুষ্ক মৌসুমে গঙ্গার পানির প্রবাহ কমে যাওয়ায় লবণাক্ততা বৃদ্ধি পেয়েছে। এর ফলে ফসল উৎপাদন হ্রাস পাচ্ছে এবং গর্ভবতী মহিলারাও লবণাক্ত পানি পান করে ক্ষতিগ্রস্ত হচ্ছে। তিনি একে বাংলাদেশের জন্য মারাত্মক হুমকি হিসেবে চিহ্নিত করেছেন।\u003Cbr\u003E\nমোজাফফর আহেমেদের চিহ্নিত সমস্যাটির প্রত্যক্ষ কারণ কোনটি?",
+        "solution": "ক. জলবায়ু পরিবর্তন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776378,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বাংলাদেশে এসডিজি বাস্তবায়িত হলে-\u003Cbr\u003E\ni. জেন্ডার সমতাবিধান হবে\u003Cbr\u003E\nii. প্রাকৃতিক দুর্যোগ প্রশমন হবে\u003Cbr\u003E\niii. বিশ্বের অন্যান্য দেশের সাথে অংশীদারিত্ব বাড়বে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776377,
+      "value": {
+        "options": {
+          "ক": "এসডিজি বাস্তবায়ন",
+          "খ": "দারিদ্র্য দূরীকরণ",
+          "গ": "দুর্যোগ প্রশমন",
+          "ঘ": "নিরক্ষরতা দূরীকরণ"
+        },
+        "question": "এমডিজি অর্জনের হাত ধরে কিসের কাজ শুরু হয়েছে?",
+        "solution": "ক. এসডিজি বাস্তবায়ন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776376,
+      "value": {
+        "options": {
+          "ক": "এমডিজি সূচক",
+          "খ": "গণতান্ত্রিক সহনশীলতা",
+          "গ": "আর্থসামাজিক সক্ষমতা",
+          "ঘ": "বৈশ্বিক স্বীকৃতি ও পরিমাপযোগ্য অগ্রগতি"
+        },
+        "question": "বিশ্বের সাথে তাল মিলিয়ে চলতে আমরা কী অর্জন করে চলেছি?",
+        "solution": "গ. আর্থসামাজিক সক্ষমতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776375,
+      "value": {
+        "options": {
+          "ক": "তথ্য অধিকার সংরক্ষিত হলে",
+          "খ": "জ্ঞানচর্চার দ্বার উন্মোচিত হলে",
+          "গ": "যোগাযোগ ব্যবস্থার দ্রুত উন্নয়নে",
+          "ঘ": "কর্মসংস্থানের সুযোগ সৃষ্টি হলে"
+        },
+        "question": "আমরা নিজেদেরকে বিশ্ব নাগরিক হিসেবে ভাবতে শিখব-",
+        "solution": "গ. যোগাযোগ ব্যবস্থার দ্রুত উন্নয়নে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776374,
+      "value": {
+        "options": {
+          "ক": "সামাজিক পরিবর্তন",
+          "খ": "জলবায়ু পরিবর্তন",
+          "গ": "সাংস্কৃতিক পরিবর্তন",
+          "ঘ": "পরিবেশ বিপর্যয়"
+        },
+        "question": "পৃথিবীর সচেতন মানুষের কীসের প্রভাবে শঙ্কিত হয়ে উঠেছিল?",
+        "solution": "খ. জলবায়ু পরিবর্তন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776373,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "পরিবেশবিজ্ঞানী মোজাফফর আহমেদ তার গবেষণায় দেখান যে, দক্ষিণ- পশ্চিম যশোরে শুষ্ক মৌসুমে গঙ্গার পানির প্রবাহ কমে যাওয়ায় লবণাক্ততা বৃদ্ধি পেয়েছে। এর ফলে ফসল উৎপাদন হ্রাস পাচ্ছে এবং গর্ভবতী মহিলারাও লবণাক্ত পানি পান করে ক্ষতিগ্রস্ত হচ্ছে। তিনি একে বাংলাদেশের জন্য মারাত্মক হুমকি হিসেবে চিহ্নিত করেছেন।\u003Cbr\u003E\nউদ্দীপকের সমস্যার দরুন ক্ষতিগ্রস্ত হবে-\u003Cbr\u003E\ni. মানুষ\u003Cbr\u003E\nii. কৃষি উৎপাদন\u003Cbr\u003E\niii. স্থলজ প্রাণিকুল\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776372,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "এসডিজি বাস্তবায়নের পথে বাংলাদেশে-\u003Cbr\u003E\ni. দারিদ্র্য কমেছে\u003Cbr\u003E\nii. আয় বেড়েছে\u003Cbr\u003E\niii. অর্থনৈতিক প্রবৃদ্ধি ঘটেছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776362,
+      "value": {
+        "options": {
+          "ক": "বৈদেশিক বাণিজ্যের উন্নয়ন",
+          "খ": "বৈষম্য সহনীয় পর্যায়ে নামিয়ে আনা",
+          "গ": "দরিদ্র দেশকে সহায়তা করা",
+          "ঘ": "জলবায়ু পরিবর্তন রোধ করা"
+        },
+        "question": "SDG বাস্তবায়নে জরুরি হলো-",
+        "solution": "খ. বৈষম্য সহনীয় পর্যায়ে নামিয়ে আনা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 776362,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T15:43:39.000000Z",
+            "updated_at": "2025-12-01T15:43:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776370,
+      "value": {
+        "options": {
+          "ক": "দারিদ্র্য বাড়ছে",
+          "খ": "জীববৈচিত্র্য বৃদ্ধি পাচ্ছে",
+          "গ": "প্রাণিকুলের অস্তিত্ব হুমকির মুখে পড়ছে",
+          "ঘ": "ভূমিকম্পের ঝুঁকি বাড়ছে"
+        },
+        "question": "জলবায়ু পরিবর্তনের প্রভাবে কোনটি ঘটছে?",
+        "solution": "গ. প্রাণিকুলের অস্তিত্ব হুমকির মুখে পড়ছে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776369,
+      "value": {
+        "options": {
+          "ক": "অংশীদারিত্ব বাড়ানো",
+          "খ": "গণতান্ত্রিক প্রতিষ্ঠানসমূহ শক্তিশালী হওয়া",
+          "গ": "সামাজিক সমস্যা প্রশমন",
+          "ঘ": "আন্তর্জাতিক সম্পর্ক স্থাপন করা"
+        },
+        "question": "রাজনৈতিক অস্থিরতা হ্রাসে কোনটি প্রয়োজন?",
+        "solution": "খ. গণতান্ত্রিক প্রতিষ্ঠানসমূহ শক্তিশালী হওয়া",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776368,
+      "value": {
+        "options": {
+          "ক": "মৌলিক চাহিদা পূরণ হওয়া",
+          "খ": "নারীর ক্ষমতায়ন",
+          "গ": "টেকসই নবায়নযোগ্য জ্বালানি বৃদ্ধি",
+          "ঘ": "রাজনৈতিক অস্থিতিশীলতা"
+        },
+        "question": "কৃষি ও শিল্প উৎপাদনে প্রত্যক্ষভাবে সহায়ক কোনটি?",
+        "solution": "গ. টেকসই নবায়নযোগ্য জ্বালানি বৃদ্ধি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776367,
+      "value": {
+        "options": {
+          "ক": "আয় ও ব্যয়",
+          "খ": "ভোগ ও ব্যয়",
+          "গ": "আয় ও সঞ্চয়",
+          "ঘ": "আয় ও ভোগ"
+        },
+        "question": "এসডিজি অর্জিত হলে কিসের মধ্যে ভারসাম্য সৃষ্টি হবে?",
+        "solution": "ঘ. আয় ও ভোগ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776366,
+      "value": {
+        "options": {
+          "ক": "দারিদ্র্য ও ক্ষুধামুক্তি",
+          "খ": "আবিষ্কার ও সূচক",
+          "গ": "সামাজিক সূচক",
+          "ঘ": "দুর্নীতির সূচক"
+        },
+        "question": "বাংলাদেশ কিসের নিরিখে এগিয়ে যাচ্ছে?",
+        "solution": "গ. সামাজিক সূচক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776365,
+      "value": {
+        "options": {
+          "ক": "এস ডি জি বাস্তবায়ন করে",
+          "খ": "এম ডি জি বাস্তবায়ন করে",
+          "গ": "অংশীদারিত্বের মাধ্যমে",
+          "ঘ": "টেকসই উন্নয়নের দ্বারা"
+        },
+        "question": "আরমান সাহেব এলাকা থেকে দারিদ্র্যের অবসান ঘটাতে চাইলে তার করণীয় কী?",
+        "solution": "ক. এস ডি জি বাস্তবায়ন করে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 776365,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-12-01T15:43:39.000000Z",
+            "updated_at": "2025-12-01T15:43:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776364,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "সমাজে ন্যায়বিচার প্রতিষ্ঠিত হলে-\u003Cbr\u003E\ni. নারীর ক্ষমতায়ন বৃদ্ধি পাবে\u003Cbr\u003E\nii. নৈরাজ্য কমে আসবে\u003Cbr\u003E\niii. স্থিতিশীলতা বৃদ্ধি পাবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 776363,
+      "value": {
+        "options": {
+          "ক": "ii&nbsp;",
+          "খ": "i ও ii",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "বৈশ্বিক অঙ্গনে শান্তিপূর্ণ সহাবস্থান বিরাজ করবে-\u003Cbr\u003E\ni. বৈদেশিক সাহায্য নিরুৎসাহিত করলে\u003Cbr\u003E\nii. জাতীয় পর্যায়ে পারস্পরিক সহযোগিতা সৃষ্টি হলে\u003Cbr\u003E\niii. আন্তর্জাতিক পর্যায়ে পারস্পরিক সহযোগিতা সৃষ্টি হলে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 24,
+      "book_grade_id": 5,
+      "content_chunk_id": 8070,
+      "created_at": "2025-12-01T15:43:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 24,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8070&grade=5&lesson=14695&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8070&grade=5&lesson=14695&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8070&grade=5&lesson=14695&question_paper_id=46903&subject=24&type=board&per_page=100&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 100,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}
